@@ -39,8 +39,7 @@ def raw_data_query(project_id, start_time, end_time, save_dir=None,save_data=Fal
     Returns:
         dataframe, also data is stored in save_dir
     """
-    project_id = 'hdc'  # 'lotte_mart' or 'hdc'
-
+    
     init_path = f'data/{project_id}/init.yaml'
 
     init_config = get_config(config_path=init_path, config_format="yaml")
