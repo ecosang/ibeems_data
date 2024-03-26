@@ -1,0 +1,1000 @@
+﻿,path,object_id,object_name,comment,zone_id,variable_name,raw_unit,type,required,available,data_exist
+0,/iot_hdc/ae-restapi/DE-1340,DE-1340,9층0번실내기,,ahu9,,,,False,,False
+1,/iot_hdc/ae-restapi/DE-1340/AI-1,AI-1,operate,운전(On/Off),ahu9,,,,False,,False
+2,/iot_hdc/ae-restapi/DE-1340/AI-2,AI-2,swing,회전(On/Off) ,ahu9,,,,False,,False
+3,/iot_hdc/ae-restapi/DE-1340/AI-3,AI-3,mode,"운전모드 (냉방:0,제습:1,송풍:2,자동:3,난방:4)",ahu9,,,,False,,False
+4,/iot_hdc/ae-restapi/DE-1340/AI-4,AI-4,speed,"바람세기 (약풍:1,중풍:2,강풍:3,자동풍:4)",ahu9,,,,False,,False
+5,/iot_hdc/ae-restapi/DE-1340/AI-5,AI-5,settemp,설정온도,ahu9,,,,False,,False
+6,/iot_hdc/ae-restapi/DE-1340/AI-6,AI-6,roomtemp,실내온도,ahu9,,,,False,,False
+7,/iot_hdc/ae-restapi/DE-1341,DE-1341,9층1번실내기,,ahu9,,,,False,,False
+8,/iot_hdc/ae-restapi/DE-1341/AI-1,AI-1,operate,운전(On/Off),ahu9,,,,False,,False
+9,/iot_hdc/ae-restapi/DE-1341/AI-2,AI-2,swing,회전(On/Off) ,ahu9,,,,False,,False
+10,/iot_hdc/ae-restapi/DE-1341/AI-3,AI-3,mode,"운전모드 (냉방:0,제습:1,송풍:2,자동:3,난방:4)",ahu9,,,,False,,False
+11,/iot_hdc/ae-restapi/DE-1341/AI-4,AI-4,speed,"바람세기 (약풍:1,중풍:2,강풍:3,자동풍:4)",ahu9,,,,False,,False
+12,/iot_hdc/ae-restapi/DE-1341/AI-5,AI-5,settemp,설정온도,ahu9,,,,False,,False
+13,/iot_hdc/ae-restapi/DE-1341/AI-6,AI-6,roomtemp,실내온도,ahu9,,,,False,,False
+14,/iot_hdc/ae-restapi/DE-1342,DE-1342,9층2번실내기,,ahu9,,,,False,,False
+15,/iot_hdc/ae-restapi/DE-1342/AI-1,AI-1,operate,운전(On/Off),ahu9,,,,False,,False
+16,/iot_hdc/ae-restapi/DE-1342/AI-2,AI-2,swing,회전(On/Off) ,ahu9,,,,False,,False
+17,/iot_hdc/ae-restapi/DE-1342/AI-3,AI-3,mode,"운전모드 (냉방:0,제습:1,송풍:2,자동:3,난방:4)",ahu9,,,,False,,False
+18,/iot_hdc/ae-restapi/DE-1342/AI-4,AI-4,speed,"바람세기 (약풍:1,중풍:2,강풍:3,자동풍:4)",ahu9,,,,False,,False
+19,/iot_hdc/ae-restapi/DE-1342/AI-5,AI-5,settemp,설정온도,ahu9,,,,False,,False
+20,/iot_hdc/ae-restapi/DE-1342/AI-6,AI-6,roomtemp,실내온도,ahu9,,,,False,,False
+21,/iot_hdc/ae-restapi/DE-1343,DE-1343,9층3번실내기,,ahu9,,,,False,,False
+22,/iot_hdc/ae-restapi/DE-1343/AI-1,AI-1,operate,운전(On/Off),ahu9,,,,False,,False
+23,/iot_hdc/ae-restapi/DE-1343/AI-2,AI-2,swing,회전(On/Off) ,ahu9,,,,False,,False
+24,/iot_hdc/ae-restapi/DE-1343/AI-3,AI-3,mode,"운전모드 (냉방:0,제습:1,송풍:2,자동:3,난방:4)",ahu9,,,,False,,False
+25,/iot_hdc/ae-restapi/DE-1343/AI-4,AI-4,speed,"바람세기 (약풍:1,중풍:2,강풍:3,자동풍:4)",ahu9,,,,False,,False
+26,/iot_hdc/ae-restapi/DE-1343/AI-5,AI-5,settemp,설정온도,ahu9,,,,False,,False
+27,/iot_hdc/ae-restapi/DE-1343/AI-6,AI-6,roomtemp,실내온도,ahu9,,,,False,,False
+28,/iot_hdc/ae-restapi/DE-1344,DE-1344,9층4번실내기,,ahu9,,,,False,,False
+29,/iot_hdc/ae-restapi/DE-1344/AI-1,AI-1,operate,운전(On/Off),ahu9,,,,False,,False
+30,/iot_hdc/ae-restapi/DE-1344/AI-2,AI-2,swing,회전(On/Off) ,ahu9,,,,False,,False
+31,/iot_hdc/ae-restapi/DE-1344/AI-3,AI-3,mode,"운전모드 (냉방:0,제습:1,송풍:2,자동:3,난방:4)",ahu9,,,,False,,False
+32,/iot_hdc/ae-restapi/DE-1344/AI-4,AI-4,speed,"바람세기 (약풍:1,중풍:2,강풍:3,자동풍:4)",ahu9,,,,False,,False
+33,/iot_hdc/ae-restapi/DE-1344/AI-5,AI-5,settemp,설정온도,ahu9,,,,False,,False
+34,/iot_hdc/ae-restapi/DE-1344/AI-6,AI-6,roomtemp,실내온도,ahu9,,,,False,,False
+35,/iot_hdc/ae-restapi/DE-1345,DE-1345,9층5번실내기,,ahu9,,,,False,,False
+36,/iot_hdc/ae-restapi/DE-1345/AI-1,AI-1,operate,운전(On/Off),ahu9,,,,False,,False
+37,/iot_hdc/ae-restapi/DE-1345/AI-2,AI-2,swing,회전(On/Off) ,ahu9,,,,False,,False
+38,/iot_hdc/ae-restapi/DE-1345/AI-3,AI-3,mode,"운전모드 (냉방:0,제습:1,송풍:2,자동:3,난방:4)",ahu9,,,,False,,False
+39,/iot_hdc/ae-restapi/DE-1345/AI-4,AI-4,speed,"바람세기 (약풍:1,중풍:2,강풍:3,자동풍:4)",ahu9,,,,False,,False
+40,/iot_hdc/ae-restapi/DE-1345/AI-5,AI-5,settemp,설정온도,ahu9,,,,False,,False
+41,/iot_hdc/ae-restapi/DE-1345/AI-6,AI-6,roomtemp,실내온도,ahu9,,,,False,,False
+42,/iot_hdc/ae-restapi/DE-1346,DE-1346,9층6번실내기,,ahu9,,,,False,,False
+43,/iot_hdc/ae-restapi/DE-1346/AI-1,AI-1,operate,운전(On/Off),ahu9,,,,False,,False
+44,/iot_hdc/ae-restapi/DE-1346/AI-2,AI-2,swing,회전(On/Off) ,ahu9,,,,False,,False
+45,/iot_hdc/ae-restapi/DE-1346/AI-3,AI-3,mode,"운전모드 (냉방:0,제습:1,송풍:2,자동:3,난방:4)",ahu9,,,,False,,False
+46,/iot_hdc/ae-restapi/DE-1346/AI-4,AI-4,speed,"바람세기 (약풍:1,중풍:2,강풍:3,자동풍:4)",ahu9,,,,False,,False
+47,/iot_hdc/ae-restapi/DE-1346/AI-5,AI-5,settemp,설정온도,ahu9,,,,False,,False
+48,/iot_hdc/ae-restapi/DE-1346/AI-6,AI-6,roomtemp,실내온도,ahu9,,,,False,,False
+49,/iot_hdc/ae-restapi/DE-1347,DE-1347,9층7번실내기,,ahu9,,,,False,,False
+50,/iot_hdc/ae-restapi/DE-1347/AI-1,AI-1,operate,운전(On/Off),ahu9,,,,False,,False
+51,/iot_hdc/ae-restapi/DE-1347/AI-2,AI-2,swing,회전(On/Off) ,ahu9,,,,False,,False
+52,/iot_hdc/ae-restapi/DE-1347/AI-3,AI-3,mode,"운전모드 (냉방:0,제습:1,송풍:2,자동:3,난방:4)",ahu9,,,,False,,False
+53,/iot_hdc/ae-restapi/DE-1347/AI-4,AI-4,speed,"바람세기 (약풍:1,중풍:2,강풍:3,자동풍:4)",ahu9,,,,False,,False
+54,/iot_hdc/ae-restapi/DE-1347/AI-5,AI-5,settemp,설정온도,ahu9,,,,False,,False
+55,/iot_hdc/ae-restapi/DE-1347/AI-6,AI-6,roomtemp,실내온도,ahu9,,,,False,,False
+56,/iot_hdc/ae-restapi/DE-1348,DE-1348,9층8번실내기,,ahu9,,,,False,,False
+57,/iot_hdc/ae-restapi/DE-1348/AI-1,AI-1,operate,운전(On/Off),ahu9,,,,False,,False
+58,/iot_hdc/ae-restapi/DE-1348/AI-2,AI-2,swing,회전(On/Off) ,ahu9,,,,False,,False
+59,/iot_hdc/ae-restapi/DE-1348/AI-3,AI-3,mode,"운전모드 (냉방:0,제습:1,송풍:2,자동:3,난방:4)",ahu9,,,,False,,False
+60,/iot_hdc/ae-restapi/DE-1348/AI-4,AI-4,speed,"바람세기 (약풍:1,중풍:2,강풍:3,자동풍:4)",ahu9,,,,False,,False
+61,/iot_hdc/ae-restapi/DE-1348/AI-5,AI-5,settemp,설정온도,ahu9,,,,False,,False
+62,/iot_hdc/ae-restapi/DE-1348/AI-6,AI-6,roomtemp,실내온도,ahu9,,,,False,,False
+63,/iot_hdc/ae-restapi/DE-1349,DE-1349,9층9번실내기,,ahu9,,,,False,,False
+64,/iot_hdc/ae-restapi/DE-1349/AI-1,AI-1,operate,운전(On/Off),ahu9,,,,False,,False
+65,/iot_hdc/ae-restapi/DE-1349/AI-2,AI-2,swing,회전(On/Off) ,ahu9,,,,False,,False
+66,/iot_hdc/ae-restapi/DE-1349/AI-3,AI-3,mode,"운전모드 (냉방:0,제습:1,송풍:2,자동:3,난방:4)",ahu9,,,,False,,False
+67,/iot_hdc/ae-restapi/DE-1349/AI-4,AI-4,speed,"바람세기 (약풍:1,중풍:2,강풍:3,자동풍:4)",ahu9,,,,False,,False
+68,/iot_hdc/ae-restapi/DE-1349/AI-5,AI-5,settemp,설정온도,ahu9,,,,False,,False
+69,/iot_hdc/ae-restapi/DE-1349/AI-6,AI-6,roomtemp,실내온도,ahu9,,,,False,,False
+70,/iot_hdc/ae-restapi/DE-13410,DE-13410,9층10번실내기,,ahu9,,,,False,,False
+71,/iot_hdc/ae-restapi/DE-13410/AI-1,AI-1,operate,운전(On/Off),ahu9,,,,False,,False
+72,/iot_hdc/ae-restapi/DE-13410/AI-2,AI-2,swing,회전(On/Off) ,ahu9,,,,False,,False
+73,/iot_hdc/ae-restapi/DE-13410/AI-3,AI-3,mode,"운전모드 (냉방:0,제습:1,송풍:2,자동:3,난방:4)",ahu9,,,,False,,False
+74,/iot_hdc/ae-restapi/DE-13410/AI-4,AI-4,speed,"바람세기 (약풍:1,중풍:2,강풍:3,자동풍:4)",ahu9,,,,False,,False
+75,/iot_hdc/ae-restapi/DE-13410/AI-5,AI-5,settemp,설정온도,ahu9,,,,False,,False
+76,/iot_hdc/ae-restapi/DE-13410/AI-6,AI-6,roomtemp,실내온도,ahu9,,,,False,,False
+77,/iot_hdc/ae-restapi/DE-13411,DE-13411,9층11번실내기,,ahu9,,,,False,,False
+78,/iot_hdc/ae-restapi/DE-13411/AI-1,AI-1,operate,운전(On/Off),ahu9,,,,False,,False
+79,/iot_hdc/ae-restapi/DE-13411/AI-2,AI-2,swing,회전(On/Off) ,ahu9,,,,False,,False
+80,/iot_hdc/ae-restapi/DE-13411/AI-3,AI-3,mode,"운전모드 (냉방:0,제습:1,송풍:2,자동:3,난방:4)",ahu9,,,,False,,False
+81,/iot_hdc/ae-restapi/DE-13411/AI-4,AI-4,speed,"바람세기 (약풍:1,중풍:2,강풍:3,자동풍:4)",ahu9,,,,False,,False
+82,/iot_hdc/ae-restapi/DE-13411/AI-5,AI-5,settemp,설정온도,ahu9,,,,False,,False
+83,/iot_hdc/ae-restapi/DE-13411/AI-6,AI-6,roomtemp,실내온도,ahu9,,,,False,,False
+84,/iot_hdc/ae-restapi/DE-13412,DE-13412,9층12번실내기,,ahu9,,,,False,,False
+85,/iot_hdc/ae-restapi/DE-13412/AI-1,AI-1,operate,운전(On/Off),ahu9,,,,False,,False
+86,/iot_hdc/ae-restapi/DE-13412/AI-2,AI-2,swing,회전(On/Off) ,ahu9,,,,False,,False
+87,/iot_hdc/ae-restapi/DE-13412/AI-3,AI-3,mode,"운전모드 (냉방:0,제습:1,송풍:2,자동:3,난방:4)",ahu9,,,,False,,False
+88,/iot_hdc/ae-restapi/DE-13412/AI-4,AI-4,speed,"바람세기 (약풍:1,중풍:2,강풍:3,자동풍:4)",ahu9,,,,False,,False
+89,/iot_hdc/ae-restapi/DE-13412/AI-5,AI-5,settemp,설정온도,ahu9,,,,False,,False
+90,/iot_hdc/ae-restapi/DE-13412/AI-6,AI-6,roomtemp,실내온도,ahu9,,,,False,,False
+91,/iot_hdc/ae-restapi/DE-1350,DE-1350,11층0번실내기,,ahu11,,,,False,,False
+92,/iot_hdc/ae-restapi/DE-1350/AI-1,AI-1,operate,운전(On/Off),ahu11,,,,False,,False
+93,/iot_hdc/ae-restapi/DE-1350/AI-2,AI-2,swing,회전(On/Off) ,ahu11,,,,False,,False
+94,/iot_hdc/ae-restapi/DE-1350/AI-3,AI-3,mode,"운전모드 (냉방:0,제습:1,송풍:2,자동:3,난방:4)",ahu11,,,,False,,False
+95,/iot_hdc/ae-restapi/DE-1350/AI-4,AI-4,speed,"바람세기 (약풍:1,중풍:2,강풍:3,자동풍:4)",ahu11,,,,False,,False
+96,/iot_hdc/ae-restapi/DE-1350/AI-5,AI-5,settemp,설정온도,ahu11,,,,False,,False
+97,/iot_hdc/ae-restapi/DE-1350/AI-6,AI-6,roomtemp,실내온도,ahu11,,,,False,,False
+98,/iot_hdc/ae-restapi/DE-1351,DE-1351,11층1번실내기,,ahu11,,,,False,,False
+99,/iot_hdc/ae-restapi/DE-1351/AI-1,AI-1,operate,운전(On/Off),ahu11,,,,False,,False
+100,/iot_hdc/ae-restapi/DE-1351/AI-2,AI-2,swing,회전(On/Off) ,ahu11,,,,False,,False
+101,/iot_hdc/ae-restapi/DE-1351/AI-3,AI-3,mode,"운전모드 (냉방:0,제습:1,송풍:2,자동:3,난방:4)",ahu11,,,,False,,False
+102,/iot_hdc/ae-restapi/DE-1351/AI-4,AI-4,speed,"바람세기 (약풍:1,중풍:2,강풍:3,자동풍:4)",ahu11,,,,False,,False
+103,/iot_hdc/ae-restapi/DE-1351/AI-5,AI-5,settemp,설정온도,ahu11,,,,False,,False
+104,/iot_hdc/ae-restapi/DE-1351/AI-6,AI-6,roomtemp,실내온도,ahu11,,,,False,,False
+105,/iot_hdc/ae-restapi/DE-1352,DE-1352,11층2번실내기,,ahu11,,,,False,,False
+106,/iot_hdc/ae-restapi/DE-1352/AI-1,AI-1,operate,운전(On/Off),ahu11,,,,False,,False
+107,/iot_hdc/ae-restapi/DE-1352/AI-2,AI-2,swing,회전(On/Off) ,ahu11,,,,False,,False
+108,/iot_hdc/ae-restapi/DE-1352/AI-3,AI-3,mode,"운전모드 (냉방:0,제습:1,송풍:2,자동:3,난방:4)",ahu11,,,,False,,False
+109,/iot_hdc/ae-restapi/DE-1352/AI-4,AI-4,speed,"바람세기 (약풍:1,중풍:2,강풍:3,자동풍:4)",ahu11,,,,False,,False
+110,/iot_hdc/ae-restapi/DE-1352/AI-5,AI-5,settemp,설정온도,ahu11,,,,False,,False
+111,/iot_hdc/ae-restapi/DE-1352/AI-6,AI-6,roomtemp,실내온도,ahu11,,,,False,,False
+112,/iot_hdc/ae-restapi/DE-1353,DE-1353,11층3번실내기,,ahu11,,,,False,,False
+113,/iot_hdc/ae-restapi/DE-1353/AI-1,AI-1,operate,운전(On/Off),ahu11,,,,False,,False
+114,/iot_hdc/ae-restapi/DE-1353/AI-2,AI-2,swing,회전(On/Off) ,ahu11,,,,False,,False
+115,/iot_hdc/ae-restapi/DE-1353/AI-3,AI-3,mode,"운전모드 (냉방:0,제습:1,송풍:2,자동:3,난방:4)",ahu11,,,,False,,False
+116,/iot_hdc/ae-restapi/DE-1353/AI-4,AI-4,speed,"바람세기 (약풍:1,중풍:2,강풍:3,자동풍:4)",ahu11,,,,False,,False
+117,/iot_hdc/ae-restapi/DE-1353/AI-5,AI-5,settemp,설정온도,ahu11,,,,False,,False
+118,/iot_hdc/ae-restapi/DE-1353/AI-6,AI-6,roomtemp,실내온도,ahu11,,,,False,,False
+119,/iot_hdc/ae-restapi/DE-1354,DE-1354,11층4번실내기,,ahu11,,,,False,,False
+120,/iot_hdc/ae-restapi/DE-1354/AI-1,AI-1,operate,운전(On/Off),ahu11,,,,False,,False
+121,/iot_hdc/ae-restapi/DE-1354/AI-2,AI-2,swing,회전(On/Off) ,ahu11,,,,False,,False
+122,/iot_hdc/ae-restapi/DE-1354/AI-3,AI-3,mode,"운전모드 (냉방:0,제습:1,송풍:2,자동:3,난방:4)",ahu11,,,,False,,False
+123,/iot_hdc/ae-restapi/DE-1354/AI-4,AI-4,speed,"바람세기 (약풍:1,중풍:2,강풍:3,자동풍:4)",ahu11,,,,False,,False
+124,/iot_hdc/ae-restapi/DE-1354/AI-5,AI-5,settemp,설정온도,ahu11,,,,False,,False
+125,/iot_hdc/ae-restapi/DE-1354/AI-6,AI-6,roomtemp,실내온도,ahu11,,,,False,,False
+126,/iot_hdc/ae-restapi/DE-1355,DE-1355,11층5번실내기,,ahu11,,,,False,,False
+127,/iot_hdc/ae-restapi/DE-1355/AI-1,AI-1,operate,운전(On/Off),ahu11,,,,False,,False
+128,/iot_hdc/ae-restapi/DE-1355/AI-2,AI-2,swing,회전(On/Off) ,ahu11,,,,False,,False
+129,/iot_hdc/ae-restapi/DE-1355/AI-3,AI-3,mode,"운전모드 (냉방:0,제습:1,송풍:2,자동:3,난방:4)",ahu11,,,,False,,False
+130,/iot_hdc/ae-restapi/DE-1355/AI-4,AI-4,speed,"바람세기 (약풍:1,중풍:2,강풍:3,자동풍:4)",ahu11,,,,False,,False
+131,/iot_hdc/ae-restapi/DE-1355/AI-5,AI-5,settemp,설정온도,ahu11,,,,False,,False
+132,/iot_hdc/ae-restapi/DE-1355/AI-6,AI-6,roomtemp,실내온도,ahu11,,,,False,,False
+133,/iot_hdc/ae-restapi/DE-1356,DE-1356,11층6번실내기,,ahu11,,,,False,,False
+134,/iot_hdc/ae-restapi/DE-1356/AI-1,AI-1,operate,운전(On/Off),ahu11,,,,False,,False
+135,/iot_hdc/ae-restapi/DE-1356/AI-2,AI-2,swing,회전(On/Off) ,ahu11,,,,False,,False
+136,/iot_hdc/ae-restapi/DE-1356/AI-3,AI-3,mode,"운전모드 (냉방:0,제습:1,송풍:2,자동:3,난방:4)",ahu11,,,,False,,False
+137,/iot_hdc/ae-restapi/DE-1356/AI-4,AI-4,speed,"바람세기 (약풍:1,중풍:2,강풍:3,자동풍:4)",ahu11,,,,False,,False
+138,/iot_hdc/ae-restapi/DE-1356/AI-5,AI-5,settemp,설정온도,ahu11,,,,False,,False
+139,/iot_hdc/ae-restapi/DE-1356/AI-6,AI-6,roomtemp,실내온도,ahu11,,,,False,,False
+140,/iot_hdc/ae-restapi/DE-1357,DE-1357,11층7번실내기,,ahu11,,,,False,,False
+141,/iot_hdc/ae-restapi/DE-1357/AI-1,AI-1,operate,운전(On/Off),ahu11,,,,False,,False
+142,/iot_hdc/ae-restapi/DE-1357/AI-2,AI-2,swing,회전(On/Off) ,ahu11,,,,False,,False
+143,/iot_hdc/ae-restapi/DE-1357/AI-3,AI-3,mode,"운전모드 (냉방:0,제습:1,송풍:2,자동:3,난방:4)",ahu11,,,,False,,False
+144,/iot_hdc/ae-restapi/DE-1357/AI-4,AI-4,speed,"바람세기 (약풍:1,중풍:2,강풍:3,자동풍:4)",ahu11,,,,False,,False
+145,/iot_hdc/ae-restapi/DE-1357/AI-5,AI-5,settemp,설정온도,ahu11,,,,False,,False
+146,/iot_hdc/ae-restapi/DE-1357/AI-6,AI-6,roomtemp,실내온도,ahu11,,,,False,,False
+147,/iot_hdc/ae-restapi/DE-1358,DE-1358,11층8번실내기,,ahu11,,,,False,,False
+148,/iot_hdc/ae-restapi/DE-1358/AI-1,AI-1,operate,운전(On/Off),ahu11,,,,False,,False
+149,/iot_hdc/ae-restapi/DE-1358/AI-2,AI-2,swing,회전(On/Off) ,ahu11,,,,False,,False
+150,/iot_hdc/ae-restapi/DE-1358/AI-3,AI-3,mode,"운전모드 (냉방:0,제습:1,송풍:2,자동:3,난방:4)",ahu11,,,,False,,False
+151,/iot_hdc/ae-restapi/DE-1358/AI-4,AI-4,speed,"바람세기 (약풍:1,중풍:2,강풍:3,자동풍:4)",ahu11,,,,False,,False
+152,/iot_hdc/ae-restapi/DE-1358/AI-5,AI-5,settemp,설정온도,ahu11,,,,False,,False
+153,/iot_hdc/ae-restapi/DE-1358/AI-6,AI-6,roomtemp,실내온도,ahu11,,,,False,,False
+154,/iot_hdc/ae-restapi/DE-1359,DE-1359,11층9번실내기,,ahu11,,,,False,,False
+155,/iot_hdc/ae-restapi/DE-1359/AI-1,AI-1,operate,운전(On/Off),ahu11,,,,False,,False
+156,/iot_hdc/ae-restapi/DE-1359/AI-2,AI-2,swing,회전(On/Off) ,ahu11,,,,False,,False
+157,/iot_hdc/ae-restapi/DE-1359/AI-3,AI-3,mode,"운전모드 (냉방:0,제습:1,송풍:2,자동:3,난방:4)",ahu11,,,,False,,False
+158,/iot_hdc/ae-restapi/DE-1359/AI-4,AI-4,speed,"바람세기 (약풍:1,중풍:2,강풍:3,자동풍:4)",ahu11,,,,False,,False
+159,/iot_hdc/ae-restapi/DE-1359/AI-5,AI-5,settemp,설정온도,ahu11,,,,False,,False
+160,/iot_hdc/ae-restapi/DE-1359/AI-6,AI-6,roomtemp,실내온도,ahu11,,,,False,,False
+161,/iot_hdc/ae-restapi/DE-13510,DE-13510,11층10번실내기,,ahu11,,,,False,,False
+162,/iot_hdc/ae-restapi/DE-13510/AI-1,AI-1,operate,운전(On/Off),ahu11,,,,False,,False
+163,/iot_hdc/ae-restapi/DE-13510/AI-2,AI-2,swing,회전(On/Off) ,ahu11,,,,False,,False
+164,/iot_hdc/ae-restapi/DE-13510/AI-3,AI-3,mode,"운전모드 (냉방:0,제습:1,송풍:2,자동:3,난방:4)",ahu11,,,,False,,False
+165,/iot_hdc/ae-restapi/DE-13510/AI-4,AI-4,speed,"바람세기 (약풍:1,중풍:2,강풍:3,자동풍:4)",ahu11,,,,False,,False
+166,/iot_hdc/ae-restapi/DE-13510/AI-5,AI-5,settemp,설정온도,ahu11,,,,False,,False
+167,/iot_hdc/ae-restapi/DE-13510/AI-6,AI-6,roomtemp,실내온도,ahu11,,,,False,,False
+168,/iot_hdc/ae-restapi/DE-13511,DE-13511,11층11번실내기,,ahu11,,,,False,,False
+169,/iot_hdc/ae-restapi/DE-13511/AI-1,AI-1,operate,운전(On/Off),ahu11,,,,False,,False
+170,/iot_hdc/ae-restapi/DE-13511/AI-2,AI-2,swing,회전(On/Off) ,ahu11,,,,False,,False
+171,/iot_hdc/ae-restapi/DE-13511/AI-3,AI-3,mode,"운전모드 (냉방:0,제습:1,송풍:2,자동:3,난방:4)",ahu11,,,,False,,False
+172,/iot_hdc/ae-restapi/DE-13511/AI-4,AI-4,speed,"바람세기 (약풍:1,중풍:2,강풍:3,자동풍:4)",ahu11,,,,False,,False
+173,/iot_hdc/ae-restapi/DE-13511/AI-5,AI-5,settemp,설정온도,ahu11,,,,False,,False
+174,/iot_hdc/ae-restapi/DE-13511/AI-6,AI-6,roomtemp,실내온도,ahu11,,,,False,,False
+175,/iot_hdc/ae-restapi/DE-136,DE-136,9green,,ahu9,,,,False,,False
+176,/iot_hdc/ae-restapi/DE-136/AI-1,AI-1,장치식별번호,,ahu9,,,,False,,False
+177,/iot_hdc/ae-restapi/DE-136/AI-2,AI-2,피플카운터 설치위치,,ahu9,,,,False,,False
+178,/iot_hdc/ae-restapi/DE-136/AI-3,AI-3,입실수,,ahu9,,,,False,,False
+179,/iot_hdc/ae-restapi/DE-136/AI-4,AI-4,퇴실수,,ahu9,,,,False,,False
+180,/iot_hdc/ae-restapi/DE-136/AI-5,AI-5,재실수,,ahu9,,,,False,,False
+181,/iot_hdc/ae-restapi/DE-136/AI-6,AI-6,Unix epoch time,,ahu9,,,,False,,False
+182,/iot_hdc/ae-restapi/DE-137,DE-137,9blue,,ahu9,,,,False,,False
+183,/iot_hdc/ae-restapi/DE-137/AI-1,AI-1,장치식별번호,,ahu9,,,,False,,False
+184,/iot_hdc/ae-restapi/DE-137/AI-2,AI-2,피플카운터 설치위치,,ahu9,,,,False,,False
+185,/iot_hdc/ae-restapi/DE-137/AI-3,AI-3,입실수,,ahu9,,,,False,,False
+186,/iot_hdc/ae-restapi/DE-137/AI-4,AI-4,퇴실수,,ahu9,,,,False,,False
+187,/iot_hdc/ae-restapi/DE-137/AI-5,AI-5,재실수,,ahu9,,,,False,,False
+188,/iot_hdc/ae-restapi/DE-137/AI-6,AI-6,Unix epoch time,,ahu9,,,,False,,False
+189,/iot_hdc/ae-restapi/DE-138,DE-138,9gold,,ahu9,,,,False,,False
+190,/iot_hdc/ae-restapi/DE-138/AI-1,AI-1,장치식별번호,,ahu9,,,,False,,False
+191,/iot_hdc/ae-restapi/DE-138/AI-2,AI-2,피플카운터 설치위치,,ahu9,,,,False,,False
+192,/iot_hdc/ae-restapi/DE-138/AI-3,AI-3,입실수,,ahu9,,,,False,,False
+193,/iot_hdc/ae-restapi/DE-138/AI-4,AI-4,퇴실수,,ahu9,,,,False,,False
+194,/iot_hdc/ae-restapi/DE-138/AI-5,AI-5,재실수,,ahu9,,,,False,,False
+195,/iot_hdc/ae-restapi/DE-138/AI-6,AI-6,Unix epoch time,,ahu9,,,,False,,False
+196,/iot_hdc/ae-restapi/DE-139,DE-139,9tr1,,ahu9,,,,False,,False
+197,/iot_hdc/ae-restapi/DE-139/AI-1,AI-1,장치식별번호,,ahu9,,,,False,,False
+198,/iot_hdc/ae-restapi/DE-139/AI-2,AI-2,피플카운터 설치위치,,ahu9,,,,False,,False
+199,/iot_hdc/ae-restapi/DE-139/AI-3,AI-3,입실수,,ahu9,,,,False,,False
+200,/iot_hdc/ae-restapi/DE-139/AI-4,AI-4,퇴실수,,ahu9,,,,False,,False
+201,/iot_hdc/ae-restapi/DE-139/AI-5,AI-5,재실수,,ahu9,,,,False,,False
+202,/iot_hdc/ae-restapi/DE-139/AI-6,AI-6,Unix epoch time,,ahu9,,,,False,,False
+203,/iot_hdc/ae-restapi/DE-140,DE-140,9tr2,,ahu9,,,,False,,False
+204,/iot_hdc/ae-restapi/DE-140/AI-1,AI-1,장치식별번호,,ahu9,,,,False,,False
+205,/iot_hdc/ae-restapi/DE-140/AI-2,AI-2,피플카운터 설치위치,,ahu9,,,,False,,False
+206,/iot_hdc/ae-restapi/DE-140/AI-3,AI-3,입실수,,ahu9,,,,False,,False
+207,/iot_hdc/ae-restapi/DE-140/AI-4,AI-4,퇴실수,,ahu9,,,,False,,False
+208,/iot_hdc/ae-restapi/DE-140/AI-5,AI-5,재실수,,ahu9,,,,False,,False
+209,/iot_hdc/ae-restapi/DE-140/AI-6,AI-6,Unix epoch time,,ahu9,,,,False,,False
+210,/iot_hdc/ae-restapi/DE-143,DE-143,11gold,,ahu11,,,,False,,False
+211,/iot_hdc/ae-restapi/DE-143/AI-1,AI-1,장치식별번호,,ahu11,,,,False,,False
+212,/iot_hdc/ae-restapi/DE-143/AI-2,AI-2,피플카운터 설치위치,,ahu11,,,,False,,False
+213,/iot_hdc/ae-restapi/DE-143/AI-3,AI-3,입실수,,ahu11,,,,False,,False
+214,/iot_hdc/ae-restapi/DE-143/AI-4,AI-4,퇴실수,,ahu11,,,,False,,False
+215,/iot_hdc/ae-restapi/DE-143/AI-5,AI-5,재실수,,ahu11,,,,False,,False
+216,/iot_hdc/ae-restapi/DE-143/AI-6,AI-6,Unix epoch time,,ahu11,,,,False,,False
+217,/iot_hdc/ae-restapi/DE-144,DE-144,11tr2,,ahu11,,,,False,,False
+218,/iot_hdc/ae-restapi/DE-144/AI-1,AI-1,장치식별번호,,ahu11,,,,False,,False
+219,/iot_hdc/ae-restapi/DE-144/AI-2,AI-2,피플카운터 설치위치,,ahu11,,,,False,,False
+220,/iot_hdc/ae-restapi/DE-144/AI-3,AI-3,입실수,,ahu11,,,,False,,False
+221,/iot_hdc/ae-restapi/DE-144/AI-4,AI-4,퇴실수,,ahu11,,,,False,,False
+222,/iot_hdc/ae-restapi/DE-144/AI-5,AI-5,재실수,,ahu11,,,,False,,False
+223,/iot_hdc/ae-restapi/DE-144/AI-6,AI-6,Unix epoch time,,ahu11,,,,False,,False
+224,/iot_hdc/ae-restapi/DE-145,DE-145,11tr1,,ahu11,,,,False,,False
+225,/iot_hdc/ae-restapi/DE-145/AI-1,AI-1,장치식별번호,,ahu11,,,,False,,False
+226,/iot_hdc/ae-restapi/DE-145/AI-2,AI-2,피플카운터 설치위치,,ahu11,,,,False,,False
+227,/iot_hdc/ae-restapi/DE-145/AI-3,AI-3,입실수,,ahu11,,,,False,,False
+228,/iot_hdc/ae-restapi/DE-145/AI-4,AI-4,퇴실수,,ahu11,,,,False,,False
+229,/iot_hdc/ae-restapi/DE-145/AI-5,AI-5,재실수,,ahu11,,,,False,,False
+230,/iot_hdc/ae-restapi/DE-145/AI-6,AI-6,Unix epoch time,,ahu11,,,,False,,False
+231,/iot_hdc/ae-restapi/DE-146,DE-146,11blue,,ahu11,,,,False,,False
+232,/iot_hdc/ae-restapi/DE-146/AI-1,AI-1,장치식별번호,,ahu11,,,,False,,False
+233,/iot_hdc/ae-restapi/DE-146/AI-2,AI-2,피플카운터 설치위치,,ahu11,,,,False,,False
+234,/iot_hdc/ae-restapi/DE-146/AI-3,AI-3,입실수,,ahu11,,,,False,,False
+235,/iot_hdc/ae-restapi/DE-146/AI-4,AI-4,퇴실수,,ahu11,,,,False,,False
+236,/iot_hdc/ae-restapi/DE-146/AI-5,AI-5,재실수,,ahu11,,,,False,,False
+237,/iot_hdc/ae-restapi/DE-146/AI-6,AI-6,Unix epoch time,,ahu11,,,,False,,False
+238,/iot_hdc/ae-restapi/DE-147,DE-147,11green,,ahu11,,,,False,,False
+239,/iot_hdc/ae-restapi/DE-147/AI-1,AI-1,장치식별번호,,ahu11,,,,False,,False
+240,/iot_hdc/ae-restapi/DE-147/AI-2,AI-2,피플카운터 설치위치,,ahu11,,,,False,,False
+241,/iot_hdc/ae-restapi/DE-147/AI-3,AI-3,입실수,,ahu11,,,,False,,False
+242,/iot_hdc/ae-restapi/DE-147/AI-4,AI-4,퇴실수,,ahu11,,,,False,,False
+243,/iot_hdc/ae-restapi/DE-147/AI-5,AI-5,재실수,,ahu11,,,,False,,False
+244,/iot_hdc/ae-restapi/DE-147/AI-6,AI-6,Unix epoch time,,ahu11,,,,False,,False
+245,/iot_hdc/ae-restapi/DE-150,DE-150,,,ahu9,,,,False,,False
+246,/iot_hdc/ae-restapi/DE-150/AI-1,AI-1,9층_차압센서_9-10,,ahu9,,,,False,,False
+247,/iot_hdc/ae-restapi/DE-151,DE-151,,,ahu9,,,,False,,False
+248,/iot_hdc/ae-restapi/DE-151/AI-1,AI-1,9층_차압센서_9-11,,ahu9,,,,False,,False
+249,/iot_hdc/ae-restapi/DE-152,DE-152,,,ahu9,,,,False,,False
+250,/iot_hdc/ae-restapi/DE-152/AI-1,AI-1,9층_차압센서_9-9,,ahu9,,,,False,,False
+251,/iot_hdc/ae-restapi/DE-153,DE-153,,,ahu9,,,,False,,False
+252,/iot_hdc/ae-restapi/DE-153/AI-1,AI-1,9층_차압센서_9-7,,ahu9,,,,False,,False
+253,/iot_hdc/ae-restapi/DE-154,DE-154,,,ahu9,,,,False,,False
+254,/iot_hdc/ae-restapi/DE-154/AI-1,AI-1,9층_차압센서_9-8,,ahu9,,,,False,,False
+255,/iot_hdc/ae-restapi/DE-158,DE-158,,,ahu9,,,,False,,False
+256,/iot_hdc/ae-restapi/DE-158/AI-1,AI-1,11층_차압센서_11-7,,ahu11,,,,False,,False
+257,/iot_hdc/ae-restapi/DE-159,DE-159,,,ahu11,,,,False,,False
+258,/iot_hdc/ae-restapi/DE-159/AI-1,AI-1,11층_차압센서_11-8,,ahu11,,,,False,,False
+259,/iot_hdc/ae-restapi/DE-157,DE-157,,,ahu11,,,,False,,False
+260,/iot_hdc/ae-restapi/DE-157/AI-1,AI-1,11층_차압센서_11-9,,ahu11,,,,False,,False
+261,/iot_hdc/ae-restapi/DE-156/AI-1,DE-156,,,ahu11,,,,False,,False
+262,/iot_hdc/ae-restapi/DE-156/AI-1,AI-1,11층_차압센서_11-11,,ahu11,,,,False,,False
+263,/iot_hdc/ae-restapi/DE-155,DE-155,,,ahu11,,,,False,,False
+264,/iot_hdc/ae-restapi/DE-155/AI-1,AI-1,11층_차압센서_11-10,,ahu11,,,,False,,False
+265,/iot_hdc/ae-restapi/DE-105,DE-105,,,ahu9,,,,False,,False
+266,/iot_hdc/ae-restapi/DE-105/AI-1,AI-1,9층_시그봇재실센서_9-1,,ahu9,,,,False,,False
+267,/iot_hdc/ae-restapi/DE-106,DE-106,,,ahu9,,,,False,,False
+268,/iot_hdc/ae-restapi/DE-106/AI-1,AI-1,9층_시그봇재실센서_9-2,,ahu9,,,,False,,False
+269,/iot_hdc/ae-restapi/DE-107,DE-107,,,ahu9,,,,False,,False
+270,/iot_hdc/ae-restapi/DE-107/AI-1,AI-1,9층_시그봇재실센서_9-3,,ahu9,,,,False,,False
+271,/iot_hdc/ae-restapi/DE-108,DE-108,,,ahu9,,,,False,,False
+272,/iot_hdc/ae-restapi/DE-108/AI-1,AI-1,9층_시그봇재실센서_9-4,,ahu9,,,,False,,False
+273,/iot_hdc/ae-restapi/DE-109,DE-109,,,ahu9,,,,False,,False
+274,/iot_hdc/ae-restapi/DE-109/AI-1,AI-1,9층_시그봇재실센서_9-5,,ahu9,,,,False,,False
+275,/iot_hdc/ae-restapi/DE-110,DE-110,,,ahu9,,,,False,,False
+276,/iot_hdc/ae-restapi/DE-110/AI-1,AI-1,9층_시그봇재실센서_9-6,,ahu9,,,,False,,False
+277,/iot_hdc/ae-restapi/DE-111,DE-111,,,ahu11,,,,False,,False
+278,/iot_hdc/ae-restapi/DE-111/AI-1,AI-1,11층_시그봇재실센서_11-1,,ahu11,,,,False,,False
+279,/iot_hdc/ae-restapi/DE-112,DE-112,,,ahu11,,,,False,,False
+280,/iot_hdc/ae-restapi/DE-112/AI-1,AI-1,11층_시그봇재실센서_11-2,,ahu11,,,,False,,False
+281,/iot_hdc/ae-restapi/DE-113,DE-113,,,ahu11,,,,False,,False
+282,/iot_hdc/ae-restapi/DE-113/AI-1,AI-1,11층_시그봇재실센서_11-3,,ahu11,,,,False,,False
+283,/iot_hdc/ae-restapi/DE-114,DE-114,,,ahu11,,,,False,,False
+284,/iot_hdc/ae-restapi/DE-114/AI-1,AI-1,11층_시그봇재실센서_11-4,,ahu11,,,,False,,False
+285,/iot_hdc/ae-restapi/DE-115,DE-115,,,ahu11,,,,False,,False
+286,/iot_hdc/ae-restapi/DE-115/AI-1,AI-1,11층_시그봇재실센서_11-5,,ahu11,,,,False,,False
+287,/iot_hdc/ae-restapi/DE-116,DE-116,,,ahu11,,,,False,,False
+288,/iot_hdc/ae-restapi/DE-116/AI-1,AI-1,11층_시그봇재실센서_11-6,,ahu11,,,,False,,False
+289,/iot_hdc/ae-restapi/DE-21,DE-21,환경센서 9-1,,ahu9,,,,False,,False
+290,/iot_hdc/ae-restapi/DE-21/AI-1,AI-1,  co2,,ahu9,,,,False,,False
+291,/iot_hdc/ae-restapi/DE-21/AI-2,AI-2,  datetime,,ahu9,,,,False,,False
+292,/iot_hdc/ae-restapi/DE-21/AI-3,AI-3,  dewpoint,,ahu9,,,,False,,False
+293,/iot_hdc/ae-restapi/DE-21/AI-4,AI-4,  hcho,,ahu9,,,,False,,False
+294,/iot_hdc/ae-restapi/DE-21/AI-5,AI-5,  humidity,,ahu9,,,,False,,False
+295,/iot_hdc/ae-restapi/DE-21/AI-6,AI-6,  lx,,ahu9,,,,False,,False
+296,/iot_hdc/ae-restapi/DE-21/AI-7,AI-7,  pm1,,ahu9,,,,False,,False
+297,/iot_hdc/ae-restapi/DE-21/AI-8,AI-8,  pm10,,ahu9,,,,False,,False
+298,/iot_hdc/ae-restapi/DE-21/AI-9,AI-9,  pm25,,ahu9,,,,False,,False
+299,/iot_hdc/ae-restapi/DE-21/AI-10,AI-10,  sound,,ahu9,,,,False,,False
+300,/iot_hdc/ae-restapi/DE-21/AI-11,AI-11,  temperature,,ahu9,,,,False,,False
+301,/iot_hdc/ae-restapi/DE-21/AI-12,AI-12,  timestamp,,ahu9,,,,False,,False
+302,/iot_hdc/ae-restapi/DE-22,DE-22,환경센서 9-2,,ahu9,,,,False,,False
+303,/iot_hdc/ae-restapi/DE-22/AI-1,AI-1,  co2,,ahu9,,,,False,,False
+304,/iot_hdc/ae-restapi/DE-22/AI-2,AI-2,  datetime,,ahu9,,,,False,,False
+305,/iot_hdc/ae-restapi/DE-22/AI-3,AI-3,  dewpoint,,ahu9,,,,False,,False
+306,/iot_hdc/ae-restapi/DE-22/AI-4,AI-4,  hcho,,ahu9,,,,False,,False
+307,/iot_hdc/ae-restapi/DE-22/AI-5,AI-5,  humidity,,ahu9,,,,False,,False
+308,/iot_hdc/ae-restapi/DE-22/AI-6,AI-6,  lx,,ahu9,,,,False,,False
+309,/iot_hdc/ae-restapi/DE-22/AI-7,AI-7,  pm1,,ahu9,,,,False,,False
+310,/iot_hdc/ae-restapi/DE-22/AI-8,AI-8,  pm10,,ahu9,,,,False,,False
+311,/iot_hdc/ae-restapi/DE-22/AI-9,AI-9,  pm25,,ahu9,,,,True,,True
+312,/iot_hdc/ae-restapi/DE-22/AI-10,AI-10,  sound,,ahu9,,,,True,,True
+313,/iot_hdc/ae-restapi/DE-22/AI-11,AI-11,  temperature,,ahu9,,,,True,,True
+314,/iot_hdc/ae-restapi/DE-22/AI-12,AI-12,  timestamp,,ahu9,,,,True,,True
+315,/iot_hdc/ae-restapi/DE-23,DE-23,환경센서 9-3,,ahu9,,,,True,,False
+316,/iot_hdc/ae-restapi/DE-23/AI-1,AI-1,  co2,,ahu9,,,,False,,False
+317,/iot_hdc/ae-restapi/DE-23/AI-2,AI-2,  datetime,,ahu9,,,,False,,False
+318,/iot_hdc/ae-restapi/DE-23/AI-3,AI-3,  dewpoint,,ahu9,,,,False,,False
+319,/iot_hdc/ae-restapi/DE-23/AI-4,AI-4,  hcho,,ahu9,,,,False,,False
+320,/iot_hdc/ae-restapi/DE-23/AI-5,AI-5,  humidity,,ahu9,,,,False,,False
+321,/iot_hdc/ae-restapi/DE-23/AI-6,AI-6,  lx,,ahu9,,,,False,,False
+322,/iot_hdc/ae-restapi/DE-23/AI-7,AI-7,  pm1,,ahu9,,,,False,,False
+323,/iot_hdc/ae-restapi/DE-23/AI-8,AI-8,  pm10,,ahu9,,,,False,,False
+324,/iot_hdc/ae-restapi/DE-23/AI-9,AI-9,  pm25,,ahu9,,,,False,,False
+325,/iot_hdc/ae-restapi/DE-23/AI-10,AI-10,  sound,,ahu9,,,,False,,False
+326,/iot_hdc/ae-restapi/DE-23/AI-11,AI-11,  temperature,,ahu9,,,,False,,False
+327,/iot_hdc/ae-restapi/DE-23/AI-12,AI-12,  timestamp,,ahu9,,,,False,,False
+328,/iot_hdc/ae-restapi/DE-24,DE-24,환경센서 9-4,,ahu9,,,,False,,False
+329,/iot_hdc/ae-restapi/DE-24/AI-1,AI-1,  co2,,ahu9,,,,False,,False
+330,/iot_hdc/ae-restapi/DE-24/AI-2,AI-2,  datetime,,ahu9,,,,False,,False
+331,/iot_hdc/ae-restapi/DE-24/AI-3,AI-3,  dewpoint,,ahu9,,,,False,,False
+332,/iot_hdc/ae-restapi/DE-24/AI-4,AI-4,  hcho,,ahu9,,,,False,,False
+333,/iot_hdc/ae-restapi/DE-24/AI-5,AI-5,  humidity,,ahu9,,,,False,,False
+334,/iot_hdc/ae-restapi/DE-24/AI-6,AI-6,  lx,,ahu9,,,,False,,False
+335,/iot_hdc/ae-restapi/DE-24/AI-7,AI-7,  pm1,,ahu9,,,,False,,False
+336,/iot_hdc/ae-restapi/DE-24/AI-8,AI-8,  pm10,,ahu9,,,,False,,False
+337,/iot_hdc/ae-restapi/DE-24/AI-9,AI-9,  pm25,,ahu9,,,,False,,False
+338,/iot_hdc/ae-restapi/DE-24/AI-10,AI-10,  sound,,ahu9,,,,False,,False
+339,/iot_hdc/ae-restapi/DE-24/AI-11,AI-11,  temperature,,ahu9,,,,False,,False
+340,/iot_hdc/ae-restapi/DE-24/AI-12,AI-12,  timestamp,,ahu9,,,,False,,False
+341,/iot_hdc/ae-restapi/DE-25,DE-25,환경센서 9-5,,ahu9,,,,False,,False
+342,/iot_hdc/ae-restapi/DE-25/AI-1,AI-1,  co2,,ahu9,,,,False,,False
+343,/iot_hdc/ae-restapi/DE-25/AI-2,AI-2,  datetime,,ahu9,,,,False,,False
+344,/iot_hdc/ae-restapi/DE-25/AI-3,AI-3,  dewpoint,,ahu9,,,,False,,False
+345,/iot_hdc/ae-restapi/DE-25/AI-4,AI-4,  hcho,,ahu9,,,,False,,False
+346,/iot_hdc/ae-restapi/DE-25/AI-5,AI-5,  humidity,,ahu9,,,,False,,False
+347,/iot_hdc/ae-restapi/DE-25/AI-6,AI-6,  lx,,ahu9,,,,False,,False
+348,/iot_hdc/ae-restapi/DE-25/AI-7,AI-7,  pm1,,ahu9,,,,False,,False
+349,/iot_hdc/ae-restapi/DE-25/AI-8,AI-8,  pm10,,ahu9,,,,False,,False
+350,/iot_hdc/ae-restapi/DE-25/AI-9,AI-9,  pm25,,ahu9,,,,False,,False
+351,/iot_hdc/ae-restapi/DE-25/AI-10,AI-10,  sound,,ahu9,,,,False,,False
+352,/iot_hdc/ae-restapi/DE-25/AI-11,AI-11,  temperature,,ahu9,,,,False,,False
+353,/iot_hdc/ae-restapi/DE-25/AI-12,AI-12,  timestamp,,ahu9,,,,False,,False
+354,/iot_hdc/ae-restapi/DE-26,DE-26,환경센서 9-6,,ahu9,,,,False,,False
+355,/iot_hdc/ae-restapi/DE-26/AI-1,AI-1,  co2,,ahu9,,,,False,,False
+356,/iot_hdc/ae-restapi/DE-26/AI-2,AI-2,  datetime,,ahu9,,,,False,,False
+357,/iot_hdc/ae-restapi/DE-26/AI-3,AI-3,  dewpoint,,ahu9,,,,False,,False
+358,/iot_hdc/ae-restapi/DE-26/AI-4,AI-4,  hcho,,ahu9,,,,False,,False
+359,/iot_hdc/ae-restapi/DE-26/AI-5,AI-5,  humidity,,ahu9,,,,False,,False
+360,/iot_hdc/ae-restapi/DE-26/AI-6,AI-6,  lx,,ahu9,,,,False,,False
+361,/iot_hdc/ae-restapi/DE-26/AI-7,AI-7,  pm1,,ahu9,,,,False,,False
+362,/iot_hdc/ae-restapi/DE-26/AI-8,AI-8,  pm10,,ahu9,,,,False,,False
+363,/iot_hdc/ae-restapi/DE-26/AI-9,AI-9,  pm25,,ahu9,,,,False,,False
+364,/iot_hdc/ae-restapi/DE-26/AI-10,AI-10,  sound,,ahu9,,,,False,,False
+365,/iot_hdc/ae-restapi/DE-26/AI-11,AI-11,  temperature,,ahu9,,,,False,,False
+366,/iot_hdc/ae-restapi/DE-26/AI-12,AI-12,  timestamp,,ahu9,,,,False,,False
+367,/iot_hdc/ae-restapi/DE-27,DE-27,환경센서 9-7,,ahu9,,,,False,,False
+368,/iot_hdc/ae-restapi/DE-27/AI-1,AI-1,  co2,,ahu9,,,,False,,False
+369,/iot_hdc/ae-restapi/DE-27/AI-2,AI-2,  datetime,,ahu9,,,,False,,False
+370,/iot_hdc/ae-restapi/DE-27/AI-3,AI-3,  dewpoint,,ahu9,,,,False,,False
+371,/iot_hdc/ae-restapi/DE-27/AI-4,AI-4,  hcho,,ahu9,,,,False,,False
+372,/iot_hdc/ae-restapi/DE-27/AI-5,AI-5,  humidity,,ahu9,,,,False,,False
+373,/iot_hdc/ae-restapi/DE-27/AI-6,AI-6,  lx,,ahu9,,,,False,,False
+374,/iot_hdc/ae-restapi/DE-27/AI-7,AI-7,  pm1,,ahu9,,,,False,,False
+375,/iot_hdc/ae-restapi/DE-27/AI-8,AI-8,  pm10,,ahu9,,,,False,,False
+376,/iot_hdc/ae-restapi/DE-27/AI-9,AI-9,  pm25,,ahu9,,,,False,,False
+377,/iot_hdc/ae-restapi/DE-27/AI-10,AI-10,  sound,,ahu9,,,,False,,False
+378,/iot_hdc/ae-restapi/DE-27/AI-11,AI-11,  temperature,,ahu9,,,,False,,False
+379,/iot_hdc/ae-restapi/DE-27/AI-12,AI-12,  timestamp,,ahu9,,,,False,,False
+380,/iot_hdc/ae-restapi/DE-28,DE-28,환경센서 9-8,,ahu9,,,,False,,False
+381,/iot_hdc/ae-restapi/DE-28/AI-1,AI-1,  co2,,ahu9,,,,False,,False
+382,/iot_hdc/ae-restapi/DE-28/AI-2,AI-2,  datetime,,ahu9,,,,False,,False
+383,/iot_hdc/ae-restapi/DE-28/AI-3,AI-3,  dewpoint,,ahu9,,,,False,,False
+384,/iot_hdc/ae-restapi/DE-28/AI-4,AI-4,  hcho,,ahu9,,,,False,,False
+385,/iot_hdc/ae-restapi/DE-28/AI-5,AI-5,  humidity,,ahu9,,,,False,,False
+386,/iot_hdc/ae-restapi/DE-28/AI-6,AI-6,  lx,,ahu9,,,,False,,False
+387,/iot_hdc/ae-restapi/DE-28/AI-7,AI-7,  pm1,,ahu9,,,,False,,False
+388,/iot_hdc/ae-restapi/DE-28/AI-8,AI-8,  pm10,,ahu9,,,,False,,False
+389,/iot_hdc/ae-restapi/DE-28/AI-9,AI-9,  pm25,,ahu9,,,,False,,False
+390,/iot_hdc/ae-restapi/DE-28/AI-10,AI-10,  sound,,ahu9,,,,False,,False
+391,/iot_hdc/ae-restapi/DE-28/AI-11,AI-11,  temperature,,ahu9,,,,False,,False
+392,/iot_hdc/ae-restapi/DE-28/AI-12,AI-12,  timestamp,,ahu9,,,,False,,False
+393,/iot_hdc/ae-restapi/DE-29,DE-29,환경센서 9-9,,ahu9,,,,False,,False
+394,/iot_hdc/ae-restapi/DE-29/AI-1,AI-1,  co2,,ahu9,,,,False,,False
+395,/iot_hdc/ae-restapi/DE-29/AI-2,AI-2,  datetime,,ahu9,,,,False,,False
+396,/iot_hdc/ae-restapi/DE-29/AI-3,AI-3,  dewpoint,,ahu9,,,,False,,False
+397,/iot_hdc/ae-restapi/DE-29/AI-4,AI-4,  hcho,,ahu9,,,,False,,False
+398,/iot_hdc/ae-restapi/DE-29/AI-5,AI-5,  humidity,,ahu9,,,,False,,False
+399,/iot_hdc/ae-restapi/DE-29/AI-6,AI-6,  lx,,ahu9,,,,False,,False
+400,/iot_hdc/ae-restapi/DE-29/AI-7,AI-7,  pm1,,ahu9,,,,False,,False
+401,/iot_hdc/ae-restapi/DE-29/AI-8,AI-8,  pm10,,ahu9,,,,False,,False
+402,/iot_hdc/ae-restapi/DE-29/AI-9,AI-9,  pm25,,ahu9,,,,False,,False
+403,/iot_hdc/ae-restapi/DE-29/AI-10,AI-10,  sound,,ahu9,,,,False,,False
+404,/iot_hdc/ae-restapi/DE-29/AI-11,AI-11,  temperature,,ahu9,,,,False,,False
+405,/iot_hdc/ae-restapi/DE-29/AI-12,AI-12,  timestamp,,ahu9,,,,False,,False
+406,/iot_hdc/ae-restapi/DE-30,DE-30,환경센서 9-10,,ahu9,,,,False,,False
+407,/iot_hdc/ae-restapi/DE-30/AI-1,AI-1,  co2,,ahu9,,,,False,,False
+408,/iot_hdc/ae-restapi/DE-30/AI-2,AI-2,  datetime,,ahu9,,,,False,,False
+409,/iot_hdc/ae-restapi/DE-30/AI-3,AI-3,  dewpoint,,ahu9,,,,False,,False
+410,/iot_hdc/ae-restapi/DE-30/AI-4,AI-4,  hcho,,ahu9,,,,False,,False
+411,/iot_hdc/ae-restapi/DE-30/AI-5,AI-5,  humidity,,ahu9,,,,False,,False
+412,/iot_hdc/ae-restapi/DE-30/AI-6,AI-6,  lx,,ahu9,,,,False,,False
+413,/iot_hdc/ae-restapi/DE-30/AI-7,AI-7,  pm1,,ahu9,,,,False,,False
+414,/iot_hdc/ae-restapi/DE-30/AI-8,AI-8,  pm10,,ahu9,,,,False,,False
+415,/iot_hdc/ae-restapi/DE-30/AI-9,AI-9,  pm25,,ahu9,,,,False,,False
+416,/iot_hdc/ae-restapi/DE-30/AI-10,AI-10,  sound,,ahu9,,,,False,,False
+417,/iot_hdc/ae-restapi/DE-30/AI-11,AI-11,  temperature,,ahu9,,,,False,,False
+418,/iot_hdc/ae-restapi/DE-30/AI-12,AI-12,  timestamp,,ahu9,,,,False,,False
+419,/iot_hdc/ae-restapi/DE-31,DE-31,환경센서 9-11,,ahu9,,,,False,,False
+420,/iot_hdc/ae-restapi/DE-31/AI-1,AI-1,  co2,,ahu9,,,,False,,False
+421,/iot_hdc/ae-restapi/DE-31/AI-2,AI-2,  datetime,,ahu9,,,,False,,False
+422,/iot_hdc/ae-restapi/DE-31/AI-3,AI-3,  dewpoint,,ahu9,,,,False,,False
+423,/iot_hdc/ae-restapi/DE-31/AI-4,AI-4,  hcho,,ahu9,,,,False,,False
+424,/iot_hdc/ae-restapi/DE-31/AI-5,AI-5,  humidity,,ahu9,,,,False,,False
+425,/iot_hdc/ae-restapi/DE-31/AI-6,AI-6,  lx,,ahu9,,,,False,,False
+426,/iot_hdc/ae-restapi/DE-31/AI-7,AI-7,  pm1,,ahu9,,,,False,,False
+427,/iot_hdc/ae-restapi/DE-31/AI-8,AI-8,  pm10,,ahu9,,,,False,,False
+428,/iot_hdc/ae-restapi/DE-31/AI-9,AI-9,  pm25,,ahu9,,,,False,,False
+429,/iot_hdc/ae-restapi/DE-31/AI-10,AI-10,  sound,,ahu9,,,,False,,False
+430,/iot_hdc/ae-restapi/DE-31/AI-11,AI-11,  temperature,,ahu9,,,,False,,False
+431,/iot_hdc/ae-restapi/DE-31/AI-12,AI-12,  timestamp,,ahu9,,,,False,,False
+432,/iot_hdc/ae-restapi/DE-44,DE-44,미정 (KETI 예비 IP),,,,,,False,,False
+433,/iot_hdc/ae-restapi/DE-44/cnt-co2,cnt-co2,  co2,,,,,,False,,False
+434,/iot_hdc/ae-restapi/DE-44/cnt-datetime,cnt-datetime,  datetime,,,,,,False,,False
+435,/iot_hdc/ae-restapi/DE-44/cnt-dewpoint,cnt-dewpoint,  dewpoint,,,,,,False,,False
+436,/iot_hdc/ae-restapi/DE-44/cnt-hcho,cnt-hcho,  hcho,,,,,,False,,False
+437,/iot_hdc/ae-restapi/DE-44/cnt-humidity,cnt-humidity,  humidity,,,,,,False,,False
+438,/iot_hdc/ae-restapi/DE-44/cnt-lx,cnt-lx,  lx,,,,,,False,,False
+439,/iot_hdc/ae-restapi/DE-44/cnt-pm1,cnt-pm1,  pm1,,,,,,False,,False
+440,/iot_hdc/ae-restapi/DE-44/cnt-pm10,cnt-pm10,  pm10,,,,,,False,,False
+441,/iot_hdc/ae-restapi/DE-44/cnt-pm25,cnt-pm25,  pm25,,,,,,False,,False
+442,/iot_hdc/ae-restapi/DE-44/cnt-sound,cnt-sound,  sound,,,,,,False,,False
+443,/iot_hdc/ae-restapi/DE-44/cnt-temperature,cnt-temperature,  temperature,,,,,,False,,False
+444,/iot_hdc/ae-restapi/DE-44/cnt-timestamp,cnt-timestamp,  timestamp,,,,,,False,,False
+445,/iot_hdc/ae-restapi/DE-45,DE-45,미정 (KETI 예비 IP),,,,,,False,,False
+446,/iot_hdc/ae-restapi/DE-45/cnt-co2,cnt-co2,  co2,,,,,,False,,False
+447,/iot_hdc/ae-restapi/DE-45/cnt-datetime,cnt-datetime,  datetime,,,,,,False,,False
+448,/iot_hdc/ae-restapi/DE-45/cnt-dewpoint,cnt-dewpoint,  dewpoint,,,,,,False,,False
+449,/iot_hdc/ae-restapi/DE-45/cnt-hcho,cnt-hcho,  hcho,,,,,,False,,False
+450,/iot_hdc/ae-restapi/DE-45/cnt-humidity,cnt-humidity,  humidity,,,,,,False,,False
+451,/iot_hdc/ae-restapi/DE-45/cnt-lx,cnt-lx,  lx,,,,,,False,,False
+452,/iot_hdc/ae-restapi/DE-45/cnt-pm1,cnt-pm1,  pm1,,,,,,False,,False
+453,/iot_hdc/ae-restapi/DE-45/cnt-pm10,cnt-pm10,  pm10,,,,,,False,,False
+454,/iot_hdc/ae-restapi/DE-45/cnt-pm25,cnt-pm25,  pm25,,,,,,False,,False
+455,/iot_hdc/ae-restapi/DE-45/cnt-sound,cnt-sound,  sound,,,,,,False,,False
+456,/iot_hdc/ae-restapi/DE-45/cnt-temperature,cnt-temperature,  temperature,,,,,,False,,False
+457,/iot_hdc/ae-restapi/DE-45/cnt-timestamp,cnt-timestamp,  timestamp,,,,,,False,,False
+458,/iot_hdc/ae-restapi/DE-46,DE-46,미정 (KETI 예비 IP),,,,,,False,,False
+459,/iot_hdc/ae-restapi/DE-46/cnt-co2,cnt-co2,  co2,,,,,,False,,False
+460,/iot_hdc/ae-restapi/DE-46/cnt-datetime,cnt-datetime,  datetime,,,,,,False,,False
+461,/iot_hdc/ae-restapi/DE-46/cnt-dewpoint,cnt-dewpoint,  dewpoint,,,,,,False,,False
+462,/iot_hdc/ae-restapi/DE-46/cnt-hcho,cnt-hcho,  hcho,,,,,,False,,False
+463,/iot_hdc/ae-restapi/DE-46/cnt-humidity,cnt-humidity,  humidity,,,,,,False,,False
+464,/iot_hdc/ae-restapi/DE-46/cnt-lx,cnt-lx,  lx,,,,,,False,,False
+465,/iot_hdc/ae-restapi/DE-46/cnt-pm1,cnt-pm1,  pm1,,,,,,False,,False
+466,/iot_hdc/ae-restapi/DE-46/cnt-pm10,cnt-pm10,  pm10,,,,,,False,,False
+467,/iot_hdc/ae-restapi/DE-46/cnt-pm25,cnt-pm25,  pm25,,,,,,False,,False
+468,/iot_hdc/ae-restapi/DE-46/cnt-sound,cnt-sound,  sound,,,,,,False,,False
+469,/iot_hdc/ae-restapi/DE-46/cnt-temperature,cnt-temperature,  temperature,,,,,,False,,False
+470,/iot_hdc/ae-restapi/DE-46/cnt-timestamp,cnt-timestamp,  timestamp,,,,,,False,,False
+471,/iot_hdc/ae-restapi/DE-47,DE-47,미정 (KETI 예비 IP),,,,,,False,,False
+472,/iot_hdc/ae-restapi/DE-47/cnt-co2,cnt-co2,  co2,,,,,,False,,False
+473,/iot_hdc/ae-restapi/DE-47/cnt-datetime,cnt-datetime,  datetime,,,,,,False,,False
+474,/iot_hdc/ae-restapi/DE-47/cnt-dewpoint,cnt-dewpoint,  dewpoint,,,,,,False,,False
+475,/iot_hdc/ae-restapi/DE-47/cnt-hcho,cnt-hcho,  hcho,,,,,,False,,False
+476,/iot_hdc/ae-restapi/DE-47/cnt-humidity,cnt-humidity,  humidity,,,,,,False,,False
+477,/iot_hdc/ae-restapi/DE-47/cnt-lx,cnt-lx,  lx,,,,,,False,,False
+478,/iot_hdc/ae-restapi/DE-47/cnt-pm1,cnt-pm1,  pm1,,,,,,False,,False
+479,/iot_hdc/ae-restapi/DE-47/cnt-pm10,cnt-pm10,  pm10,,,,,,False,,False
+480,/iot_hdc/ae-restapi/DE-47/cnt-pm25,cnt-pm25,  pm25,,,,,,False,,False
+481,/iot_hdc/ae-restapi/DE-47/cnt-sound,cnt-sound,  sound,,,,,,False,,False
+482,/iot_hdc/ae-restapi/DE-47/cnt-temperature,cnt-temperature,  temperature,,,,,,False,,False
+483,/iot_hdc/ae-restapi/DE-47/cnt-timestamp,cnt-timestamp,  timestamp,,,,,,False,,False
+484,/iot_hdc/ae-restapi/DE-36,DE-36,환경센서 11-1,,ahu11,,,,False,,False
+485,/iot_hdc/ae-restapi/DE-36/AI-1,AI-1,  co2,,ahu11,,,,False,,False
+486,/iot_hdc/ae-restapi/DE-36/AI-2,AI-2,  datetime,,ahu11,,,,False,,False
+487,/iot_hdc/ae-restapi/DE-36/AI-3,AI-3,  dewpoint,,ahu11,,,,False,,False
+488,/iot_hdc/ae-restapi/DE-36/AI-4,AI-4,  hcho,,ahu11,,,,False,,False
+489,/iot_hdc/ae-restapi/DE-36/AI-5,AI-5,  humidity,,ahu11,,,,False,,False
+490,/iot_hdc/ae-restapi/DE-36/AI-6,AI-6,  lx,,ahu11,,,,False,,False
+491,/iot_hdc/ae-restapi/DE-36/AI-7,AI-7,  pm1,,ahu11,,,,False,,False
+492,/iot_hdc/ae-restapi/DE-36/AI-8,AI-8,  pm10,,ahu11,,,,False,,False
+493,/iot_hdc/ae-restapi/DE-36/AI-9,AI-9,  pm25,,ahu11,,,,False,,False
+494,/iot_hdc/ae-restapi/DE-36/AI-10,AI-10,  sound,,ahu11,,,,False,,False
+495,/iot_hdc/ae-restapi/DE-36/AI-11,AI-11,  temperature,,ahu11,,,,False,,False
+496,/iot_hdc/ae-restapi/DE-36/AI-12,AI-12,  timestamp,,ahu11,,,,False,,False
+497,/iot_hdc/ae-restapi/DE-37,DE-37,환경센서 11-2,,ahu11,,,,False,,False
+498,/iot_hdc/ae-restapi/DE-37/AI-1,AI-1,  co2,,ahu11,,,,False,,False
+499,/iot_hdc/ae-restapi/DE-37/AI-2,AI-2,  datetime,,ahu11,,,,False,,False
+500,/iot_hdc/ae-restapi/DE-37/AI-3,AI-3,  dewpoint,,ahu11,,,,False,,False
+501,/iot_hdc/ae-restapi/DE-37/AI-4,AI-4,  hcho,,ahu11,,,,False,,False
+502,/iot_hdc/ae-restapi/DE-37/AI-5,AI-5,  humidity,,ahu11,,,,False,,False
+503,/iot_hdc/ae-restapi/DE-37/AI-6,AI-6,  lx,,ahu11,,,,False,,False
+504,/iot_hdc/ae-restapi/DE-37/AI-7,AI-7,  pm1,,ahu11,,,,False,,False
+505,/iot_hdc/ae-restapi/DE-37/AI-8,AI-8,  pm10,,ahu11,,,,False,,False
+506,/iot_hdc/ae-restapi/DE-37/AI-9,AI-9,  pm25,,ahu11,,,,False,,False
+507,/iot_hdc/ae-restapi/DE-37/AI-10,AI-10,  sound,,ahu11,,,,False,,False
+508,/iot_hdc/ae-restapi/DE-37/AI-11,AI-11,  temperature,,ahu11,,,,False,,False
+509,/iot_hdc/ae-restapi/DE-37/AI-12,AI-12,  timestamp,,ahu11,,,,False,,False
+510,/iot_hdc/ae-restapi/DE-38,DE-38,환경센서 11-3,,ahu11,,,,False,,False
+511,/iot_hdc/ae-restapi/DE-38/AI-1,AI-1,  co2,,ahu11,,,,False,,False
+512,/iot_hdc/ae-restapi/DE-38/AI-2,AI-2,  datetime,,ahu11,,,,False,,False
+513,/iot_hdc/ae-restapi/DE-38/AI-3,AI-3,  dewpoint,,ahu11,,,,False,,False
+514,/iot_hdc/ae-restapi/DE-38/AI-4,AI-4,  hcho,,ahu11,,,,False,,False
+515,/iot_hdc/ae-restapi/DE-38/AI-5,AI-5,  humidity,,ahu11,,,,False,,False
+516,/iot_hdc/ae-restapi/DE-38/AI-6,AI-6,  lx,,ahu11,,,,False,,False
+517,/iot_hdc/ae-restapi/DE-38/AI-7,AI-7,  pm1,,ahu11,,,,False,,False
+518,/iot_hdc/ae-restapi/DE-38/AI-8,AI-8,  pm10,,ahu11,,,,False,,False
+519,/iot_hdc/ae-restapi/DE-38/AI-9,AI-9,  pm25,,ahu11,,,,False,,False
+520,/iot_hdc/ae-restapi/DE-38/AI-10,AI-10,  sound,,ahu11,,,,False,,False
+521,/iot_hdc/ae-restapi/DE-38/AI-11,AI-11,  temperature,,ahu11,,,,False,,False
+522,/iot_hdc/ae-restapi/DE-38/AI-12,AI-12,  timestamp,,ahu11,,,,False,,False
+523,/iot_hdc/ae-restapi/DE-39,DE-39,환경센서 11-4,,ahu11,,,,False,,False
+524,/iot_hdc/ae-restapi/DE-39/AI-1,AI-1,  co2,,ahu11,,,,False,,False
+525,/iot_hdc/ae-restapi/DE-39/AI-2,AI-2,  datetime,,ahu11,,,,False,,False
+526,/iot_hdc/ae-restapi/DE-39/AI-3,AI-3,  dewpoint,,ahu11,,,,False,,False
+527,/iot_hdc/ae-restapi/DE-39/AI-4,AI-4,  hcho,,ahu11,,,,False,,False
+528,/iot_hdc/ae-restapi/DE-39/AI-5,AI-5,  humidity,,ahu11,,,,False,,False
+529,/iot_hdc/ae-restapi/DE-39/AI-6,AI-6,  lx,,ahu11,,,,False,,False
+530,/iot_hdc/ae-restapi/DE-39/AI-7,AI-7,  pm1,,ahu11,,,,False,,False
+531,/iot_hdc/ae-restapi/DE-39/AI-8,AI-8,  pm10,,ahu11,,,,False,,False
+532,/iot_hdc/ae-restapi/DE-39/AI-9,AI-9,  pm25,,ahu11,,,,False,,False
+533,/iot_hdc/ae-restapi/DE-39/AI-10,AI-10,  sound,,ahu11,,,,False,,False
+534,/iot_hdc/ae-restapi/DE-39/AI-11,AI-11,  temperature,,ahu11,,,,False,,False
+535,/iot_hdc/ae-restapi/DE-39/AI-12,AI-12,  timestamp,,ahu11,,,,False,,False
+536,/iot_hdc/ae-restapi/DE-40,DE-40,환경센서 11-5,,ahu11,,,,False,,False
+537,/iot_hdc/ae-restapi/DE-40/AI-1,AI-1,  co2,,ahu11,,,,False,,False
+538,/iot_hdc/ae-restapi/DE-40/AI-2,AI-2,  datetime,,ahu11,,,,False,,False
+539,/iot_hdc/ae-restapi/DE-40/AI-3,AI-3,  dewpoint,,ahu11,,,,False,,False
+540,/iot_hdc/ae-restapi/DE-40/AI-4,AI-4,  hcho,,ahu11,,,,False,,False
+541,/iot_hdc/ae-restapi/DE-40/AI-5,AI-5,  humidity,,ahu11,,,,False,,False
+542,/iot_hdc/ae-restapi/DE-40/AI-6,AI-6,  lx,,ahu11,,,,False,,False
+543,/iot_hdc/ae-restapi/DE-40/AI-7,AI-7,  pm1,,ahu11,,,,False,,False
+544,/iot_hdc/ae-restapi/DE-40/AI-8,AI-8,  pm10,,ahu11,,,,False,,False
+545,/iot_hdc/ae-restapi/DE-40/AI-9,AI-9,  pm25,,ahu11,,,,False,,False
+546,/iot_hdc/ae-restapi/DE-40/AI-10,AI-10,  sound,,ahu11,,,,False,,False
+547,/iot_hdc/ae-restapi/DE-40/AI-11,AI-11,  temperature,,ahu11,,,,False,,False
+548,/iot_hdc/ae-restapi/DE-40/AI-12,AI-12,  timestamp,,ahu11,,,,False,,False
+549,/iot_hdc/ae-restapi/DE-41,DE-41,환경센서 11-6,,ahu11,,,,False,,False
+550,/iot_hdc/ae-restapi/DE-41/AI-1,AI-1,  co2,,ahu11,,,,False,,False
+551,/iot_hdc/ae-restapi/DE-41/AI-2,AI-2,  datetime,,ahu11,,,,False,,False
+552,/iot_hdc/ae-restapi/DE-41/AI-3,AI-3,  dewpoint,,ahu11,,,,False,,False
+553,/iot_hdc/ae-restapi/DE-41/AI-4,AI-4,  hcho,,ahu11,,,,False,,False
+554,/iot_hdc/ae-restapi/DE-41/AI-5,AI-5,  humidity,,ahu11,,,,False,,False
+555,/iot_hdc/ae-restapi/DE-41/AI-6,AI-6,  lx,,ahu11,,,,False,,False
+556,/iot_hdc/ae-restapi/DE-41/AI-7,AI-7,  pm1,,ahu11,,,,False,,False
+557,/iot_hdc/ae-restapi/DE-41/AI-8,AI-8,  pm10,,ahu11,,,,False,,False
+558,/iot_hdc/ae-restapi/DE-41/AI-9,AI-9,  pm25,,ahu11,,,,False,,False
+559,/iot_hdc/ae-restapi/DE-41/AI-10,AI-10,  sound,,ahu11,,,,False,,False
+560,/iot_hdc/ae-restapi/DE-41/AI-11,AI-11,  temperature,,ahu11,,,,False,,False
+561,/iot_hdc/ae-restapi/DE-41/AI-12,AI-12,  timestamp,,ahu11,,,,False,,False
+562,/iot_hdc/ae-restapi/DE-42,DE-42,환경센서 11-7,,ahu11,,,,False,,False
+563,/iot_hdc/ae-restapi/DE-42/AI-1,AI-1,  co2,,ahu11,,,,False,,False
+564,/iot_hdc/ae-restapi/DE-42/AI-2,AI-2,  datetime,,ahu11,,,,False,,False
+565,/iot_hdc/ae-restapi/DE-42/AI-3,AI-3,  dewpoint,,ahu11,,,,False,,False
+566,/iot_hdc/ae-restapi/DE-42/AI-4,AI-4,  hcho,,ahu11,,,,False,,False
+567,/iot_hdc/ae-restapi/DE-42/AI-5,AI-5,  humidity,,ahu11,,,,False,,False
+568,/iot_hdc/ae-restapi/DE-42/AI-6,AI-6,  lx,,ahu11,,,,False,,False
+569,/iot_hdc/ae-restapi/DE-42/AI-7,AI-7,  pm1,,ahu11,,,,False,,False
+570,/iot_hdc/ae-restapi/DE-42/AI-8,AI-8,  pm10,,ahu11,,,,False,,False
+571,/iot_hdc/ae-restapi/DE-42/AI-9,AI-9,  pm25,,ahu11,,,,False,,False
+572,/iot_hdc/ae-restapi/DE-42/AI-10,AI-10,  sound,,ahu11,,,,False,,False
+573,/iot_hdc/ae-restapi/DE-42/AI-11,AI-11,  temperature,,ahu11,,,,False,,False
+574,/iot_hdc/ae-restapi/DE-42/AI-12,AI-12,  timestamp,,ahu11,,,,False,,False
+575,/iot_hdc/ae-restapi/DE-43,DE-43,환경센서 11-8,,ahu11,,,,False,,False
+576,/iot_hdc/ae-restapi/DE-43/AI-1,AI-1,  co2,,ahu11,,,,False,,False
+577,/iot_hdc/ae-restapi/DE-43/AI-2,AI-2,  datetime,,ahu11,,,,False,,False
+578,/iot_hdc/ae-restapi/DE-43/AI-3,AI-3,  dewpoint,,ahu11,,,,False,,False
+579,/iot_hdc/ae-restapi/DE-43/AI-4,AI-4,  hcho,,ahu11,,,,False,,False
+580,/iot_hdc/ae-restapi/DE-43/AI-5,AI-5,  humidity,,ahu11,,,,False,,False
+581,/iot_hdc/ae-restapi/DE-43/AI-6,AI-6,  lx,,ahu11,,,,False,,False
+582,/iot_hdc/ae-restapi/DE-43/AI-7,AI-7,  pm1,,ahu11,,,,False,,False
+583,/iot_hdc/ae-restapi/DE-43/AI-8,AI-8,  pm10,,ahu11,,,,False,,False
+584,/iot_hdc/ae-restapi/DE-43/AI-9,AI-9,  pm25,,ahu11,,,,False,,False
+585,/iot_hdc/ae-restapi/DE-43/AI-10,AI-10,  sound,,ahu11,,,,False,,False
+586,/iot_hdc/ae-restapi/DE-43/AI-11,AI-11,  temperature,,ahu11,,,,False,,False
+587,/iot_hdc/ae-restapi/DE-43/AI-12,AI-12,  timestamp,,ahu11,,,,False,,False
+588,/iot_hdc/ae-restapi/DE-44,DE-44,환경센서 11-9,,ahu11,,,,False,,False
+589,/iot_hdc/ae-restapi/DE-44/AI-1,AI-1,  co2,,ahu11,,,,False,,False
+590,/iot_hdc/ae-restapi/DE-44/AI-2,AI-2,  datetime,,ahu11,,,,False,,False
+591,/iot_hdc/ae-restapi/DE-44/AI-3,AI-3,  dewpoint,,ahu11,,,,False,,False
+592,/iot_hdc/ae-restapi/DE-44/AI-4,AI-4,  hcho,,ahu11,,,,False,,False
+593,/iot_hdc/ae-restapi/DE-44/AI-5,AI-5,  humidity,,ahu11,,,,False,,False
+594,/iot_hdc/ae-restapi/DE-44/AI-6,AI-6,  lx,,ahu11,,,,False,,False
+595,/iot_hdc/ae-restapi/DE-44/AI-7,AI-7,  pm1,,ahu11,,,,False,,False
+596,/iot_hdc/ae-restapi/DE-44/AI-8,AI-8,  pm10,,ahu11,,,,False,,False
+597,/iot_hdc/ae-restapi/DE-44/AI-9,AI-9,  pm25,,ahu11,,,,False,,False
+598,/iot_hdc/ae-restapi/DE-44/AI-10,AI-10,  sound,,ahu11,,,,False,,False
+599,/iot_hdc/ae-restapi/DE-44/AI-11,AI-11,  temperature,,ahu11,,,,False,,False
+600,/iot_hdc/ae-restapi/DE-44/AI-12,AI-12,  timestamp,,ahu11,,,,False,,False
+601,/iot_hdc/ae-restapi/DE-45,DE-45,환경센서 11-10,,ahu11,,,,False,,False
+602,/iot_hdc/ae-restapi/DE-45/AI-1,AI-1,  co2,,ahu11,,,,False,,False
+603,/iot_hdc/ae-restapi/DE-45/AI-2,AI-2,  datetime,,ahu11,,,,False,,False
+604,/iot_hdc/ae-restapi/DE-45/AI-3,AI-3,  dewpoint,,ahu11,,,,False,,False
+605,/iot_hdc/ae-restapi/DE-45/AI-4,AI-4,  hcho,,ahu11,,,,False,,False
+606,/iot_hdc/ae-restapi/DE-45/AI-5,AI-5,  humidity,,ahu11,,,,False,,False
+607,/iot_hdc/ae-restapi/DE-45/AI-6,AI-6,  lx,,ahu11,,,,False,,False
+608,/iot_hdc/ae-restapi/DE-45/AI-7,AI-7,  pm1,,ahu11,,,,False,,False
+609,/iot_hdc/ae-restapi/DE-45/AI-8,AI-8,  pm10,,ahu11,,,,False,,False
+610,/iot_hdc/ae-restapi/DE-45/AI-9,AI-9,  pm25,,ahu11,,,,False,,False
+611,/iot_hdc/ae-restapi/DE-45/AI-10,AI-10,  sound,,ahu11,,,,False,,False
+612,/iot_hdc/ae-restapi/DE-45/AI-11,AI-11,  temperature,,ahu11,,,,False,,False
+613,/iot_hdc/ae-restapi/DE-45/AI-12,AI-12,  timestamp,,ahu11,,,,False,,False
+614,/iot_hdc/ae-restapi/DE-46,DE-46,환경센서 11-11,,ahu11,,,,False,,False
+615,/iot_hdc/ae-restapi/DE-46/AI-1,AI-1,  co2,,ahu11,,,,False,,False
+616,/iot_hdc/ae-restapi/DE-46/AI-2,AI-2,  datetime,,ahu11,,,,False,,False
+617,/iot_hdc/ae-restapi/DE-46/AI-3,AI-3,  dewpoint,,ahu11,,,,False,,False
+618,/iot_hdc/ae-restapi/DE-46/AI-4,AI-4,  hcho,,ahu11,,,,False,,False
+619,/iot_hdc/ae-restapi/DE-46/AI-5,AI-5,  humidity,,ahu11,,,,False,,False
+620,/iot_hdc/ae-restapi/DE-46/AI-6,AI-6,  lx,,ahu11,,,,False,,False
+621,/iot_hdc/ae-restapi/DE-46/AI-7,AI-7,  pm1,,ahu11,,,,False,,False
+622,/iot_hdc/ae-restapi/DE-46/AI-8,AI-8,  pm10,,ahu11,,,,False,,False
+623,/iot_hdc/ae-restapi/DE-46/AI-9,AI-9,  pm25,,ahu11,,,,False,,False
+624,/iot_hdc/ae-restapi/DE-46/AI-10,AI-10,  sound,,ahu11,,,,False,,False
+625,/iot_hdc/ae-restapi/DE-46/AI-11,AI-11,  temperature,,ahu11,,,,False,,False
+626,/iot_hdc/ae-restapi/DE-46/AI-12,AI-12,  timestamp,,ahu11,,,,False,,False
+627,/iot_hdc/ae-restapi1/DE-200,DE-200,space_edge 9-1,Ipark 9층 1번존 - s_num : es1210800028,ahu9,,,,False,,False
+628,/iot_hdc/ae-restapi1/DE-200/AI-1,AI-1,temp,온도 (℃),ahu9,,,,False,,False
+629,/iot_hdc/ae-restapi1/DE-200/AI-2,AI-2,humi,상대습도 (%),ahu9,,,,False,,False
+630,/iot_hdc/ae-restapi1/DE-200/AI-3,AI-3,co2,이산화탄소 (ppm),ahu9,,,,False,,False
+631,/iot_hdc/ae-restapi1/DE-200/AI-4,AI-4,dust_pm_1,극초미세먼지 - PM1 (㎍/㎥),ahu9,,,,False,,False
+632,/iot_hdc/ae-restapi1/DE-200/AI-5,AI-5,dust_pm_25,초미세먼지 - PM2.5 (㎍/㎥),ahu9,,,,False,,False
+633,/iot_hdc/ae-restapi1/DE-200/AI-6,AI-6,dust_om_10,미세먼지 - PM10 (㎍/㎥),ahu9,,,,False,,False
+634,/iot_hdc/ae-restapi1/DE-200/AI-7,AI-7,voc,VOCs - 휘발성유기화합물 (ppb),ahu9,,,,False,,False
+635,/iot_hdc/ae-restapi1/DE-200/AI-8,AI-8,in_room,"PIR(재실 감지)센서 (0:부재, 1:재실) ",ahu9,,,,False,,False
+636,/iot_hdc/ae-restapi1/DE-200/AI-9,AI-9,regdate,데이터 저장 시간(yyyy-MM-dd HH-mm:ss),ahu9,,,,False,,False
+637,/iot_hdc/ae-restapi1/DE-200/BI-10,BI-10,status,"유선 공기청정기 상태 (0: off, 1: on)",ahu9,,,,False,,False
+638,/iot_hdc/ae-restapi1/DE-201,DE-201,space_edge 9-2,Ipark 9층 2번존- s_num : es1210800096,ahu9,,,,False,,False
+639,/iot_hdc/ae-restapi1/DE-201/AI-1,AI-1,temp,온도 (℃),ahu9,,,,False,,False
+640,/iot_hdc/ae-restapi1/DE-201/AI-2,AI-2,humi,상대습도 (%),ahu9,,,,False,,False
+641,/iot_hdc/ae-restapi1/DE-201/AI-3,AI-3,co2,이산화탄소 (ppm),ahu9,,,,False,,False
+642,/iot_hdc/ae-restapi1/DE-201/AI-4,AI-4,dust_pm_1,극초미세먼지 - PM1 (㎍/㎥),ahu9,,,,False,,False
+643,/iot_hdc/ae-restapi1/DE-201/AI-5,AI-5,dust_pm_25,초미세먼지 - PM2.5 (㎍/㎥),ahu9,,,,False,,False
+644,/iot_hdc/ae-restapi1/DE-201/AI-6,AI-6,dust_om_10,미세먼지 - PM10 (㎍/㎥),ahu9,,,,False,,False
+645,/iot_hdc/ae-restapi1/DE-201/AI-7,AI-7,voc,VOCs - 휘발성유기화합물 (ppb),ahu9,,,,False,,False
+646,/iot_hdc/ae-restapi1/DE-201/AI-8,AI-8,in_room,"PIR(재실 감지)센서 (0:부재, 1:재실) ",ahu9,,,,False,,False
+647,/iot_hdc/ae-restapi1/DE-201/AI-9,AI-9,regdate,데이터 저장 시간(yyyy-MM-dd HH-mm:ss),ahu9,,,,False,,False
+648,/iot_hdc/ae-restapi1/DE-202,DE-202,space_edge 9-3,Ipark 9층 3번존 - s_num : es1210800062,ahu9,,,,False,,False
+649,/iot_hdc/ae-restapi1/DE-202/AI-1,AI-1,temp,온도 (℃),ahu9,,,,False,,False
+650,/iot_hdc/ae-restapi1/DE-202/AI-2,AI-2,humi,상대습도 (%),ahu9,,,,False,,False
+651,/iot_hdc/ae-restapi1/DE-202/AI-3,AI-3,co2,이산화탄소 (ppm),ahu9,,,,False,,False
+652,/iot_hdc/ae-restapi1/DE-202/AI-4,AI-4,dust_pm_1,극초미세먼지 - PM1 (㎍/㎥),ahu9,,,,False,,False
+653,/iot_hdc/ae-restapi1/DE-202/AI-5,AI-5,dust_pm_25,초미세먼지 - PM2.5 (㎍/㎥),ahu9,,,,False,,False
+654,/iot_hdc/ae-restapi1/DE-202/AI-6,AI-6,dust_om_10,미세먼지 - PM10 (㎍/㎥),ahu9,,,,False,,False
+655,/iot_hdc/ae-restapi1/DE-202/AI-7,AI-7,voc,VOCs - 휘발성유기화합물 (ppb),ahu9,,,,False,,False
+656,/iot_hdc/ae-restapi1/DE-202/AI-8,AI-8,in_room,"PIR(재실 감지)센서 (0:부재, 1:재실) ",ahu9,,,,False,,False
+657,/iot_hdc/ae-restapi1/DE-202/AI-9,AI-9,regdate,데이터 저장 시간(yyyy-MM-dd HH-mm:ss),ahu9,,,,False,,False
+658,/iot_hdc/ae-restapi1/DE-202/BI-10,BI-10,status,"유선 공기청정기 상태 (0: off, 1: on)",ahu9,,,,False,,False
+659,/iot_hdc/ae-restapi1/DE-203,DE-203,space_edge 9-4,Ipark 9층 4번존 - s_num : es1210800067,ahu9,,,,False,,False
+660,/iot_hdc/ae-restapi1/DE-203/AI-1,AI-1,temp,온도 (℃),ahu9,,,,False,,False
+661,/iot_hdc/ae-restapi1/DE-203/AI-2,AI-2,humi,상대습도 (%),ahu9,,,,False,,False
+662,/iot_hdc/ae-restapi1/DE-203/AI-3,AI-3,co2,이산화탄소 (ppm),ahu9,,,,False,,False
+663,/iot_hdc/ae-restapi1/DE-203/AI-4,AI-4,dust_pm_1,극초미세먼지 - PM1 (㎍/㎥),ahu9,,,,False,,False
+664,/iot_hdc/ae-restapi1/DE-203/AI-5,AI-5,dust_pm_25,초미세먼지 - PM2.5 (㎍/㎥),ahu9,,,,False,,False
+665,/iot_hdc/ae-restapi1/DE-203/AI-6,AI-6,dust_om_10,미세먼지 - PM10 (㎍/㎥),ahu9,,,,False,,False
+666,/iot_hdc/ae-restapi1/DE-203/AI-7,AI-7,voc,VOCs - 휘발성유기화합물 (ppb),ahu9,,,,False,,False
+667,/iot_hdc/ae-restapi1/DE-203/AI-8,AI-8,in_room,"PIR(재실 감지)센서 (0:부재, 1:재실) ",ahu9,,,,False,,False
+668,/iot_hdc/ae-restapi1/DE-203/AI-9,AI-9,regdate,데이터 저장 시간(yyyy-MM-dd HH-mm:ss),ahu9,,,,False,,False
+669,/iot_hdc/ae-restapi1/DE-204,DE-204,space_edge 9-5,Ipark 9층 5번존 - s_num : es1210800076,ahu9,,,,False,,False
+670,/iot_hdc/ae-restapi1/DE-204/AI-1,AI-1,temp,온도 (℃),ahu9,,,,False,,False
+671,/iot_hdc/ae-restapi1/DE-204/AI-2,AI-2,humi,상대습도 (%),ahu9,,,,False,,False
+672,/iot_hdc/ae-restapi1/DE-204/AI-3,AI-3,co2,이산화탄소 (ppm),ahu9,,,,False,,False
+673,/iot_hdc/ae-restapi1/DE-204/AI-4,AI-4,dust_pm_1,극초미세먼지 - PM1 (㎍/㎥),ahu9,,,,False,,False
+674,/iot_hdc/ae-restapi1/DE-204/AI-5,AI-5,dust_pm_25,초미세먼지 - PM2.5 (㎍/㎥),ahu9,,,,False,,False
+675,/iot_hdc/ae-restapi1/DE-204/AI-6,AI-6,dust_om_10,미세먼지 - PM10 (㎍/㎥),ahu9,,,,False,,False
+676,/iot_hdc/ae-restapi1/DE-204/AI-7,AI-7,voc,VOCs - 휘발성유기화합물 (ppb),ahu9,,,,False,,False
+677,/iot_hdc/ae-restapi1/DE-204/AI-8,AI-8,in_room,"PIR(재실 감지)센서 (0:부재, 1:재실) ",ahu9,,,,False,,False
+678,/iot_hdc/ae-restapi1/DE-204/AI-9,AI-9,regdate,데이터 저장 시간(yyyy-MM-dd HH-mm:ss),ahu9,,,,False,,False
+679,/iot_hdc/ae-restapi1/DE-204/BI-10,BI-10,status,"유선 공기청정기 상태 (0: off, 1: on)",ahu9,,,,False,,False
+680,/iot_hdc/ae-restapi1/DE-205,DE-205,space_edge 9-6,Ipark 9층 6번존 - s_num : es1210800090,ahu9,,,,False,,False
+681,/iot_hdc/ae-restapi1/DE-205/AI-1,AI-1,temp,온도 (℃),ahu9,,,,False,,False
+682,/iot_hdc/ae-restapi1/DE-205/AI-2,AI-2,humi,상대습도 (%),ahu9,,,,False,,False
+683,/iot_hdc/ae-restapi1/DE-205/AI-3,AI-3,co2,이산화탄소 (ppm),ahu9,,,,False,,False
+684,/iot_hdc/ae-restapi1/DE-205/AI-4,AI-4,dust_pm_1,극초미세먼지 - PM1 (㎍/㎥),ahu9,,,,False,,False
+685,/iot_hdc/ae-restapi1/DE-205/AI-5,AI-5,dust_pm_25,초미세먼지 - PM2.5 (㎍/㎥),ahu9,,,,False,,False
+686,/iot_hdc/ae-restapi1/DE-205/AI-6,AI-6,dust_om_10,미세먼지 - PM10 (㎍/㎥),ahu9,,,,False,,False
+687,/iot_hdc/ae-restapi1/DE-205/AI-7,AI-7,voc,VOCs - 휘발성유기화합물 (ppb),ahu9,,,,False,,False
+688,/iot_hdc/ae-restapi1/DE-205/AI-8,AI-8,in_room,"PIR(재실 감지)센서 (0:부재, 1:재실) ",ahu9,,,,False,,False
+689,/iot_hdc/ae-restapi1/DE-205/AI-9,AI-9,regdate,데이터 저장 시간(yyyy-MM-dd HH-mm:ss),ahu9,,,,False,,False
+690,/iot_hdc/ae-restapi1/DE-205/BI-10,BI-10,status,"유선 공기청정기 상태 (0: off, 1: on)",ahu9,,,,False,,False
+691,/iot_hdc/ae-restapi1/DE-206,DE-206,space_edge 9-7,Ipark 9층 7번존 - s_num : es1210800057,ahu9,,,,False,,False
+692,/iot_hdc/ae-restapi1/DE-206/AI-1,AI-1,temp,온도 (℃),ahu9,,,,False,,False
+693,/iot_hdc/ae-restapi1/DE-206/AI-2,AI-2,humi,상대습도 (%),ahu9,,,,False,,False
+694,/iot_hdc/ae-restapi1/DE-206/AI-3,AI-3,co2,이산화탄소 (ppm),ahu9,,,,False,,False
+695,/iot_hdc/ae-restapi1/DE-206/AI-4,AI-4,dust_pm_1,극초미세먼지 - PM1 (㎍/㎥),ahu9,,,,False,,False
+696,/iot_hdc/ae-restapi1/DE-206/AI-5,AI-5,dust_pm_25,초미세먼지 - PM2.5 (㎍/㎥),ahu9,,,,False,,False
+697,/iot_hdc/ae-restapi1/DE-206/AI-6,AI-6,dust_om_10,미세먼지 - PM10 (㎍/㎥),ahu9,,,,False,,False
+698,/iot_hdc/ae-restapi1/DE-206/AI-7,AI-7,voc,VOCs - 휘발성유기화합물 (ppb),ahu9,,,,False,,False
+699,/iot_hdc/ae-restapi1/DE-206/AI-8,AI-8,in_room,"PIR(재실 감지)센서 (0:부재, 1:재실) ",ahu9,,,,False,,False
+700,/iot_hdc/ae-restapi1/DE-206/AI-9,AI-9,regdate,데이터 저장 시간(yyyy-MM-dd HH-mm:ss),ahu9,,,,False,,False
+701,/iot_hdc/ae-restapi1/DE-207,DE-207,space_edge 9-8,Ipark 9층 8번존 - s_num : es1210800005,ahu9,,,,False,,False
+702,/iot_hdc/ae-restapi1/DE-207/AI-1,AI-1,temp,온도 (℃),ahu9,,,,False,,False
+703,/iot_hdc/ae-restapi1/DE-207/AI-2,AI-2,humi,상대습도 (%),ahu9,,,,False,,False
+704,/iot_hdc/ae-restapi1/DE-207/AI-3,AI-3,co2,이산화탄소 (ppm),ahu9,,,,False,,False
+705,/iot_hdc/ae-restapi1/DE-207/AI-4,AI-4,dust_pm_1,극초미세먼지 - PM1 (㎍/㎥),ahu9,,,,False,,False
+706,/iot_hdc/ae-restapi1/DE-207/AI-5,AI-5,dust_pm_25,초미세먼지 - PM2.5 (㎍/㎥),ahu9,,,,False,,False
+707,/iot_hdc/ae-restapi1/DE-207/AI-6,AI-6,dust_om_10,미세먼지 - PM10 (㎍/㎥),ahu9,,,,False,,False
+708,/iot_hdc/ae-restapi1/DE-207/AI-7,AI-7,voc,VOCs - 휘발성유기화합물 (ppb),ahu9,,,,False,,False
+709,/iot_hdc/ae-restapi1/DE-207/AI-8,AI-8,in_room,"PIR(재실 감지)센서 (0:부재, 1:재실) ",ahu9,,,,False,,False
+710,/iot_hdc/ae-restapi1/DE-207/AI-9,AI-9,regdate,데이터 저장 시간(yyyy-MM-dd HH-mm:ss),ahu9,,,,False,,False
+711,/iot_hdc/ae-restapi1/DE-208,DE-208,space_edge 9-9,Ipark 9층 9번존 - s_num : es1210800004,ahu9,,,,False,,False
+712,/iot_hdc/ae-restapi1/DE-208/AI-1,AI-1,temp,온도 (℃),ahu9,,,,False,,False
+713,/iot_hdc/ae-restapi1/DE-208/AI-2,AI-2,humi,상대습도 (%),ahu9,,,,False,,False
+714,/iot_hdc/ae-restapi1/DE-208/AI-3,AI-3,co2,이산화탄소 (ppm),ahu9,,,,False,,False
+715,/iot_hdc/ae-restapi1/DE-208/AI-4,AI-4,dust_pm_1,극초미세먼지 - PM1 (㎍/㎥),ahu9,,,,False,,False
+716,/iot_hdc/ae-restapi1/DE-208/AI-5,AI-5,dust_pm_25,초미세먼지 - PM2.5 (㎍/㎥),ahu9,,,,False,,False
+717,/iot_hdc/ae-restapi1/DE-208/AI-6,AI-6,dust_om_10,미세먼지 - PM10 (㎍/㎥),ahu9,,,,False,,False
+718,/iot_hdc/ae-restapi1/DE-208/AI-7,AI-7,voc,VOCs - 휘발성유기화합물 (ppb),ahu9,,,,False,,False
+719,/iot_hdc/ae-restapi1/DE-208/AI-8,AI-8,in_room,"PIR(재실 감지)센서 (0:부재, 1:재실) ",ahu9,,,,False,,False
+720,/iot_hdc/ae-restapi1/DE-208/AI-9,AI-9,regdate,데이터 저장 시간(yyyy-MM-dd HH-mm:ss),ahu9,,,,False,,False
+721,/iot_hdc/ae-restapi1/DE-209,DE-209,space_edge 9-10,Ipark 9층 10번존 - s_num : es1210800089,ahu9,,,,False,,False
+722,/iot_hdc/ae-restapi1/DE-209/AI-1,AI-1,temp,온도 (℃),ahu9,,,,False,,False
+723,/iot_hdc/ae-restapi1/DE-209/AI-2,AI-2,humi,상대습도 (%),ahu9,,,,False,,False
+724,/iot_hdc/ae-restapi1/DE-209/AI-3,AI-3,co2,이산화탄소 (ppm),ahu9,,,,False,,False
+725,/iot_hdc/ae-restapi1/DE-209/AI-4,AI-4,dust_pm_1,극초미세먼지 - PM1 (㎍/㎥),ahu9,,,,False,,False
+726,/iot_hdc/ae-restapi1/DE-209/AI-5,AI-5,dust_pm_25,초미세먼지 - PM2.5 (㎍/㎥),ahu9,,,,False,,False
+727,/iot_hdc/ae-restapi1/DE-209/AI-6,AI-6,dust_om_10,미세먼지 - PM10 (㎍/㎥),ahu9,,,,False,,False
+728,/iot_hdc/ae-restapi1/DE-209/AI-7,AI-7,voc,VOCs - 휘발성유기화합물 (ppb),ahu9,,,,False,,False
+729,/iot_hdc/ae-restapi1/DE-209/AI-8,AI-8,in_room,"PIR(재실 감지)센서 (0:부재, 1:재실) ",ahu9,,,,False,,False
+730,/iot_hdc/ae-restapi1/DE-209/AI-9,AI-9,regdate,데이터 저장 시간(yyyy-MM-dd HH-mm:ss),ahu9,,,,False,,False
+731,/iot_hdc/ae-restapi1/DE-210,DE-210,space_edge 9-11,Ipark 9층 11번존 - s_num : es1210800045,ahu9,,,,False,,False
+732,/iot_hdc/ae-restapi1/DE-210/AI-1,AI-1,temp,온도 (℃),ahu9,,,,False,,False
+733,/iot_hdc/ae-restapi1/DE-210/AI-2,AI-2,humi,상대습도 (%),ahu9,,,,False,,False
+734,/iot_hdc/ae-restapi1/DE-210/AI-3,AI-3,co2,이산화탄소 (ppm),ahu9,,,,False,,False
+735,/iot_hdc/ae-restapi1/DE-210/AI-4,AI-4,dust_pm_1,극초미세먼지 - PM1 (㎍/㎥),ahu9,,,,False,,False
+736,/iot_hdc/ae-restapi1/DE-210/AI-5,AI-5,dust_pm_25,초미세먼지 - PM2.5 (㎍/㎥),ahu9,,,,False,,False
+737,/iot_hdc/ae-restapi1/DE-210/AI-6,AI-6,dust_om_10,미세먼지 - PM10 (㎍/㎥),ahu9,,,,False,,False
+738,/iot_hdc/ae-restapi1/DE-210/AI-7,AI-7,voc,VOCs - 휘발성유기화합물 (ppb),ahu9,,,,False,,False
+739,/iot_hdc/ae-restapi1/DE-210/AI-8,AI-8,in_room,"PIR(재실 감지)센서 (0:부재, 1:재실) ",ahu9,,,,False,,False
+740,/iot_hdc/ae-restapi1/DE-210/AI-9,AI-9,regdate,데이터 저장 시간(yyyy-MM-dd HH-mm:ss),ahu9,,,,False,,False
+741,/iot_hdc/ae-restapi1/DE-211,DE-211,space_edge 9-12,Ipark 9층 12번존 - s_num : es1210800007,ahu9,,,,False,,False
+742,/iot_hdc/ae-restapi1/DE-211/AI-1,AI-1,temp,온도 (℃),ahu9,,,,False,,False
+743,/iot_hdc/ae-restapi1/DE-211/AI-2,AI-2,humi,상대습도 (%),ahu9,,,,False,,False
+744,/iot_hdc/ae-restapi1/DE-211/AI-3,AI-3,co2,이산화탄소 (ppm),ahu9,,,,False,,False
+745,/iot_hdc/ae-restapi1/DE-211/AI-4,AI-4,dust_pm_1,극초미세먼지 - PM1 (㎍/㎥),ahu9,,,,False,,False
+746,/iot_hdc/ae-restapi1/DE-211/AI-5,AI-5,dust_pm_25,초미세먼지 - PM2.5 (㎍/㎥),ahu9,,,,False,,False
+747,/iot_hdc/ae-restapi1/DE-211/AI-6,AI-6,dust_om_10,미세먼지 - PM10 (㎍/㎥),ahu9,,,,False,,False
+748,/iot_hdc/ae-restapi1/DE-211/AI-7,AI-7,voc,VOCs - 휘발성유기화합물 (ppb),ahu9,,,,False,,False
+749,/iot_hdc/ae-restapi1/DE-211/AI-8,AI-8,in_room,"PIR(재실 감지)센서 (0:부재, 1:재실) ",ahu9,,,,False,,False
+750,/iot_hdc/ae-restapi1/DE-211/AI-9,AI-9,regdate,데이터 저장 시간(yyyy-MM-dd HH-mm:ss),ahu9,,,,False,,False
+751,/iot_hdc/ae-restapi1/DE-211/BI-10,BI-10,status,"유선 공기청정기 상태 (0: off, 1: on)",ahu9,,,,False,,False
+752,/iot_hdc/ae-restapi1/DE-212,DE-212,space_edge 9-13,Ipark 9층 13번존 - s_num : es121080000d,ahu9,,,,False,,False
+753,/iot_hdc/ae-restapi1/DE-212/AI-1,AI-1,temp,온도 (℃),ahu9,,,,False,,False
+754,/iot_hdc/ae-restapi1/DE-212/AI-2,AI-2,humi,상대습도 (%),ahu9,,,,False,,False
+755,/iot_hdc/ae-restapi1/DE-212/AI-3,AI-3,co2,이산화탄소 (ppm),ahu9,,,,False,,False
+756,/iot_hdc/ae-restapi1/DE-212/AI-4,AI-4,dust_pm_1,극초미세먼지 - PM1 (㎍/㎥),ahu9,,,,False,,False
+757,/iot_hdc/ae-restapi1/DE-212/AI-5,AI-5,dust_pm_25,초미세먼지 - PM2.5 (㎍/㎥),ahu9,,,,False,,False
+758,/iot_hdc/ae-restapi1/DE-212/AI-6,AI-6,dust_om_10,미세먼지 - PM10 (㎍/㎥),ahu9,,,,False,,False
+759,/iot_hdc/ae-restapi1/DE-212/AI-7,AI-7,voc,VOCs - 휘발성유기화합물 (ppb),ahu9,,,,False,,False
+760,/iot_hdc/ae-restapi1/DE-212/AI-8,AI-8,in_room,"PIR(재실 감지)센서 (0:부재, 1:재실) ",ahu9,,,,False,,False
+761,/iot_hdc/ae-restapi1/DE-212/AI-9,AI-9,regdate,데이터 저장 시간(yyyy-MM-dd HH-mm:ss),ahu9,,,,False,,False
+762,/iot_hdc/ae-restapi1/DE-212/BI-10,BI-10,status,"유선 공기청정기 상태 (0: off, 1: on)",ahu9,,,,False,,False
+763,/iot_hdc/ae-restapi1/DE-213,DE-213,space_edge 9-14,Ipark 9층 3번존 실내기(중앙대) - s_num : es121080000a,ahu9,,,,False,,False
+764,/iot_hdc/ae-restapi1/DE-213/AI-1,AI-1,temp,온도 (℃),ahu9,,,,False,,False
+765,/iot_hdc/ae-restapi1/DE-213/AI-2,AI-2,humi,상대습도 (%),ahu9,,,,False,,False
+766,/iot_hdc/ae-restapi1/DE-213/AI-3,AI-3,co2,이산화탄소 (ppm),ahu9,,,,False,,False
+767,/iot_hdc/ae-restapi1/DE-213/AI-4,AI-4,dust_pm_1,극초미세먼지 - PM1 (㎍/㎥),ahu9,,,,False,,False
+768,/iot_hdc/ae-restapi1/DE-213/AI-5,AI-5,dust_pm_25,초미세먼지 - PM2.5 (㎍/㎥),ahu9,,,,False,,False
+769,/iot_hdc/ae-restapi1/DE-213/AI-6,AI-6,dust_om_10,미세먼지 - PM10 (㎍/㎥),ahu9,,,,False,,False
+770,/iot_hdc/ae-restapi1/DE-213/AI-7,AI-7,voc,VOCs - 휘발성유기화합물 (ppb),ahu9,,,,False,,False
+771,/iot_hdc/ae-restapi1/DE-213/AI-8,AI-8,in_room,"PIR(재실 감지)센서 (0:부재, 1:재실) ",ahu9,,,,False,,False
+772,/iot_hdc/ae-restapi1/DE-213/AI-9,AI-9,regdate,데이터 저장 시간(yyyy-MM-dd HH-mm:ss),ahu9,,,,False,,False
+773,/iot_hdc/ae-restapi1/DE-214,DE-214,space_edge 9-15,Ipark 9층 6번존 실내기(중앙대) - s_num : es121080000g,ahu9,,,,False,,False
+774,/iot_hdc/ae-restapi1/DE-214/AI-1,AI-1,temp,온도 (℃),ahu9,,,,False,,False
+775,/iot_hdc/ae-restapi1/DE-214/AI-2,AI-2,humi,상대습도 (%),ahu9,,,,False,,False
+776,/iot_hdc/ae-restapi1/DE-214/AI-3,AI-3,co2,이산화탄소 (ppm),ahu9,,,,False,,False
+777,/iot_hdc/ae-restapi1/DE-214/AI-4,AI-4,dust_pm_1,극초미세먼지 - PM1 (㎍/㎥),ahu9,,,,False,,False
+778,/iot_hdc/ae-restapi1/DE-214/AI-5,AI-5,dust_pm_25,초미세먼지 - PM2.5 (㎍/㎥),ahu9,,,,False,,False
+779,/iot_hdc/ae-restapi1/DE-214/AI-6,AI-6,dust_om_10,미세먼지 - PM10 (㎍/㎥),ahu9,,,,False,,False
+780,/iot_hdc/ae-restapi1/DE-214/AI-7,AI-7,voc,VOCs - 휘발성유기화합물 (ppb),ahu9,,,,False,,False
+781,/iot_hdc/ae-restapi1/DE-214/AI-8,AI-8,in_room,"PIR(재실 감지)센서 (0:부재, 1:재실) ",ahu9,,,,False,,False
+782,/iot_hdc/ae-restapi1/DE-214/AI-9,AI-9,regdate,데이터 저장 시간(yyyy-MM-dd HH-mm:ss),ahu9,,,,False,,False
+783,/iot_hdc/ae-restapi1/DE-215,DE-215,space_edge 9-16,"Ipark 9층 6번존 라인디퓨저(중앙대, 세종대) - s_num : es1210800013",ahu9,,,,False,,False
+784,/iot_hdc/ae-restapi1/DE-215/AI-1,AI-1,temp,온도 (℃),ahu9,,,,False,,False
+785,/iot_hdc/ae-restapi1/DE-215/AI-2,AI-2,humi,상대습도 (%),ahu9,,,,False,,False
+786,/iot_hdc/ae-restapi1/DE-215/AI-3,AI-3,co2,이산화탄소 (ppm),ahu9,,,,False,,False
+787,/iot_hdc/ae-restapi1/DE-215/AI-4,AI-4,dust_pm_1,극초미세먼지 - PM1 (㎍/㎥),ahu9,,,,False,,False
+788,/iot_hdc/ae-restapi1/DE-215/AI-5,AI-5,dust_pm_25,초미세먼지 - PM2.5 (㎍/㎥),ahu9,,,,False,,False
+789,/iot_hdc/ae-restapi1/DE-215/AI-6,AI-6,dust_om_10,미세먼지 - PM10 (㎍/㎥),ahu9,,,,False,,False
+790,/iot_hdc/ae-restapi1/DE-215/AI-7,AI-7,voc,VOCs - 휘발성유기화합물 (ppb),ahu9,,,,False,,False
+791,/iot_hdc/ae-restapi1/DE-215/AI-8,AI-8,in_room,"PIR(재실 감지)센서 (0:부재, 1:재실) ",ahu9,,,,False,,False
+792,/iot_hdc/ae-restapi1/DE-215/AI-9,AI-9,regdate,데이터 저장 시간(yyyy-MM-dd HH-mm:ss),ahu9,,,,False,,False
+793,/iot_hdc/ae-restapi1/DE-216,DE-216,space_edge 9-17,Ipark 9층 12번존 덕트(세종대) - s_num : es1210800084,ahu9,,,,False,,False
+794,/iot_hdc/ae-restapi1/DE-216/AI-1,AI-1,temp,온도 (℃),ahu9,,,,False,,False
+795,/iot_hdc/ae-restapi1/DE-216/AI-2,AI-2,humi,상대습도 (%),ahu9,,,,False,,False
+796,/iot_hdc/ae-restapi1/DE-216/AI-3,AI-3,co2,이산화탄소 (ppm),ahu9,,,,False,,False
+797,/iot_hdc/ae-restapi1/DE-216/AI-4,AI-4,dust_pm_1,극초미세먼지 - PM1 (㎍/㎥),ahu9,,,,False,,False
+798,/iot_hdc/ae-restapi1/DE-216/AI-5,AI-5,dust_pm_25,초미세먼지 - PM2.5 (㎍/㎥),ahu9,,,,False,,False
+799,/iot_hdc/ae-restapi1/DE-216/AI-6,AI-6,dust_om_10,미세먼지 - PM10 (㎍/㎥),ahu9,,,,False,,False
+800,/iot_hdc/ae-restapi1/DE-216/AI-7,AI-7,voc,VOCs - 휘발성유기화합물 (ppb),ahu9,,,,False,,False
+801,/iot_hdc/ae-restapi1/DE-216/AI-8,AI-8,in_room,"PIR(재실 감지)센서 (0:부재, 1:재실) ",ahu9,,,,False,,False
+802,/iot_hdc/ae-restapi1/DE-216/AI-9,AI-9,regdate,데이터 저장 시간(yyyy-MM-dd HH-mm:ss),ahu9,,,,False,,False
+803,/iot_hdc/ae-restapi1/DE-217,DE-217,space_edge 11-1,Ipark 11층 1번존 - s_num : es1210800056,ahu11,,,,False,,False
+804,/iot_hdc/ae-restapi1/DE-217/AI-1,AI-1,temp,온도 (℃),ahu11,,,,False,,False
+805,/iot_hdc/ae-restapi1/DE-217/AI-2,AI-2,humi,상대습도 (%),ahu11,,,,False,,False
+806,/iot_hdc/ae-restapi1/DE-217/AI-3,AI-3,co2,이산화탄소 (ppm),ahu11,,,,False,,False
+807,/iot_hdc/ae-restapi1/DE-217/AI-4,AI-4,dust_pm_1,극초미세먼지 - PM1 (㎍/㎥),ahu11,,,,False,,False
+808,/iot_hdc/ae-restapi1/DE-217/AI-5,AI-5,dust_pm_25,초미세먼지 - PM2.5 (㎍/㎥),ahu11,,,,False,,False
+809,/iot_hdc/ae-restapi1/DE-217/AI-6,AI-6,dust_om_10,미세먼지 - PM10 (㎍/㎥),ahu11,,,,False,,False
+810,/iot_hdc/ae-restapi1/DE-217/AI-7,AI-7,voc,VOCs - 휘발성유기화합물 (ppb),ahu11,,,,False,,False
+811,/iot_hdc/ae-restapi1/DE-217/AI-8,AI-8,in_room,"PIR(재실 감지)센서 (0:부재, 1:재실) ",ahu11,,,,False,,False
+812,/iot_hdc/ae-restapi1/DE-217/AI-9,AI-9,regdate,데이터 저장 시간(yyyy-MM-dd HH-mm:ss),ahu11,,,,False,,False
+813,/iot_hdc/ae-restapi1/DE-218,DE-218,space_edge 11-2,Ipark 11층 2번존 - s_num : es1210800080,ahu11,,,,False,,False
+814,/iot_hdc/ae-restapi1/DE-218/AI-1,AI-1,temp,온도 (℃),ahu11,,,,False,,False
+815,/iot_hdc/ae-restapi1/DE-218/AI-2,AI-2,humi,상대습도 (%),ahu11,,,,False,,False
+816,/iot_hdc/ae-restapi1/DE-218/AI-3,AI-3,co2,이산화탄소 (ppm),ahu11,,,,False,,False
+817,/iot_hdc/ae-restapi1/DE-218/AI-4,AI-4,dust_pm_1,극초미세먼지 - PM1 (㎍/㎥),ahu11,,,,False,,False
+818,/iot_hdc/ae-restapi1/DE-218/AI-5,AI-5,dust_pm_25,초미세먼지 - PM2.5 (㎍/㎥),ahu11,,,,False,,False
+819,/iot_hdc/ae-restapi1/DE-218/AI-6,AI-6,dust_om_10,미세먼지 - PM10 (㎍/㎥),ahu11,,,,False,,False
+820,/iot_hdc/ae-restapi1/DE-218/AI-7,AI-7,voc,VOCs - 휘발성유기화합물 (ppb),ahu11,,,,False,,False
+821,/iot_hdc/ae-restapi1/DE-218/AI-8,AI-8,in_room,"PIR(재실 감지)센서 (0:부재, 1:재실) ",ahu11,,,,False,,False
+822,/iot_hdc/ae-restapi1/DE-218/AI-9,AI-9,regdate,데이터 저장 시간(yyyy-MM-dd HH-mm:ss),ahu11,,,,False,,False
+823,/iot_hdc/ae-restapi1/DE-219,DE-219,space_edge 11-3,Ipark 11층 3번존 - s_num : es121080000e,ahu11,,,,False,,False
+824,/iot_hdc/ae-restapi1/DE-219/AI-1,AI-1,temp,온도 (℃),ahu11,,,,False,,False
+825,/iot_hdc/ae-restapi1/DE-219/AI-2,AI-2,humi,상대습도 (%),ahu11,,,,False,,False
+826,/iot_hdc/ae-restapi1/DE-219/AI-3,AI-3,co2,이산화탄소 (ppm),ahu11,,,,False,,False
+827,/iot_hdc/ae-restapi1/DE-219/AI-4,AI-4,dust_pm_1,극초미세먼지 - PM1 (㎍/㎥),ahu11,,,,False,,False
+828,/iot_hdc/ae-restapi1/DE-219/AI-5,AI-5,dust_pm_25,초미세먼지 - PM2.5 (㎍/㎥),ahu11,,,,False,,False
+829,/iot_hdc/ae-restapi1/DE-219/AI-6,AI-6,dust_om_10,미세먼지 - PM10 (㎍/㎥),ahu11,,,,False,,False
+830,/iot_hdc/ae-restapi1/DE-219/AI-7,AI-7,voc,VOCs - 휘발성유기화합물 (ppb),ahu11,,,,False,,False
+831,/iot_hdc/ae-restapi1/DE-219/AI-8,AI-8,in_room,"PIR(재실 감지)센서 (0:부재, 1:재실) ",ahu11,,,,False,,False
+832,/iot_hdc/ae-restapi1/DE-219/AI-9,AI-9,regdate,데이터 저장 시간(yyyy-MM-dd HH-mm:ss),ahu11,,,,False,,False
+833,/iot_hdc/ae-restapi1/DE-219/BI-10,BI-10,status,"유선 공기청정기 상태 (0: off, 1: on)",ahu11,,,,False,,False
+834,/iot_hdc/ae-restapi1/DE-220,DE-220,space_edge 11-4,Ipark 11층 4번존 - s_num : es1210800008,ahu11,,,,False,,False
+835,/iot_hdc/ae-restapi1/DE-220/AI-1,AI-1,temp,온도 (℃),ahu11,,,,False,,False
+836,/iot_hdc/ae-restapi1/DE-220/AI-2,AI-2,humi,상대습도 (%),ahu11,,,,False,,False
+837,/iot_hdc/ae-restapi1/DE-220/AI-3,AI-3,co2,이산화탄소 (ppm),ahu11,,,,False,,False
+838,/iot_hdc/ae-restapi1/DE-220/AI-4,AI-4,dust_pm_1,극초미세먼지 - PM1 (㎍/㎥),ahu11,,,,False,,False
+839,/iot_hdc/ae-restapi1/DE-220/AI-5,AI-5,dust_pm_25,초미세먼지 - PM2.5 (㎍/㎥),ahu11,,,,False,,False
+840,/iot_hdc/ae-restapi1/DE-220/AI-6,AI-6,dust_om_10,미세먼지 - PM10 (㎍/㎥),ahu11,,,,False,,False
+841,/iot_hdc/ae-restapi1/DE-220/AI-7,AI-7,voc,VOCs - 휘발성유기화합물 (ppb),ahu11,,,,False,,False
+842,/iot_hdc/ae-restapi1/DE-220/AI-8,AI-8,in_room,"PIR(재실 감지)센서 (0:부재, 1:재실) ",ahu11,,,,False,,False
+843,/iot_hdc/ae-restapi1/DE-220/AI-9,AI-9,regdate,데이터 저장 시간(yyyy-MM-dd HH-mm:ss),ahu11,,,,False,,False
+844,/iot_hdc/ae-restapi1/DE-221,DE-221,space_edge 11-5,Ipark 11층 5번존 - s_num : es1210800047,ahu11,,,,False,,False
+845,/iot_hdc/ae-restapi1/DE-221/AI-1,AI-1,temp,온도 (℃),ahu11,,,,False,,False
+846,/iot_hdc/ae-restapi1/DE-221/AI-2,AI-2,humi,상대습도 (%),ahu11,,,,False,,False
+847,/iot_hdc/ae-restapi1/DE-221/AI-3,AI-3,co2,이산화탄소 (ppm),ahu11,,,,False,,False
+848,/iot_hdc/ae-restapi1/DE-221/AI-4,AI-4,dust_pm_1,극초미세먼지 - PM1 (㎍/㎥),ahu11,,,,False,,False
+849,/iot_hdc/ae-restapi1/DE-221/AI-5,AI-5,dust_pm_25,초미세먼지 - PM2.5 (㎍/㎥),ahu11,,,,False,,False
+850,/iot_hdc/ae-restapi1/DE-221/AI-6,AI-6,dust_om_10,미세먼지 - PM10 (㎍/㎥),ahu11,,,,False,,False
+851,/iot_hdc/ae-restapi1/DE-221/AI-7,AI-7,voc,VOCs - 휘발성유기화합물 (ppb),ahu11,,,,False,,False
+852,/iot_hdc/ae-restapi1/DE-221/AI-8,AI-8,in_room,"PIR(재실 감지)센서 (0:부재, 1:재실) ",ahu11,,,,False,,False
+853,/iot_hdc/ae-restapi1/DE-221/AI-9,AI-9,regdate,데이터 저장 시간(yyyy-MM-dd HH-mm:ss),ahu11,,,,False,,False
+854,/iot_hdc/ae-restapi1/DE-221/BI-10,BI-10,status,"유선 공기청정기 상태 (0: off, 1: on)",ahu11,,,,False,,False
+855,/iot_hdc/ae-restapi1/DE-222,DE-222,space_edge 11-6,Ipark 11층 6번존 - s_num : es1210800050,ahu11,,,,False,,False
+856,/iot_hdc/ae-restapi1/DE-222/AI-1,AI-1,temp,온도 (℃),ahu11,,,,False,,False
+857,/iot_hdc/ae-restapi1/DE-222/AI-2,AI-2,humi,상대습도 (%),ahu11,,,,False,,False
+858,/iot_hdc/ae-restapi1/DE-222/AI-3,AI-3,co2,이산화탄소 (ppm),ahu11,,,,False,,False
+859,/iot_hdc/ae-restapi1/DE-222/AI-4,AI-4,dust_pm_1,극초미세먼지 - PM1 (㎍/㎥),ahu11,,,,False,,False
+860,/iot_hdc/ae-restapi1/DE-222/AI-5,AI-5,dust_pm_25,초미세먼지 - PM2.5 (㎍/㎥),ahu11,,,,False,,False
+861,/iot_hdc/ae-restapi1/DE-222/AI-6,AI-6,dust_om_10,미세먼지 - PM10 (㎍/㎥),ahu11,,,,False,,False
+862,/iot_hdc/ae-restapi1/DE-222/AI-7,AI-7,voc,VOCs - 휘발성유기화합물 (ppb),ahu11,,,,False,,False
+863,/iot_hdc/ae-restapi1/DE-222/AI-8,AI-8,in_room,"PIR(재실 감지)센서 (0:부재, 1:재실) ",ahu11,,,,False,,False
+864,/iot_hdc/ae-restapi1/DE-222/AI-9,AI-9,regdate,데이터 저장 시간(yyyy-MM-dd HH-mm:ss),ahu11,,,,False,,False
+865,/iot_hdc/ae-restapi1/DE-223,DE-223,space_edge 11-7,Ipark 11층 7번존 - s_num : es121080000b,ahu11,,,,False,,False
+866,/iot_hdc/ae-restapi1/DE-223/AI-1,AI-1,temp,온도 (℃),ahu11,,,,False,,False
+867,/iot_hdc/ae-restapi1/DE-223/AI-2,AI-2,humi,상대습도 (%),ahu11,,,,False,,False
+868,/iot_hdc/ae-restapi1/DE-223/AI-3,AI-3,co2,이산화탄소 (ppm),ahu11,,,,False,,False
+869,/iot_hdc/ae-restapi1/DE-223/AI-4,AI-4,dust_pm_1,극초미세먼지 - PM1 (㎍/㎥),ahu11,,,,False,,False
+870,/iot_hdc/ae-restapi1/DE-223/AI-5,AI-5,dust_pm_25,초미세먼지 - PM2.5 (㎍/㎥),ahu11,,,,False,,False
+871,/iot_hdc/ae-restapi1/DE-223/AI-6,AI-6,dust_om_10,미세먼지 - PM10 (㎍/㎥),ahu11,,,,False,,False
+872,/iot_hdc/ae-restapi1/DE-223/AI-7,AI-7,voc,VOCs - 휘발성유기화합물 (ppb),ahu11,,,,False,,False
+873,/iot_hdc/ae-restapi1/DE-223/AI-8,AI-8,in_room,"PIR(재실 감지)센서 (0:부재, 1:재실) ",ahu11,,,,False,,False
+874,/iot_hdc/ae-restapi1/DE-223/AI-9,AI-9,regdate,데이터 저장 시간(yyyy-MM-dd HH-mm:ss),ahu11,,,,False,,False
+875,/iot_hdc/ae-restapi1/DE-224,DE-224,space_edge 11-8,Ipark 11층 8번존 - s_num : es1210800069,ahu11,,,,False,,False
+876,/iot_hdc/ae-restapi1/DE-224/AI-1,AI-1,temp,온도 (℃),ahu11,,,,False,,False
+877,/iot_hdc/ae-restapi1/DE-224/AI-2,AI-2,humi,상대습도 (%),ahu11,,,,False,,False
+878,/iot_hdc/ae-restapi1/DE-224/AI-3,AI-3,co2,이산화탄소 (ppm),ahu11,,,,False,,False
+879,/iot_hdc/ae-restapi1/DE-224/AI-4,AI-4,dust_pm_1,극초미세먼지 - PM1 (㎍/㎥),ahu11,,,,False,,False
+880,/iot_hdc/ae-restapi1/DE-224/AI-5,AI-5,dust_pm_25,초미세먼지 - PM2.5 (㎍/㎥),ahu11,,,,False,,False
+881,/iot_hdc/ae-restapi1/DE-224/AI-6,AI-6,dust_om_10,미세먼지 - PM10 (㎍/㎥),ahu11,,,,False,,False
+882,/iot_hdc/ae-restapi1/DE-224/AI-7,AI-7,voc,VOCs - 휘발성유기화합물 (ppb),ahu11,,,,False,,False
+883,/iot_hdc/ae-restapi1/DE-224/AI-8,AI-8,in_room,"PIR(재실 감지)센서 (0:부재, 1:재실) ",ahu11,,,,False,,False
+884,/iot_hdc/ae-restapi1/DE-224/AI-9,AI-9,regdate,데이터 저장 시간(yyyy-MM-dd HH-mm:ss),ahu11,,,,False,,False
+885,/iot_hdc/ae-restapi1/DE-225,DE-225,space_edge 11-9,Ipark 11층 9번존 - s_num : es1210800081,ahu11,,,,False,,False
+886,/iot_hdc/ae-restapi1/DE-225/AI-1,AI-1,temp,온도 (℃),ahu11,,,,False,,False
+887,/iot_hdc/ae-restapi1/DE-225/AI-2,AI-2,humi,상대습도 (%),ahu11,,,,False,,False
+888,/iot_hdc/ae-restapi1/DE-225/AI-3,AI-3,co2,이산화탄소 (ppm),ahu11,,,,False,,False
+889,/iot_hdc/ae-restapi1/DE-225/AI-4,AI-4,dust_pm_1,극초미세먼지 - PM1 (㎍/㎥),ahu11,,,,False,,False
+890,/iot_hdc/ae-restapi1/DE-225/AI-5,AI-5,dust_pm_25,초미세먼지 - PM2.5 (㎍/㎥),ahu11,,,,False,,False
+891,/iot_hdc/ae-restapi1/DE-225/AI-6,AI-6,dust_om_10,미세먼지 - PM10 (㎍/㎥),ahu11,,,,False,,False
+892,/iot_hdc/ae-restapi1/DE-225/AI-7,AI-7,voc,VOCs - 휘발성유기화합물 (ppb),ahu11,,,,False,,False
+893,/iot_hdc/ae-restapi1/DE-225/AI-8,AI-8,in_room,"PIR(재실 감지)센서 (0:부재, 1:재실) ",ahu11,,,,False,,False
+894,/iot_hdc/ae-restapi1/DE-225/AI-9,AI-9,regdate,데이터 저장 시간(yyyy-MM-dd HH-mm:ss),ahu11,,,,False,,False
+895,/iot_hdc/ae-restapi1/DE-226,DE-226,space_edge 11-10,Ipark 11층 10번존 - s_num : es1210800006,ahu11,,,,False,,False
+896,/iot_hdc/ae-restapi1/DE-226/AI-1,AI-1,temp,온도 (℃),ahu11,,,,False,,False
+897,/iot_hdc/ae-restapi1/DE-226/AI-2,AI-2,humi,상대습도 (%),ahu11,,,,False,,False
+898,/iot_hdc/ae-restapi1/DE-226/AI-3,AI-3,co2,이산화탄소 (ppm),ahu11,,,,False,,False
+899,/iot_hdc/ae-restapi1/DE-226/AI-4,AI-4,dust_pm_1,극초미세먼지 - PM1 (㎍/㎥),ahu11,,,,False,,False
+900,/iot_hdc/ae-restapi1/DE-226/AI-5,AI-5,dust_pm_25,초미세먼지 - PM2.5 (㎍/㎥),ahu11,,,,False,,False
+901,/iot_hdc/ae-restapi1/DE-226/AI-6,AI-6,dust_om_10,미세먼지 - PM10 (㎍/㎥),ahu11,,,,False,,False
+902,/iot_hdc/ae-restapi1/DE-226/AI-7,AI-7,voc,VOCs - 휘발성유기화합물 (ppb),ahu11,,,,False,,False
+903,/iot_hdc/ae-restapi1/DE-226/AI-8,AI-8,in_room,"PIR(재실 감지)센서 (0:부재, 1:재실) ",ahu11,,,,False,,False
+904,/iot_hdc/ae-restapi1/DE-226/AI-9,AI-9,regdate,데이터 저장 시간(yyyy-MM-dd HH-mm:ss),ahu11,,,,False,,False
+905,/iot_hdc/ae-restapi1/DE-227,DE-227,space_edge 11-11,Ipark 11층 11번존 - s_num : es1210800048,ahu11,,,,False,,False
+906,/iot_hdc/ae-restapi1/DE-227/AI-1,AI-1,temp,온도 (℃),ahu11,,,,False,,False
+907,/iot_hdc/ae-restapi1/DE-227/AI-2,AI-2,humi,상대습도 (%),ahu11,,,,False,,False
+908,/iot_hdc/ae-restapi1/DE-227/AI-3,AI-3,co2,이산화탄소 (ppm),ahu11,,,,False,,False
+909,/iot_hdc/ae-restapi1/DE-227/AI-4,AI-4,dust_pm_1,극초미세먼지 - PM1 (㎍/㎥),ahu11,,,,False,,False
+910,/iot_hdc/ae-restapi1/DE-227/AI-5,AI-5,dust_pm_25,초미세먼지 - PM2.5 (㎍/㎥),ahu11,,,,False,,False
+911,/iot_hdc/ae-restapi1/DE-227/AI-6,AI-6,dust_om_10,미세먼지 - PM10 (㎍/㎥),ahu11,,,,False,,False
+912,/iot_hdc/ae-restapi1/DE-227/AI-7,AI-7,voc,VOCs - 휘발성유기화합물 (ppb),ahu11,,,,False,,False
+913,/iot_hdc/ae-restapi1/DE-227/AI-8,AI-8,in_room,"PIR(재실 감지)센서 (0:부재, 1:재실) ",ahu11,,,,False,,False
+914,/iot_hdc/ae-restapi1/DE-227/AI-9,AI-9,regdate,데이터 저장 시간(yyyy-MM-dd HH-mm:ss),ahu11,,,,False,,False
+915,/iot_hdc/ae-restapi1/DE-228,DE-228,space_edge 11-12,Ipark 11층 12번존 - s_num : es121080000j,ahu11,,,,False,,False
+916,/iot_hdc/ae-restapi1/DE-228/AI-1,AI-1,temp,온도 (℃),ahu11,,,,False,,False
+917,/iot_hdc/ae-restapi1/DE-228/AI-2,AI-2,humi,상대습도 (%),ahu11,,,,False,,False
+918,/iot_hdc/ae-restapi1/DE-228/AI-3,AI-3,co2,이산화탄소 (ppm),ahu11,,,,False,,False
+919,/iot_hdc/ae-restapi1/DE-228/AI-4,AI-4,dust_pm_1,극초미세먼지 - PM1 (㎍/㎥),ahu11,,,,False,,False
+920,/iot_hdc/ae-restapi1/DE-228/AI-5,AI-5,dust_pm_25,초미세먼지 - PM2.5 (㎍/㎥),ahu11,,,,False,,False
+921,/iot_hdc/ae-restapi1/DE-228/AI-6,AI-6,dust_om_10,미세먼지 - PM10 (㎍/㎥),ahu11,,,,False,,False
+922,/iot_hdc/ae-restapi1/DE-228/AI-7,AI-7,voc,VOCs - 휘발성유기화합물 (ppb),ahu11,,,,False,,False
+923,/iot_hdc/ae-restapi1/DE-228/AI-8,AI-8,in_room,"PIR(재실 감지)센서 (0:부재, 1:재실) ",ahu11,,,,False,,False
+924,/iot_hdc/ae-restapi1/DE-228/AI-9,AI-9,regdate,데이터 저장 시간(yyyy-MM-dd HH-mm:ss),ahu11,,,,False,,False
+925,/iot_hdc/ae-restapi1/DE-228/BI-10,BI-10,status,"유선 공기청정기 상태 (0: off, 1: on)",ahu11,,,,False,,False
+926,/iot_hdc/ae-restapi1/DE-229,DE-229,space_edge 11-13,Ipark 11층 13번존 - s_num : es1210800088,ahu11,,,,False,,False
+927,/iot_hdc/ae-restapi1/DE-229/AI-1,AI-1,temp,온도 (℃),ahu11,,,,False,,False
+928,/iot_hdc/ae-restapi1/DE-229/AI-2,AI-2,humi,상대습도 (%),ahu11,,,,False,,False
+929,/iot_hdc/ae-restapi1/DE-229/AI-3,AI-3,co2,이산화탄소 (ppm),ahu11,,,,False,,False
+930,/iot_hdc/ae-restapi1/DE-229/AI-4,AI-4,dust_pm_1,극초미세먼지 - PM1 (㎍/㎥),ahu11,,,,False,,False
+931,/iot_hdc/ae-restapi1/DE-229/AI-5,AI-5,dust_pm_25,초미세먼지 - PM2.5 (㎍/㎥),ahu11,,,,False,,False
+932,/iot_hdc/ae-restapi1/DE-229/AI-6,AI-6,dust_om_10,미세먼지 - PM10 (㎍/㎥),ahu11,,,,False,,False
+933,/iot_hdc/ae-restapi1/DE-229/AI-7,AI-7,voc,VOCs - 휘발성유기화합물 (ppb),ahu11,,,,False,,False
+934,/iot_hdc/ae-restapi1/DE-229/AI-8,AI-8,in_room,"PIR(재실 감지)센서 (0:부재, 1:재실) ",ahu11,,,,False,,False
+935,/iot_hdc/ae-restapi1/DE-229/AI-9,AI-9,regdate,데이터 저장 시간(yyyy-MM-dd HH-mm:ss),ahu11,,,,False,,False
+936,/iot_hdc/ae-restapi1/DE-229/BI-10,BI-10,status,"유선 공기청정기 상태 (0: off, 1: on)",ahu11,,,,False,,False
+937,/iot_hdc/ae-restapi1/DE-230,DE-230,space_edge 11-14,Ipark 11층 14번존 - s_num : es1210800040,ahu11,,,,False,,False
+938,/iot_hdc/ae-restapi1/DE-230/AI-1,AI-1,temp,온도 (℃),ahu11,,,,False,,False
+939,/iot_hdc/ae-restapi1/DE-230/AI-2,AI-2,humi,상대습도 (%),ahu11,,,,False,,False
+940,/iot_hdc/ae-restapi1/DE-230/AI-3,AI-3,co2,이산화탄소 (ppm),ahu11,,,,False,,False
+941,/iot_hdc/ae-restapi1/DE-230/AI-4,AI-4,dust_pm_1,극초미세먼지 - PM1 (㎍/㎥),ahu11,,,,False,,False
+942,/iot_hdc/ae-restapi1/DE-230/AI-5,AI-5,dust_pm_25,초미세먼지 - PM2.5 (㎍/㎥),ahu11,,,,False,,False
+943,/iot_hdc/ae-restapi1/DE-230/AI-6,AI-6,dust_om_10,미세먼지 - PM10 (㎍/㎥),ahu11,,,,False,,False
+944,/iot_hdc/ae-restapi1/DE-230/AI-7,AI-7,voc,VOCs - 휘발성유기화합물 (ppb),ahu11,,,,False,,False
+945,/iot_hdc/ae-restapi1/DE-230/AI-8,AI-8,in_room,"PIR(재실 감지)센서 (0:부재, 1:재실) ",ahu11,,,,False,,False
+946,/iot_hdc/ae-restapi1/DE-230/AI-9,AI-9,regdate,데이터 저장 시간(yyyy-MM-dd HH-mm:ss),ahu11,,,,False,,False
+947,/iot_hdc/ae-restapi1/DE-230/BI-10,BI-10,status,"유선 공기청정기 상태 (0: off, 1: on)",ahu11,,,,False,,False
+948,/iot_hdc/ae-restapi1/DE-231,DE-231,space_edge 11-15,Ipark 11층 15번존 - s_num : es1210800059,ahu11,,,,False,,False
+949,/iot_hdc/ae-restapi1/DE-231/AI-1,AI-1,temp,온도 (℃),ahu11,,,,False,,False
+950,/iot_hdc/ae-restapi1/DE-231/AI-2,AI-2,humi,상대습도 (%),ahu11,,,,False,,False
+951,/iot_hdc/ae-restapi1/DE-231/AI-3,AI-3,co2,이산화탄소 (ppm),ahu11,,,,False,,False
+952,/iot_hdc/ae-restapi1/DE-231/AI-4,AI-4,dust_pm_1,극초미세먼지 - PM1 (㎍/㎥),ahu11,,,,False,,False
+953,/iot_hdc/ae-restapi1/DE-231/AI-5,AI-5,dust_pm_25,초미세먼지 - PM2.5 (㎍/㎥),ahu11,,,,False,,False
+954,/iot_hdc/ae-restapi1/DE-231/AI-6,AI-6,dust_om_10,미세먼지 - PM10 (㎍/㎥),ahu11,,,,False,,False
+955,/iot_hdc/ae-restapi1/DE-231/AI-7,AI-7,voc,VOCs - 휘발성유기화합물 (ppb),ahu11,,,,False,,False
+956,/iot_hdc/ae-restapi1/DE-231/AI-8,AI-8,in_room,"PIR(재실 감지)센서 (0:부재, 1:재실) ",ahu11,,,,False,,False
+957,/iot_hdc/ae-restapi1/DE-231/AI-9,AI-9,regdate,데이터 저장 시간(yyyy-MM-dd HH-mm:ss),ahu11,,,,False,,False
+958,/iot_hdc/ae-restapi1/DE-231/BI-10,BI-10,status,"유선 공기청정기 상태 (0: off, 1: on)",ahu11,,,,False,,False
+959,/iot_hdc/ae-restapi1/DE-232,DE-232,space_edge 11-16,Ipark 11층 3번존 실내기(중앙대) - s_num : es1210800100,ahu11,,,,False,,False
+960,/iot_hdc/ae-restapi1/DE-232/AI-1,AI-1,temp,온도 (℃),ahu11,,,,False,,False
+961,/iot_hdc/ae-restapi1/DE-232/AI-2,AI-2,humi,상대습도 (%),ahu11,,,,False,,False
+962,/iot_hdc/ae-restapi1/DE-232/AI-3,AI-3,co2,이산화탄소 (ppm),ahu11,,,,False,,False
+963,/iot_hdc/ae-restapi1/DE-232/AI-4,AI-4,dust_pm_1,극초미세먼지 - PM1 (㎍/㎥),ahu11,,,,False,,False
+964,/iot_hdc/ae-restapi1/DE-232/AI-5,AI-5,dust_pm_25,초미세먼지 - PM2.5 (㎍/㎥),ahu11,,,,False,,False
+965,/iot_hdc/ae-restapi1/DE-232/AI-6,AI-6,dust_om_10,미세먼지 - PM10 (㎍/㎥),ahu11,,,,False,,False
+966,/iot_hdc/ae-restapi1/DE-232/AI-7,AI-7,voc,VOCs - 휘발성유기화합물 (ppb),ahu11,,,,False,,False
+967,/iot_hdc/ae-restapi1/DE-232/AI-8,AI-8,in_room,"PIR(재실 감지)센서 (0:부재, 1:재실) ",ahu11,,,,False,,False
+968,/iot_hdc/ae-restapi1/DE-232/AI-9,AI-9,regdate,데이터 저장 시간(yyyy-MM-dd HH-mm:ss),ahu11,,,,False,,False
+969,/iot_hdc/ae-restapi1/DE-233,DE-233,space_edge 11-17,Ipark 11층 6번존 실내기(중앙대) - s_num : es121080000f,ahu11,,,,False,,False
+970,/iot_hdc/ae-restapi1/DE-233/AI-1,AI-1,temp,온도 (℃),ahu11,,,,False,,False
+971,/iot_hdc/ae-restapi1/DE-233/AI-2,AI-2,humi,상대습도 (%),ahu11,,,,False,,False
+972,/iot_hdc/ae-restapi1/DE-233/AI-3,AI-3,co2,이산화탄소 (ppm),ahu11,,,,False,,False
+973,/iot_hdc/ae-restapi1/DE-233/AI-4,AI-4,dust_pm_1,극초미세먼지 - PM1 (㎍/㎥),ahu11,,,,False,,False
+974,/iot_hdc/ae-restapi1/DE-233/AI-5,AI-5,dust_pm_25,초미세먼지 - PM2.5 (㎍/㎥),ahu11,,,,False,,False
+975,/iot_hdc/ae-restapi1/DE-233/AI-6,AI-6,dust_om_10,미세먼지 - PM10 (㎍/㎥),ahu11,,,,False,,False
+976,/iot_hdc/ae-restapi1/DE-233/AI-7,AI-7,voc,VOCs - 휘발성유기화합물 (ppb),ahu11,,,,False,,False
+977,/iot_hdc/ae-restapi1/DE-233/AI-8,AI-8,in_room,"PIR(재실 감지)센서 (0:부재, 1:재실) ",ahu11,,,,False,,False
+978,/iot_hdc/ae-restapi1/DE-233/AI-9,AI-9,regdate,데이터 저장 시간(yyyy-MM-dd HH-mm:ss),ahu11,,,,False,,False
+979,/iot_hdc/ae-restapi1/DE-234,DE-234,space_edge 11-18,"Ipark 11층 6번존 라인디퓨저(중앙대, 세종대) - s_num : es1210800061",ahu11,,,,False,,False
+980,/iot_hdc/ae-restapi1/DE-234/AI-1,AI-1,temp,온도 (℃),ahu11,,,,False,,False
+981,/iot_hdc/ae-restapi1/DE-234/AI-2,AI-2,humi,상대습도 (%),ahu11,,,,False,,False
+982,/iot_hdc/ae-restapi1/DE-234/AI-3,AI-3,co2,이산화탄소 (ppm),ahu11,,,,False,,False
+983,/iot_hdc/ae-restapi1/DE-234/AI-4,AI-4,dust_pm_1,극초미세먼지 - PM1 (㎍/㎥),ahu11,,,,False,,False
+984,/iot_hdc/ae-restapi1/DE-234/AI-5,AI-5,dust_pm_25,초미세먼지 - PM2.5 (㎍/㎥),ahu11,,,,False,,False
+985,/iot_hdc/ae-restapi1/DE-234/AI-6,AI-6,dust_om_10,미세먼지 - PM10 (㎍/㎥),ahu11,,,,False,,False
+986,/iot_hdc/ae-restapi1/DE-234/AI-7,AI-7,voc,VOCs - 휘발성유기화합물 (ppb),ahu11,,,,False,,False
+987,/iot_hdc/ae-restapi1/DE-234/AI-8,AI-8,in_room,"PIR(재실 감지)센서 (0:부재, 1:재실) ",ahu11,,,,False,,False
+988,/iot_hdc/ae-restapi1/DE-234/AI-9,AI-9,regdate,데이터 저장 시간(yyyy-MM-dd HH-mm:ss),ahu11,,,,False,,False
+989,/iot_hdc/ae-restapi1/DE-235,DE-235,space_edge 11-19,Ipark 11층 12번존 덕트(세종대) - s_num : es1210800023,ahu11,,,,False,,False
+990,/iot_hdc/ae-restapi1/DE-235/AI-1,AI-1,temp,온도 (℃),ahu11,,,,False,,False
+991,/iot_hdc/ae-restapi1/DE-235/AI-2,AI-2,humi,상대습도 (%),ahu11,,,,False,,False
+992,/iot_hdc/ae-restapi1/DE-235/AI-3,AI-3,co2,이산화탄소 (ppm),ahu11,,,,False,,False
+993,/iot_hdc/ae-restapi1/DE-235/AI-4,AI-4,dust_pm_1,극초미세먼지 - PM1 (㎍/㎥),ahu11,,,,False,,False
+994,/iot_hdc/ae-restapi1/DE-235/AI-5,AI-5,dust_pm_25,초미세먼지 - PM2.5 (㎍/㎥),ahu11,,,,False,,False
+995,/iot_hdc/ae-restapi1/DE-235/AI-6,AI-6,dust_om_10,미세먼지 - PM10 (㎍/㎥),ahu11,,,,False,,False
+996,/iot_hdc/ae-restapi1/DE-235/AI-7,AI-7,voc,VOCs - 휘발성유기화합물 (ppb),ahu11,,,,False,,False
+997,/iot_hdc/ae-restapi1/DE-235/AI-8,AI-8,in_room,"PIR(재실 감지)센서 (0:부재, 1:재실) ",ahu11,,,,False,,False
+998,/iot_hdc/ae-restapi1/DE-235/AI-9,AI-9,regdate,데이터 저장 시간(yyyy-MM-dd HH-mm:ss),ahu11,,,,False,,False
