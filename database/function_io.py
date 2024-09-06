@@ -43,10 +43,10 @@ def get_point_list(init_config,df_type="point_list"):
 
 def get_config(config_path,config_format="yaml"):
     if config_format=="yaml":
-        with open(config_path, "r") as f:
+        with open(config_path, "r",encoding='utf8') as f:
             config = yaml.safe_load(f)
     elif config_format=="json":
-        with open(config_path, "r") as f:
+        with open(config_path, "r",encoding='utf8') as f:
             config = json.load(f)
     else:
         raise ValueError("json, yaml only.")

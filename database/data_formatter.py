@@ -4,6 +4,21 @@ import numpy as np
 import re
 
 
+def make_monotonic(vec):
+    
+    vec_diff=np.diff(vec)
+    if np.any(vec_diff<-1e7):
+        change_point_idx=np.where(vec_diff<-1e7)[0][0]
+        #print(change_point_idx)
+        vec[(change_point_idx+1):]=vec[(change_point_idx+1):]+vec[change_point_idx]
+        
+    for i in range(1, len(vec)):
+        if vec[i] < vec[i-1]:
+            vec[i] = vec[i-1]
+    return vec
+
+
+
 
 def df_history_parser(data_df,end_time_utc,start_time_utc,init_config,variable_map,zone_id=None):
     
@@ -97,7 +112,7 @@ def df_history_parser(data_df,end_time_utc,start_time_utc,init_config,variable_m
                 un=unit_map[cn]
                 tn=type_map[cn]
 
-                data_df[cn]=get_single_value(data_df[cn].to_numpy(),unit_name=un,type_name=tn,minute=minute)
+                data_df[cn]=get_single_value(data_df[cn].to_numpy(),unit_name=un,type_name=tn,minute=minute,var_name=cn)
                 data_df=data_df.copy()
                 if zone_id is None or zone_id=="weather" or zone_id=="common":
                     data_df=data_df.rename(columns={cn:f'{rn}'})
@@ -164,7 +179,7 @@ def convert_missing_to_nan(vec,type_):
     return (vec)
 
 
-def get_single_value(value,unit_name,type_name,minute=None):
+def get_single_value(value,unit_name,type_name,minute=None,var_name=None):
     
     if type_name=="list_ecobee":
         #
@@ -190,7 +205,7 @@ def get_single_value(value,unit_name,type_name,minute=None):
         value=value-273.15
     elif unit_name=="W_m2" or unit_name=="W/m2" or unit_name=="W":
         value=(value)/1000 #W/m2 to kW/m2
-    elif unit_name=="CMH":
+    elif unit_name=="CMH" or unit_name=='cmh':
         value=(value)/3600 #CMH to m3/s
     elif unit_name=="CFM":
         value=(value)*0.00047194745 #CFM to m3/s
@@ -200,6 +215,19 @@ def get_single_value(value,unit_name,type_name,minute=None):
         value=(value)/100
     elif unit_name=="10F":
         value=((value)/10-32)/1.8
+    elif unit_name=="cum_30":
+        # cumulative value by 30seconds..
+        value=make_monotonic(value)
+    
+        value=np.concatenate([np.array([0]),np.diff(value)])/1000/30
+        
+        df_value=pd.DataFrame(data={'value':value})
+        value=df_value['value'].rolling(30,min_periods=1,center=True).mean().to_numpy()
+        
+        #value=value
+        #value=df_value['value'].rolling(20,min_periods=1,center=True).mean().to_numpy()/1000/30
+        
+        #value=np.concatenate([np.array([0]),np.diff(value)])/1000/30 #cumulative value m3/s
         
     else:
         pass

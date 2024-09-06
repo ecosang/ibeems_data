@@ -43,8 +43,8 @@ def raw_data_query(path,start_time_utc,end_time_utc,credential,init_config,query
         end_time=end_time.tz_convert(tz).strftime("%Y-%m-%dT%H:%M:%S")
 
     n_days=max(query_split_days,1)
-    query_start_time=(pd.Timestamp(start_time)-pd.Timedelta("1 H")).strftime("%Y-%m-%dT%H:%M:%S")
-    query_end_time=(pd.Timestamp(end_time)+pd.Timedelta("1 H")).strftime("%Y-%m-%dT%H:%M:%S")
+    query_start_time=(pd.Timestamp(start_time)-pd.Timedelta("1 h")).strftime("%Y-%m-%dT%H:%M:%S")
+    query_end_time=(pd.Timestamp(end_time)+pd.Timedelta("1 h")).strftime("%Y-%m-%dT%H:%M:%S")
     
     nxdays=np.floor((pd.Timestamp(query_end_time)-pd.Timestamp(query_start_time)).total_seconds()/(3600*24*n_days))
     ndays=np.floor((pd.Timestamp(query_end_time)-pd.Timestamp(query_start_time)).total_seconds()/(3600*24))

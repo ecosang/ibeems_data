@@ -23,6 +23,7 @@ from database.database_util import get_df_history
 from database.function_ts import convert_to_utc
 
 def raw_data_query(project_id, start_time, end_time, save_dir=None,save_data=False):
+    
     """
     Query raw data for a given project ID, start time, and end time.
     
@@ -81,9 +82,10 @@ def raw_data_query(project_id, start_time, end_time, save_dir=None,save_data=Fal
 if __name__=="__main__":
 
     project_id='hdc'#'lotte_mart' or 'hdc'
-    start_time='2024-03-23 00:00:00+0900'
-    end_time='2024-03-24 00:00:00+0900'
+    start_time='2024-08-01 00:00:00+0900'
+    end_time='2024-08-03 00:00:00+0900'
     save_dir=None
 
     df_all=raw_data_query(project_id,start_time,end_time,save_dir=None)
-    
+    print(df_all)
+    df_all.to_csv("df_lotte_mart_2024_08_01_2024_08_03.csv")

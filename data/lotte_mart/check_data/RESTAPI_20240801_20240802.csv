@@ -1,0 +1,556 @@
+﻿,path,object_id,object_name,comment,zone_id,variable_name,raw_unit,type,required,available,data_exist
+0,/iot_lotte/3/DE-20,DE-20,환경센서 2-8,,,,,,False,False,False
+1,/iot_lotte/3/DE-20/AI-1,AI-1,  co2,,,,,,False,False,False
+2,/iot_lotte/3/DE-20/AI-2,AI-2,  datetime,,,,,,False,False,False
+3,/iot_lotte/3/DE-20/AI-3,AI-3,  dewpoint,,,,,,False,False,False
+4,/iot_lotte/3/DE-20/AI-4,AI-4,  hcho,,,,,,False,False,False
+5,/iot_lotte/3/DE-20/AI-5,AI-5,  humidity,,,,,,False,False,False
+6,/iot_lotte/3/DE-20/AI-6,AI-6,  lx,,,,,,False,False,False
+7,/iot_lotte/3/DE-20/AI-7,AI-7,  pm1,,,,,,False,False,False
+8,/iot_lotte/3/DE-20/AI-8,AI-8,  pm10,,,,,,False,False,False
+9,/iot_lotte/3/DE-20/AI-9,AI-9,  pm25,,,,,,False,False,False
+10,/iot_lotte/3/DE-20/AI-10,AI-10,  sound,,,,,,False,False,False
+11,/iot_lotte/3/DE-20/AI-11,AI-11,  temperature,,,,,,False,False,False
+12,/iot_lotte/3/DE-20/AI-12,AI-12,  timestamp,,,,,,False,False,False
+13,/iot_lotte/3/DE-21,DE-21,환경센서 2-7,,,,,,False,False,False
+14,/iot_lotte/3/DE-21/AI-1,AI-1,  co2,,,,,,False,False,False
+15,/iot_lotte/3/DE-21/AI-2,AI-2,  datetime,,,,,,False,False,False
+16,/iot_lotte/3/DE-21/AI-3,AI-3,  dewpoint,,,,,,False,False,False
+17,/iot_lotte/3/DE-21/AI-4,AI-4,  hcho,,,,,,False,False,False
+18,/iot_lotte/3/DE-21/AI-5,AI-5,  humidity,,,,,,False,False,False
+19,/iot_lotte/3/DE-21/AI-6,AI-6,  lx,,,,,,False,False,False
+20,/iot_lotte/3/DE-21/AI-7,AI-7,  pm1,,,,,,False,False,False
+21,/iot_lotte/3/DE-21/AI-8,AI-8,  pm10,,,,,,False,False,False
+22,/iot_lotte/3/DE-21/AI-9,AI-9,  pm25,,,,,,False,False,False
+23,/iot_lotte/3/DE-21/AI-10,AI-10,  sound,,,,,,False,False,False
+24,/iot_lotte/3/DE-21/AI-11,AI-11,  temperature,,,,,,False,False,False
+25,/iot_lotte/3/DE-21/AI-12,AI-12,  timestamp,,,,,,False,False,False
+26,/iot_lotte/3/DE-22,DE-22,환경센서 2-6,,,,,,False,False,False
+27,/iot_lotte/3/DE-22/AI-1,AI-1,  co2,,,,,,False,False,False
+28,/iot_lotte/3/DE-22/AI-2,AI-2,  datetime,,,,,,False,False,False
+29,/iot_lotte/3/DE-22/AI-3,AI-3,  dewpoint,,,,,,False,False,False
+30,/iot_lotte/3/DE-22/AI-4,AI-4,  hcho,,,,,,False,False,False
+31,/iot_lotte/3/DE-22/AI-5,AI-5,  humidity,,,,,,False,False,False
+32,/iot_lotte/3/DE-22/AI-6,AI-6,  lx,,,,,,False,False,False
+33,/iot_lotte/3/DE-22/AI-7,AI-7,  pm1,,,,,,False,False,False
+34,/iot_lotte/3/DE-22/AI-8,AI-8,  pm10,,,,,,False,False,False
+35,/iot_lotte/3/DE-22/AI-9,AI-9,  pm25,,,,,,False,False,False
+36,/iot_lotte/3/DE-22/AI-10,AI-10,  sound,,,,,,False,False,False
+37,/iot_lotte/3/DE-22/AI-11,AI-11,  temperature,,,,,,False,False,False
+38,/iot_lotte/3/DE-22/AI-12,AI-12,  timestamp,,,,,,False,False,False
+39,/iot_lotte/3/DE-23,DE-23,환경센서 2-5,,,,,,False,False,False
+40,/iot_lotte/3/DE-23/AI-1,AI-1,  co2,,,,,,False,False,False
+41,/iot_lotte/3/DE-23/AI-2,AI-2,  datetime,,,,,,False,False,False
+42,/iot_lotte/3/DE-23/AI-3,AI-3,  dewpoint,,,,,,False,False,False
+43,/iot_lotte/3/DE-23/AI-4,AI-4,  hcho,,,,,,False,False,False
+44,/iot_lotte/3/DE-23/AI-5,AI-5,  humidity,,,,,,False,False,False
+45,/iot_lotte/3/DE-23/AI-6,AI-6,  lx,,,,,,False,False,False
+46,/iot_lotte/3/DE-23/AI-7,AI-7,  pm1,,,,,,False,False,False
+47,/iot_lotte/3/DE-23/AI-8,AI-8,  pm10,,,,,,False,False,False
+48,/iot_lotte/3/DE-23/AI-9,AI-9,  pm25,,,,,,False,False,False
+49,/iot_lotte/3/DE-23/AI-10,AI-10,  sound,,,,,,False,False,False
+50,/iot_lotte/3/DE-23/AI-11,AI-11,  temperature,,,,,,False,False,False
+51,/iot_lotte/3/DE-23/AI-12,AI-12,  timestamp,,,,,,False,False,False
+52,/iot_lotte/3/DE-24,DE-24,환경센서 2-4,,,,,,False,False,False
+53,/iot_lotte/3/DE-24/AI-1,AI-1,  co2,,,,,,False,False,False
+54,/iot_lotte/3/DE-24/AI-2,AI-2,  datetime,,,,,,False,False,False
+55,/iot_lotte/3/DE-24/AI-3,AI-3,  dewpoint,,,,,,False,False,False
+56,/iot_lotte/3/DE-24/AI-4,AI-4,  hcho,,,,,,False,False,False
+57,/iot_lotte/3/DE-24/AI-5,AI-5,  humidity,,,,,,False,False,False
+58,/iot_lotte/3/DE-24/AI-6,AI-6,  lx,,,,,,False,False,False
+59,/iot_lotte/3/DE-24/AI-7,AI-7,  pm1,,,,,,False,False,False
+60,/iot_lotte/3/DE-24/AI-8,AI-8,  pm10,,,,,,False,False,False
+61,/iot_lotte/3/DE-24/AI-9,AI-9,  pm25,,,,,,False,False,False
+62,/iot_lotte/3/DE-24/AI-10,AI-10,  sound,,,,,,False,False,False
+63,/iot_lotte/3/DE-24/AI-11,AI-11,  temperature,,,,,,False,False,False
+64,/iot_lotte/3/DE-24/AI-12,AI-12,  timestamp,,,,,,False,False,False
+65,/iot_lotte/3/DE-25,DE-25,환경센서 2-3,,,,,,False,False,False
+66,/iot_lotte/3/DE-25/AI-1,AI-1,  co2,,,,,,False,False,False
+67,/iot_lotte/3/DE-25/AI-2,AI-2,  datetime,,,,,,False,False,False
+68,/iot_lotte/3/DE-25/AI-3,AI-3,  dewpoint,,,,,,False,False,False
+69,/iot_lotte/3/DE-25/AI-4,AI-4,  hcho,,,,,,False,False,False
+70,/iot_lotte/3/DE-25/AI-5,AI-5,  humidity,,,,,,False,False,False
+71,/iot_lotte/3/DE-25/AI-6,AI-6,  lx,,,,,,False,False,False
+72,/iot_lotte/3/DE-25/AI-7,AI-7,  pm1,,,,,,False,False,False
+73,/iot_lotte/3/DE-25/AI-8,AI-8,  pm10,,,,,,False,False,False
+74,/iot_lotte/3/DE-25/AI-9,AI-9,  pm25,,,,,,False,False,False
+75,/iot_lotte/3/DE-25/AI-10,AI-10,  sound,,,,,,False,False,False
+76,/iot_lotte/3/DE-25/AI-11,AI-11,  temperature,,,,,,False,False,False
+77,/iot_lotte/3/DE-25/AI-12,AI-12,  timestamp,,,,,,False,False,False
+78,/iot_lotte/3/DE-26,DE-26,환경센서 2-2,,,,,,False,False,False
+79,/iot_lotte/3/DE-26/AI-1,AI-1,  co2,,,,,,False,False,False
+80,/iot_lotte/3/DE-26/AI-2,AI-2,  datetime,,,,,,False,False,False
+81,/iot_lotte/3/DE-26/AI-3,AI-3,  dewpoint,,,,,,False,False,False
+82,/iot_lotte/3/DE-26/AI-4,AI-4,  hcho,,,,,,False,False,False
+83,/iot_lotte/3/DE-26/AI-5,AI-5,  humidity,,,,,,False,False,False
+84,/iot_lotte/3/DE-26/AI-6,AI-6,  lx,,,,,,False,False,False
+85,/iot_lotte/3/DE-26/AI-7,AI-7,  pm1,,,,,,False,False,False
+86,/iot_lotte/3/DE-26/AI-8,AI-8,  pm10,,,,,,False,False,False
+87,/iot_lotte/3/DE-26/AI-9,AI-9,  pm25,,,,,,False,False,False
+88,/iot_lotte/3/DE-26/AI-10,AI-10,  sound,,,,,,False,False,False
+89,/iot_lotte/3/DE-26/AI-11,AI-11,  temperature,,,,,,False,False,False
+90,/iot_lotte/3/DE-26/AI-12,AI-12,  timestamp,,,,,,False,False,False
+91,/iot_lotte/3/DE-27,DE-27,환경센서 2-1,,,,,,False,False,False
+92,/iot_lotte/3/DE-27/AI-1,AI-1,  co2,,,,,,False,False,False
+93,/iot_lotte/3/DE-27/AI-2,AI-2,  datetime,,,,,,False,False,False
+94,/iot_lotte/3/DE-27/AI-3,AI-3,  dewpoint,,,,,,False,False,False
+95,/iot_lotte/3/DE-27/AI-4,AI-4,  hcho,,,,,,False,False,False
+96,/iot_lotte/3/DE-27/AI-5,AI-5,  humidity,,,,,,False,False,False
+97,/iot_lotte/3/DE-27/AI-6,AI-6,  lx,,,,,,False,False,False
+98,/iot_lotte/3/DE-27/AI-7,AI-7,  pm1,,,,,,False,False,False
+99,/iot_lotte/3/DE-27/AI-8,AI-8,  pm10,,,,,,False,False,False
+100,/iot_lotte/3/DE-27/AI-9,AI-9,  pm25,,,,,,False,False,False
+101,/iot_lotte/3/DE-27/AI-10,AI-10,  sound,,,,,,False,False,False
+102,/iot_lotte/3/DE-27/AI-11,AI-11,  temperature,,,,,,False,False,False
+103,/iot_lotte/3/DE-27/AI-12,AI-12,  timestamp,,,,,,False,False,False
+104,/iot_lotte/3/DE-28,DE-28,미정 (KETI 예비 IP),,,,,,False,False,False
+105,/iot_lotte/3/DE-28/AI-1,AI-1,  co2,,,,,,False,False,False
+106,/iot_lotte/3/DE-28/AI-2,AI-2,  datetime,,,,,,False,False,False
+107,/iot_lotte/3/DE-28/AI-3,AI-3,  dewpoint,,,,,,False,False,False
+108,/iot_lotte/3/DE-28/AI-4,AI-4,  hcho,,,,,,False,False,False
+109,/iot_lotte/3/DE-28/AI-5,AI-5,  humidity,,,,,,False,False,False
+110,/iot_lotte/3/DE-28/AI-6,AI-6,  lx,,,,,,False,False,False
+111,/iot_lotte/3/DE-28/AI-7,AI-7,  pm1,,,,,,False,False,False
+112,/iot_lotte/3/DE-28/AI-8,AI-8,  pm10,,,,,,False,False,False
+113,/iot_lotte/3/DE-28/AI-9,AI-9,  pm25,,,,,,False,False,False
+114,/iot_lotte/3/DE-28/AI-10,AI-10,  sound,,,,,,False,False,False
+115,/iot_lotte/3/DE-28/AI-11,AI-11,  temperature,,,,,,False,False,False
+116,/iot_lotte/3/DE-28/AI-12,AI-12,  timestamp,,,,,,False,False,False
+117,/iot_lotte/3/DE-29,DE-29,미정 (KETI 예비 IP),,,,,,False,False,False
+118,/iot_lotte/3/DE-29/AI-1,AI-1,  co2,,,,,,False,False,False
+119,/iot_lotte/3/DE-29/AI-2,AI-2,  datetime,,,,,,False,False,False
+120,/iot_lotte/3/DE-29/AI-3,AI-3,  dewpoint,,,,,,False,False,False
+121,/iot_lotte/3/DE-29/AI-4,AI-4,  hcho,,,,,,False,False,False
+122,/iot_lotte/3/DE-29/AI-5,AI-5,  humidity,,,,,,False,False,False
+123,/iot_lotte/3/DE-29/AI-6,AI-6,  lx,,,,,,False,False,False
+124,/iot_lotte/3/DE-29/AI-7,AI-7,  pm1,,,,,,False,False,False
+125,/iot_lotte/3/DE-29/AI-8,AI-8,  pm10,,,,,,False,False,False
+126,/iot_lotte/3/DE-29/AI-9,AI-9,  pm25,,,,,,False,False,False
+127,/iot_lotte/3/DE-29/AI-10,AI-10,  sound,,,,,,False,False,False
+128,/iot_lotte/3/DE-29/AI-11,AI-11,  temperature,,,,,,False,False,False
+129,/iot_lotte/3/DE-29/AI-12,AI-12,  timestamp,,,,,,False,False,False
+130,/iot_lotte/3/DE-30,DE-30,미정 (KETI 예비 IP),,,,,,False,False,False
+131,/iot_lotte/3/DE-30/AI-1,AI-1,  co2,,,,,,False,False,False
+132,/iot_lotte/3/DE-30/AI-2,AI-2,  datetime,,,,,,False,False,False
+133,/iot_lotte/3/DE-30/AI-3,AI-3,  dewpoint,,,,,,False,False,False
+134,/iot_lotte/3/DE-30/AI-4,AI-4,  hcho,,,,,,False,False,False
+135,/iot_lotte/3/DE-30/AI-5,AI-5,  humidity,,,,,,False,False,False
+136,/iot_lotte/3/DE-30/AI-6,AI-6,  lx,,,,,,False,False,False
+137,/iot_lotte/3/DE-30/AI-7,AI-7,  pm1,,,,,,False,False,False
+138,/iot_lotte/3/DE-30/AI-8,AI-8,  pm10,,,,,,False,False,False
+139,/iot_lotte/3/DE-30/AI-9,AI-9,  pm25,,,,,,False,False,False
+140,/iot_lotte/3/DE-30/AI-10,AI-10,  sound,,,,,,False,False,False
+141,/iot_lotte/3/DE-30/AI-11,AI-11,  temperature,,,,,,False,False,False
+142,/iot_lotte/3/DE-30/AI-12,AI-12,  timestamp,,,,,,False,False,False
+143,/iot_lotte/3/DE-31,DE-31,미정 (KETI 예비 IP),,,,,,False,False,False
+144,/iot_lotte/3/DE-31/AI-1,AI-1,  co2,,,,,,False,False,False
+145,/iot_lotte/3/DE-31/AI-2,AI-2,  datetime,,,,,,False,False,False
+146,/iot_lotte/3/DE-31/AI-3,AI-3,  dewpoint,,,,,,False,False,False
+147,/iot_lotte/3/DE-31/AI-4,AI-4,  hcho,,,,,,False,False,False
+148,/iot_lotte/3/DE-31/AI-5,AI-5,  humidity,,,,,,False,False,False
+149,/iot_lotte/3/DE-31/AI-6,AI-6,  lx,,,,,,False,False,False
+150,/iot_lotte/3/DE-31/AI-7,AI-7,  pm1,,,,,,False,False,False
+151,/iot_lotte/3/DE-31/AI-8,AI-8,  pm10,,,,,,False,False,False
+152,/iot_lotte/3/DE-31/AI-9,AI-9,  pm25,,,,,,False,False,False
+153,/iot_lotte/3/DE-31/AI-10,AI-10,  sound,,,,,,False,False,False
+154,/iot_lotte/3/DE-31/AI-11,AI-11,  temperature,,,,,,False,False,False
+155,/iot_lotte/3/DE-31/AI-12,AI-12,  timestamp,,,,,,False,False,False
+156,/iot_lotte/3/DE-32,DE-32,미정 (KETI 예비 IP),,,,,,False,False,False
+157,/iot_lotte/3/DE-32/AI-1,AI-1,  co2,,,,,,False,False,False
+158,/iot_lotte/3/DE-32/AI-2,AI-2,  datetime,,,,,,False,False,False
+159,/iot_lotte/3/DE-32/AI-3,AI-3,  dewpoint,,,,,,False,False,False
+160,/iot_lotte/3/DE-32/AI-4,AI-4,  hcho,,,,,,False,False,False
+161,/iot_lotte/3/DE-32/AI-5,AI-5,  humidity,,,,,,False,False,False
+162,/iot_lotte/3/DE-32/AI-6,AI-6,  lx,,,,,,False,False,False
+163,/iot_lotte/3/DE-32/AI-7,AI-7,  pm1,,,,,,False,False,False
+164,/iot_lotte/3/DE-32/AI-8,AI-8,  pm10,,,,,,False,False,False
+165,/iot_lotte/3/DE-32/AI-9,AI-9,  pm25,,,,,,False,False,False
+166,/iot_lotte/3/DE-32/AI-10,AI-10,  sound,,,,,,False,False,False
+167,/iot_lotte/3/DE-32/AI-11,AI-11,  temperature,,,,,,False,False,False
+168,/iot_lotte/3/DE-32/AI-12,AI-12,  timestamp,,,,,,False,False,False
+169,/iot_lotte/3/DE-33,DE-33,미정 (KETI 예비 IP),,,,,,False,False,False
+170,/iot_lotte/3/DE-33/AI-1,AI-1,  co2,,,,,,False,False,False
+171,/iot_lotte/3/DE-33/AI-2,AI-2,  datetime,,,,,,False,False,False
+172,/iot_lotte/3/DE-33/AI-3,AI-3,  dewpoint,,,,,,False,False,False
+173,/iot_lotte/3/DE-33/AI-4,AI-4,  hcho,,,,,,False,False,False
+174,/iot_lotte/3/DE-33/AI-5,AI-5,  humidity,,,,,,False,False,False
+175,/iot_lotte/3/DE-33/AI-6,AI-6,  lx,,,,,,False,False,False
+176,/iot_lotte/3/DE-33/AI-7,AI-7,  pm1,,,,,,False,False,False
+177,/iot_lotte/3/DE-33/AI-8,AI-8,  pm10,,,,,,False,False,False
+178,/iot_lotte/3/DE-33/AI-9,AI-9,  pm25,,,,,,False,False,False
+179,/iot_lotte/3/DE-33/AI-10,AI-10,  sound,,,,,,False,False,False
+180,/iot_lotte/3/DE-33/AI-11,AI-11,  temperature,,,,,,False,False,False
+181,/iot_lotte/3/DE-33/AI-12,AI-12,  timestamp,,,,,,False,False,False
+182,/iot_lotte/3/DE-34,DE-34,미정 (KETI 예비 IP),,,,,,False,False,False
+183,/iot_lotte/3/DE-34/AI-1,AI-1,  co2,,,,,,False,False,False
+184,/iot_lotte/3/DE-34/AI-2,AI-2,  datetime,,,,,,False,False,False
+185,/iot_lotte/3/DE-34/AI-3,AI-3,  dewpoint,,,,,,False,False,False
+186,/iot_lotte/3/DE-34/AI-4,AI-4,  hcho,,,,,,False,False,False
+187,/iot_lotte/3/DE-34/AI-5,AI-5,  humidity,,,,,,False,False,False
+188,/iot_lotte/3/DE-34/AI-6,AI-6,  lx,,,,,,False,False,False
+189,/iot_lotte/3/DE-34/AI-7,AI-7,  pm1,,,,,,False,False,False
+190,/iot_lotte/3/DE-34/AI-8,AI-8,  pm10,,,,,,False,False,False
+191,/iot_lotte/3/DE-34/AI-9,AI-9,  pm25,,,,,,False,False,False
+192,/iot_lotte/3/DE-34/AI-10,AI-10,  sound,,,,,,False,False,False
+193,/iot_lotte/3/DE-34/AI-11,AI-11,  temperature,,,,,,False,False,False
+194,/iot_lotte/3/DE-34/AI-12,AI-12,  timestamp,,,,,,False,False,False
+195,/iot_lotte/3/DE-35,DE-35,미정 (KETI 예비 IP),,,,,,False,False,False
+196,/iot_lotte/3/DE-35/AI-1,AI-1,  co2,,,,,,False,False,False
+197,/iot_lotte/3/DE-35/AI-2,AI-2,  datetime,,,,,,False,False,False
+198,/iot_lotte/3/DE-35/AI-3,AI-3,  dewpoint,,,,,,False,False,False
+199,/iot_lotte/3/DE-35/AI-4,AI-4,  hcho,,,,,,False,False,False
+200,/iot_lotte/3/DE-35/AI-5,AI-5,  humidity,,,,,,False,False,False
+201,/iot_lotte/3/DE-35/AI-6,AI-6,  lx,,,,,,False,False,False
+202,/iot_lotte/3/DE-35/AI-7,AI-7,  pm1,,,,,,False,False,False
+203,/iot_lotte/3/DE-35/AI-8,AI-8,  pm10,,,,,,False,False,False
+204,/iot_lotte/3/DE-35/AI-9,AI-9,  pm25,,,,,,False,False,False
+205,/iot_lotte/3/DE-35/AI-10,AI-10,  sound,,,,,,False,False,False
+206,/iot_lotte/3/DE-35/AI-11,AI-11,  temperature,,,,,,False,False,False
+207,/iot_lotte/3/DE-35/AI-12,AI-12,  timestamp,,,,,,False,False,False
+208,/iot_lotte/3/DE-36,DE-36,미정 (KETI 예비 IP),,,,,,False,False,False
+209,/iot_lotte/3/DE-36/AI-1,AI-1,  co2,,,,,,False,False,False
+210,/iot_lotte/3/DE-36/AI-2,AI-2,  datetime,,,,,,False,False,False
+211,/iot_lotte/3/DE-36/AI-3,AI-3,  dewpoint,,,,,,False,False,False
+212,/iot_lotte/3/DE-36/AI-4,AI-4,  hcho,,,,,,False,False,False
+213,/iot_lotte/3/DE-36/AI-5,AI-5,  humidity,,,,,,False,False,False
+214,/iot_lotte/3/DE-36/AI-6,AI-6,  lx,,,,,,False,False,False
+215,/iot_lotte/3/DE-36/AI-7,AI-7,  pm1,,,,,,False,False,False
+216,/iot_lotte/3/DE-36/AI-8,AI-8,  pm10,,,,,,False,False,False
+217,/iot_lotte/3/DE-36/AI-9,AI-9,  pm25,,,,,,False,False,False
+218,/iot_lotte/3/DE-36/AI-10,AI-10,  sound,,,,,,False,False,False
+219,/iot_lotte/3/DE-36/AI-11,AI-11,  temperature,,,,,,False,False,False
+220,/iot_lotte/3/DE-36/AI-12,AI-12,  timestamp,,,,,,False,False,False
+221,/iot_lotte/3/DE-37,DE-37,미정 (KETI 예비 IP),,,,,,False,False,False
+222,/iot_lotte/3/DE-37/AI-1,AI-1,  co2,,,,,,False,False,False
+223,/iot_lotte/3/DE-37/AI-2,AI-2,  datetime,,,,,,False,False,False
+224,/iot_lotte/3/DE-37/AI-3,AI-3,  dewpoint,,,,,,False,False,False
+225,/iot_lotte/3/DE-37/AI-4,AI-4,  hcho,,,,,,False,False,False
+226,/iot_lotte/3/DE-37/AI-5,AI-5,  humidity,,,,,,False,False,False
+227,/iot_lotte/3/DE-37/AI-6,AI-6,  lx,,,,,,False,False,False
+228,/iot_lotte/3/DE-37/AI-7,AI-7,  pm1,,,,,,False,False,False
+229,/iot_lotte/3/DE-37/AI-8,AI-8,  pm10,,,,,,False,False,False
+230,/iot_lotte/3/DE-37/AI-9,AI-9,  pm25,,,,,,False,False,False
+231,/iot_lotte/3/DE-37/AI-10,AI-10,  sound,,,,,,False,False,False
+232,/iot_lotte/3/DE-37/AI-11,AI-11,  temperature,,,,,,False,False,False
+233,/iot_lotte/3/DE-37/AI-12,AI-12,  timestamp,,,,,,False,False,False
+234,/iot_lotte/3/DE-38,DE-38,미정 (KETI 예비 IP),,,,,,False,False,False
+235,/iot_lotte/3/DE-38/AI-1,AI-1,  co2,,,,,,False,False,False
+236,/iot_lotte/3/DE-38/AI-2,AI-2,  datetime,,,,,,False,False,False
+237,/iot_lotte/3/DE-38/AI-3,AI-3,  dewpoint,,,,,,False,False,False
+238,/iot_lotte/3/DE-38/AI-4,AI-4,  hcho,,,,,,False,False,False
+239,/iot_lotte/3/DE-38/AI-5,AI-5,  humidity,,,,,,False,False,False
+240,/iot_lotte/3/DE-38/AI-6,AI-6,  lx,,,,,,False,False,False
+241,/iot_lotte/3/DE-38/AI-7,AI-7,  pm1,,,,,,False,False,False
+242,/iot_lotte/3/DE-38/AI-8,AI-8,  pm10,,,,,,False,False,False
+243,/iot_lotte/3/DE-38/AI-9,AI-9,  pm25,,,,,,False,False,False
+244,/iot_lotte/3/DE-38/AI-10,AI-10,  sound,,,,,,False,False,False
+245,/iot_lotte/3/DE-38/AI-11,AI-11,  temperature,,,,,,False,False,False
+246,/iot_lotte/3/DE-38/AI-12,AI-12,  timestamp,,,,,,False,False,False
+247,/iot_lotte/3/DE-39,DE-39,미정 (KETI 예비 IP),,,,,,False,False,False
+248,/iot_lotte/3/DE-39/AI-1,AI-1,  co2,,,,,,False,False,False
+249,/iot_lotte/3/DE-39/AI-2,AI-2,  datetime,,,,,,False,False,False
+250,/iot_lotte/3/DE-39/AI-3,AI-3,  dewpoint,,,,,,False,False,False
+251,/iot_lotte/3/DE-39/AI-4,AI-4,  hcho,,,,,,False,False,False
+252,/iot_lotte/3/DE-39/AI-5,AI-5,  humidity,,,,,,False,False,False
+253,/iot_lotte/3/DE-39/AI-6,AI-6,  lx,,,,,,False,False,False
+254,/iot_lotte/3/DE-39/AI-7,AI-7,  pm1,,,,,,False,False,False
+255,/iot_lotte/3/DE-39/AI-8,AI-8,  pm10,,,,,,False,False,False
+256,/iot_lotte/3/DE-39/AI-9,AI-9,  pm25,,,,,,False,False,False
+257,/iot_lotte/3/DE-39/AI-10,AI-10,  sound,,,,,,False,False,False
+258,/iot_lotte/3/DE-39/AI-11,AI-11,  temperature,,,,,,False,False,False
+259,/iot_lotte/3/DE-39/AI-12,AI-12,  timestamp,,,,,,False,False,False
+260,/iot_lotte/3/DE-40,DE-40,미정 (KETI 예비 IP),,,,,,False,False,False
+261,/iot_lotte/3/DE-40/AI-1,AI-1,  co2,,,,,,False,False,False
+262,/iot_lotte/3/DE-40/AI-2,AI-2,  datetime,,,,,,False,False,False
+263,/iot_lotte/3/DE-40/AI-3,AI-3,  dewpoint,,,,,,False,False,False
+264,/iot_lotte/3/DE-40/AI-4,AI-4,  hcho,,,,,,False,False,False
+265,/iot_lotte/3/DE-40/AI-5,AI-5,  humidity,,,,,,False,False,False
+266,/iot_lotte/3/DE-40/AI-6,AI-6,  lx,,,,,,False,False,False
+267,/iot_lotte/3/DE-40/AI-7,AI-7,  pm1,,,,,,False,False,False
+268,/iot_lotte/3/DE-40/AI-8,AI-8,  pm10,,,,,,False,False,False
+269,/iot_lotte/3/DE-40/AI-9,AI-9,  pm25,,,,,,False,False,False
+270,/iot_lotte/3/DE-40/AI-10,AI-10,  sound,,,,,,False,False,False
+271,/iot_lotte/3/DE-40/AI-11,AI-11,  temperature,,,,,,False,False,False
+272,/iot_lotte/3/DE-40/AI-12,AI-12,  timestamp,,,,,,False,False,False
+273,/iot_lotte/3/DE-41,DE-41,미정 (KETI 예비 IP),,,,,,False,False,False
+274,/iot_lotte/3/DE-41/AI-1,AI-1,  co2,,,,,,False,False,False
+275,/iot_lotte/3/DE-41/AI-2,AI-2,  datetime,,,,,,False,False,False
+276,/iot_lotte/3/DE-41/AI-3,AI-3,  dewpoint,,,,,,False,False,False
+277,/iot_lotte/3/DE-41/AI-4,AI-4,  hcho,,,,,,False,False,False
+278,/iot_lotte/3/DE-41/AI-5,AI-5,  humidity,,,,,,False,False,False
+279,/iot_lotte/3/DE-41/AI-6,AI-6,  lx,,,,,,False,False,False
+280,/iot_lotte/3/DE-41/AI-7,AI-7,  pm1,,,,,,False,False,False
+281,/iot_lotte/3/DE-41/AI-8,AI-8,  pm10,,,,,,False,False,False
+282,/iot_lotte/3/DE-41/AI-9,AI-9,  pm25,,,,,,False,False,False
+283,/iot_lotte/3/DE-41/AI-10,AI-10,  sound,,,,,,False,False,False
+284,/iot_lotte/3/DE-41/AI-11,AI-11,  temperature,,,,,,False,False,False
+285,/iot_lotte/3/DE-41/AI-12,AI-12,  timestamp,,,,,,False,False,False
+286,/iot_lotte/3/DE-42,DE-42,미정 (KETI 예비 IP),,,,,,False,False,False
+287,/iot_lotte/3/DE-42/AI-1,AI-1,  co2,,,,,,False,False,False
+288,/iot_lotte/3/DE-42/AI-2,AI-2,  datetime,,,,,,False,False,False
+289,/iot_lotte/3/DE-42/AI-3,AI-3,  dewpoint,,,,,,False,False,False
+290,/iot_lotte/3/DE-42/AI-4,AI-4,  hcho,,,,,,False,False,False
+291,/iot_lotte/3/DE-42/AI-5,AI-5,  humidity,,,,,,False,False,False
+292,/iot_lotte/3/DE-42/AI-6,AI-6,  lx,,,,,,False,False,False
+293,/iot_lotte/3/DE-42/AI-7,AI-7,  pm1,,,,,,False,False,False
+294,/iot_lotte/3/DE-42/AI-8,AI-8,  pm10,,,,,,False,False,False
+295,/iot_lotte/3/DE-42/AI-9,AI-9,  pm25,,,,,,False,False,False
+296,/iot_lotte/3/DE-42/AI-10,AI-10,  sound,,,,,,False,False,False
+297,/iot_lotte/3/DE-42/AI-11,AI-11,  temperature,,,,,,False,False,False
+298,/iot_lotte/3/DE-42/AI-12,AI-12,  timestamp,,,,,,False,False,False
+299,/iot_lotte/3/DE-43,DE-43,미정 (KETI 예비 IP),,,,,,False,False,False
+300,/iot_lotte/3/DE-43/AI-1,AI-1,  co2,,,,,,False,False,False
+301,/iot_lotte/3/DE-43/AI-2,AI-2,  datetime,,,,,,False,False,False
+302,/iot_lotte/3/DE-43/AI-3,AI-3,  dewpoint,,,,,,False,False,False
+303,/iot_lotte/3/DE-43/AI-4,AI-4,  hcho,,,,,,False,False,False
+304,/iot_lotte/3/DE-43/AI-5,AI-5,  humidity,,,,,,False,False,False
+305,/iot_lotte/3/DE-43/AI-6,AI-6,  lx,,,,,,False,False,False
+306,/iot_lotte/3/DE-43/AI-7,AI-7,  pm1,,,,,,False,False,False
+307,/iot_lotte/3/DE-43/AI-8,AI-8,  pm10,,,,,,False,False,False
+308,/iot_lotte/3/DE-43/AI-9,AI-9,  pm25,,,,,,False,False,False
+309,/iot_lotte/3/DE-43/AI-10,AI-10,  sound,,,,,,False,False,False
+310,/iot_lotte/3/DE-43/AI-11,AI-11,  temperature,,,,,,False,False,False
+311,/iot_lotte/3/DE-43/AI-12,AI-12,  timestamp,,,,,,False,False,False
+312,/iot_lotte/3/DE-44,DE-44,미정 (KETI 예비 IP),,,,,,False,False,False
+313,/iot_lotte/3/DE-44/AI-1,AI-1,  co2,,,,,,False,False,False
+314,/iot_lotte/3/DE-44/AI-2,AI-2,  datetime,,,,,,False,False,False
+315,/iot_lotte/3/DE-44/AI-3,AI-3,  dewpoint,,,,,,False,False,False
+316,/iot_lotte/3/DE-44/AI-4,AI-4,  hcho,,,,,,False,False,False
+317,/iot_lotte/3/DE-44/AI-5,AI-5,  humidity,,,,,,False,False,False
+318,/iot_lotte/3/DE-44/AI-6,AI-6,  lx,,,,,,False,False,False
+319,/iot_lotte/3/DE-44/AI-7,AI-7,  pm1,,,,,,False,False,False
+320,/iot_lotte/3/DE-44/AI-8,AI-8,  pm10,,,,,,False,False,False
+321,/iot_lotte/3/DE-44/AI-9,AI-9,  pm25,,,,,,False,False,False
+322,/iot_lotte/3/DE-44/AI-10,AI-10,  sound,,,,,,False,False,False
+323,/iot_lotte/3/DE-44/AI-11,AI-11,  temperature,,,,,,False,False,False
+324,/iot_lotte/3/DE-44/AI-12,AI-12,  timestamp,,,,,,False,False,False
+325,/iot_lotte/3/DE-45,DE-45,미정 (KETI 예비 IP),,,,,,False,False,False
+326,/iot_lotte/3/DE-45/AI-1,AI-1,  co2,,,,,,False,False,False
+327,/iot_lotte/3/DE-45/AI-2,AI-2,  datetime,,,,,,False,False,False
+328,/iot_lotte/3/DE-45/AI-3,AI-3,  dewpoint,,,,,,False,False,False
+329,/iot_lotte/3/DE-45/AI-4,AI-4,  hcho,,,,,,False,False,False
+330,/iot_lotte/3/DE-45/AI-5,AI-5,  humidity,,,,,,False,False,False
+331,/iot_lotte/3/DE-45/AI-6,AI-6,  lx,,,,,,False,False,False
+332,/iot_lotte/3/DE-45/AI-7,AI-7,  pm1,,,,,,False,False,False
+333,/iot_lotte/3/DE-45/AI-8,AI-8,  pm10,,,,,,False,False,False
+334,/iot_lotte/3/DE-45/AI-9,AI-9,  pm25,,,,,,False,False,False
+335,/iot_lotte/3/DE-45/AI-10,AI-10,  sound,,,,,,False,False,False
+336,/iot_lotte/3/DE-45/AI-11,AI-11,  temperature,,,,,,False,False,False
+337,/iot_lotte/3/DE-45/AI-12,AI-12,  timestamp,,,,,,False,False,False
+338,/iot_lotte/3/DE-46,DE-46,미정 (KETI 예비 IP),,,,,,False,False,False
+339,/iot_lotte/3/DE-46/AI-1,AI-1,  co2,,,,,,False,False,False
+340,/iot_lotte/3/DE-46/AI-2,AI-2,  datetime,,,,,,False,False,False
+341,/iot_lotte/3/DE-46/AI-3,AI-3,  dewpoint,,,,,,False,False,False
+342,/iot_lotte/3/DE-46/AI-4,AI-4,  hcho,,,,,,False,False,False
+343,/iot_lotte/3/DE-46/AI-5,AI-5,  humidity,,,,,,False,False,False
+344,/iot_lotte/3/DE-46/AI-6,AI-6,  lx,,,,,,False,False,False
+345,/iot_lotte/3/DE-46/AI-7,AI-7,  pm1,,,,,,False,False,False
+346,/iot_lotte/3/DE-46/AI-8,AI-8,  pm10,,,,,,False,False,False
+347,/iot_lotte/3/DE-46/AI-9,AI-9,  pm25,,,,,,False,False,False
+348,/iot_lotte/3/DE-46/AI-10,AI-10,  sound,,,,,,False,False,False
+349,/iot_lotte/3/DE-46/AI-11,AI-11,  temperature,,,,,,False,False,False
+350,/iot_lotte/3/DE-46/AI-12,AI-12,  timestamp,,,,,,False,False,False
+351,/iot_lotte/3/DE-47,DE-47,미정 (KETI 예비 IP),,,,,,False,False,False
+352,/iot_lotte/3/DE-47/AI-1,AI-1,  co2,,,,,,False,False,False
+353,/iot_lotte/3/DE-47/AI-2,AI-2,  datetime,,,,,,False,False,False
+354,/iot_lotte/3/DE-47/AI-3,AI-3,  dewpoint,,,,,,False,False,False
+355,/iot_lotte/3/DE-47/AI-4,AI-4,  hcho,,,,,,False,False,False
+356,/iot_lotte/3/DE-47/AI-5,AI-5,  humidity,,,,,,False,False,False
+357,/iot_lotte/3/DE-47/AI-6,AI-6,  lx,,,,,,False,False,False
+358,/iot_lotte/3/DE-47/AI-7,AI-7,  pm1,,,,,,False,False,False
+359,/iot_lotte/3/DE-47/AI-8,AI-8,  pm10,,,,,,False,False,False
+360,/iot_lotte/3/DE-47/AI-9,AI-9,  pm25,,,,,,False,False,False
+361,/iot_lotte/3/DE-47/AI-10,AI-10,  sound,,,,,,False,False,False
+362,/iot_lotte/3/DE-47/AI-11,AI-11,  temperature,,,,,,False,False,False
+363,/iot_lotte/3/DE-47/AI-12,AI-12,  timestamp,,,,,,False,False,False
+364,/iot_lotte/3/DE-48,DE-48,미정 (KETI 예비 IP),,,,,,False,False,False
+365,/iot_lotte/3/DE-48/AI-1,AI-1,  co2,,,,,,False,False,False
+366,/iot_lotte/3/DE-48/AI-2,AI-2,  datetime,,,,,,False,False,False
+367,/iot_lotte/3/DE-48/AI-3,AI-3,  dewpoint,,,,,,False,False,False
+368,/iot_lotte/3/DE-48/AI-4,AI-4,  hcho,,,,,,False,False,False
+369,/iot_lotte/3/DE-48/AI-5,AI-5,  humidity,,,,,,False,False,False
+370,/iot_lotte/3/DE-48/AI-6,AI-6,  lx,,,,,,False,False,False
+371,/iot_lotte/3/DE-48/AI-7,AI-7,  pm1,,,,,,False,False,False
+372,/iot_lotte/3/DE-48/AI-8,AI-8,  pm10,,,,,,False,False,False
+373,/iot_lotte/3/DE-48/AI-9,AI-9,  pm25,,,,,,False,False,False
+374,/iot_lotte/3/DE-48/AI-10,AI-10,  sound,,,,,,False,False,False
+375,/iot_lotte/3/DE-48/AI-11,AI-11,  temperature,,,,,,False,False,False
+376,/iot_lotte/3/DE-48/AI-12,AI-12,  timestamp,,,,,,False,False,False
+377,/iot_lotte/3/DE-49,DE-49,미정 (KETI 예비 IP),,,,,,False,False,False
+378,/iot_lotte/3/DE-49/AI-1,AI-1,  co2,,,,,,False,False,False
+379,/iot_lotte/3/DE-49/AI-2,AI-2,  datetime,,,,,,False,False,False
+380,/iot_lotte/3/DE-49/AI-3,AI-3,  dewpoint,,,,,,False,False,False
+381,/iot_lotte/3/DE-49/AI-4,AI-4,  hcho,,,,,,False,False,False
+382,/iot_lotte/3/DE-49/AI-5,AI-5,  humidity,,,,,,False,False,False
+383,/iot_lotte/3/DE-49/AI-6,AI-6,  lx,,,,,,False,False,False
+384,/iot_lotte/3/DE-49/AI-7,AI-7,  pm1,,,,,,False,False,False
+385,/iot_lotte/3/DE-49/AI-8,AI-8,  pm10,,,,,,False,False,False
+386,/iot_lotte/3/DE-49/AI-9,AI-9,  pm25,,,,,,False,False,False
+387,/iot_lotte/3/DE-49/AI-10,AI-10,  sound,,,,,,False,False,False
+388,/iot_lotte/3/DE-49/AI-11,AI-11,  temperature,,,,,,False,False,False
+389,/iot_lotte/3/DE-49/AI-12,AI-12,  timestamp,,,,,,False,False,False
+390,/iot_lotte/4/DE-200,DE-200,space_edge 1-1,롯데마트 중계점 1층 1번존 - s_num : es1230700128,,,,,False,False,False
+391,/iot_lotte/4/DE-200/AI-1,AI-1,temp,온도 (℃),,,,,False,False,False
+392,/iot_lotte/4/DE-200/AI-2,AI-2,humi,상대습도 (%),,,,,False,False,False
+393,/iot_lotte/4/DE-200/AI-3,AI-3,co2,이산화탄소 (ppm),,,,,False,False,False
+394,/iot_lotte/4/DE-200/AI-4,AI-4,dust_pm_1,극초미세먼지 - PM1 (㎍/㎥),,,,,False,False,False
+395,/iot_lotte/4/DE-200/AI-5,AI-5,dust_pm_25,초미세먼지 - PM2.5 (㎍/㎥),,,,,False,False,False
+396,/iot_lotte/4/DE-200/AI-6,AI-6,dust_om_10,미세먼지 - PM10 (㎍/㎥),,,,,False,False,False
+397,/iot_lotte/4/DE-200/AI-7,AI-7,voc,VOCs - 휘발성유기화합물 (ppb),,,,,False,False,False
+398,/iot_lotte/4/DE-200/AI-8,AI-8,in_room,"PIR(재실 감지)센서 (0:부재, 1:재실) ",,,,,False,False,False
+399,/iot_lotte/4/DE-200/AI-9,AI-9,regdate,데이터 저장 시간(yyyy-MM-dd HH-mm:ss),,,,,False,False,False
+400,/iot_lotte/4/DE-201,DE-201,space_edge 1-2,롯데마트 중계점 1층 2번존  - s_num : es1230700129,,,,,False,False,False
+401,/iot_lotte/4/DE-201/AI-1,AI-1,temp,온도 (℃),,,,,False,False,False
+402,/iot_lotte/4/DE-201/AI-2,AI-2,humi,상대습도 (%),,,,,False,False,False
+403,/iot_lotte/4/DE-201/AI-3,AI-3,co2,이산화탄소 (ppm),,,,,False,False,False
+404,/iot_lotte/4/DE-201/AI-4,AI-4,dust_pm_1,극초미세먼지 - PM1 (㎍/㎥),,,,,False,False,False
+405,/iot_lotte/4/DE-201/AI-5,AI-5,dust_pm_25,초미세먼지 - PM2.5 (㎍/㎥),,,,,False,False,False
+406,/iot_lotte/4/DE-201/AI-6,AI-6,dust_om_10,미세먼지 - PM10 (㎍/㎥),,,,,False,False,False
+407,/iot_lotte/4/DE-201/AI-7,AI-7,voc,VOCs - 휘발성유기화합물 (ppb),,,,,False,False,False
+408,/iot_lotte/4/DE-201/AI-8,AI-8,in_room,"PIR(재실 감지)센서 (0:부재, 1:재실) ",,,,,False,False,False
+409,/iot_lotte/4/DE-201/AI-9,AI-9,regdate,데이터 저장 시간(yyyy-MM-dd HH-mm:ss),,,,,False,False,False
+410,/iot_lotte/4/DE-202,DE-202,space_edge 1-3,롯데마트 중계점 1층 3번존  - s_num : es1230700130,,,,,False,False,False
+411,/iot_lotte/4/DE-202/AI-1,AI-1,temp,온도 (℃),,,,,False,False,False
+412,/iot_lotte/4/DE-202/AI-2,AI-2,humi,상대습도 (%),,,,,False,False,False
+413,/iot_lotte/4/DE-202/AI-3,AI-3,co2,이산화탄소 (ppm),,,,,False,False,False
+414,/iot_lotte/4/DE-202/AI-4,AI-4,dust_pm_1,극초미세먼지 - PM1 (㎍/㎥),,,,,False,False,False
+415,/iot_lotte/4/DE-202/AI-5,AI-5,dust_pm_25,초미세먼지 - PM2.5 (㎍/㎥),,,,,False,False,False
+416,/iot_lotte/4/DE-202/AI-6,AI-6,dust_om_10,미세먼지 - PM10 (㎍/㎥),,,,,False,False,False
+417,/iot_lotte/4/DE-202/AI-7,AI-7,voc,VOCs - 휘발성유기화합물 (ppb),,,,,False,False,False
+418,/iot_lotte/4/DE-202/AI-8,AI-8,in_room,"PIR(재실 감지)센서 (0:부재, 1:재실) ",,,,,False,False,False
+419,/iot_lotte/4/DE-202/AI-9,AI-9,regdate,데이터 저장 시간(yyyy-MM-dd HH-mm:ss),,,,,False,False,False
+420,/iot_lotte/4/DE-203,DE-203,space_edge 1-4,롯데마트 중계점 1층 4번존 - s_num : es1230700131,,,,,False,False,False
+421,/iot_lotte/4/DE-203/AI-1,AI-1,temp,온도 (℃),,,,,False,False,False
+422,/iot_lotte/4/DE-203/AI-2,AI-2,humi,상대습도 (%),,,,,False,False,False
+423,/iot_lotte/4/DE-203/AI-3,AI-3,co2,이산화탄소 (ppm),,,,,False,False,False
+424,/iot_lotte/4/DE-203/AI-4,AI-4,dust_pm_1,극초미세먼지 - PM1 (㎍/㎥),,,,,False,False,False
+425,/iot_lotte/4/DE-203/AI-5,AI-5,dust_pm_25,초미세먼지 - PM2.5 (㎍/㎥),,,,,False,False,False
+426,/iot_lotte/4/DE-203/AI-6,AI-6,dust_om_10,미세먼지 - PM10 (㎍/㎥),,,,,False,False,False
+427,/iot_lotte/4/DE-203/AI-7,AI-7,voc,VOCs - 휘발성유기화합물 (ppb),,,,,False,False,False
+428,/iot_lotte/4/DE-203/AI-8,AI-8,in_room,"PIR(재실 감지)센서 (0:부재, 1:재실) ",,,,,False,False,False
+429,/iot_lotte/4/DE-203/AI-9,AI-9,regdate,데이터 저장 시간(yyyy-MM-dd HH-mm:ss),,,,,False,False,False
+430,/iot_lotte/4/DE-204,DE-204,space_edge 1-5,롯데마트 중계점 1층 5번존 - s_num : es1230700132,,,,,False,False,False
+431,/iot_lotte/4/DE-204/AI-1,AI-1,temp,온도 (℃),,,,,False,False,False
+432,/iot_lotte/4/DE-204/AI-2,AI-2,humi,상대습도 (%),,,,,False,False,False
+433,/iot_lotte/4/DE-204/AI-3,AI-3,co2,이산화탄소 (ppm),,,,,False,False,False
+434,/iot_lotte/4/DE-204/AI-4,AI-4,dust_pm_1,극초미세먼지 - PM1 (㎍/㎥),,,,,False,False,False
+435,/iot_lotte/4/DE-204/AI-5,AI-5,dust_pm_25,초미세먼지 - PM2.5 (㎍/㎥),,,,,False,False,False
+436,/iot_lotte/4/DE-204/AI-6,AI-6,dust_om_10,미세먼지 - PM10 (㎍/㎥),,,,,False,False,False
+437,/iot_lotte/4/DE-204/AI-7,AI-7,voc,VOCs - 휘발성유기화합물 (ppb),,,,,False,False,False
+438,/iot_lotte/4/DE-204/AI-8,AI-8,in_room,"PIR(재실 감지)센서 (0:부재, 1:재실) ",,,,,False,False,False
+439,/iot_lotte/4/DE-204/AI-9,AI-9,regdate,데이터 저장 시간(yyyy-MM-dd HH-mm:ss),,,,,False,False,False
+440,/iot_lotte/4/DE-205,DE-205,space_edge 1-6,롯데마트 중계점 1층 6번존 - s_num : es1230700137,,,,,False,False,False
+441,/iot_lotte/4/DE-205/AI-1,AI-1,temp,온도 (℃),,,,,False,False,False
+442,/iot_lotte/4/DE-205/AI-2,AI-2,humi,상대습도 (%),,,,,False,False,False
+443,/iot_lotte/4/DE-205/AI-3,AI-3,co2,이산화탄소 (ppm),,,,,False,False,False
+444,/iot_lotte/4/DE-205/AI-4,AI-4,dust_pm_1,극초미세먼지 - PM1 (㎍/㎥),,,,,False,False,False
+445,/iot_lotte/4/DE-205/AI-5,AI-5,dust_pm_25,초미세먼지 - PM2.5 (㎍/㎥),,,,,False,False,False
+446,/iot_lotte/4/DE-205/AI-6,AI-6,dust_om_10,미세먼지 - PM10 (㎍/㎥),,,,,False,False,False
+447,/iot_lotte/4/DE-205/AI-7,AI-7,voc,VOCs - 휘발성유기화합물 (ppb),,,,,False,False,False
+448,/iot_lotte/4/DE-205/AI-8,AI-8,in_room,"PIR(재실 감지)센서 (0:부재, 1:재실) ",,,,,False,False,False
+449,/iot_lotte/4/DE-205/AI-9,AI-9,regdate,데이터 저장 시간(yyyy-MM-dd HH-mm:ss),,,,,False,False,False
+450,/iot_lotte/4/DE-206,DE-206,space_edge 1-7,롯데마트 중계점 1층 7번존- s_num : es1230700138,,,,,False,False,False
+451,/iot_lotte/4/DE-206/AI-1,AI-1,temp,온도 (℃),,,,,False,False,False
+452,/iot_lotte/4/DE-206/AI-2,AI-2,humi,상대습도 (%),,,,,False,False,False
+453,/iot_lotte/4/DE-206/AI-3,AI-3,co2,이산화탄소 (ppm),,,,,False,False,False
+454,/iot_lotte/4/DE-206/AI-4,AI-4,dust_pm_1,극초미세먼지 - PM1 (㎍/㎥),,,,,False,False,False
+455,/iot_lotte/4/DE-206/AI-5,AI-5,dust_pm_25,초미세먼지 - PM2.5 (㎍/㎥),,,,,False,False,False
+456,/iot_lotte/4/DE-206/AI-6,AI-6,dust_om_10,미세먼지 - PM10 (㎍/㎥),,,,,False,False,False
+457,/iot_lotte/4/DE-206/AI-7,AI-7,voc,VOCs - 휘발성유기화합물 (ppb),,,,,False,False,False
+458,/iot_lotte/4/DE-206/AI-8,AI-8,in_room,"PIR(재실 감지)센서 (0:부재, 1:재실) ",,,,,False,False,False
+459,/iot_lotte/4/DE-206/AI-9,AI-9,regdate,데이터 저장 시간(yyyy-MM-dd HH-mm:ss),,,,,False,False,False
+460,/iot_lotte/4/DE-207,DE-207,space_edge 1-8,롯데마트 중계점 1층 8번존 - s_num : es1230700139,,,,,False,False,False
+461,/iot_lotte/4/DE-207/AI-1,AI-1,temp,온도 (℃),,,,,False,False,False
+462,/iot_lotte/4/DE-207/AI-2,AI-2,humi,상대습도 (%),,,,,False,False,False
+463,/iot_lotte/4/DE-207/AI-3,AI-3,co2,이산화탄소 (ppm),,,,,False,False,False
+464,/iot_lotte/4/DE-207/AI-4,AI-4,dust_pm_1,극초미세먼지 - PM1 (㎍/㎥),,,,,False,False,False
+465,/iot_lotte/4/DE-207/AI-5,AI-5,dust_pm_25,초미세먼지 - PM2.5 (㎍/㎥),,,,,False,False,False
+466,/iot_lotte/4/DE-207/AI-6,AI-6,dust_om_10,미세먼지 - PM10 (㎍/㎥),,,,,False,False,False
+467,/iot_lotte/4/DE-207/AI-7,AI-7,voc,VOCs - 휘발성유기화합물 (ppb),,,,,False,False,False
+468,/iot_lotte/4/DE-207/AI-8,AI-8,in_room,"PIR(재실 감지)센서 (0:부재, 1:재실) ",,,,,False,False,False
+469,/iot_lotte/4/DE-207/AI-9,AI-9,regdate,데이터 저장 시간(yyyy-MM-dd HH-mm:ss),,,,,False,False,False
+470,/iot_lotte/4/DE-208,DE-208,space_edge 1-9,롯데마트 중계점 1층 9번존 - s_num : es1230700140,,,,,False,False,False
+471,/iot_lotte/4/DE-208/AI-1,AI-1,temp,온도 (℃),,,,,False,False,False
+472,/iot_lotte/4/DE-208/AI-2,AI-2,humi,상대습도 (%),,,,,False,False,False
+473,/iot_lotte/4/DE-208/AI-3,AI-3,co2,이산화탄소 (ppm),,,,,False,False,False
+474,/iot_lotte/4/DE-208/AI-4,AI-4,dust_pm_1,극초미세먼지 - PM1 (㎍/㎥),,,,,False,False,False
+475,/iot_lotte/4/DE-208/AI-5,AI-5,dust_pm_25,초미세먼지 - PM2.5 (㎍/㎥),,,,,False,False,False
+476,/iot_lotte/4/DE-208/AI-6,AI-6,dust_om_10,미세먼지 - PM10 (㎍/㎥),,,,,False,False,False
+477,/iot_lotte/4/DE-208/AI-7,AI-7,voc,VOCs - 휘발성유기화합물 (ppb),,,,,False,False,False
+478,/iot_lotte/4/DE-208/AI-8,AI-8,in_room,"PIR(재실 감지)센서 (0:부재, 1:재실) ",,,,,False,False,False
+479,/iot_lotte/4/DE-208/AI-9,AI-9,regdate,데이터 저장 시간(yyyy-MM-dd HH-mm:ss),,,,,False,False,False
+480,/iot_lotte/4/DE-209,DE-209,space_edge 1-10,롯데마트 중계점 1층 10번존 - s_num : es1230700141,,,,,False,False,False
+481,/iot_lotte/4/DE-209/AI-1,AI-1,temp,온도 (℃),,,,,False,False,False
+482,/iot_lotte/4/DE-209/AI-2,AI-2,humi,상대습도 (%),,,,,False,False,False
+483,/iot_lotte/4/DE-209/AI-3,AI-3,co2,이산화탄소 (ppm),,,,,False,False,False
+484,/iot_lotte/4/DE-209/AI-4,AI-4,dust_pm_1,극초미세먼지 - PM1 (㎍/㎥),,,,,False,False,False
+485,/iot_lotte/4/DE-209/AI-5,AI-5,dust_pm_25,초미세먼지 - PM2.5 (㎍/㎥),,,,,False,False,False
+486,/iot_lotte/4/DE-209/AI-6,AI-6,dust_om_10,미세먼지 - PM10 (㎍/㎥),,,,,False,False,False
+487,/iot_lotte/4/DE-209/AI-7,AI-7,voc,VOCs - 휘발성유기화합물 (ppb),,,,,False,False,False
+488,/iot_lotte/4/DE-209/AI-8,AI-8,in_room,"PIR(재실 감지)센서 (0:부재, 1:재실) ",,,,,False,False,False
+489,/iot_lotte/4/DE-209/AI-9,AI-9,regdate,데이터 저장 시간(yyyy-MM-dd HH-mm:ss),,,,,False,False,False
+490,/iot_lotte/4/DE-210,DE-210,space_edge 1-11,롯데마트 중계점 1층 11번존 - s_num : es1230700142,,,,,False,False,False
+491,/iot_lotte/4/DE-210/AI-1,AI-1,temp,온도 (℃),,,,,False,False,False
+492,/iot_lotte/4/DE-210/AI-2,AI-2,humi,상대습도 (%),,,,,False,False,False
+493,/iot_lotte/4/DE-210/AI-3,AI-3,co2,이산화탄소 (ppm),,,,,False,False,False
+494,/iot_lotte/4/DE-210/AI-4,AI-4,dust_pm_1,극초미세먼지 - PM1 (㎍/㎥),,,,,False,False,False
+495,/iot_lotte/4/DE-210/AI-5,AI-5,dust_pm_25,초미세먼지 - PM2.5 (㎍/㎥),,,,,False,False,False
+496,/iot_lotte/4/DE-210/AI-6,AI-6,dust_om_10,미세먼지 - PM10 (㎍/㎥),,,,,False,False,False
+497,/iot_lotte/4/DE-210/AI-7,AI-7,voc,VOCs - 휘발성유기화합물 (ppb),,,,,False,False,False
+498,/iot_lotte/4/DE-210/AI-8,AI-8,in_room,"PIR(재실 감지)센서 (0:부재, 1:재실) ",,,,,False,False,False
+499,/iot_lotte/4/DE-210/AI-9,AI-9,regdate,데이터 저장 시간(yyyy-MM-dd HH-mm:ss),,,,,False,False,False
+500,/iot_lotte/4/DE-210/BI-10,BI-10,status,"유선 공기청정기 상태 (0: off, 1: on)",,,,,False,False,False
+501,/iot_lotte/4/DE-211,DE-211,space_edge 1-12,롯데마트 중계점 1층 12번존 - s_num : es1230700144,,,,,False,False,False
+502,/iot_lotte/4/DE-211/AI-1,AI-1,temp,온도 (℃),,,,,False,False,False
+503,/iot_lotte/4/DE-211/AI-2,AI-2,humi,상대습도 (%),,,,,False,False,False
+504,/iot_lotte/4/DE-211/AI-3,AI-3,co2,이산화탄소 (ppm),,,,,False,False,False
+505,/iot_lotte/4/DE-211/AI-4,AI-4,dust_pm_1,극초미세먼지 - PM1 (㎍/㎥),,,,,False,False,False
+506,/iot_lotte/4/DE-211/AI-5,AI-5,dust_pm_25,초미세먼지 - PM2.5 (㎍/㎥),,,,,False,False,False
+507,/iot_lotte/4/DE-211/AI-6,AI-6,dust_om_10,미세먼지 - PM10 (㎍/㎥),,,,,False,False,False
+508,/iot_lotte/4/DE-211/AI-7,AI-7,voc,VOCs - 휘발성유기화합물 (ppb),,,,,False,False,False
+509,/iot_lotte/4/DE-211/AI-8,AI-8,in_room,"PIR(재실 감지)센서 (0:부재, 1:재실) ",,,,,False,False,False
+510,/iot_lotte/4/DE-211/AI-9,AI-9,regdate,데이터 저장 시간(yyyy-MM-dd HH-mm:ss),,,,,False,False,False
+511,/iot_lotte/4/DE-212,DE-212,space_edge 1-13,롯데마트 중계점 1층 13번존 - s_num : es1230700145,,,,,False,False,False
+512,/iot_lotte/4/DE-212/AI-1,AI-1,temp,온도 (℃),,,,,False,False,False
+513,/iot_lotte/4/DE-212/AI-2,AI-2,humi,상대습도 (%),,,,,False,False,False
+514,/iot_lotte/4/DE-212/AI-3,AI-3,co2,이산화탄소 (ppm),,,,,False,False,False
+515,/iot_lotte/4/DE-212/AI-4,AI-4,dust_pm_1,극초미세먼지 - PM1 (㎍/㎥),,,,,False,False,False
+516,/iot_lotte/4/DE-212/AI-5,AI-5,dust_pm_25,초미세먼지 - PM2.5 (㎍/㎥),,,,,False,False,False
+517,/iot_lotte/4/DE-212/AI-6,AI-6,dust_om_10,미세먼지 - PM10 (㎍/㎥),,,,,False,False,False
+518,/iot_lotte/4/DE-212/AI-7,AI-7,voc,VOCs - 휘발성유기화합물 (ppb),,,,,False,False,False
+519,/iot_lotte/4/DE-212/AI-8,AI-8,in_room,"PIR(재실 감지)센서 (0:부재, 1:재실) ",,,,,False,False,False
+520,/iot_lotte/4/DE-212/AI-9,AI-9,regdate,데이터 저장 시간(yyyy-MM-dd HH-mm:ss),,,,,False,False,False
+521,/iot_lotte/4/DE-212/BI-10,BI-10,status,"유선 공기청정기 상태 (0: off, 1: on)",,,,,False,False,False
+522,/iot_lotte/4/DE-213,DE-213,space_edge 1-14,롯데마트 중계점 1층 14번존 - s_num : es1230700146,,,,,False,False,False
+523,/iot_lotte/4/DE-213/AI-1,AI-1,temp,온도 (℃),,,,,False,False,False
+524,/iot_lotte/4/DE-213/AI-2,AI-2,humi,상대습도 (%),,,,,False,False,False
+525,/iot_lotte/4/DE-213/AI-3,AI-3,co2,이산화탄소 (ppm),,,,,False,False,False
+526,/iot_lotte/4/DE-213/AI-4,AI-4,dust_pm_1,극초미세먼지 - PM1 (㎍/㎥),,,,,False,False,False
+527,/iot_lotte/4/DE-213/AI-5,AI-5,dust_pm_25,초미세먼지 - PM2.5 (㎍/㎥),,,,,False,False,False
+528,/iot_lotte/4/DE-213/AI-6,AI-6,dust_om_10,미세먼지 - PM10 (㎍/㎥),,,,,False,False,False
+529,/iot_lotte/4/DE-213/AI-7,AI-7,voc,VOCs - 휘발성유기화합물 (ppb),,,,,False,False,False
+530,/iot_lotte/4/DE-213/AI-8,AI-8,in_room,"PIR(재실 감지)센서 (0:부재, 1:재실) ",,,,,False,False,False
+531,/iot_lotte/4/DE-213/AI-9,AI-9,regdate,데이터 저장 시간(yyyy-MM-dd HH-mm:ss),,,,,False,False,False
+532,/iot_lotte/4/DE-213/BI-10,BI-10,status,"유선 공기청정기 상태 (0: off, 1: on)",,,,,False,False,False
+533,/iot_lotte/4/DE-214,DE-214,space_edge 1-15,롯데마트 중계점 1층 15번존 - s_num : es1230700147,,,,,False,False,False
+534,/iot_lotte/4/DE-214/AI-1,AI-1,temp,온도 (℃),,,,,False,False,False
+535,/iot_lotte/4/DE-214/AI-2,AI-2,humi,상대습도 (%),,,,,False,False,False
+536,/iot_lotte/4/DE-214/AI-3,AI-3,co2,이산화탄소 (ppm),,,,,False,False,False
+537,/iot_lotte/4/DE-214/AI-4,AI-4,dust_pm_1,극초미세먼지 - PM1 (㎍/㎥),,,,,False,False,False
+538,/iot_lotte/4/DE-214/AI-5,AI-5,dust_pm_25,초미세먼지 - PM2.5 (㎍/㎥),,,,,False,False,False
+539,/iot_lotte/4/DE-214/AI-6,AI-6,dust_om_10,미세먼지 - PM10 (㎍/㎥),,,,,False,False,False
+540,/iot_lotte/4/DE-214/AI-7,AI-7,voc,VOCs - 휘발성유기화합물 (ppb),,,,,False,False,False
+541,/iot_lotte/4/DE-214/AI-8,AI-8,in_room,"PIR(재실 감지)센서 (0:부재, 1:재실) ",,,,,False,False,False
+542,/iot_lotte/4/DE-214/AI-9,AI-9,regdate,데이터 저장 시간(yyyy-MM-dd HH-mm:ss),,,,,False,False,False
+543,/iot_lotte/4/DE-214/BI-10,BI-10,status,"유선 공기청정기 상태 (0: off, 1: on)",,,,,False,False,False
+544,/iot_lotte/4/DE-215,DE-215,space_edge 1-16,롯데마트 중계점 1층 16번존 - s_num : es1230700159,,,,,False,False,False
+545,/iot_lotte/4/DE-215/AI-1,AI-1,temp,온도 (℃),,,,,False,False,False
+546,/iot_lotte/4/DE-215/AI-2,AI-2,humi,상대습도 (%),,,,,False,False,False
+547,/iot_lotte/4/DE-215/AI-3,AI-3,co2,이산화탄소 (ppm),,,,,False,False,False
+548,/iot_lotte/4/DE-215/AI-4,AI-4,dust_pm_1,극초미세먼지 - PM1 (㎍/㎥),,,,,False,False,False
+549,/iot_lotte/4/DE-215/AI-5,AI-5,dust_pm_25,초미세먼지 - PM2.5 (㎍/㎥),,,,,False,False,False
+550,/iot_lotte/4/DE-215/AI-6,AI-6,dust_om_10,미세먼지 - PM10 (㎍/㎥),,,,,False,False,False
+551,/iot_lotte/4/DE-215/AI-7,AI-7,voc,VOCs - 휘발성유기화합물 (ppb),,,,,False,False,False
+552,/iot_lotte/4/DE-215/AI-8,AI-8,in_room,"PIR(재실 감지)센서 (0:부재, 1:재실) ",,,,,False,False,False
+553,/iot_lotte/4/DE-215/AI-9,AI-9,regdate,데이터 저장 시간(yyyy-MM-dd HH-mm:ss),,,,,False,False,False
+554,/iot_lotte/4/DE-215/BI-10,BI-10,status,"유선 공기청정기 상태 (0: off, 1: on)",,,,,False,False,False

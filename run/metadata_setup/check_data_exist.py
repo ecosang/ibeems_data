@@ -115,8 +115,8 @@ if __name__=="__main__":
 
     '''
     project_id='lotte_mart' # lotte_mart, hdc
-    start_time="2024-03-23 00:00:00+0900"
-    end_time="2024-03-23 23:59:00+0900"
+    start_time="2024-08-01 00:00:00+0900"
+    end_time="2024-08-02 23:59:00+0900"
     check_data_exist(project_id,start_time,end_time,update_metadata=False)
 
     # project_id='hdc' # lotte_mart, hdc

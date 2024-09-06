@@ -7,3 +7,4 @@ Functions to query iBEEMS data
 - pip install matplotlib
 - pip install PyYAML
 - python>=3.10
+- pip install openpyxl

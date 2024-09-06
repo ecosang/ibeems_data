@@ -1,0 +1,756 @@
+﻿,path,object_id,object_name,comment,zone_id,variable_name,raw_unit,type,required,available,data_exist
+0,/iot_lotte/8/DE-1/AI-800,AI-800,CT1 냉각수 공급온도,,,,,,False,False,False
+1,/iot_lotte/8/DE-1/AI-801,AI-801,CT1 냉각수 환수온도,,,,,,False,False,False
+2,/iot_lotte/8/DE-1/AI-802,AI-802,CT1 냉수 공급온도,,,,,,False,False,False
+3,/iot_lotte/8/DE-1/AI-803,AI-803,CT1 냉수 환수온도,,,,,,False,False,False
+4,/iot_lotte/8/DE-1/AI-804,AI-804,CT2-1 냉각수 공급온도,,,,,,False,False,False
+5,/iot_lotte/8/DE-1/AI-805,AI-805,CT2-1 냉각수 환수온도,,,,,,False,False,False
+6,/iot_lotte/8/DE-1/AI-806,AI-806,CT2-1 냉수 공급온도,,,,,,False,False,False
+7,/iot_lotte/8/DE-1/AI-807,AI-807,CT2-1 냉수 환수온도,,,,,,False,False,False
+8,/iot_lotte/8/DE-1/AI-900,AI-900,CT2-2 냉각수 공급온도,,,,,,False,False,False
+9,/iot_lotte/8/DE-1/AI-901,AI-901,CT2-2 냉각수 환수온도,,,,,,False,False,False
+10,/iot_lotte/8/DE-1/AI-902,AI-902,CT2-2 냉수 공급온도,,,,,,False,False,False
+11,/iot_lotte/8/DE-1/AI-903,AI-903,CT2-2 냉수 환수온도,,,,,,False,False,False
+12,/iot_lotte/8/DE-1/AI-904,AI-904,헤더 공급온도,,common,T_chws,,float,True,True,True
+13,/iot_lotte/8/DE-1/AI-905,AI-905,헤더 환수온도,,,,,,False,False,False
+14,/iot_lotte/8/DE-1/AI-906,AI-906,급탕탱크온도    ,,,,,,False,False,False
+15,/iot_lotte/8/DE-1/AI-1100,AI-1100,냉온수기 물용 차압감지기,,,,,,False,False,False
+16,/iot_lotte/8/DE-1/AI-1101,AI-1101,지하저수조 수위,,,,,,False,False,False
+17,/iot_lotte/8/DE-1/AI-1102,AI-1102,보일러 증기헤어 압력,,,,,,False,False,False
+18,/iot_lotte/8/DE-1/AI-1103,AI-1103,외기온도,,weather,T_oa,C,float,True,True,True
+19,/iot_lotte/8/DE-1/AI-1104,AI-1104,외기습도,,weather,RH_oa,%,float,True,True,True
+20,/iot_lotte/8/DE-1/AO-300,AO-300,냉동냉장창고 밸브(X),,,,,,False,False,False
+21,/iot_lotte/8/DE-1/AO-301,AO-301,급탕밸브(X),,,,,,False,False,False
+22,/iot_lotte/8/DE-1/AO-302,AO-302,열교환기 밸브(X),,,,,,False,False,False
+23,/iot_lotte/8/DE-1/AO-1601,AO-1601,급탕탱크설정온도,,,,,,False,False,False
+24,/iot_lotte/8/DE-1/AO-1602,AO-1602,열교환기 설정온도,,,,,,False,False,False
+25,/iot_lotte/8/DE-1/AO-1603,AO-1603,쇼케이스 설정온도,,,,,,False,False,False
+26,/iot_lotte/8/DE-1/AO-1604,AO-1604,냉각탑_쇼케이스 정지온도,,,,,,False,False,False
+27,/iot_lotte/8/DE-1/AO-1605,AO-1605,냉각탑_쇼케이스 기동온도,,,,,,False,False,False
+28,/iot_lotte/8/DE-1/AO-1608,AO-1608,CT1 정지온도,,,,,,False,False,False
+29,/iot_lotte/8/DE-1/AO-1609,AO-1609,CT1 기동온도,,,,,,False,False,False
+30,/iot_lotte/8/DE-1/AO-1610,AO-1610,CT2 정동온도,,,,,,False,False,False
+31,/iot_lotte/8/DE-1/AO-1611,AO-1611,CT2 기동온도,,,,,,False,False,False
+32,/iot_lotte/8/DE-1/AO-1612,AO-1612,CT3 정동온도,,,,,,False,False,False
+33,/iot_lotte/8/DE-1/AO-1613,AO-1613,CT3 기동온도,,,,,,False,False,False
+34,/iot_lotte/8/DE-1/BI-400,BI-400,냉각탑-1 #1 STA,,,,,,False,False,False
+35,/iot_lotte/8/DE-1/BI-401,BI-401,냉각탑-1 #1 LOC,,,,,,False,False,False
+36,/iot_lotte/8/DE-1/BI-402,BI-402,냉각탑-1 #2 STA,,,,,,False,False,False
+37,/iot_lotte/8/DE-1/BI-403,BI-403,냉각탑-1 #2 LOC,,,,,,False,False,False
+38,/iot_lotte/8/DE-1/BI-404,BI-404,냉각탑-2 #1 STA,,,,,,False,False,False
+39,/iot_lotte/8/DE-1/BI-405,BI-405,냉각탑-2 #1 LOC,,,,,,False,False,False
+40,/iot_lotte/8/DE-1/BI-406,BI-406,냉각탑-2 #2 STA,,,,,,False,False,False
+41,/iot_lotte/8/DE-1/BI-407,BI-407,냉각탑-2 #2 LOC,,,,,,False,False,False
+42,/iot_lotte/8/DE-1/BI-408,BI-408,냉각탑-2 #3 STA,,,,,,False,False,False
+43,/iot_lotte/8/DE-1/BI-409,BI-409,냉각탑-2 #3 LOC,,,,,,False,False,False
+44,/iot_lotte/8/DE-1/BI-410,BI-410,냉온수기-1 STA,,,,,,False,False,False
+45,/iot_lotte/8/DE-1/BI-411,BI-411,냉온수기-1 LOC(X),,,,,,False,False,False
+46,/iot_lotte/8/DE-1/BI-412,BI-412,냉온수기-1 AL,,,,,,False,False,False
+47,/iot_lotte/8/DE-1/BI-413,BI-413,냉온수기-2 STA,,,,,,False,False,False
+48,/iot_lotte/8/DE-1/BI-414,BI-414,냉온수기-2 LOC(X),,,,,,False,False,False
+49,/iot_lotte/8/DE-1/BI-415,BI-415,냉온수기-2 AL,,,,,,False,False,False
+50,/iot_lotte/8/DE-1/BI-416,BI-416,냉온수기-3 STA,,,,,,False,False,False
+51,/iot_lotte/8/DE-1/BI-417,BI-417,냉온수기-3 LOC(X),,,,,,False,False,False
+52,/iot_lotte/8/DE-1/BI-418,BI-418,냉온수기-3 AL,,,,,,False,False,False
+53,/iot_lotte/8/DE-1/BI-419,BI-419,CT2 냉각수순환펌프1 STA,,,,,,False,False,False
+54,/iot_lotte/8/DE-1/BI-420,BI-420,CT2 냉각수순환펌프1 LOC,,,,,,False,False,False
+55,/iot_lotte/8/DE-1/BI-421,BI-421,CT2 냉각수순환펌프2 STA,,,,,,False,False,False
+56,/iot_lotte/8/DE-1/BI-422,BI-422,CT2 냉각수순환펌프2 LOC,,,,,,False,False,False
+57,/iot_lotte/8/DE-1/BI-500,BI-500,CT2 냉각수순환펌프3 STA,,,,,,False,False,False
+58,/iot_lotte/8/DE-1/BI-501,BI-501,CT2 냉각수순환펌프3 LOC,,,,,,False,False,False
+59,/iot_lotte/8/DE-1/BI-502,BI-502,CT1 냉각수순환펌프1 STA,,,,,,False,False,False
+60,/iot_lotte/8/DE-1/BI-503,BI-503,CT1 냉각수순환펌프1 LOC,,,,,,False,False,False
+61,/iot_lotte/8/DE-1/BI-504,BI-504,CT1 냉각수순환펌프2 STA,,,,,,False,False,False
+62,/iot_lotte/8/DE-1/BI-505,BI-505,CT1 냉각수순환펌프2 LOC,,,,,,False,False,False
+63,/iot_lotte/8/DE-1/BI-506,BI-506,CH2 냉수순환펌프1 STA,,,,,,False,False,False
+64,/iot_lotte/8/DE-1/BI-507,BI-507,CH2 냉수순환펌프1 LOC,,,,,,False,False,False
+65,/iot_lotte/8/DE-1/BI-508,BI-508,CH2 냉수순환펌프2 STA,,,,,,False,False,False
+66,/iot_lotte/8/DE-1/BI-509,BI-509,CH2 냉수순환펌프2 LOC,,,,,,False,False,False
+67,/iot_lotte/8/DE-1/BI-510,BI-510,CH2 냉수순환펌프3 STA,,,,,,False,False,False
+68,/iot_lotte/8/DE-1/BI-511,BI-511,CH2 냉수순환펌프3 LOC,,,,,,False,False,False
+69,/iot_lotte/8/DE-1/BI-512,BI-512,CH1 냉수순환펌프1 STA,,,,,,False,False,False
+70,/iot_lotte/8/DE-1/BI-513,BI-513,CH1 냉수순환펌프1 LOC,,,,,,False,False,False
+71,/iot_lotte/8/DE-1/BI-514,BI-514,CH1 냉수순환펌프2 STA,,,,,,False,False,False
+72,/iot_lotte/8/DE-1/BI-515,BI-515,CH1 냉수순환펌프2 LOC,,,,,,False,False,False
+73,/iot_lotte/8/DE-1/BI-516,BI-516,냉각탑-2 #4 STA,,,,,,False,False,False
+74,/iot_lotte/8/DE-1/BI-517,BI-517,냉각탑-2 #4 LOC,,,,,,False,False,False
+75,/iot_lotte/8/DE-1/BI-518,BI-518,SF-5 STA,,,,,,False,False,False
+76,/iot_lotte/8/DE-1/BI-519,BI-519,SF-5 LOC,,,,,,False,False,False
+77,/iot_lotte/8/DE-1/BI-520,BI-520,SF-1 STA,,,,,,False,False,False
+78,/iot_lotte/8/DE-1/BI-521,BI-521,SF-1 LOC,,,,,,False,False,False
+79,/iot_lotte/8/DE-1/BI-522,BI-522,EF-1 STA,,,,,,False,False,False
+80,/iot_lotte/8/DE-1/BI-523,BI-523,EF-1 LOC,,,,,,False,False,False
+81,/iot_lotte/8/DE-1/BI-600,BI-600,쇼케이스용 냉각탑1 STA(X),,,,,,False,False,False
+82,/iot_lotte/8/DE-1/BI-601,BI-601,쇼케이스용 냉각탑1 LOC(X),,,,,,False,False,False
+83,/iot_lotte/8/DE-1/BI-602,BI-602,쇼케이스용 냉각탑2 STA(X),,,,,,False,False,False
+84,/iot_lotte/8/DE-1/BI-603,BI-603,쇼케이스용 냉각탑2 LOC(X),,,,,,False,False,False
+85,/iot_lotte/8/DE-1/BI-604,BI-604,쇼케이스용 냉각수순환펌프1 STA(X),,,,,,False,False,False
+86,/iot_lotte/8/DE-1/BI-605,BI-605,쇼케이스용 냉각수순환펌프1 LOC(X),,,,,,False,False,False
+87,/iot_lotte/8/DE-1/BI-606,BI-606,쇼케이스용 냉각수순환펌프2 STA(X),,,,,,False,False,False
+88,/iot_lotte/8/DE-1/BI-607,BI-607,쇼케이스용 냉각수순환펌프2 LOC(X),,,,,,False,False,False
+89,/iot_lotte/8/DE-1/BI-608,BI-608,기계실배수 H/A,,,,,,False,False,False
+90,/iot_lotte/8/DE-1/BI-609,BI-609,고객화장실 H/A,,,,,,False,False,False
+91,/iot_lotte/8/DE-1/BI-610,BI-610,펌프실배수 H/A,,,,,,False,False,False
+92,/iot_lotte/8/DE-1/BI-611,BI-611,지하1층공조실-1배수 H/A,,,,,,False,False,False
+93,/iot_lotte/8/DE-1/BI-612,BI-612,지하1층공조실-2배수 H/A,,,,,,False,False,False
+94,/iot_lotte/8/DE-1/BI-613,BI-613,부스터펌프 STA,,,,,,False,False,False
+95,/iot_lotte/8/DE-1/BI-614,BI-614,부스터펌프 AL,,,,,,False,False,False
+96,/iot_lotte/8/DE-1/BI-618,BI-618,지하1층공조실-3배수 H/A,,,,,,False,False,False
+97,/iot_lotte/8/DE-1/BI-619,BI-619,주방배수1 H/A,,,,,,False,False,False
+98,/iot_lotte/8/DE-1/BI-620,BI-620,주방배수2 H/A,,,,,,False,False,False
+99,/iot_lotte/8/DE-1/BI-621,BI-621,사진관배수 H/A,,,,,,False,False,False
+100,/iot_lotte/8/DE-1/BI-622,BI-622,ELV.배수 H/A,,,,,,False,False,False
+101,/iot_lotte/8/DE-1/BI-700,BI-700,보일러-1 STA,,,,,,False,False,False
+102,/iot_lotte/8/DE-1/BI-701,BI-701,보일러-1 LOC,,,,,,False,False,False
+103,/iot_lotte/8/DE-1/BI-702,BI-702,보일러-1 AL,,,,,,False,False,False
+104,/iot_lotte/8/DE-1/BI-703,BI-703,보일러-2 STA,,,,,,False,False,False
+105,/iot_lotte/8/DE-1/BI-704,BI-704,보일러-2 AL   ,,,,,,False,False,False
+106,/iot_lotte/8/DE-1/BI-705,BI-705,보일러-2 LOC (X),,,,,,False,False,False
+107,/iot_lotte/8/DE-1/BI-707,BI-707,온수순환펌프 1 STA,,,,,,False,False,False
+108,/iot_lotte/8/DE-1/BI-708,BI-708,온수순환펌프 1 LOC,,,,,,False,False,False
+109,/iot_lotte/8/DE-1/BI-709,BI-709,온수순환펌프 2 STA,,,,,,False,False,False
+110,/iot_lotte/8/DE-1/BI-710,BI-710,온수순환펌프 2 LOC,,,,,,False,False,False
+111,/iot_lotte/8/DE-1/BI-712,BI-712,응축수탱크 high AL,,,,,,False,False,False
+112,/iot_lotte/8/DE-1/BI-713,BI-713,응축수탱크 Low AL,,,,,,False,False,False
+113,/iot_lotte/8/DE-1/BI-714,BI-714,급탕탱크P1 STA,,,,,,False,False,False
+114,/iot_lotte/8/DE-1/BI-715,BI-715,급탕탱크P1 LOC,,,,,,False,False,False
+115,/iot_lotte/8/DE-1/BI-716,BI-716,급탕탱크P2 STA,,,,,,False,False,False
+116,/iot_lotte/8/DE-1/BI-717,BI-717,급탕탱크P2 LOC,,,,,,False,False,False
+117,/iot_lotte/8/DE-1/BI-718,BI-718,SF-2 STA,,,,,,False,False,False
+118,/iot_lotte/8/DE-1/BI-719,BI-719,SF-2 LOC,,,,,,False,False,False
+119,/iot_lotte/8/DE-1/BI-720,BI-720,EF-2 STA,,,,,,False,False,False
+120,/iot_lotte/8/DE-1/BI-721,BI-721,EF-2 LOC,,,,,,False,False,False
+121,/iot_lotte/8/DE-1/BI-1400,BI-1400,EF-5 STA,,,,,,False,False,False
+122,/iot_lotte/8/DE-1/BI-1401,BI-1401,EF-5 LOC,,,,,,False,False,False
+123,/iot_lotte/8/DE-1/BI-1402,BI-1402,EF-11 STA,,,,,,False,False,False
+124,/iot_lotte/8/DE-1/BI-1403,BI-1403,EF-11 LOC,,,,,,False,False,False
+125,/iot_lotte/8/DE-1/BI-1404,BI-1404,EF-13 STA,,,,,,False,False,False
+126,/iot_lotte/8/DE-1/BI-1405,BI-1405,EF-13 LOC,,,,,,False,False,False
+127,/iot_lotte/8/DE-1/BI-1406,BI-1406,EF-17 STA,,,,,,False,False,False
+128,/iot_lotte/8/DE-1/BI-1407,BI-1407,EF-17 LOC,,,,,,False,False,False
+129,/iot_lotte/8/DE-1/BI-1408,BI-1408,EF-25 STA,,,,,,False,False,False
+130,/iot_lotte/8/DE-1/BI-1409,BI-1409,EF-25 LOC,,,,,,False,False,False
+131,/iot_lotte/8/DE-1/BI-1410,BI-1410,EF-21 STA,,,,,,False,False,False
+132,/iot_lotte/8/DE-1/BI-1411,BI-1411,EF-21 LOC,,,,,,False,False,False
+133,/iot_lotte/8/DE-1/BI-1412,BI-1412,EF-29 STA,,,,,,False,False,False
+134,/iot_lotte/8/DE-1/BI-1413,BI-1413,EF-29 LOC,,,,,,False,False,False
+135,/iot_lotte/8/DE-1/BI-1414,BI-1414,소화수조 H/A,,,,,,False,False,False
+136,/iot_lotte/8/DE-1/BI-1415,BI-1415,정전신호,,,,,,False,False,False
+137,/iot_lotte/8/DE-1/BI-1500,BI-1500,EF-6 STA,,,,,,False,False,False
+138,/iot_lotte/8/DE-1/BI-1501,BI-1501,EF-6 LOC,,,,,,False,False,False
+139,/iot_lotte/8/DE-1/BI-1502,BI-1502,EF-9 STA,,,,,,False,False,False
+140,/iot_lotte/8/DE-1/BI-1503,BI-1503,EF-9 LOC,,,,,,False,False,False
+141,/iot_lotte/8/DE-1/BI-1504,BI-1504,EF-19 STA,,,,,,False,False,False
+142,/iot_lotte/8/DE-1/BI-1505,BI-1505,EF-19 LOC,,,,,,False,False,False
+143,/iot_lotte/8/DE-1/BI-1506,BI-1506,EF-24 STA,,,,,,False,False,False
+144,/iot_lotte/8/DE-1/BI-1507,BI-1507,EF-24 LOC,,,,,,False,False,False
+145,/iot_lotte/8/DE-1/BI-1508,BI-1508,하재수신반 통합 알람,,,,,,False,False,False
+146,/iot_lotte/8/DE-1/BI-1509,BI-1509,EF-29 STA,,,,,,False,False,False
+147,/iot_lotte/8/DE-1/BI-1510,BI-1510,EF-29 LOC,,,,,,False,False,False
+148,/iot_lotte/8/DE-1/BO-0,BO-0,냉각탑-1 #1 SST ,,,,,,False,False,False
+149,/iot_lotte/8/DE-1/BO-1,BO-1,냉각탑-1 #2 SST,,,,,,False,False,False
+150,/iot_lotte/8/DE-1/BO-2,BO-2,냉각탑-2 #1 SST (X),,,,,,False,False,False
+151,/iot_lotte/8/DE-1/BO-3,BO-3,냉각탑-2 #2 SST(X),,,,,,False,False,False
+152,/iot_lotte/8/DE-1/BO-4,BO-4,냉각탑-2 #3 SST(X),,,,,,False,False,False
+153,/iot_lotte/8/DE-1/BO-5,BO-5,냉각탑-2 #4 SST(X),,,,,,False,False,False
+154,/iot_lotte/8/DE-1/BO-6,BO-6,냉온수기 -1 SST,,,,,,False,False,False
+155,/iot_lotte/8/DE-1/BO-7,BO-7,냉온수기 -2 SST,,,,,,False,False,False
+156,/iot_lotte/8/DE-1/BO-8,BO-8,P2 냉각수 순환펌프 1 SST(X),,,,,,False,False,False
+157,/iot_lotte/8/DE-1/BO-9,BO-9,P2 냉각수 순환펌프 2 SST(X),,,,,,False,False,False
+158,/iot_lotte/8/DE-1/BO-10,BO-10,냉온수기 -3 SST(X),,,,,,False,False,False
+159,/iot_lotte/8/DE-1/BO-100,BO-100,P1 냉각수 순환펌프 1 SST(X),,,,,,False,False,False
+160,/iot_lotte/8/DE-1/BO-101,BO-101,P1 냉각수 순환펌프 2 SST(X),,,,,,False,False,False
+161,/iot_lotte/8/DE-1/BO-102,BO-102,P1 냉각수 순환펌프 3 SST(X),,,,,,False,False,False
+162,/iot_lotte/8/DE-1/BO-103,BO-103,P3 냉수 순환펌프 1 SST(X),,,,,,False,False,False
+163,/iot_lotte/8/DE-1/BO-104,BO-104,P3 냉수 순환펌프 2 SST(X),,,,,,False,False,False
+164,/iot_lotte/8/DE-1/BO-105,BO-105,P4 냉수 순환펌프 1 SST(X),,,,,,False,False,False
+165,/iot_lotte/8/DE-1/BO-106,BO-106,P4 냉수 순환펌프 2 SST(X),,,,,,False,False,False
+166,/iot_lotte/8/DE-1/BO-107,BO-107,P4 냉수 순환펌프 3 SST(X),,,,,,False,False,False
+167,/iot_lotte/8/DE-1/BO-110,BO-110,쇼케이스 냉각수 순환펌프 SST(X),,,,,,False,False,False
+168,/iot_lotte/8/DE-1/BO-111,BO-111,쇼케이스용 냉각탑 SST(X),,,,,,False,False,False
+169,/iot_lotte/8/DE-1/BO-200,BO-200,보일러 - 1 SST(X),,,,,,False,False,False
+170,/iot_lotte/8/DE-1/BO-201,BO-201,보일러 - 2 SST,,,,,,False,False,False
+171,/iot_lotte/8/DE-1/BO-202,BO-202,온수순환펌프 - 1 SST(X),,,,,,False,False,False
+172,/iot_lotte/8/DE-1/BO-203,BO-203,급탕순환펌프 - 1 SST(X),,,,,,False,False,False
+173,/iot_lotte/8/DE-1/BO-204,BO-204,SF-5 SST,,,,,,False,False,False
+174,/iot_lotte/8/DE-1/BO-205,BO-205,SF-1 SST,,,,,,False,False,False
+175,/iot_lotte/8/DE-1/BO-206,BO-206,EF-1 SST,,,,,,False,False,False
+176,/iot_lotte/8/DE-1/BO-207,BO-207,SF-2 SST,,,,,,False,False,False
+177,/iot_lotte/8/DE-1/BO-208,BO-208,EF-2 SST,,,,,,False,False,False
+178,/iot_lotte/8/DE-1/BO-1200,BO-1200,EF-5 SST,,,,,,False,False,False
+179,/iot_lotte/8/DE-1/BO-1201,BO-1201,EF-11 SST,,,,,,False,False,False
+180,/iot_lotte/8/DE-1/BO-1202,BO-1202,EF-13 SST,,,,,,False,False,False
+181,/iot_lotte/8/DE-1/BO-1203,BO-1203,EF-17 SST,,,,,,False,False,False
+182,/iot_lotte/8/DE-1/BO-1204,BO-1204,EF-25 SST,,,,,,False,False,False
+183,/iot_lotte/8/DE-1/BO-1205,BO-1205,EF-21 SST,,,,,,False,False,False
+184,/iot_lotte/8/DE-1/BO-1206,BO-1206,EF-29 수산정육장배기 SST,,,,,,False,False,False
+185,/iot_lotte/8/DE-1/BO-1300,BO-1300,EF-6 SST,,,,,,False,False,False
+186,/iot_lotte/8/DE-1/BO-1301,BO-1301,EF-9 SST,,,,,,False,False,False
+187,/iot_lotte/8/DE-1/BO-1302,BO-1302,EF-19 SST,,,,,,False,False,False
+188,/iot_lotte/8/DE-1/BO-1303,BO-1303,EF-24 SST,,,,,,False,False,False
+189,/iot_lotte/8/DE-1/BO-1305,BO-1305,동물병원배기,,,,,,False,False,False
+190,/iot_lotte/8/DE-1/BO-1606,BO-1606,냉각탑_쇼케이스 수동/자동,,,,,,False,False,False
+191,/iot_lotte/8/DE-2/AI-300,AI-300,AHU-2 환기온도,,,,,,False,False,False
+192,/iot_lotte/8/DE-2/AI-301,AI-301,AHU-2 급기온도,,,,,,False,False,False
+193,/iot_lotte/8/DE-2/AI-302,AI-302,AHU-2 혼합온도,,,,,,False,False,False
+194,/iot_lotte/8/DE-2/AI-420,AI-420,AHU-3 환기온도,,,,,,False,False,False
+195,/iot_lotte/8/DE-2/AI-421,AI-421,AHU-3 급기온도,,,,,,False,False,False
+196,/iot_lotte/8/DE-2/AI-422,AI-422,AHU-3 혼합온도,,,,,,False,False,False
+197,/iot_lotte/8/DE-2/AI-1613,AI-1613,AHU-2 가동시간,,,,,,False,False,False
+198,/iot_lotte/8/DE-2/AI-1621,AI-1621,AHU-3 가동시간,,,,,,False,False,False
+199,/iot_lotte/8/DE-2/AO-100,AO-100,AHU-2 TCV,,,,,,False,False,False
+200,/iot_lotte/8/DE-2/AO-101,AO-101,AHU-2 CCV,,,,,,False,False,False
+201,/iot_lotte/8/DE-2/AO-102,AO-102,AHU-2 외기 DAMPER,,,,,,False,False,False
+202,/iot_lotte/8/DE-2/AO-103,AO-103,AHU-2 믹싱 DAMPER,,,,,,False,False,False
+203,/iot_lotte/8/DE-2/AO-512,AO-512,AHU-3 TCV,,,,,,False,False,False
+204,/iot_lotte/8/DE-2/AO-513,AO-513,AHU-3 CCV,,,,,,False,False,False
+205,/iot_lotte/8/DE-2/AO-514,AO-514,AHU-3 외기 DAMPER,,,,,,False,False,False
+206,/iot_lotte/8/DE-2/AO-515,AO-515,AHU-3 배기 DAMPER,,,,,,False,False,False
+207,/iot_lotte/8/DE-2/AO-516,AO-516,AHU-3 인버터 설정온도,,,,,,False,False,False
+208,/iot_lotte/8/DE-2/AO-517,AO-517,AHU-3 인버터 설정온도,,,,,,False,False,False
+209,/iot_lotte/8/DE-2/AO-1506,AO-1506,AHU-3_tcv_shift,,,,,,False,False,False
+210,/iot_lotte/8/DE-2/AO-1507,AO-1507,AHU2_tcv_shift,,,,,,False,False,False
+211,/iot_lotte/8/DE-2/AO-1523,AO-1523,AHU-2 설정온도,,,,,,False,False,False
+212,/iot_lotte/8/DE-2/AO-1609,AO-1609,AHU-2 DAMPER 설정,,,,,,False,False,False
+213,/iot_lotte/8/DE-2/AO-1612,AO-1612,AHU2_정지개도,,,,,,False,False,False
+214,/iot_lotte/8/DE-2/AO-1617,AO-1617,AHU-3 DAMPER 설정,,,,,,False,False,False
+215,/iot_lotte/8/DE-2/AO-1620,AO-1620,AHU3_정지개도,,,,,,False,False,False
+216,/iot_lotte/8/DE-2/AO-1622,AO-1622,AHU-3 설정온도,,,,,,False,False,False
+217,/iot_lotte/8/DE-2/BI-200,BI-200,AHU-2 SF STA,,,,,,False,False,False
+218,/iot_lotte/8/DE-2/BI-201,BI-201,AHU-2 SF LOC,,,,,,False,False,False
+219,/iot_lotte/8/DE-2/BI-202,BI-202,AHU-2 RF STA,,,,,,False,False,False
+220,/iot_lotte/8/DE-2/BI-203,BI-203,AHU-2 RF LOC,,,,,,False,False,False
+221,/iot_lotte/8/DE-2/BI-204,BI-204,AHU-2 E/H STA,,,,,,False,False,False
+222,/iot_lotte/8/DE-2/BI-205,BI-205,AHU-2 FITER AL,,,,,,False,False,False
+223,/iot_lotte/8/DE-2/BI-206,BI-206,AHU-2 SMOKE AL,,,,,,False,False,False
+224,/iot_lotte/8/DE-2/BI-207,BI-207,1층 #1 에어커튼 A/C STA,,,,,,False,False,False
+225,/iot_lotte/8/DE-2/BI-208,BI-208,1층 #1 에어커튼 H/T STA,,,,,,False,False,False
+226,/iot_lotte/8/DE-2/BI-209,BI-209,1층 #2 에어커튼 A/C STA,,,,,,False,False,False
+227,/iot_lotte/8/DE-2/BI-210,BI-210,1층 #2 에어커튼 H/T STA,,,,,,False,False,False
+228,/iot_lotte/8/DE-2/BI-211,BI-211,1층 #3 에어커튼 A/C STA,,,,,,False,False,False
+229,/iot_lotte/8/DE-2/BI-212,BI-212,1층 #3 에어커튼 H/T STA,,,,,,False,False,False
+230,/iot_lotte/8/DE-2/BI-213,BI-213,1층 #4 에어커튼 A/C STA,,,,,,False,False,False
+231,/iot_lotte/8/DE-2/BI-214,BI-214,1층 #4 에어커튼 H/T STA,,,,,,False,False,False
+232,/iot_lotte/8/DE-2/BI-216,BI-216,동물병원급기STATUS,,,,,,False,False,False
+233,/iot_lotte/8/DE-2/BI-218,BI-218,플레이타임 자수동  ,,,,,,False,False,False
+234,/iot_lotte/8/DE-2/BI-219,BI-219,동물병원환기 LOC,,,,,,False,False,False
+235,/iot_lotte/8/DE-2/BI-221,BI-221,화재접점,,,,,,False,False,False
+236,/iot_lotte/8/DE-2/BI-408,BI-408,AHU-3 SF STA,,,,,,False,False,False
+237,/iot_lotte/8/DE-2/BI-409,BI-409,AHU-3 SF LOC,,,,,,False,False,False
+238,/iot_lotte/8/DE-2/BI-410,BI-410,AHU-3 RF STA,,,,,,False,False,False
+239,/iot_lotte/8/DE-2/BI-411,BI-411,AHU-3 RF LOC,,,,,,False,False,False
+240,/iot_lotte/8/DE-2/BI-412,BI-412,AHU-3 E/H STA,,,,,,False,False,False
+241,/iot_lotte/8/DE-2/BI-413,BI-413,AHU-3 FILTER AL,,,,,,False,False,False
+242,/iot_lotte/8/DE-2/BI-414,BI-414,AHU-3 SMOK3E AL,,,,,,False,False,False
+243,/iot_lotte/8/DE-2/BI-415,BI-415,배수탱크(EPS) HIGH AL,,,,,,False,False,False
+244,/iot_lotte/8/DE-2/BO-0,BO-0,AHU-2 SF SST,,,,,,False,False,False
+245,/iot_lotte/8/DE-2/BO-1,BO-1,AHU-2 RF SST,,,,,,False,False,False
+246,/iot_lotte/8/DE-2/BO-2,BO-2,AHU-2 E/H SST,,,,,,False,False,False
+247,/iot_lotte/8/DE-2/BO-3,BO-3,1층 #1 에어커튼 A/C SST,,,,,,False,False,False
+248,/iot_lotte/8/DE-2/BO-4,BO-4,1층 #1 에어커튼 H/T SST,,,,,,False,False,False
+249,/iot_lotte/8/DE-2/BO-5,BO-5,1층 #2 에어커튼 A/C SST,,,,,,False,False,False
+250,/iot_lotte/8/DE-2/BO-6,BO-6,1층 #2 에어커튼 H/T SST,,,,,,False,False,False
+251,/iot_lotte/8/DE-2/BO-7,BO-7,1층 #3 에어커튼 A/C SST,,,,,,False,False,False
+252,/iot_lotte/8/DE-2/BO-8,BO-8,1층 #3 에어커튼 H/T SST,,,,,,False,False,False
+253,/iot_lotte/8/DE-2/BO-9,BO-9,1층 #4 에어커튼 A/C SST,,,,,,False,False,False
+254,/iot_lotte/8/DE-2/BO-10,BO-10,1층 #4 에어커튼 H/T SST,,,,,,False,False,False
+255,/iot_lotte/8/DE-2/BO-11,BO-11,동물병원급기.환기 휀SST,,,,,,False,False,False
+256,/iot_lotte/8/DE-2/BO-217,BO-217,동물병원급기 LOC,,,,,,False,False,False
+257,/iot_lotte/8/DE-2/BO-400,BO-400,AHU-3 SF SST,,,,,,False,False,False
+258,/iot_lotte/8/DE-2/BO-401,BO-401,AHU-3 RF SST,,,,,,False,False,False
+259,/iot_lotte/8/DE-2/BO-402,BO-402,AHU-3 E/H SST,,,,,,False,False,False
+260,/iot_lotte/8/DE-2/BO-1500,BO-1500,AHU-3 DAMPER 모드,,,,,,False,False,False
+261,/iot_lotte/8/DE-2/BO-1608,BO-1608,AHU-2 계절절환,,,,,,False,False,False
+262,/iot_lotte/8/DE-2/BO-1611,BO-1611,AHU-2 밸브 자수동,,,,,,False,False,False
+263,/iot_lotte/8/DE-2/BO-1616,BO-1616,AHU-3 계절절환,,,,,,False,False,False
+264,/iot_lotte/8/DE-2/BO-1619,BO-1619,AHU-3 밸브 자수동,,,,,,False,False,False
+265,/iot_lotte/8/DE-2/AO-1700,AO-1700,AHU-3 믹싱 DAMPER_역동작,,,,,,False,False,False
+266,/iot_lotte/8/DE-3/AI-400,AI-400,AHU-4 혼합온도,,ahu4,T_ahu_ma,C,float,True,True,True
+267,/iot_lotte/8/DE-3/AI-401,AI-401,AHU-8 혼합온도,,,,,,False,False,False
+268,/iot_lotte/8/DE-3/AI-500,AI-500,AHU-4 급기온도,,ahu4,T_ahu_sa,C,float,True,True,True
+269,/iot_lotte/8/DE-3/AI-501,AI-501,AHU-4 급기습도,,ahu4,RH_ahu_sa,RH,float,True,True,True
+270,/iot_lotte/8/DE-3/AI-502,AI-502,AHU-4 환기온도,,ahu4,T_ahu_ra,C,float,True,True,True
+271,/iot_lotte/8/DE-3/AI-503,AI-503,AHU-4 환기습도,,ahu4,RH_ahu_ra,RH,float,True,True,True
+272,/iot_lotte/8/DE-3/AI-504,AI-504,AHU-8 급기온도,,,,,,False,False,False
+273,/iot_lotte/8/DE-3/AI-505,AI-505,AHU-8 급기습도,,,,,,False,False,False
+274,/iot_lotte/8/DE-3/AI-506,AI-506,AHU-8 환기온도,,,,,,False,False,False
+275,/iot_lotte/8/DE-3/AI-507,AI-507,AHU-8 환기습도,,,,,,False,False,False
+276,/iot_lotte/8/DE-3/AI-620,AI-620,AHU-6 혼합온도,,ahu6,T_ahu_ma,C,float,True,True,True
+277,/iot_lotte/8/DE-3/AI-704,AI-704,AHU-6 급기온도,,ahu6,T_ahu_sa,C,float,True,True,True
+278,/iot_lotte/8/DE-3/AI-705,AI-705,AHU-6 급기습도,,ahu6,RH_ahu_sa,%,float,True,True,True
+279,/iot_lotte/8/DE-3/AI-706,AI-706,AHU-6 환기온도,,ahu6,T_ahu_ra,T,float,True,True,True
+280,/iot_lotte/8/DE-3/AI-707,AI-707,AHU-6 환기습도,,ahu6,RH_ahu_ra,%,float,True,True,True
+281,/iot_lotte/8/DE-3/AI-1500,AI-1500,환기온도,,,,,,False,False,False
+282,/iot_lotte/8/DE-3/AI-1501,AI-1501,급기온도,,,,,,False,False,False
+283,/iot_lotte/8/DE-3/AI-1502,AI-1502,환기습도,,,,,,False,False,False
+284,/iot_lotte/8/DE-3/AI-1503,AI-1503,급기습도,,,,,,False,False,False
+285,/iot_lotte/8/DE-3/AO-100,AO-100,AHU-4 TCV,,ahu4,O_ahu_hv,%,float,True,True,True
+286,/iot_lotte/8/DE-3/AO-101,AO-101,AHU-4 CCV,,ahu4,O_ahu_cv,%,float,True,True,True
+287,/iot_lotte/8/DE-3/AO-102,AO-102,AHU-4 외기 DAMPER,,ahu4,O_ahu_oa,,float,True,True,True
+288,/iot_lotte/8/DE-3/AO-103,AO-103,AHU-4 배기 DAMPER,,ahu4,O_ahu_ea,,float,True,True,True
+289,/iot_lotte/8/DE-3/AO-104,AO-104,AHU-4 믹싱 DAMPER,,ahu4,O_ahu_ma,,float,True,True,True
+290,/iot_lotte/8/DE-3/AO-105,AO-105,AHU-8 TCV,,,,,,False,False,False
+291,/iot_lotte/8/DE-3/AO-106,AO-106,AHU-8 CCV,,,,,,False,False,False
+292,/iot_lotte/8/DE-3/AO-200,AO-200,AHU-8 배기 DAMPER,,,,,,False,False,False
+293,/iot_lotte/8/DE-3/AO-201,AO-201,AHU-8 믹싱 DAMPER,,,,,,False,False,False
+294,/iot_lotte/8/DE-3/AO-202,AO-202,AHU-8 외기 DAMPER,,,,,,False,False,False
+295,/iot_lotte/8/DE-3/AO-204,AO-204,AHU4 인버터 설정온도,,ahu4,check_inverter_sp,,float,True,True,True
+296,/iot_lotte/8/DE-3/AO-205,AO-205,AHU8 인버터 설정온도,,,,,,False,False,False
+297,/iot_lotte/8/DE-3/AO-712,AO-712,AHU-6 TCV,,ahu6,O_ahu_hv,%,float,True,True,True
+298,/iot_lotte/8/DE-3/AO-713,AO-713,AHU-6 외기 DAMPER,,ahu6,O_ahu_oa,%,float,True,True,True
+299,/iot_lotte/8/DE-3/AO-714,AO-714,AHU-6 배기 DAMPER,,ahu6,O_ahu_ea,%,float,True,True,True
+300,/iot_lotte/8/DE-3/AO-715,AO-715,AHU-6 믹싱 DAMPER,,ahu6,O_ahu_ra,%,float,True,True,True
+301,/iot_lotte/8/DE-3/AO-716,AO-716,AHU6 인버터 설정온도,,ahu6,check_inverter_sp,,float,True,True,True
+302,/iot_lotte/8/DE-3/AO-1513,AO-1513,AHU4_tcv_shift,,ahu4,check_tcv_shift,,float,True,False,False
+303,/iot_lotte/8/DE-3/AO-1514,AO-1514,AHU4 정지개도,,ahu4,check_stop,,float,True,False,False
+304,/iot_lotte/8/DE-3/AO-1515,AO-1515,AHU8 정지개도,,,,,,False,False,False
+305,/iot_lotte/8/DE-3/AO-1518,AO-1518,AHU-4 댐퍼설정,,ahu4,check_damper_sp,,float,True,False,False
+306,/iot_lotte/8/DE-3/AO-1521,AO-1521,AHU6_tcv_shift,,ahu6,check_tcv_shift,,float,True,False,False
+307,/iot_lotte/8/DE-3/AO-1522,AO-1522,AHU-4 가동시간,,ahu4,check_ahu_optime,,float,True,False,False
+308,/iot_lotte/8/DE-3/AO-1523,AO-1523,AHU-4 설정온도,,ahu4,T_ahu_sp,C,float,True,False,False
+309,/iot_lotte/8/DE-3/AO-1600,AO-1600,AHU-4 설정습도,,ahu4,RH_ahu_sp,%,float,True,False,False
+310,/iot_lotte/8/DE-3/AO-1604,AO-1604,AHU-8 댐퍼설정,,,,,,False,False,False
+311,/iot_lotte/8/DE-3/AO-1607,AO-1607,AHU-8_tcv_shift,,,,,,False,False,False
+312,/iot_lotte/8/DE-3/AO-1608,AO-1608,AHU-8 가동시간,,,,,,False,False,False
+313,/iot_lotte/8/DE-3/AO-1609,AO-1609,AHU-8 설정온도,,,,,,False,False,False
+314,/iot_lotte/8/DE-3/AO-1610,AO-1610,AHU-6 설정습도,,ahu6,check_RHsp,,float,True,False,False
+315,/iot_lotte/8/DE-3/AO-1614,AO-1614,AHU-6 댐퍼설정,,ahu6,check_damper_sp,,float,True,False,False
+316,/iot_lotte/8/DE-3/AO-1617,AO-1617,AHU6 정지개도,,ahu6,check_stop,,float,True,False,False
+317,/iot_lotte/8/DE-3/AO-1618,AO-1618,AHU-6 가동시간,,ahu6,check_ahu_optime,,float,True,False,False
+318,/iot_lotte/8/DE-3/AO-1619,AO-1619,AHU-6 설정온도,,ahu6,T_ahu_sp,C,float,True,False,False
+319,/iot_lotte/8/DE-3/AO-1620,AO-1620,AHU-6 설정습도,,ahu6,RH_ahu_sp,%,float,True,False,False
+320,/iot_lotte/8/DE-3/BI-300,BI-300,AHU-4 SF STA,,ahu4,check_sf_sta,,float,True,True,True
+321,/iot_lotte/8/DE-3/BI-301,BI-301,AHU-4 SF LOC,,ahu4,check_sf_loc,,float,True,True,True
+322,/iot_lotte/8/DE-3/BI-302,BI-302,AHU-4 RF STA,,ahu4,check_rf_sta,,float,True,True,True
+323,/iot_lotte/8/DE-3/BI-303,BI-303,AHU-4 RF LOC,,ahu4,check_rf_loc,,float,True,True,True
+324,/iot_lotte/8/DE-3/BI-304,BI-304,AHU-4 E/H STA,,ahu4,check_ef_sta,,float,True,True,True
+325,/iot_lotte/8/DE-3/BI-305,BI-305,AHU-4 FITER AL,,ahu4,,,float,False,False,False
+326,/iot_lotte/8/DE-3/BI-306,BI-306,AHU-4 SMOKE AL,,ahu4,,,float,False,False,False
+327,/iot_lotte/8/DE-3/BI-307,BI-307,AHU-8 SF STA,,,,,,False,False,False
+328,/iot_lotte/8/DE-3/BI-308,BI-308,AHU-8 SF LOC,,,,,,False,False,False
+329,/iot_lotte/8/DE-3/BI-309,BI-309,AHU-8 RF STA,,,,,,False,False,False
+330,/iot_lotte/8/DE-3/BI-310,BI-310,AHU-8 RF LOC,,,,,,False,False,False
+331,/iot_lotte/8/DE-3/BI-311,BI-311,AHU-8 E/H STA,,,,,,False,False,False
+332,/iot_lotte/8/DE-3/BI-312,BI-312,AHU-8 FITER AL,,,,,,False,False,False
+333,/iot_lotte/8/DE-3/BI-313,BI-313,AHU-8 SMOKE AL,,,,,,False,False,False
+334,/iot_lotte/8/DE-3/BI-314,BI-314,SF-8 STA,,,,,,False,False,False
+335,/iot_lotte/8/DE-3/BI-315,BI-315,SF-8 LOC,,,,,,False,False,False
+336,/iot_lotte/8/DE-3/BI-316,BI-316,EF-20 STA,,,,,,False,False,False
+337,/iot_lotte/8/DE-3/BI-317,BI-317,EF-20 LOC,,,,,,False,False,False
+338,/iot_lotte/8/DE-3/BI-318,BI-318,EF-21 STA,,,,,,False,False,False
+339,/iot_lotte/8/DE-3/BI-319,BI-319,EF-21 LOC,,,,,,False,False,False
+340,/iot_lotte/8/DE-3/BI-320,BI-320,SF-7 STA,,,,,,False,False,False
+341,/iot_lotte/8/DE-3/BI-321,BI-321,SF-7 LOC,,,,,,False,False,False
+342,/iot_lotte/8/DE-3/BI-608,BI-608,AHU-6 SF STA,,ahu6,check_sf_sta,,float,True,True,True
+343,/iot_lotte/8/DE-3/BI-609,BI-609,AHU-6 SF LOC,,ahu6,check_sf_loc,,float,True,True,True
+344,/iot_lotte/8/DE-3/BI-610,BI-610,AHU-6 RF STA,,ahu6,check_rf_sta,,float,True,True,True
+345,/iot_lotte/8/DE-3/BI-611,BI-611,AHU-6 RF LOC,,ahu6,check_rf_loc,,float,True,True,True
+346,/iot_lotte/8/DE-3/BI-612,BI-612,AHU-6 E/H STA,,ahu6,check_ef_sta,,float,True,True,True
+347,/iot_lotte/8/DE-3/BI-613,BI-613,AHU-6 FILTER AL,,,,,,False,False,False
+348,/iot_lotte/8/DE-3/BI-614,BI-614,AHU-6 SMOK3E AL,,,,,,False,False,False
+349,/iot_lotte/8/DE-3/BI-615,BI-615,SF10 STA,,,,,,False,False,False
+350,/iot_lotte/8/DE-3/BI-616,BI-616,SF10 LOC,,,,,,False,False,False
+351,/iot_lotte/8/DE-3/BI-617,BI-617,EF10 STA,,,,,,False,False,False
+352,/iot_lotte/8/DE-3/BI-618,BI-618,EF10 LOC,,,,,,False,False,False
+353,/iot_lotte/8/DE-3/BO-0,BO-0,AHU-4 SF SST,,ahu4,check_sf_sst,,float,True,False,False
+354,/iot_lotte/8/DE-3/BO-1,BO-1,AHU-4 RF SST,,ahu4,check_rf_sst,,float,True,True,True
+355,/iot_lotte/8/DE-3/BO-2,BO-2,AHU-4 E/H SST,,ahu4,check_ef_stt,,float,True,True,True
+356,/iot_lotte/8/DE-3/BO-3,BO-3,"AHU-4,8 계절전환",,ahu4,check_season_transition2,,float,True,True,True
+357,/iot_lotte/8/DE-3/BO-4,BO-4,AHU-8 SF SST,,,,,,False,False,False
+358,/iot_lotte/8/DE-3/BO-5,BO-5,AHU-8 RF SST,,,,,,False,False,False
+359,/iot_lotte/8/DE-3/BO-6,BO-6,AHU-8 E/H SST,,,,,,False,False,False
+360,/iot_lotte/8/DE-3/BO-7,BO-7,AHU-8 HSV,,,,,,False,False,False
+361,/iot_lotte/8/DE-3/BO-8,BO-8,SF-8 SST,,,,,,False,False,False
+362,/iot_lotte/8/DE-3/BO-9,BO-9,EF-20 SST,,,,,,False,False,False
+363,/iot_lotte/8/DE-3/BO-10,BO-10,EF-21 SST,,,,,,False,False,False
+364,/iot_lotte/8/DE-3/BO-11,BO-11,SF-7 SST,,,,,,False,False,False
+365,/iot_lotte/8/DE-3/BO-600,BO-600,AHU-6 SF SST,,ahu6,check_sf_sst,,float,True,True,True
+366,/iot_lotte/8/DE-3/BO-601,BO-601,AHU-6 RF SST,,ahu6,check_rf_sst,,float,True,True,True
+367,/iot_lotte/8/DE-3/BO-602,BO-602,AHU-6 E/H SST,,ahu6,check_ef_stt,,float,True,True,True
+368,/iot_lotte/8/DE-3/BO-603,BO-603,AHU-6 HSV,,ahu6,O_ahu_hum,%,float,True,True,True
+369,/iot_lotte/8/DE-3/BO-604,BO-604,SF-10 SST,,,,,,False,False,False
+370,/iot_lotte/8/DE-3/BO-605,BO-605,EF-10 SST,,,,,,False,False,False
+371,/iot_lotte/8/DE-3/BO-1516,BO-1516,AHU-4 계절절환,,ahu4,check_season_transition,,float,True,False,False
+372,/iot_lotte/8/DE-3/BO-1517,BO-1517,AHU-4 댐퍼모드,,ahu4,check_damper_mode,,float,True,False,False
+373,/iot_lotte/8/DE-3/BO-1520,BO-1520,AHU-4 HCV 자수동,,ahu4,check_valve_mode,,float,True,False,False
+374,/iot_lotte/8/DE-3/BO-1602,BO-1602,AHU-8 계절절환,,,,,,False,False,False
+375,/iot_lotte/8/DE-3/BO-1603,BO-1603,AHU-8 댐퍼모드,,,,,,False,False,False
+376,/iot_lotte/8/DE-3/BO-1606,BO-1606,AHU-8 HCV 자수동,,,,,,False,False,False
+377,/iot_lotte/8/DE-3/BO-1612,BO-1612,AHU-6 계절절환,,ahu6,check_transition,,float,True,False,False
+378,/iot_lotte/8/DE-3/BO-1613,BO-1613,AHU-6 댐퍼모드,,ahu6,check_damper_mode,,float,True,False,False
+379,/iot_lotte/8/DE-3/BO-1616,BO-1616,AHU-6 HCV 자수동,,ahu6,check_valve_mode,,float,True,False,False
+380,/iot_lotte/8/DE-3/AO-1700,AO-1700,AHU-4 믹싱 DAMPER_역동작,,,,,,False,False,False
+381,/iot_lotte/8/DE-3/AO-1701,AO-1701,AHU-8 믹싱 DAMPER_역동작,,,,,,False,False,False
+382,/iot_lotte/8/DE-3/AO-1702,AO-1702,AHU-6 믹싱 DAMPER_역동작,,,,,,False,False,False
+383,/iot_lotte/8/DE-4/AI-400,AI-400,AHU-7 혼합온도,,ahu7,T_ahu_ma,C,float,True,True,True
+384,/iot_lotte/8/DE-4/AI-401,AI-401,AHU-10 혼합온도,,,,,,False,False,False
+385,/iot_lotte/8/DE-4/AI-500,AI-500,AHU-7 급기온도,,ahu7,T_ahu_sa,C,float,True,True,True
+386,/iot_lotte/8/DE-4/AI-501,AI-501,AHU-7 급기습도,,ahu7,RH_ahu_sa,%,float,True,True,True
+387,/iot_lotte/8/DE-4/AI-502,AI-502,AHU-7 환기온도,,ahu7,T_ahu_ra,C,float,True,True,True
+388,/iot_lotte/8/DE-4/AI-503,AI-503,AHU-7 환기습도,,ahu7,RH_ahu_ra,%,float,True,True,True
+389,/iot_lotte/8/DE-4/AI-504,AI-504,AHU-10 급기온도,,,,,,False,False,False
+390,/iot_lotte/8/DE-4/AI-505,AI-505,AHU-10 급기습도,,,,,,False,False,False
+391,/iot_lotte/8/DE-4/AI-506,AI-506,AHU-10 환기온도,,,,,,False,False,False
+392,/iot_lotte/8/DE-4/AI-507,AI-507,AHU-10 환기습도,,,,,,False,False,False
+393,/iot_lotte/8/DE-4/AI-1608,AI-1608,AHU-7 CCV 가동시간,,ahu7,check_time_cv,,float,True,False,False
+394,/iot_lotte/8/DE-4/AI-1618,AI-1618,AHU-10 CCV 가동시간,,,,,,False,False,False
+395,/iot_lotte/8/DE-4/AO-100,AO-100,AHU-7 TCV,,ahu7,O_ahu_hv,%,float,True,True,True
+396,/iot_lotte/8/DE-4/AO-101,AO-101,AHU-7 CCV,,ahu7,O_ahu_cv,%,float,True,True,True
+397,/iot_lotte/8/DE-4/AO-102,AO-102,AHU-7 외기 DAMPER,,ahu7,O_ahu_oa,%,float,True,True,True
+398,/iot_lotte/8/DE-4/AO-103,AO-103,AHU-7 배기 DAMPER,,ahu7,O_ahu_ea,%,float,True,True,True
+399,/iot_lotte/8/DE-4/AO-104,AO-104,AHU-7 믹싱 DAMPER,,ahu7,O_ahu_ra,%,float,True,True,True
+400,/iot_lotte/8/DE-4/AO-105,AO-105,AHU-10 TCV,,,,,,False,False,False
+401,/iot_lotte/8/DE-4/AO-106,AO-106,AHU-10 CCV,,,,,,False,False,False
+402,/iot_lotte/8/DE-4/AO-107,AO-107,AHU-10 외기 DAMPER,,,,,,False,False,False
+403,/iot_lotte/8/DE-4/AO-200,AO-200,AHU-10 배기 DAMPER,,,,,,False,False,False
+404,/iot_lotte/8/DE-4/AO-201,AO-201,AHU-10 믹싱 DAMPER,,,,,,False,False,False
+405,/iot_lotte/8/DE-4/AO-202,AO-202,AHU-7 인버터 설정온도,,ahu7,check_inverter_sp,,float,True,True,True
+406,/iot_lotte/8/DE-4/AO-203,AO-203,AHU-10 인버터 설정온도,,,,,,False,False,False
+407,/iot_lotte/8/DE-4/AO-204,AO-204,AHU10 외기댐퍼,,,,,,False,False,False
+408,/iot_lotte/8/DE-4/AO-1522,AO-1522,AHU10_tcv_shift,,,,,,False,False,False
+409,/iot_lotte/8/DE-4/AO-1523,AO-1523,AHU7_tcv_shift,,ahu7,check_tcv_shift,,float,True,False,False
+410,/iot_lotte/8/DE-4/AO-1604,AO-1604,AHU-7 댐퍼설정,,ahu7,check_damper_sp,,float,True,False,False
+411,/iot_lotte/8/DE-4/AO-1607,AO-1607,AHU-7 정지개도,,ahu7,check_damper_stop,,float,True,False,False
+412,/iot_lotte/8/DE-4/AO-1609,AO-1609,AHU-7 CCV 설정온도,,ahu7,T_ahu_cvsp,C,float,True,False,False
+413,/iot_lotte/8/DE-4/AO-1610,AO-1610,AHU-7 CCV 설정습도,,ahu7,RH_ahu_cvsp,%,float,True,False,False
+414,/iot_lotte/8/DE-4/AO-1614,AO-1614,AHU-10 댐퍼설정,,,,,,False,False,False
+415,/iot_lotte/8/DE-4/AO-1617,AO-1617,AHU-10 정지개도  ,,,,,,False,False,False
+416,/iot_lotte/8/DE-4/AO-1619,AO-1619,AHU-10 CCV 설정온도,,,,,,False,False,False
+417,/iot_lotte/8/DE-4/AO-1620,AO-1620,AHU-10 CCV 설정습도,,,,,,False,False,False
+418,/iot_lotte/8/DE-4/BI-300,BI-300,AHU-7 SF STA,,ahu7,check_sf_sta,,float,True,True,True
+419,/iot_lotte/8/DE-4/BI-301,BI-301,AHU-7 SF LOC,,ahu7,check_sf_loc,,float,True,True,True
+420,/iot_lotte/8/DE-4/BI-302,BI-302,AHU-7 RF STA,,ahu7,check_rf_sta,,float,True,True,True
+421,/iot_lotte/8/DE-4/BI-303,BI-303,AHU-7 RF LOC,,ahu7,check_rf_loc,,float,True,True,True
+422,/iot_lotte/8/DE-4/BI-304,BI-304,AHU-7 E/H STA,,ahu7,check_ef_sta,,float,True,False,True
+423,/iot_lotte/8/DE-4/BI-305,BI-305,AHU-7 FITER AL,,ahu7,,,float,False,False,False
+424,/iot_lotte/8/DE-4/BI-306,BI-306,AHU-7 SMOKE AL,,ahu7,,,float,False,False,False
+425,/iot_lotte/8/DE-4/BI-307,BI-307,AHU-10 SF STA,,,,,,False,False,False
+426,/iot_lotte/8/DE-4/BI-308,BI-308,AHU-10 SF LOC,,,,,,False,False,False
+427,/iot_lotte/8/DE-4/BI-309,BI-309,AHU-10 RF STA,,,,,,False,False,False
+428,/iot_lotte/8/DE-4/BI-310,BI-310,AHU-10 RF LOC,,,,,,False,False,False
+429,/iot_lotte/8/DE-4/BI-312,BI-312,AHU-10 FITER AL,,,,,,False,False,False
+430,/iot_lotte/8/DE-4/BI-313,BI-313,AHU-10 SMOKE AL,,,,,,False,False,False
+431,/iot_lotte/8/DE-4/BI-314,BI-314,SF-9 STA,,,,,,False,False,False
+432,/iot_lotte/8/DE-4/BI-315,BI-315,SF-9 LOC,,,,,,False,False,False
+433,/iot_lotte/8/DE-4/BI-316,BI-316,EF-18 STA,,,,,,False,False,False
+434,/iot_lotte/8/DE-4/BI-317,BI-317,EF-18 LOC,,,,,,False,False,False
+435,/iot_lotte/8/DE-4/BI-318,BI-318,3층 중리단길 배기팬  STA,,,,,,False,False,False
+436,/iot_lotte/8/DE-4/BI-323,BI-323,AHU-10 E/H STA,,,,,,False,False,False
+437,/iot_lotte/8/DE-4/BO-0,BO-0,AHU-7 SF SST,,ahu7,check_sf_sst,,float,True,False,False
+438,/iot_lotte/8/DE-4/BO-1,BO-1,AHU-7 RF SST,,ahu7,check_rf_sst,,float,True,True,True
+439,/iot_lotte/8/DE-4/BO-2,BO-2,AHU-7 E/H SST,,ahu7,check_ef_sst,,float,True,True,True
+440,/iot_lotte/8/DE-4/BO-3,BO-3,AHU-7 HSV,,ahu7,O_ahu_hum,%,float,True,True,True
+441,/iot_lotte/8/DE-4/BO-4,BO-4,AHU-10 SF SST,,,,,,False,False,False
+442,/iot_lotte/8/DE-4/BO-5,BO-5,AHU-10 RF SST,,,,,,False,False,False
+443,/iot_lotte/8/DE-4/BO-6,BO-6,AHU-10 E/H SST,,,,,,False,False,False
+444,/iot_lotte/8/DE-4/BO-7,BO-7,AHU-10 HSV,,,,,,False,False,False
+445,/iot_lotte/8/DE-4/BO-8,BO-8,SF-9 SST,,,,,,False,False,False
+446,/iot_lotte/8/DE-4/BO-9,BO-9,EF-18 SST,,,,,,False,False,False
+447,/iot_lotte/8/DE-4/BO-10,BO-10,3층 중리단길 배기팬 SST,,,,,,False,False,False
+448,/iot_lotte/8/DE-4/BO-1602,BO-1602,AHU-7 계절절환,,ahu7,check_season_transition,,float,True,False,False
+449,/iot_lotte/8/DE-4/BO-1603,BO-1603,AHU-7 댐퍼모드,,ahu7,check_damper_mode,,float,True,False,False
+450,/iot_lotte/8/DE-4/BO-1606,BO-1606,AHU-7 HCV 자수동  ,,ahu7,check_hv_mode,,float,True,False,False
+451,/iot_lotte/8/DE-4/BO-1612,BO-1612,AHU-10 계절절환,,,,,,False,False,False
+452,/iot_lotte/8/DE-4/BO-1613,BO-1613,AHU-10 댐퍼모드,,,,,,False,False,False
+453,/iot_lotte/8/DE-4/BO-1616,BO-1616,AHU-10 HCV 자수동  ,,,,,,False,False,False
+454,/iot_lotte/8/DE-4/AO-1700,AO-1700,AHU-7 믹싱 DAMPER_역동작,,,,,,False,False,False
+455,/iot_lotte/8/DE-4/AO-1701,AO-1701,AHU-10 믹싱 DAMPER_역동작,,,,,,False,False,False
+456,/iot_lotte/8/DE-5/AI-700,AI-700,AHU-5 혼합온도,,ahu5,T_ahu_ma,C,float,True,True,True
+457,/iot_lotte/8/DE-5/AI-701,AI-701,AHU-9 혼합온도,,,,,,False,False,False
+458,/iot_lotte/8/DE-5/AI-702,AI-702,3층 존 FCU 실내온도,,,,,,False,False,False
+459,/iot_lotte/8/DE-5/AI-703,AI-703,4층 존 FCU 실내온도,,,,,,False,False,False
+460,/iot_lotte/8/DE-5/AI-800,AI-800,AHU-5 급기온도,,ahu5,T_ahu_sa,C,float,True,True,True
+461,/iot_lotte/8/DE-5/AI-801,AI-801,AHU-5 급기습도,,ahu5,RH_ahu_sa,%,float,True,True,True
+462,/iot_lotte/8/DE-5/AI-802,AI-802,AHU-5 환기온도,,ahu5,T_ahu_ra,C,float,True,True,True
+463,/iot_lotte/8/DE-5/AI-803,AI-803,AHU-5 환기습도,,ahu5,RH_ahu_ra,%,float,True,True,True
+464,/iot_lotte/8/DE-5/AI-804,AI-804,AHU-9 급기온도,,,,,,False,False,False
+465,/iot_lotte/8/DE-5/AI-805,AI-805,AHU-9 급기습도,,,,,,False,False,False
+466,/iot_lotte/8/DE-5/AI-806,AI-806,AHU-9 환기온도,,,,,,False,False,False
+467,/iot_lotte/8/DE-5/AI-807,AI-807,AHU-9 환기습도,,,,,,False,False,False
+468,/iot_lotte/8/DE-5/AI-1608,AI-1608,AHU-5 가동시간,,ahu5,check_op_time,,float,True,False,False
+469,/iot_lotte/8/DE-5/AI-1618,AI-1618,AHU-9 가동시간,,,,,,False,False,False
+470,/iot_lotte/8/DE-5/AO-300,AO-300,AHU-5 TCV,,ahu5,O_ahu_hv,%,float,True,True,True
+471,/iot_lotte/8/DE-5/AO-301,AO-301,AHU-5 CCV,,ahu5,O_ahu_cv,%,float,True,True,True
+472,/iot_lotte/8/DE-5/AO-302,AO-302,AHU-5 외기 DAMPER,,ahu5,O_ahu_oa,%,float,True,True,True
+473,/iot_lotte/8/DE-5/AO-303,AO-303,AHU-5 인버터 설정온도,,ahu5,check_inverter_sp,,float,True,True,True
+474,/iot_lotte/8/DE-5/AO-304,AO-304,AHU-5 믹싱 DAMPER,,ahu5,O_ahu_ra,%,float,True,True,True
+475,/iot_lotte/8/DE-5/AO-305,AO-305,AHU-9 TCV,,,,,,False,False,False
+476,/iot_lotte/8/DE-5/AO-306,AO-306,AHU-9 CCV,,,,,,False,False,False
+477,/iot_lotte/8/DE-5/AO-307,AO-307,AHU-9 외기댐퍼,,,,,,False,False,False
+478,/iot_lotte/8/DE-5/AO-400,AO-400,AHU-9 인버터 설정온도,,,,,,False,False,False
+479,/iot_lotte/8/DE-5/AO-401,AO-401,AHU-9 믹싱 DAMPER,,,,,,False,False,False
+480,/iot_lotte/8/DE-5/AO-402,AO-402,3층 존 FCU 냉.난방 V/V,,,,,,False,False,False
+481,/iot_lotte/8/DE-5/AO-403,AO-403,3층 존 FCU 난방 V/V,,,,,,False,False,False
+482,/iot_lotte/8/DE-5/AO-404,AO-404,4층 존 FCU 냉.난방 V/V,,,,,,False,False,False
+483,/iot_lotte/8/DE-5/AO-405,AO-405,4층 존 FCU 난방 V/V,,,,,,False,False,False
+484,/iot_lotte/8/DE-5/AO-406,AO-406,AHU9 외기댐퍼,,,,,,False,False,False
+485,/iot_lotte/8/DE-5/AO-1515,AO-1515,AHU5_tcv_shift,,ahu5,check_tcv_shift,,float,True,False,False
+486,/iot_lotte/8/DE-5/AO-1516,AO-1516,AHU9_tcv_shift,,,,,,False,False,False
+487,/iot_lotte/8/DE-5/AO-1517,AO-1517,AHU5 정지개도,,ahu5,check_damper_stop,,float,True,False,False
+488,/iot_lotte/8/DE-5/AO-1518,AO-1518,AHU9 정지개도,,,,,,False,False,False
+489,/iot_lotte/8/DE-5/AO-1520,AO-1520,FCU_3F_TCV 설정온도,,,,,,False,False,False
+490,/iot_lotte/8/DE-5/AO-1523,AO-1523,FCU_4F_TCV 설정온도,,,,,,False,False,False
+491,/iot_lotte/8/DE-5/AO-1604,AO-1604,AHU-5 댐퍼설정,,ahu5,check_damper_sp,,float,True,False,False
+492,/iot_lotte/8/DE-5/AO-1605,AO-1605,AHU5 댐퍼설정,,ahu5,check_damper_sp2,,float,True,False,False
+493,/iot_lotte/8/DE-5/AO-1609,AO-1609,AHU-5 설정온도,,ahu5,T_ahu_sp,C,float,True,False,False
+494,/iot_lotte/8/DE-5/AO-1610,AO-1610,AHU-5 설정습도,,ahu5,RH_ahu_sp,%,float,True,False,False
+495,/iot_lotte/8/DE-5/AO-1614,AO-1614,AHU-9 댐퍼설정,,,,,,False,False,False
+496,/iot_lotte/8/DE-5/AO-1619,AO-1619,AHU-9 설정온도,,,,,,False,False,False
+497,/iot_lotte/8/DE-5/AO-1620,AO-1620,AHU-9 설정습도,,,,,,False,False,False
+498,/iot_lotte/8/DE-5/BI-500,BI-500,AHU-5 SF STA,,ahu5,check_sf_sta,,float,True,True,True
+499,/iot_lotte/8/DE-5/BI-501,BI-501,AHU-5 SF LOC,,ahu5,check_sf_loc,,float,True,True,True
+500,/iot_lotte/8/DE-5/BI-502,BI-502,AHU-5 RF STA,,ahu5,check_rf_sta,,float,True,True,True
+501,/iot_lotte/8/DE-5/BI-503,BI-503,AHU-5 RF LOC,,ahu5,check_rf_loc,,float,True,True,True
+502,/iot_lotte/8/DE-5/BI-504,BI-504,AHU-5 E/H STA,,ahu5,check_ef_sta,,float,True,True,True
+503,/iot_lotte/8/DE-5/BI-505,BI-505,AHU-5 FITER AL,,ahu5,,,float,False,False,False
+504,/iot_lotte/8/DE-5/BI-506,BI-506,AHU-5 SMOKE AL,,ahu5,,,float,False,False,False
+505,/iot_lotte/8/DE-5/BI-507,BI-507,AHU-9 SF STA,,,,,,False,False,False
+506,/iot_lotte/8/DE-5/BI-508,BI-508,AHU-9 SF LOC,,,,,,False,False,False
+507,/iot_lotte/8/DE-5/BI-509,BI-509,AHU-9 RF STA,,,,,,False,False,False
+508,/iot_lotte/8/DE-5/BI-510,BI-510,AHU-9 RF LOC,,,,,,False,False,False
+509,/iot_lotte/8/DE-5/BI-511,BI-511,AHU-9 E/H STA,,,,,,False,False,False
+510,/iot_lotte/8/DE-5/BI-512,BI-512,AHU-9 FITER AL,,,,,,False,False,False
+511,/iot_lotte/8/DE-5/BI-513,BI-513,AHU-9 SMOKE AL,,,,,,False,False,False
+512,/iot_lotte/8/DE-5/BI-514,BI-514,4층 #1 에어커튼 A/C STA,,,,,,False,False,False
+513,/iot_lotte/8/DE-5/BI-515,BI-515,4층 #1 에어커튼 H/T STA,,,,,,False,False,False
+514,/iot_lotte/8/DE-5/BI-516,BI-516,4층 #2 에어커튼 A/C STA,,,,,,False,False,False
+515,/iot_lotte/8/DE-5/BI-517,BI-517,4층 #2 에어커튼 H/T STA,,,,,,False,False,False
+516,/iot_lotte/8/DE-5/BI-518,BI-518,3층 #1 에어커튼 A/C STA,,,,,,False,False,False
+517,/iot_lotte/8/DE-5/BI-519,BI-519,3층 #1 에어커튼 H/T STA,,,,,,False,False,False
+518,/iot_lotte/8/DE-5/BI-520,BI-520,3층 #2 에어커튼 A/C STA,,,,,,False,False,False
+519,/iot_lotte/8/DE-5/BI-521,BI-521,3층 #2 에어커튼 H/T STA,,,,,,False,False,False
+520,/iot_lotte/8/DE-5/BI-522,BI-522,1층 #1 에어커튼 A/C STA,,,,,,False,False,False
+521,/iot_lotte/8/DE-5/BI-523,BI-523,1층 #1 에어커튼 H/T STA,,,,,,False,False,False
+522,/iot_lotte/8/DE-5/BI-600,BI-600,1층 #2 에어커튼 A/C STA,,,,,,False,False,False
+523,/iot_lotte/8/DE-5/BI-601,BI-601,1층 #2 에어커튼 H/T STA,,,,,,False,False,False
+524,/iot_lotte/8/DE-5/BI-602,BI-602,1층 #3 에어커튼 A/C STA,,,,,,False,False,False
+525,/iot_lotte/8/DE-5/BI-603,BI-603,1층 #3 에어커튼 H/T STA,,,,,,False,False,False
+526,/iot_lotte/8/DE-5/BI-604,BI-604,1층 #4 에어커튼 A/C STA,,,,,,False,False,False
+527,/iot_lotte/8/DE-5/BI-605,BI-605,1층 #4 에어커튼 H/T STA,,,,,,False,False,False
+528,/iot_lotte/8/DE-5/BI-606,BI-606,1층 #5 에어커튼 A/C STA,,,,,,False,False,False
+529,/iot_lotte/8/DE-5/BI-607,BI-607,1층 #5 에어커튼 H/T STA,,,,,,False,False,False
+530,/iot_lotte/8/DE-5/BI-608,BI-608,1층 #6 에어커튼 A/C STA,,,,,,False,False,False
+531,/iot_lotte/8/DE-5/BI-609,BI-609,1층 #6 에어커튼 H/T STA,,,,,,False,False,False
+532,/iot_lotte/8/DE-5/BI-610,BI-610,3층 존 FCU STA,,,,,,False,False,False
+533,/iot_lotte/8/DE-5/BI-611,BI-611,4층 존 FCU STA,,,,,,False,False,False
+534,/iot_lotte/8/DE-5/BO-0,BO-0,AHU-5 SF SST,,ahu5,check_sf_sst,,float,True,False,False
+535,/iot_lotte/8/DE-5/BO-1,BO-1,AHU-5 RF SST,,ahu5,check_rf_sst,,float,True,True,True
+536,/iot_lotte/8/DE-5/BO-2,BO-2,AHU-5 E/H SST,,ahu5,check_ef_sst,,float,True,True,True
+537,/iot_lotte/8/DE-5/BO-3,BO-3,"AHU-5,9 인버터 계절전환",,ahu5,check_inverter_transition,,float,True,True,True
+538,/iot_lotte/8/DE-5/BO-4,BO-4,AHU-9 SF SST,,,,,,False,False,False
+539,/iot_lotte/8/DE-5/BO-5,BO-5,AHU-9 RF SST,,,,,,False,False,False
+540,/iot_lotte/8/DE-5/BO-6,BO-6,AHU-9 E/H SST,,,,,,False,False,False
+541,/iot_lotte/8/DE-5/BO-7,BO-7,AHU-9 HSV,,,,,,False,False,False
+542,/iot_lotte/8/DE-5/BO-8,BO-8,4층 #1 에어커튼 A/C SST,,,,,,False,False,False
+543,/iot_lotte/8/DE-5/BO-9,BO-9,4층 #1 에어커튼 H/T SST,,,,,,False,False,False
+544,/iot_lotte/8/DE-5/BO-10,BO-10,4층 #2 에어커튼 A/C SST,,,,,,False,False,False
+545,/iot_lotte/8/DE-5/BO-11,BO-11,4층 #2 에어커튼 H/T SST,,,,,,False,False,False
+546,/iot_lotte/8/DE-5/BO-100,BO-100,3층 #1 에어커튼 A/C SST,,,,,,False,False,False
+547,/iot_lotte/8/DE-5/BO-101,BO-101,3층 #1 에어커튼 H/T SST,,,,,,False,False,False
+548,/iot_lotte/8/DE-5/BO-102,BO-102,3층 #2 에어커튼 A/C SST,,,,,,False,False,False
+549,/iot_lotte/8/DE-5/BO-103,BO-103,3층 #2 에어커튼 H/T SST,,,,,,False,False,False
+550,/iot_lotte/8/DE-5/BO-104,BO-104,1층 #1 에어커튼 A/C SST,,,,,,False,False,False
+551,/iot_lotte/8/DE-5/BO-105,BO-105,1층 #1 에어커튼 H/T SST,,,,,,False,False,False
+552,/iot_lotte/8/DE-5/BO-106,BO-106,1층 #2 에어커튼 A/C SST,,,,,,False,False,False
+553,/iot_lotte/8/DE-5/BO-107,BO-107,1층 #2 에어커튼 H/T SST,,,,,,False,False,False
+554,/iot_lotte/8/DE-5/BO-108,BO-108,1층 #3 에어커튼 A/C SST,,,,,,False,False,False
+555,/iot_lotte/8/DE-5/BO-109,BO-109,1층 #3 에어커튼 H/T SST,,,,,,False,False,False
+556,/iot_lotte/8/DE-5/BO-110,BO-110,1층 #4 에어커튼 A/C SST,,,,,,False,False,False
+557,/iot_lotte/8/DE-5/BO-111,BO-111,1층 #4 에어커튼 H/T SST,,,,,,False,False,False
+558,/iot_lotte/8/DE-5/BO-200,BO-200,1층 #5 에어커튼 A/C SST,,,,,,False,False,False
+559,/iot_lotte/8/DE-5/BO-201,BO-201,1층 #5 에어커튼 H/T SST,,,,,,False,False,False
+560,/iot_lotte/8/DE-5/BO-202,BO-202,1층 #6 에어커튼 A/C SST,,,,,,False,False,False
+561,/iot_lotte/8/DE-5/BO-203,BO-203,1층 #6 에어커튼 H/T SST,,,,,,False,False,False
+562,/iot_lotte/8/DE-5/BO-204,BO-204,3층 존 FCU SST,,,,,,False,False,False
+563,/iot_lotte/8/DE-5/BO-205,BO-205,4층 존 FCU SST,,,,,,False,False,False
+564,/iot_lotte/8/DE-5/BO-1519,BO-1519,FCU_3F_TCV 자수동,,,,,,False,False,False
+565,/iot_lotte/8/DE-5/BO-1521,BO-1521,FCU_3F_TCV 계절절환,,,,,,False,False,False
+566,/iot_lotte/8/DE-5/BO-1522,BO-1522,FCU_4F_TCV 자수동,,,,,,False,False,False
+567,/iot_lotte/8/DE-5/BO-1601,BO-1601,FCU_4F_TCV 계절절환,,,,,,False,False,False
+568,/iot_lotte/8/DE-5/BO-1602,BO-1602,AHU-5 계절절환,,ahu5,check_season_transition,,float,True,False,False
+569,/iot_lotte/8/DE-5/BO-1603,BO-1603,AHU-5 댐퍼모드,,ahu5,check_damper_mode,,float,True,False,False
+570,/iot_lotte/8/DE-5/BO-1606,BO-1606,AHU-5 HCV 자수동,,ahu5,check_hv_mode,,float,True,False,False
+571,/iot_lotte/8/DE-5/BO-1607,BO-1607,AHU-5 CCV 자수동,,ahu5,check_cv_mode,,float,True,False,False
+572,/iot_lotte/8/DE-5/BO-1612,BO-1612,AHU-9 계절절환,,,,,,False,False,False
+573,/iot_lotte/8/DE-5/BO-1613,BO-1613,AHU-9 댐퍼모드,,,,,,False,False,False
+574,/iot_lotte/8/DE-5/BO-1616,BO-1616,AHU-9 댐TCV 자수동 ,,,,,,False,False,False
+575,/iot_lotte/8/DE-5/BO-1617,BO-1617,AHU-9 CCV 자수동,,,,,,False,False,False
+576,/iot_lotte/8/DE-5/AO-1700,AO-1700,AHU-5 믹싱 DAMPER_역동작,,,,,,False,False,False
+577,/iot_lotte/8/DE-5/AO-1701,AO-1701,AHU-9 믹싱 DAMPER_역동작,,,,,,False,False,False
+578,/iot_lotte/8/DE-8/BI-200,BI-200,EF-5 STA,,,,,,False,False,False
+579,/iot_lotte/8/DE-8/BI-201,BI-201,EF-5 LOC,,,,,,False,False,False
+580,/iot_lotte/8/DE-8/BI-202,BI-202,EF-11 STA,,,,,,False,False,False
+581,/iot_lotte/8/DE-8/BI-203,BI-203,EF-11 LOC,,,,,,False,False,False
+582,/iot_lotte/8/DE-8/BI-204,BI-204,EF-13 STA,,,,,,False,False,False
+583,/iot_lotte/8/DE-8/BI-205,BI-205,EF-13 LOC,,,,,,False,False,False
+584,/iot_lotte/8/DE-8/BI-206,BI-206,EF-17 STA,,,,,,False,False,False
+585,/iot_lotte/8/DE-8/BI-207,BI-207,EF-17 LOC,,,,,,False,False,False
+586,/iot_lotte/8/DE-8/BI-208,BI-208,EF-25 STA,,,,,,False,False,False
+587,/iot_lotte/8/DE-8/BI-209,BI-209,EF-25 LOC,,,,,,False,False,False
+588,/iot_lotte/8/DE-8/BI-210,BI-210,EF-21 STA,,,,,,False,False,False
+589,/iot_lotte/8/DE-8/BI-211,BI-211,EF-21 LOC,,,,,,False,False,False
+590,/iot_lotte/8/DE-8/BI-212,BI-212,EF-29 STA,,,,,,False,False,False
+591,/iot_lotte/8/DE-8/BI-213,BI-213,EF-29 LOC,,,,,,False,False,False
+592,/iot_lotte/8/DE-8/BI-214,BI-214,소화수조 H/A,,,,,,False,False,False
+593,/iot_lotte/8/DE-8/BI-215,BI-215,정전신호,,,,,,False,False,False
+594,/iot_lotte/8/DE-8/BI-300,BI-300,EF-6 STA,,,,,,False,False,False
+595,/iot_lotte/8/DE-8/BI-301,BI-301,EF-6 LOC,,,,,,False,False,False
+596,/iot_lotte/8/DE-8/BI-302,BI-302,EF-9 STA,,,,,,False,False,False
+597,/iot_lotte/8/DE-8/BI-303,BI-303,EF-9 LOC,,,,,,False,False,False
+598,/iot_lotte/8/DE-8/BI-304,BI-304,EF-19 STA,,,,,,False,False,False
+599,/iot_lotte/8/DE-8/BI-305,BI-305,EF-19 LOC,,,,,,False,False,False
+600,/iot_lotte/8/DE-8/BI-306,BI-306,EF-24 STA,,,,,,False,False,False
+601,/iot_lotte/8/DE-8/BI-307,BI-307,EF-24 LOC,,,,,,False,False,False
+602,/iot_lotte/8/DE-8/BI-308,BI-308,하재수신반 통합 알람,,,,,,False,False,False
+603,/iot_lotte/8/DE-8/BI-309,BI-309,EF-29 STA,,,,,,False,False,False
+604,/iot_lotte/8/DE-8/BI-310,BI-310,EF-29 LOC,,,,,,False,False,False
+605,/iot_lotte/8/DE-8/BO-0,BO-0,EF-5 SST,,,,,,False,False,False
+606,/iot_lotte/8/DE-8/BO-1,BO-1,EF-11 SST,,,,,,False,False,False
+607,/iot_lotte/8/DE-8/BO-2,BO-2,EF-13 SST,,,,,,False,False,False
+608,/iot_lotte/8/DE-8/BO-3,BO-3,EF-17 SST,,,,,,False,False,False
+609,/iot_lotte/8/DE-8/BO-4,BO-4,EF-25 SST,,,,,,False,False,False
+610,/iot_lotte/8/DE-8/BO-5,BO-5,EF-21 SST,,,,,,False,False,False
+611,/iot_lotte/8/DE-8/BO-6,BO-6,EF-29 SST,,,,,,False,False,False
+612,/iot_lotte/8/DE-8/BO-100,BO-100,EF-6 SST,,,,,,False,False,False
+613,/iot_lotte/8/DE-8/BO-101,BO-101,EF-9 SST,,,,,,False,False,False
+614,/iot_lotte/8/DE-8/BO-102,BO-102,EF-19 SST,,,,,,False,False,False
+615,/iot_lotte/8/DE-8/BO-103,BO-103,EF-24 SST,,,,,,False,False,False
+616,/iot_lotte/8/DE-8/BO-105,BO-105,고객화장실배기,,,,,,False,False,False
+617,/iot_lotte/8/DE-9/AI-20,AI-20,AHU-1 급기온도 ,,,,,,False,False,False
+618,/iot_lotte/8/DE-9/AI-21,AI-21,AHU-1 환기온도 ,,,,,,False,False,False
+619,/iot_lotte/8/DE-9/AI-22,AI-22,AHU-1 혼합온도,,,,,,False,False,False
+620,/iot_lotte/8/DE-9/AI-23,AI-23,AHU-1 환기온도,,,,,,False,False,False
+621,/iot_lotte/8/DE-9/AO-112,AO-112,AHU-1 TCV,,,,,,False,False,False
+622,/iot_lotte/8/DE-9/AO-113,AO-113,AHU-1 CCV,,,,,,False,False,False
+623,/iot_lotte/8/DE-9/AO-114,AO-114,AHU-1 외기 DAMPER,,,,,,False,False,False
+624,/iot_lotte/8/DE-9/AO-115,AO-115,AHU-1 배기 DAMPER,,,,,,False,False,False
+625,/iot_lotte/8/DE-9/AO-116,AO-116,AHU-1 믹싱 DAMPER,,,,,,False,False,False
+626,/iot_lotte/8/DE-9/AO-117,AO-117,AHU-1 인버터 설정온도,,,,,,False,False,False
+627,/iot_lotte/8/DE-9/AO-1616,AO-1616,AHU-1 댐퍼설정,,,,,,False,False,False
+628,/iot_lotte/8/DE-9/AO-1619,AO-1619,AHU-1_tcv_shift,,,,,,False,False,False
+629,/iot_lotte/8/DE-9/AO-1620,AO-1620,AHU1_정지개도,,,,,,False,False,False
+630,/iot_lotte/8/DE-9/AO-1621,AO-1621,AHU-1 가동시간,,,,,,False,False,False
+631,/iot_lotte/8/DE-9/AO-1622,AO-1622,AHU-1 설정온도,,,,,,False,False,False
+632,/iot_lotte/8/DE-9/BI-8,BI-8,AHU-1 SF STA,,,,,,False,False,False
+633,/iot_lotte/8/DE-9/BI-9,BI-9,AHU-1 SF LOC,,,,,,False,False,False
+634,/iot_lotte/8/DE-9/BI-10,BI-10,AHU-1 RF STA,,,,,,False,False,False
+635,/iot_lotte/8/DE-9/BI-11,BI-11,AHU-1 RF LOC,,,,,,False,False,False
+636,/iot_lotte/8/DE-9/BI-12,BI-12,AHU-1 E/H STA,,,,,,False,False,False
+637,/iot_lotte/8/DE-9/BI-13,BI-13,AHU-1 FILTER AL,,,,,,False,False,False
+638,/iot_lotte/8/DE-9/BI-14,BI-14,AHU-1 SMOK3E AL,,,,,,False,False,False
+639,/iot_lotte/8/DE-9/BI-300,BI-300,지하1층 #1 에어커튼 A/C STA,,,,,,False,False,False
+640,/iot_lotte/8/DE-9/BI-301,BI-301,지하1층 #1 에어커튼 H/T STA,,,,,,False,False,False
+641,/iot_lotte/8/DE-9/BI-302,BI-302,지하1층 #2 에어커튼 A/C STA,,,,,,False,False,False
+642,/iot_lotte/8/DE-9/BI-303,BI-303,지하1층 #2 에어커튼 H/T STA,,,,,,False,False,False
+643,/iot_lotte/8/DE-9/BI-304,BI-304,지하1층 #3 에어커튼 A/C STA,,,,,,False,False,False
+644,/iot_lotte/8/DE-9/BI-305,BI-305,지하1층 #3 에어커튼 H/T STA,,,,,,False,False,False
+645,/iot_lotte/8/DE-9/BI-306,BI-306,지하1층 #4 에어커튼 A/C STA,,,,,,False,False,False
+646,/iot_lotte/8/DE-9/BI-307,BI-307,지하1층 #4 에어커튼 H/T STA,,,,,,False,False,False
+647,/iot_lotte/8/DE-9/BI-308,BI-308,지하1층 #5 에어커튼 A/C STA,,,,,,False,False,False
+648,/iot_lotte/8/DE-9/BI-309,BI-309,지하1층 #5 에어커튼 H/T STA,,,,,,False,False,False
+649,/iot_lotte/8/DE-9/BI-310,BI-310,지하1층 #6 에어커튼 A/C STA,,,,,,False,False,False
+650,/iot_lotte/8/DE-9/BI-311,BI-311,지하1층 #6 에어커튼 H/T STA,,,,,,False,False,False
+651,/iot_lotte/8/DE-9/BO-0,BO-0,AHU-1 SF SST,,,,,,False,False,False
+652,/iot_lotte/8/DE-9/BO-1,BO-1,AHU-1 RF SST,,,,,,False,False,False
+653,/iot_lotte/8/DE-9/BO-2,BO-2,AHU-1 E/H SST,,,,,,False,False,False
+654,/iot_lotte/8/DE-9/BO-3,BO-3,AHU-1 인버터 계절전환,,,,,,False,False,False
+655,/iot_lotte/8/DE-9/BO-200,BO-200,지하1층 #1 에어커튼 A/C SST,,,,,,False,False,False
+656,/iot_lotte/8/DE-9/BO-201,BO-201,지하1층 #1 에어커튼 H/T SST,,,,,,False,False,False
+657,/iot_lotte/8/DE-9/BO-202,BO-202,지하1층 #2 에어커튼 A/C SST,,,,,,False,False,False
+658,/iot_lotte/8/DE-9/BO-203,BO-203,지하1층 #2 에어커튼 H/T SST,,,,,,False,False,False
+659,/iot_lotte/8/DE-9/BO-204,BO-204,지하1층 #3 에어커튼 A/C SST,,,,,,False,False,False
+660,/iot_lotte/8/DE-9/BO-205,BO-205,지하1층 #3 에어커튼 H/T SST,,,,,,False,False,False
+661,/iot_lotte/8/DE-9/BO-206,BO-206,지하1층 #4 에어커튼 A/C SST,,,,,,False,False,False
+662,/iot_lotte/8/DE-9/BO-207,BO-207,지하1층 #4 에어커튼 H/T SST,,,,,,False,False,False
+663,/iot_lotte/8/DE-9/BO-208,BO-208,지하1층 #5 에어커튼 A/C SST,,,,,,False,False,False
+664,/iot_lotte/8/DE-9/BO-209,BO-209,지하1층 #5 에어커튼 H/T SST,,,,,,False,False,False
+665,/iot_lotte/8/DE-9/BO-210,BO-210,지하1층 #6 에어커튼 A/C SST,,,,,,False,False,False
+666,/iot_lotte/8/DE-9/BO-211,BO-211,지하1층 #6 에어커튼 H/T SST,,,,,,False,False,False
+667,/iot_lotte/8/DE-9/BO-1614,BO-1614,AHU-1 댐퍼모드,,,,,,False,False,False
+668,/iot_lotte/8/DE-9/BO-1615,BO-1615,AHU-1 계절절환,,,,,,False,False,False
+669,/iot_lotte/8/DE-9/BO-1618,BO-1618,AHU-1 TCV 자수동,,,,,,False,False,False
+670,/iot_lotte/8/DE-9/AO-1700,AO-1700,AHU-1 믹싱 DAMPER_역동작,,,,,,False,False,False
+671,/iot_lotte/8/DE-10/AI-800,AI-800,AHU N2 환기온도,,,,,,False,False,False
+672,/iot_lotte/8/DE-10/AI-900,AI-900,AHU N1 환기온도,,,,,,False,False,False
+673,/iot_lotte/8/DE-10/AI-901,AI-901,AHU N1 환기습도,,,,,,False,False,False
+674,/iot_lotte/8/DE-10/AI-902,AI-902,지하주차장 CO농도-1,,,,,,False,False,False
+675,/iot_lotte/8/DE-10/AI-903,AI-903,지하주차장 CO농도-2,,,,,,False,False,False
+676,/iot_lotte/8/DE-10/AI-904,AI-904,지하주차장 CO농도-3,,,,,,False,False,False
+677,/iot_lotte/8/DE-10/AO-400,AO-400,AHU1 댐퍼,,,,,,False,False,False
+678,/iot_lotte/8/DE-10/AO-401,AO-401,AHU2 댐퍼,,,,,,False,False,False
+679,/iot_lotte/8/DE-10/AO-2000,AO-2000,CO설정,,,,,,False,False,False
+680,/iot_lotte/8/DE-10/BI-500,BI-500,B1층 급기휀-1 상태,,,,,,False,False,False
+681,/iot_lotte/8/DE-10/BI-501,BI-501,B1층 급기휀-1 LOC/AUTO,,,,,,False,False,False
+682,/iot_lotte/8/DE-10/BI-502,BI-502,B1층 급기휀-2 상태,,,,,,False,False,False
+683,/iot_lotte/8/DE-10/BI-503,BI-503,B1층 급기휀-2 LOC/AUTO,,,,,,False,False,False
+684,/iot_lotte/8/DE-10/BI-504,BI-504,B1층 주방 급기휀 상태,,,,,,False,False,False
+685,/iot_lotte/8/DE-10/BI-505,BI-505,B1층 주방 급기휀 LOC/AUTO,,,,,,False,False,False
+686,/iot_lotte/8/DE-10/BI-506,BI-506,B1층 레스토랑 주방 배기휀 상태,,,,,,False,False,False
+687,/iot_lotte/8/DE-10/BI-507,BI-507,B1층 레스토랑 주방 배기휀 LOC/AUTO,,,,,,False,False,False
+688,/iot_lotte/8/DE-10/BI-508,BI-508,B1층 문화센타 요리교실 배기휀 상태,,,,,,False,False,False
+689,/iot_lotte/8/DE-10/BI-509,BI-509,B1층 문화센타 요리교실 배기휀 LOC/AUTO,,,,,,False,False,False
+690,/iot_lotte/8/DE-10/BI-510,BI-510,B1층 주방 집수정 배기휀 상태,,,,,,False,False,False
+691,/iot_lotte/8/DE-10/BI-511,BI-511,B1층 주방 집수장 배기휀 LOC/AUTO,,,,,,False,False,False
+692,/iot_lotte/8/DE-10/BI-512,BI-512,에어커튼-1 송풍휀 상태,,,,,,False,False,False
+693,/iot_lotte/8/DE-10/BI-513,BI-513,에어커튼-1 히팅코일 상태,,,,,,False,False,False
+694,/iot_lotte/8/DE-10/BI-514,BI-514,에어커튼-2 송풍휀 상태,,,,,,False,False,False
+695,/iot_lotte/8/DE-10/BI-515,BI-515,에어커튼-2 히팅코일 상태,,,,,,False,False,False
+696,/iot_lotte/8/DE-10/BI-516,BI-516,에어커튼-3 송풍휀 상태,,,,,,False,False,False
+697,/iot_lotte/8/DE-10/BI-517,BI-517,에어커튼-3 히팅코일 상태,,,,,,False,False,False
+698,/iot_lotte/8/DE-10/BI-518,BI-518,에어커튼-4 송풍휀 상태,,,,,,False,False,False
+699,/iot_lotte/8/DE-10/BI-519,BI-519,에어커튼-4 히팅코일 상태,,,,,,False,False,False
+700,/iot_lotte/8/DE-10/BI-520,BI-520,공조실 집수정 배수HI경보,,,,,,False,False,False
+701,/iot_lotte/8/DE-10/BI-521,BI-521,상행 집수정 배수 HI경보,,,,,,False,False,False
+702,/iot_lotte/8/DE-10/BI-522,BI-522,입구 집수정 배수 HI 경보,,,,,,False,False,False
+703,/iot_lotte/8/DE-10/BI-523,BI-523,주방 집수정 배수 HI경보,,,,,,False,False,False
+704,/iot_lotte/8/DE-10/BI-600,BI-600,주차장 집수정 배수 HI경보,,,,,,False,False,False
+705,/iot_lotte/8/DE-10/BI-601,BI-601,화재신호,,,,,,False,False,False
+706,/iot_lotte/8/DE-10/BI-602,BI-602,지하주차장 배기 상태,,,,,,False,False,False
+707,/iot_lotte/8/DE-10/BI-603,BI-603,AHU N1 SF 상태,,,,,,False,False,False
+708,/iot_lotte/8/DE-10/BI-604,BI-604,AHU N1 RF 상태,,,,,,False,False,False
+709,/iot_lotte/8/DE-10/BI-605,BI-605,AHU N1 COMP1 상태,,,,,,False,False,False
+710,/iot_lotte/8/DE-10/BI-606,BI-606,AHU N1 COMP2 상태,,,,,,False,False,False
+711,/iot_lotte/8/DE-10/BI-607,BI-607,AHU N1 COMP3 상태,,,,,,False,False,False
+712,/iot_lotte/8/DE-10/BI-608,BI-608,AHU N1 COMP4 상태,,,,,,False,False,False
+713,/iot_lotte/8/DE-10/BI-609,BI-609,AHU N1 종합 AL,,,,,,False,False,False
+714,/iot_lotte/8/DE-10/BI-610,BI-610,AHU N1 HEAT 1 상태,,,,,,False,False,False
+715,/iot_lotte/8/DE-10/BI-611,BI-611,AHU N1 HEAT 2 상태,,,,,,False,False,False
+716,/iot_lotte/8/DE-10/BI-612,BI-612,AHU N1 HEAT 3 상태,,,,,,False,False,False
+717,/iot_lotte/8/DE-10/BI-613,BI-613,AHU N1 HEAT 4 상태,,,,,,False,False,False
+718,/iot_lotte/8/DE-10/BO-0,BO-0,인터컴,,,,,,False,False,False
+719,/iot_lotte/8/DE-10/BO-1,BO-1,B1층 급기휀-1(SF-N1),,,,,,False,False,False
+720,/iot_lotte/8/DE-10/BO-2,BO-2,B1층 급기휀-2(SF-N1),,,,,,False,False,False
+721,/iot_lotte/8/DE-10/BO-3,BO-3,B1층 주방 급기휀(SF-N2),,,,,,False,False,False
+722,/iot_lotte/8/DE-10/BO-4,BO-4,B1층 레스토랑 주방 배기휀,,,,,,False,False,False
+723,/iot_lotte/8/DE-10/BO-5,BO-5,B1층 문화센타 요리교실 배기휀,,,,,,False,False,False
+724,/iot_lotte/8/DE-10/BO-6,BO-6,B1층 주방 집수정 배기휀,,,,,,False,False,False
+725,/iot_lotte/8/DE-10/BO-7,BO-7,지하주차장 환기휀-1(EF-N1),,,,,,False,False,False
+726,/iot_lotte/8/DE-10/BO-8,BO-8,에어커튼-1 송풍휀,,,,,,False,False,False
+727,/iot_lotte/8/DE-10/BO-9,BO-9,에어커튼-1 히팅코일,,,,,,False,False,False
+728,/iot_lotte/8/DE-10/BO-10,BO-10,에어커튼-2 송풍휀,,,,,,False,False,False
+729,/iot_lotte/8/DE-10/BO-11,BO-11,에어커튼-2 히팅코일,,,,,,False,False,False
+730,/iot_lotte/8/DE-10/BO-100,BO-100,에어커튼-3 송풍휀,,,,,,False,False,False
+731,/iot_lotte/8/DE-10/BO-101,BO-101,에어커튼-3 히팅코일,,,,,,False,False,False
+732,/iot_lotte/8/DE-10/BO-102,BO-102,에어커튼-4 송풍휀,,,,,,False,False,False
+733,/iot_lotte/8/DE-10/BO-103,BO-103,에어커튼-4 히팅코일,,,,,,False,False,False
+734,/iot_lotte/8/DE-10/BO-104,BO-104,AHU N1,,,,,,False,False,False
+735,/iot_lotte/8/DE-10/BO-105,BO-105,AHU N2,,,,,,False,False,False
+736,/iot_lotte/8/DE-10/BO-106,BO-106,AHU1 COMP1,,,,,,False,False,False
+737,/iot_lotte/8/DE-10/BO-107,BO-107,AHU1 COMP2,,,,,,False,False,False
+738,/iot_lotte/8/DE-10/BO-108,BO-108,AHU1 COMP3,,,,,,False,False,False
+739,/iot_lotte/8/DE-10/BO-109,BO-109,AHU1 COMP4,,,,,,False,False,False
+740,/iot_lotte/8/DE-10/BO-110,BO-110,AHU1 HEAT 1,,,,,,False,False,False
+741,/iot_lotte/8/DE-10/BO-111,BO-111,AHU1 HEAT 2,,,,,,False,False,False
+742,/iot_lotte/8/DE-10/BO-200,BO-200,AHU1 HEAT 3,,,,,,False,False,False
+743,/iot_lotte/8/DE-10/BO-201,BO-201,AHU1 HEAT 4,,,,,,False,False,False
+744,/iot_lotte/8/DE-10/BO-202,BO-202,AHU2 COMP1,,,,,,False,False,False
+745,/iot_lotte/8/DE-10/BO-203,BO-203,AHU2 COMP2,,,,,,False,False,False
+746,/iot_lotte/8/DE-10/BO-204,BO-204,AHU2 HEAT 1,,,,,,False,False,False
+747,/iot_lotte/8/DE-10/BO-205,BO-205,AHU2 HEAT 2,,,,,,False,False,False
+748,/iot_lotte/8/DE-10/BO-300,BO-300,AHU2 HEAT 3,,,,,,False,False,False
+749,/iot_lotte/8/DE-10/BO-301,BO-301,미용실 배기,,,,,,False,False,False
+750,/iot_lotte/8/DE-10/BO-302,BO-302,알래스카 배기,,,,,,False,False,False
+751,/iot_lotte/8/DE-10/BO-303,BO-303,푸드코트 배기,,,,,,False,False,False
+752,/iot_lotte/8/DE-10/BO-2100,BO-2100,CO모드,,,,,,False,False,False
+753,/iot_lotte/8/DE-10/AO-1700,AO-1700,AHU11 믹싱 DAMPER_역동작,,,,,,False,False,False
+754,/iot_lotte/8/DE-10/AO-1701,AO-1701,AHU12 믹싱 DAMPER_역동작,,,,,,False,False,False
