@@ -2,7 +2,7 @@ project_id: "hdc"
 credential_path: "credential/credential_hdc.yaml"
 tz: "Asia/Seoul"
 zone_id_list : ['ahu9','ahu11']
-Ts_raw: 30
+Ts_raw: 60
 # point_list_path:
 #   format: 'xlsx' # csv, url_csv, xlsx
 #   file_name: "hdc/point_list"

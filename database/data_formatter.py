@@ -215,22 +215,39 @@ def get_single_value(value,unit_name,type_name,minute=None,var_name=None):
         value=(value)/100
     elif unit_name=="10F":
         value=((value)/10-32)/1.8
-    elif unit_name=="cum_30":
+    elif unit_name=="cum_30" or unit_name=="cum_15" or unit_name=="cum_60":
         # cumulative value by 30seconds..
+        if unit_name=="cum_30":
+            rolling_average=30
+        elif unit_name=="cum_15":
+            rolling_average=15
+        else:
+            rolling_average=60
         value=make_monotonic(value)
     
         value=np.concatenate([np.array([0]),np.diff(value)])/1000/30
         
         df_value=pd.DataFrame(data={'value':value})
-        value=df_value['value'].rolling(30,min_periods=1,center=True).mean().to_numpy()
+        value=df_value['value'].rolling(rolling_average,min_periods=1,center=True).mean().to_numpy()
+    
+    elif unit_name=="cum_mv30_60/1000":
+        # cumulative value by 30seconds.. and divided by 1000 due to scale
+        rolling_average=30
+        Ts_=60
+        value=make_monotonic(value)
+        value=np.concatenate([np.array([0]),np.diff(value)])/1000/Ts_
+        df_value=pd.DataFrame(data={'value':value})
+        value=df_value['value'].rolling(rolling_average,min_periods=1,center=True).mean().to_numpy()
         
-        #value=value
-        #value=df_value['value'].rolling(20,min_periods=1,center=True).mean().to_numpy()/1000/30
-        
-        #value=np.concatenate([np.array([0]),np.diff(value)])/1000/30 #cumulative value m3/s
-        
-    else:
-        pass
+    elif unit_name=="cum_mv30_60":
+        # cumulative value by 30seconds.. and divided by 1000 due to scale
+        rolling_average=30
+        Ts_=60
+        value=make_monotonic(value)
+        value=np.concatenate([np.array([0]),np.diff(value)])/Ts_
+        df_value=pd.DataFrame(data={'value':value})
+        value=df_value['value'].rolling(rolling_average,min_periods=1,center=True).mean().to_numpy()
+    
 
     return value
 
