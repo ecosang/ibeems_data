@@ -238,6 +238,14 @@ def get_single_value(value,unit_name,type_name,minute=None,var_name=None):
         value=np.concatenate([np.array([0]),np.diff(value)])/1000/Ts_
         df_value=pd.DataFrame(data={'value':value})
         value=df_value['value'].rolling(rolling_average,min_periods=1,center=True).mean().to_numpy()
+    elif unit_name=="cum_mv30_60/60":
+        # cumulative value by 30seconds.. and divided by 60 due to scale
+        rolling_average=30
+        Ts_=60
+        value=make_monotonic(value)
+        value=np.concatenate([np.array([0]),np.diff(value)])/60/Ts_
+        df_value=pd.DataFrame(data={'value':value})
+        value=df_value['value'].rolling(rolling_average,min_periods=1,center=True).mean().to_numpy()
         
     elif unit_name=="cum_mv30_60":
         # cumulative value by 30seconds.. and divided by 1000 due to scale
@@ -247,7 +255,14 @@ def get_single_value(value,unit_name,type_name,minute=None,var_name=None):
         value=np.concatenate([np.array([0]),np.diff(value)])/Ts_
         df_value=pd.DataFrame(data={'value':value})
         value=df_value['value'].rolling(rolling_average,min_periods=1,center=True).mean().to_numpy()
-    
+    elif unit_name=="cum_mv30_3600/60":
+        # cumulative value by 30seconds.. and divided by 1000 due to scale
+        rolling_average=30
+        Ts_=60
+        value=make_monotonic(value)
+        value=np.concatenate([np.array([0]),np.diff(value)])*(3600/Ts_)
+        df_value=pd.DataFrame(data={'value':value})
+        value=df_value['value'].rolling(rolling_average,min_periods=1,center=True).mean().to_numpy()
 
     return value
 
