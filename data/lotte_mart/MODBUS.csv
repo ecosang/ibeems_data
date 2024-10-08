@@ -16,19 +16,19 @@
 /iot_lotte/1/DE-52/AI-6,AI-6,수배전반(LV-11)_MCC-E2_유효전력량,삼상,,,,,FALSE,FALSE,FALSE
 /iot_lotte/1/DE-52/AI-7,AI-7,수배전반(LV-11)_MCC-E3_유효전력량,삼상,,,,,FALSE,FALSE,FALSE
 /iot_lotte/1/DE-52/AI-8,AI-8,수배전반(LV-11)_MCC-E1_유효전력량,삼상,,,,,FALSE,FALSE,FALSE
-/iot_lotte/2/DE-53/AI-1,AI-1,MCC_냉각수순환펌프1_유효전력량,삼상,common,P_cw1,cum_30,float,TRUE,TRUE,TRUE
-/iot_lotte/2/DE-53/AI-2,AI-2,MCC_냉각수순환펌프2_유효전력량,삼상,common,P_cw2,cum_30,float,TRUE,TRUE,TRUE
-/iot_lotte/2/DE-53/AI-3,AI-3,MCC_CT-2_냉각탑팬_유효전력량,삼상,common,P_ct21,cum_30,float,TRUE,TRUE,TRUE
-/iot_lotte/2/DE-53/AI-4,AI-4,MCC_CT-2_냉각탑팬_유효전력량,삼상,common,P_ct22,cum_30,float,TRUE,TRUE,TRUE
-/iot_lotte/2/DE-53/AI-5,AI-5,MCC_CT-3_냉각탑팬_유효전력량,삼상,common,P_ct31,cum_30,float,TRUE,TRUE,TRUE
-/iot_lotte/2/DE-53/AI-6,AI-6,MCC_CT-3_냉각탑팬_유효전력량,삼상,common,P_ct32,cum_30,float,TRUE,TRUE,TRUE
-/iot_lotte/1/DE-54/AI-1,AI-1,MCC_냉온수순환펌프1(500RT)_유효전력량,삼상,common,P_chw21,cum_30,float,TRUE,TRUE,TRUE
-/iot_lotte/1/DE-54/AI-2,AI-2,MCC_냉온수순환펌프2(500RT)_유효전력량,삼상,common,P_chw22,cum_30,float,TRUE,TRUE,TRUE
-/iot_lotte/1/DE-54/AI-3,AI-3,MCC_냉온수순환펌프3(500RT)_유효전력량,삼상,common,P_chw23,cum_30,float,TRUE,TRUE,TRUE
-/iot_lotte/1/DE-54/AI-4,AI-4,MCC_냉온수순환펌프1(320RT)_유효전력량,삼상,common,P_chw11,cum_30,float,TRUE,TRUE,TRUE
-/iot_lotte/1/DE-54/AI-5,AI-5,MCC_냉온수순환펌프2(320RT)_유효전력량,삼상,common,P_chw12,cum_30,float,TRUE,TRUE,TRUE
-/iot_lotte/1/DE-54/AI-6,AI-6,MCC_CT-1_냉각수순환펌프1_유효전력량,삼상,common,P_cw11,cum_30,float,TRUE,TRUE,TRUE
-/iot_lotte/1/DE-54/AI-7,AI-7,MCC_CT-1_냉각수순환펌프2_유효전력량,삼상,common,P_cw12,cum_30,float,TRUE,TRUE,TRUE
+/iot_lotte/2/DE-53/AI-1,AI-1,MCC_냉각수순환펌프1_유효전력량,삼상,common,P_cw1,cum_mv30_3600/60,float,TRUE,TRUE,TRUE
+/iot_lotte/2/DE-53/AI-2,AI-2,MCC_냉각수순환펌프2_유효전력량,삼상,common,P_cw2,cum_mv30_3600/61,float,TRUE,TRUE,TRUE
+/iot_lotte/2/DE-53/AI-3,AI-3,MCC_CT-2_냉각탑팬_유효전력량,삼상,common,P_ct21,cum_mv30_3600/62,float,TRUE,TRUE,TRUE
+/iot_lotte/2/DE-53/AI-4,AI-4,MCC_CT-2_냉각탑팬_유효전력량,삼상,common,P_ct22,cum_mv30_3600/63,float,TRUE,TRUE,TRUE
+/iot_lotte/2/DE-53/AI-5,AI-5,MCC_CT-3_냉각탑팬_유효전력량,삼상,common,P_ct31,cum_mv30_3600/64,float,TRUE,TRUE,TRUE
+/iot_lotte/2/DE-53/AI-6,AI-6,MCC_CT-3_냉각탑팬_유효전력량,삼상,common,P_ct32,cum_mv30_3600/65,float,TRUE,TRUE,TRUE
+/iot_lotte/1/DE-54/AI-1,AI-1,MCC_냉온수순환펌프1(500RT)_유효전력량,삼상,common,P_chw21,cum_mv30_3600/66,float,TRUE,TRUE,TRUE
+/iot_lotte/1/DE-54/AI-2,AI-2,MCC_냉온수순환펌프2(500RT)_유효전력량,삼상,common,P_chw22,cum_mv30_3600/67,float,TRUE,TRUE,TRUE
+/iot_lotte/1/DE-54/AI-3,AI-3,MCC_냉온수순환펌프3(500RT)_유효전력량,삼상,common,P_chw23,cum_mv30_3600/68,float,TRUE,TRUE,TRUE
+/iot_lotte/1/DE-54/AI-4,AI-4,MCC_냉온수순환펌프1(320RT)_유효전력량,삼상,common,P_chw11,cum_mv30_3600/69,float,FALSE,FALSE,FALSE
+/iot_lotte/1/DE-54/AI-5,AI-5,MCC_냉온수순환펌프2(320RT)_유효전력량,삼상,common,P_chw12,cum_mv30_3600/70,float,TRUE,TRUE,TRUE
+/iot_lotte/1/DE-54/AI-6,AI-6,MCC_CT-1_냉각수순환펌프1_유효전력량,삼상,common,P_cw11,cum_mv30_3600/71,float,TRUE,TRUE,TRUE
+/iot_lotte/1/DE-54/AI-7,AI-7,MCC_CT-1_냉각수순환펌프2_유효전력량,삼상,common,P_cw12,cum_mv30_3600/72,float,TRUE,TRUE,TRUE
 /iot_lotte/1/DE-54/AI-8,AI-8,MCC_보일러_유효전력량,삼상,,,,,FALSE,FALSE,FALSE
 /iot_lotte/1/DE-54/AI-9,AI-9,MCC_급탕순환펌프1_유효전력량,삼상,,,,,FALSE,FALSE,FALSE
 /iot_lotte/1/DE-54/AI-10,AI-10,MCC_급탕순환펌프2_유효전력량,삼상,,,,,FALSE,FALSE,FALSE
@@ -55,135 +55,135 @@
 /iot_lotte/2/DE-59/AI-4,AI-4,LE-1C(분전반)_보석상_유효전력량,삼상,,,,,FALSE,FALSE,FALSE
 /iot_lotte/1/DE-60/AI-1,AI-1,LN-1C(분전반)_운정기_유효전력량,삼상,,,,,FALSE,FALSE,FALSE
 /iot_lotte/1/DE-60/AI-2,AI-2,LN-1C(분전반)_A2_유효전력량,삼상,,,,,FALSE,FALSE,FALSE
-/iot_lotte/2/DE-61/AI-1,AI-1,MCC_2층공조실(2A)_AHU6급기_유효전력량,삼상,ahu6,P_ahusa,cum_30,float,FALSE,FALSE,FALSE
-/iot_lotte/2/DE-61/AI-2,AI-2,MCC_2층공조실(2A)_AHU6배기_유효전력량,삼상,ahu6,P_ahuea,cum_30,float,FALSE,FALSE,FALSE
+/iot_lotte/2/DE-61/AI-1,AI-1,MCC_2층공조실(2A)_AHU6급기_유효전력량,삼상,ahu6,P_ahu_elec1,cum_mv30_3600/60,float,TRUE,TRUE,TRUE
+/iot_lotte/2/DE-61/AI-2,AI-2,MCC_2층공조실(2A)_AHU6배기_유효전력량,삼상,ahu6,P_ahu_elec2,cum_mv30_3600/60,float,TRUE,TRUE,TRUE
 /iot_lotte/2/DE-61/AI-3,AI-3,MCC_2층공조실(2A)_동파방지_유효전력량,삼상,,,,,FALSE,FALSE,FALSE
-/iot_lotte/1/DE-62/AI-1,AI-1,MCC_2층공조실(2B)_AHU4급기_유효전력량,삼상,ahu4,P_ahusa,cum_30,float,FALSE,FALSE,FALSE
-/iot_lotte/1/DE-62/AI-2,AI-2,MCC_2층공조실(2B)_AHU4배기_유효전력량,삼상,ahu4,P_ahuea,cum_30,float,FALSE,FALSE,FALSE
+/iot_lotte/1/DE-62/AI-1,AI-1,MCC_2층공조실(2B)_AHU4급기_유효전력량,삼상,ahu4,P_ahu_elec1,cum_mv30_3600/60,float,TRUE,TRUE,TRUE
+/iot_lotte/1/DE-62/AI-2,AI-2,MCC_2층공조실(2B)_AHU4배기_유효전력량,삼상,ahu4,P_ahu_elec2,cum_mv30_3600/60,float,TRUE,TRUE,TRUE
 /iot_lotte/1/DE-62/AI-3,AI-3,MCC_2층공조실(2B)_AHU8급기_유효전력량,삼상,,,,,FALSE,FALSE,FALSE
 /iot_lotte/1/DE-62/AI-4,AI-4,MCC_2층공조실(2B)_AHU8배기_유효전력량,삼상,,,,,FALSE,FALSE,FALSE
 /iot_lotte/1/DE-62/AI-5,AI-5,MCC_2층공조실(2B)_동파방지히터1_유효전력량,삼상,,,,,FALSE,FALSE,FALSE
 /iot_lotte/1/DE-62/AI-6,AI-6,MCC_2층공조실(2B)_동파방지히터2_유효전력량,삼상,,,,,FALSE,FALSE,FALSE
-/iot_lotte/2/DE-63/AI-1,AI-1,MCC_3층공조실(3A)_AHU7급기_유효전력량,삼상,ahu7,P_ahusa,cum_30,float,FALSE,FALSE,FALSE
-/iot_lotte/2/DE-63/AI-2,AI-2,MCC_3층공조실(3A)_AHU7배기_유효전력량,삼상,ahu7,P_ahuea,cum_30,float,FALSE,FALSE,FALSE
+/iot_lotte/2/DE-63/AI-1,AI-1,MCC_3층공조실(3A)_AHU7급기_유효전력량,삼상,ahu7,P_ahu_elec1,cum_mv30_3600/60,float,TRUE,TRUE,TRUE
+/iot_lotte/2/DE-63/AI-2,AI-2,MCC_3층공조실(3A)_AHU7배기_유효전력량,삼상,ahu7,P_ahu_elec2,cum_mv30_3600/60,float,TRUE,TRUE,TRUE
 /iot_lotte/2/DE-63/AI-3,AI-3,MCC_3층공조실(3A)_AHU10급기_유효전력량,삼상,,,,,FALSE,FALSE,FALSE
 /iot_lotte/2/DE-63/AI-4,AI-4,MCC_3층공조실(3A)_AHU10배기_유효전력량,삼상,,,,,FALSE,FALSE,FALSE
 /iot_lotte/2/DE-63/AI-5,AI-5,MCC_3층공조실(3A)_동파방지히터1_유효전력량,삼상,,,,,FALSE,FALSE,FALSE
 /iot_lotte/2/DE-63/AI-6,AI-6,MCC_3층공조실(3A)_동파방지히터2_유효전력량,삼상,,,,,FALSE,FALSE,FALSE
-/iot_lotte/1/DE-64/AI-1,AI-1,MCC_3층공조실(3B)_AHU5급기_유효전력량,삼상,ahu5,P_ahusa,cum_30,float,FALSE,FALSE,FALSE
-/iot_lotte/1/DE-64/AI-2,AI-2,MCC_3층공조실(3B)_AHU5배기_유효전력량,삼상,ahu5,P_ahuea,cum_30,float,FALSE,FALSE,FALSE
+/iot_lotte/1/DE-64/AI-1,AI-1,MCC_3층공조실(3B)_AHU5급기_유효전력량,삼상,ahu5,P_ahu_elec1,cum_mv30_3600/60,float,TRUE,TRUE,TRUE
+/iot_lotte/1/DE-64/AI-2,AI-2,MCC_3층공조실(3B)_AHU5배기_유효전력량,삼상,ahu5,P_ahu_elec2,cum_mv30_3600/60,float,TRUE,TRUE,TRUE
 /iot_lotte/1/DE-64/AI-3,AI-3,MCC_3층공조실(3B)_AHU9급기_유효전력량,삼상,,,,,FALSE,FALSE,FALSE
 /iot_lotte/1/DE-64/AI-4,AI-4,MCC_3층공조실(3B)_AHU9배기_유효전력량,삼상,,,,,FALSE,FALSE,FALSE
 /iot_lotte/1/DE-64/AI-5,AI-5,MCC_3층공조실(3B)_동파방지히터1_유효전력량,삼상,,,,,FALSE,FALSE,FALSE
 /iot_lotte/1/DE-64/AI-6,AI-6,MCC_3층공조실(3B)_동파방지히터2_유효전력량,삼상,,,,,FALSE,FALSE,FALSE
-/iot_lotte/2/DE-80/AI-1,AI-1,보일러_가스사용량,NM3,common,P_boiler_gas,cum_30,float,TRUE,TRUE,TRUE
-/iot_lotte/2/DE-80/AI-2,AI-2,냉온수기1_가스사용량,NM3,common,P_ch1_gas,cum_30,float,TRUE,TRUE,TRUE
-/iot_lotte/2/DE-80/AI-3,AI-3,냉온수기2_가스사용량,NM3,common,P_ch2_gas,cum_30,float,TRUE,TRUE,TRUE
-/iot_lotte/2/DE-80/AI-4,AI-4,냉온수기3_가스사용량,NM3,common,P_ch3_gas,cum_30,float,TRUE,TRUE,TRUE
-/iot_lotte/1/DE-81/AI-1,AI-1,AHU6_순시유량,m3/h,ahu6,V_ahu_sa,cmh,float,TRUE,TRUE,TRUE
+/iot_lotte/2/DE-80/AI-1,AI-1,보일러_가스사용량,NM3,common,P_boiler_gas,cum_mv30_60,float,TRUE,TRUE,TRUE
+/iot_lotte/2/DE-80/AI-2,AI-2,냉온수기1_가스사용량,NM3,common,P_ch1_gas,cum_mv30_60,float,TRUE,TRUE,TRUE
+/iot_lotte/2/DE-80/AI-3,AI-3,냉온수기2_가스사용량,NM3,common,P_ch2_gas,cum_mv30_60,float,TRUE,TRUE,TRUE
+/iot_lotte/2/DE-80/AI-4,AI-4,냉온수기3_가스사용량,NM3,common,P_ch3_gas,cum_mv30_60,float,TRUE,TRUE,TRUE
+/iot_lotte/1/DE-81/AI-1,AI-1,AHU6_순시유량,m3/h,ahu6,V_ahu_hcw,cmh,float,TRUE,TRUE,TRUE
 /iot_lotte/1/DE-81/AI-2,AI-2,AHU6_순시열량,GJ/h,,,,,FALSE,FALSE,FALSE
-/iot_lotte/1/DE-81/AI-3,AI-3,AHU6_적산유량,m3,,,,,FALSE,FALSE,FALSE
+/iot_lotte/1/DE-81/AI-3,AI-3,AHU6_적산유량,m3,ahu6,cum_ahu_hcw,cum_mv30_60,float,TRUE,TRUE,TRUE
 /iot_lotte/1/DE-81/AI-4,AI-4,AHU6_적산열량,MJ,,,,,FALSE,FALSE,FALSE
-/iot_lotte/1/DE-81/AI-5,AI-5,AHU6_냉온수환수온도,℃,,,,,FALSE,FALSE,FALSE
-/iot_lotte/1/DE-81/AI-6,AI-6,AHU6_냉온수급수온도,℃,,,,,FALSE,FALSE,FALSE
-/iot_lotte/2/DE-82/AI-1,AI-1,AHU4_순시유량,m3/h,ahu4,V_ahu_sa,cmh,float,TRUE,TRUE,TRUE
+/iot_lotte/1/DE-81/AI-5,AI-5,AHU6_냉온수환수온도,℃,ahu6,T_ahu_hcwr,C,float,TRUE,TRUE,TRUE
+/iot_lotte/1/DE-81/AI-6,AI-6,AHU6_냉온수급수온도,℃,ahu6,T_ahu_hcws,C,float,TRUE,TRUE,TRUE
+/iot_lotte/2/DE-82/AI-1,AI-1,AHU4_순시유량,m3/h,ahu4,V_ahu_hcw,cmh,float,TRUE,TRUE,TRUE
 /iot_lotte/2/DE-82/AI-2,AI-2,AHU4_순시열량,GJ/h,,,,,FALSE,FALSE,FALSE
-/iot_lotte/2/DE-82/AI-3,AI-3,AHU4_적산유량,m3,,,,,FALSE,FALSE,FALSE
+/iot_lotte/2/DE-82/AI-3,AI-3,AHU4_적산유량,m3,ahu4,cum_ahu_hcw,cum_mv30_60,float,TRUE,TRUE,TRUE
 /iot_lotte/2/DE-82/AI-4,AI-4,AHU4_적산열량,MJ,,,,,FALSE,FALSE,FALSE
-/iot_lotte/2/DE-82/AI-5,AI-5,AHU4_냉온수환수온도,℃,,,,,FALSE,FALSE,FALSE
-/iot_lotte/2/DE-82/AI-6,AI-6,AHU4_냉온수급수온도,℃,,,,,FALSE,FALSE,FALSE
-/iot_lotte/1/DE-83/AI-1,AI-1,AHU7_순시유량,m3/h,ahu7,V_ahu_sa,cmh,float,TRUE,TRUE,TRUE
+/iot_lotte/2/DE-82/AI-5,AI-5,AHU4_냉온수환수온도,℃,ahu4,T_ahu_hcwr,C,float,TRUE,TRUE,TRUE
+/iot_lotte/2/DE-82/AI-6,AI-6,AHU4_냉온수급수온도,℃,ahu4,T_ahu_hcws,C,float,TRUE,TRUE,TRUE
+/iot_lotte/1/DE-83/AI-1,AI-1,AHU7_순시유량,m3/h,ahu7,V_ahu_hcw,cmh,float,TRUE,TRUE,TRUE
 /iot_lotte/1/DE-83/AI-2,AI-2,AHU7_순시열량,GJ/h,,,,,FALSE,FALSE,FALSE
-/iot_lotte/1/DE-83/AI-3,AI-3,AHU7_적산유량,m3,,,,,FALSE,FALSE,FALSE
+/iot_lotte/1/DE-83/AI-3,AI-3,AHU7_적산유량,m3,ahu7,cum_ahu_hcw,cum_mv30_60,float,TRUE,TRUE,TRUE
 /iot_lotte/1/DE-83/AI-4,AI-4,AHU7_적산열량,MJ,,,,,FALSE,FALSE,FALSE
-/iot_lotte/1/DE-83/AI-5,AI-5,AHU7_냉온수환수온도,℃,,,,,FALSE,FALSE,FALSE
-/iot_lotte/1/DE-83/AI-6,AI-6,AHU7_냉온수급수온도,℃,,,,,FALSE,FALSE,FALSE
-/iot_lotte/2/DE-84/AI-1,AI-1,AHU5_순시유량,m3/h,ahu5,V_ahu_sa,cmh,float,TRUE,TRUE,TRUE
+/iot_lotte/1/DE-83/AI-5,AI-5,AHU7_냉온수환수온도,℃,ahu7,T_ahu_hcwr,C,float,TRUE,TRUE,TRUE
+/iot_lotte/1/DE-83/AI-6,AI-6,AHU7_냉온수급수온도,℃,ahu7,T_ahu_hcws,C,float,TRUE,TRUE,TRUE
+/iot_lotte/2/DE-84/AI-1,AI-1,AHU5_순시유량,m3/h,ahu5,V_ahu_hcw,cmh,float,TRUE,TRUE,TRUE
 /iot_lotte/2/DE-84/AI-2,AI-2,AHU5_순시열량,GJ/h,,,,,FALSE,FALSE,FALSE
-/iot_lotte/2/DE-84/AI-3,AI-3,AHU5_적산유량,m3,,,,,FALSE,FALSE,FALSE
+/iot_lotte/2/DE-84/AI-3,AI-3,AHU5_적산유량,m3,ahu5,cum_ahu_hcw,cum_mv30_60,float,TRUE,TRUE,TRUE
 /iot_lotte/2/DE-84/AI-4,AI-4,AHU5_적산열량,MJ,,,,,FALSE,FALSE,FALSE
-/iot_lotte/2/DE-84/AI-5,AI-5,AHU5_냉온수환수온도,℃,,,,,FALSE,FALSE,FALSE
-/iot_lotte/2/DE-84/AI-6,AI-6,AHU5_냉온수급수온도,℃,,,,,FALSE,FALSE,FALSE
+/iot_lotte/2/DE-84/AI-5,AI-5,AHU5_냉온수환수온도,℃,ahu5,T_ahu_hcwr,C,float,TRUE,TRUE,TRUE
+/iot_lotte/2/DE-84/AI-6,AI-6,AHU5_냉온수급수온도,℃,ahu5,T_ahu_hcws,C,float,TRUE,TRUE,TRUE
 /iot_lotte/1/DE-85/AI-1,AI-1,AHU6_PM2.5,PM 2.5,,,,,FALSE,FALSE,FALSE
 /iot_lotte/1/DE-85/AI-2,AI-2,AHU6_PM10,PM 10,,,,,FALSE,FALSE,FALSE
 /iot_lotte/1/DE-85/AI-3,AI-3,AHU6_급기&환기차압,PASCAL,,,,,FALSE,FALSE,FALSE
-/iot_lotte/1/DE-85/AI-4,AI-4,AHU6_급기풍량,CMH,,,,,FALSE,FALSE,FALSE
+/iot_lotte/1/DE-85/AI-4,AI-4,AHU6_급기풍량,CMH,ahu6,V_ahu_sa,cmh,float,TRUE,TRUE,TRUE
 /iot_lotte/1/DE-85/AI-5,AI-5,AHU6_급기정압,PASCAL,,,,,FALSE,FALSE,FALSE
-/iot_lotte/1/DE-85/AI-6,AI-6,AHU6_배기풍량,CMH,,,,,FALSE,FALSE,FALSE
+/iot_lotte/1/DE-85/AI-6,AI-6,AHU6_배기풍량,CMH,ahu6,V_ahu_ea,cmh,float,TRUE,TRUE,TRUE
 /iot_lotte/1/DE-85/AI-7,AI-7,AHU6_배기정압,PASCAL,,,,,FALSE,FALSE,FALSE
 /iot_lotte/2/DE-86/AI-1,AI-1,AHU4_PM2.5,PM 2.5,,,,,FALSE,FALSE,FALSE
 /iot_lotte/2/DE-86/AI-2,AI-2,AHU4_PM10,PM 10,,,,,FALSE,FALSE,FALSE
 /iot_lotte/2/DE-86/AI-3,AI-3,AHU4_급기&환기차압,PASCAL,,,,,FALSE,FALSE,FALSE
-/iot_lotte/2/DE-86/AI-4,AI-4,AHU4_급기풍량,CMH,,,,,FALSE,FALSE,FALSE
+/iot_lotte/2/DE-86/AI-4,AI-4,AHU4_급기풍량,CMH,ahu4,V_ahu_sa,cmh,float,TRUE,TRUE,TRUE
 /iot_lotte/2/DE-86/AI-5,AI-5,AHU4_급기정압,PASCAL,,,,,FALSE,FALSE,FALSE
-/iot_lotte/2/DE-86/AI-6,AI-6,AHU4_배기풍량,CMH,,,,,FALSE,FALSE,FALSE
+/iot_lotte/2/DE-86/AI-6,AI-6,AHU4_배기풍량,CMH,ahu4,V_ahu_ea,cmh,float,TRUE,TRUE,TRUE
 /iot_lotte/2/DE-86/AI-7,AI-7,AHU4_배기정압,PASCAL,,,,,FALSE,FALSE,FALSE
 /iot_lotte/1/DE-87/AI-1,AI-1,AHU7_PM2.5,PM 2.5,,,,,FALSE,FALSE,FALSE
 /iot_lotte/1/DE-87/AI-2,AI-2,AHU7_PM10,PM 10,,,,,FALSE,FALSE,FALSE
 /iot_lotte/1/DE-87/AI-3,AI-3,AHU7_급기&환기차압,PASCAL,,,,,FALSE,FALSE,FALSE
-/iot_lotte/1/DE-87/AI-4,AI-4,AHU7_급기풍량,CMH,,,,,FALSE,FALSE,FALSE
+/iot_lotte/1/DE-87/AI-4,AI-4,AHU7_급기풍량,CMH,ahu7,V_ahu_sa,cmh,float,TRUE,TRUE,TRUE
 /iot_lotte/1/DE-87/AI-5,AI-5,AHU7_급기정압,PASCAL,,,,,FALSE,FALSE,FALSE
-/iot_lotte/1/DE-87/AI-6,AI-6,AHU7_배기풍량,CMH,,,,,FALSE,FALSE,FALSE
+/iot_lotte/1/DE-87/AI-6,AI-6,AHU7_배기풍량,CMH,ahu7,V_ahu_ea,cmh,float,TRUE,TRUE,TRUE
 /iot_lotte/1/DE-87/AI-7,AI-7,AHU7_배기정압,PASCAL,,,,,FALSE,FALSE,FALSE
 /iot_lotte/2/DE-88/AI-1,AI-1,AHU5_PM2.5,PM 2.5,,,,,FALSE,FALSE,FALSE
 /iot_lotte/2/DE-88/AI-2,AI-2,AHU5_PM10,PM 10,,,,,FALSE,FALSE,FALSE
 /iot_lotte/2/DE-88/AI-3,AI-3,AHU5_급기&환기차압,PASCAL,,,,,FALSE,FALSE,FALSE
-/iot_lotte/2/DE-88/AI-4,AI-4,AHU5_급기풍량,CMH,,,,,FALSE,FALSE,FALSE
+/iot_lotte/2/DE-88/AI-4,AI-4,AHU5_급기풍량,CMH,ahu5,V_ahu_sa,cmh,float,TRUE,TRUE,TRUE
 /iot_lotte/2/DE-88/AI-5,AI-5,AHU5_급기정압,PASCAL,,,,,FALSE,FALSE,FALSE
-/iot_lotte/2/DE-88/AI-6,AI-6,AHU5_배기풍량,CMH,,,,,FALSE,FALSE,FALSE
+/iot_lotte/2/DE-88/AI-6,AI-6,AHU5_배기풍량,CMH,ahu5,V_ahu_ea,cmh,float,TRUE,TRUE,TRUE
 /iot_lotte/2/DE-88/AI-7,AI-7,AHU5_배기정압,PASCAL,,,,,FALSE,FALSE,FALSE
-/iot_lotte/2/DE-97/BO-1,BO-1,냉온수기-3(LG) 운전,scale(1),,,,,,TRUE,TRUE
-/iot_lotte/2/DE-97/BO-2,BO-2,냉온수기-3(LG) 정지,scale(1),,,,,,TRUE,TRUE
-/iot_lotte/2/DE-97/BI-100,BI-100,냉온수기-3(LG) 운전 상태,scale(1),,,,,,TRUE,TRUE
-/iot_lotte/2/DE-97/BI-101,BI-101,냉온수기-3(LG) 추기 펌프 운전 상태,scale(1),,,,,,TRUE,TRUE
-/iot_lotte/2/DE-97/BI-102,BI-102,냉온수기-3(LG) 연소 운전 상태,scale(1),,,,,,TRUE,TRUE
-/iot_lotte/2/DE-97/BI-103,BI-103,냉온수기-3(LG) 냉매 펌프 운전 상태,scale(1),,,,,,TRUE,TRUE
-/iot_lotte/2/DE-97/BI-104,BI-104,냉온수기-3(LG) 냉수 유량 정상 상태,scale(1),,,,,,TRUE,TRUE
-/iot_lotte/2/DE-97/BI-105,BI-105,냉온수기-3(LG) 냉각수 유량 정상 상태,scale(1),,,,,,TRUE,TRUE
-/iot_lotte/2/DE-97/BI-106,BI-106,냉온수기-3(LG) 부저 상태,scale(1),,,,,,TRUE,TRUE
-/iot_lotte/2/DE-97/BI-107,BI-107,냉온수기-3(LG) 이상 상태,scale(1),,,,,,TRUE,TRUE
-/iot_lotte/2/DE-97/AO-200,AO-200,냉온수기-3(LG) 냉수 출구 온도 쓰기,scale(0.1),,,,,,TRUE,TRUE
-/iot_lotte/2/DE-97/AO-201,AO-201,냉온수기-3(LG) 온수 출구 온도 쓰기,scale(0.1),,,,,,TRUE,TRUE
-/iot_lotte/2/DE-97/AI-300,AI-300,냉온수기-3(LG) 운전 메시지,scale(1),,,,,,TRUE,TRUE
-/iot_lotte/2/DE-97/AI-301,AI-301,냉온수기-3(LG) 경보 메시지,scale(1),,,,,,TRUE,TRUE
-/iot_lotte/2/DE-97/AI-302,AI-302,냉온수기-3(LG) 이상 메시지,scale(1),,,,,,TRUE,TRUE
-/iot_lotte/2/DE-97/AI-303,AI-303,냉온수기-3(LG) 제어밸브 개도,scale(1),,,,,,TRUE,TRUE
-/iot_lotte/2/DE-97/AI-304,AI-304,냉온수기-3(LG) 냉온수 입구 온도,scale(0.1),,,,,,TRUE,TRUE
-/iot_lotte/2/DE-97/AI-305,AI-305,냉온수기-3(LG) 냉온수 출구 온도,scale(0.1),,,,,,TRUE,TRUE
-/iot_lotte/2/DE-97/AI-306,AI-306,냉온수기-3(LG) 냉각수 입구 온도,scale(0.1),,,,,,TRUE,TRUE
-/iot_lotte/2/DE-97/AI-307,AI-307,냉온수기-3(LG) 냉각수 출구 온도,scale(0.1),,,,,,TRUE,TRUE
-/iot_lotte/2/DE-97/AI-308,AI-308,냉온수기-3(LG) 응축기 냉매 온도,scale(0.1),,,,,,TRUE,TRUE
-/iot_lotte/2/DE-97/AI-309,AI-309,냉온수기-3(LG) 고온 재생기 온도,scale(0.1),,,,,,TRUE,TRUE
-/iot_lotte/2/DE-97/AI-310,AI-310,냉온수기-3(LG) 온수 출구 온도,scale(0.1),,,,,,TRUE,TRUE
-/iot_lotte/2/DE-97/AI-311,AI-311,냉온수기-3(LG) 온수 입구 온도,scale(0.1),,,,,,TRUE,TRUE
-/iot_lotte/2/DE-97/AI-312,AI-312,냉온수기-3(LG) 저온 재생기 온도,scale(0.1),,,,,,TRUE,TRUE
-/iot_lotte/2/DE-97/AI-313,AI-313,냉온수기-3(LG) 증발기 냉매 온도,scale(0.1),,,,,,TRUE,TRUE
-/iot_lotte/2/DE-97/AI-314,AI-314,냉온수기-3(LG) 흡수기 희액 온도,scale(0.1),,,,,,TRUE,TRUE
-/iot_lotte/2/DE-97/AI-315,AI-315,냉온수기-3(LG) 배기가스 출구 온도,scale(0.1),,,,,,TRUE,TRUE
-/iot_lotte/2/DE-97/AI-400,AI-400,냉온수기-1(캐리어) 컨트롤 모드,scale(0.1),,,,,,TRUE,TRUE
-/iot_lotte/2/DE-97/AI-401,AI-401,냉온수기-1(캐리어) 냉난방 모드,scale(0.1),,,,,,TRUE,TRUE
-/iot_lotte/2/DE-97/AI-402,AI-402,냉온수기-1(캐리어) 제어 운전 상태,scale(0.1),,,,,,TRUE,TRUE
-/iot_lotte/2/DE-97/AI-403,AI-403,냉온수기-1(캐리어) 알람,scale(0.1),,,,,,TRUE,TRUE
-/iot_lotte/2/DE-97/AI-404,AI-404,냉온수기-1(캐리어) 원격접점,scale(0.1),,,,,,TRUE,TRUE
-/iot_lotte/2/DE-97/AI-405,AI-405,냉온수기-1(캐리어) 운전/정지 상태,scale(0.1),,,,,,TRUE,TRUE
-/iot_lotte/2/DE-97/AI-406,AI-406,냉온수기-1(캐리어) 냉수 입구온도,scale(0.1),,,,,,TRUE,TRUE
-/iot_lotte/2/DE-97/AI-407,AI-407,냉온수기-1(캐리어) 냉수 출구온도,scale(0.1),,,,,,TRUE,TRUE
-/iot_lotte/2/DE-97/AI-408,AI-408,냉온수기-1(캐리어) 냉각수 흡수기 입구온도,scale(0.1),,,,,,TRUE,TRUE
-/iot_lotte/2/DE-97/AI-409,AI-409,냉온수기-1(캐리어) 냉각수 흡수기 출구온도,scale(0.1),,,,,,TRUE,TRUE
-/iot_lotte/2/DE-97/AI-410,AI-410,냉온수기-1(캐리어) 냉각수 응축기 출구온도,scale(0.1),,,,,,TRUE,TRUE
-/iot_lotte/2/DE-97/AI-411,AI-411,냉온수기-1(캐리어) 증발기 냉매 온도,scale(0.1),,,,,,TRUE,TRUE
-/iot_lotte/2/DE-97/AI-412,AI-412,냉온수기-1(캐리어) 흡수기 출구 희용액 온도,scale(0.1),,,,,,TRUE,TRUE
-/iot_lotte/2/DE-97/AI-413,AI-413,냉온수기-1(캐리어) 고온열교환기 출구 흡수기입구 진한용액온도,scale(0.1),,,,,,TRUE,TRUE
-/iot_lotte/2/DE-97/AI-414,AI-414,냉온수기-1(캐리어) 응축기 냉매응축온도,scale(0.1),,,,,,TRUE,TRUE
-/iot_lotte/2/DE-97/AI-415,AI-415,냉온수기-1(캐리어) 고온재생기 출구중간용액온도,scale(0.1),,,,,,TRUE,TRUE
-/iot_lotte/2/DE-97/AI-416,AI-416,냉온수기-1(캐리어) 저온재생기 출구농용액온도,scale(0.1),,,,,,TRUE,TRUE
-/iot_lotte/2/DE-97/AI-417,AI-417,냉온수기-1(캐리어) 저온재생기 냉매응축온도,scale(0.1),,,,,,TRUE,TRUE
-/iot_lotte/2/DE-97/AI-418,AI-418,냉온수기-1(캐리어) 배기가스 온도,scale(0.1),,,,,,TRUE,TRUE
-/iot_lotte/2/DE-97/AI-419,AI-419,냉온수기-1(캐리어) 용액점프 운전속도,scale(0.1),,,,,,TRUE,TRUE
-/iot_lotte/2/DE-97/AI-420,AI-420,냉온수기-1(캐리어) 버너 점화신호,scale(0.1),,,,,,TRUE,TRUE
-/iot_lotte/2/DE-97/AI-421,AI-421,냉온수기-1(캐리어) 버너 점화피드백신호,scale(0.1),,,,,,TRUE,TRUE
-/iot_lotte/2/DE-97/AI-422,AI-422,냉온수기-1(캐리어) 용액펌프 운전정지상태,scale(0.1),,,,,,TRUE,TRUE
-/iot_lotte/2/DE-97/AI-423,AI-423,냉온수기-1(캐리어) 냉매펌프 운전정지상태,scale(0.1),,,,,,TRUE,TRUE
-/iot_lotte/2/DE-97/AI-500,AI-500,냉온수기-1(캐리어) 용량제어 실제값,scale(0.1),,,,,,FALSE,FALSE
-/iot_lotte/2/DE-97/AO-600,AO-600,냉온수기-1(캐리어) 냉수출구 설정값,scale(0.1),,,,,,TRUE,TRUE
-/iot_lotte/2/DE-97/BO-601,BO-601,냉온수기-1(캐리어) 운전/정지,scale(1),,,,,,TRUE,TRUE
+/iot_lotte/2/DE-97/BO-1,BO-1,냉온수기-3(LG) 운전,scale(1),,,,,TRUE,TRUE,TRUE
+/iot_lotte/2/DE-97/BO-2,BO-2,냉온수기-3(LG) 정지,scale(1),,,,,TRUE,TRUE,TRUE
+/iot_lotte/2/DE-97/BI-100,BI-100,냉온수기-3(LG) 운전 상태,scale(1),,,,,TRUE,TRUE,TRUE
+/iot_lotte/2/DE-97/BI-101,BI-101,냉온수기-3(LG) 추기 펌프 운전 상태,scale(1),,,,,TRUE,TRUE,TRUE
+/iot_lotte/2/DE-97/BI-102,BI-102,냉온수기-3(LG) 연소 운전 상태,scale(1),,,,,TRUE,TRUE,TRUE
+/iot_lotte/2/DE-97/BI-103,BI-103,냉온수기-3(LG) 냉매 펌프 운전 상태,scale(1),,,,,TRUE,TRUE,TRUE
+/iot_lotte/2/DE-97/BI-104,BI-104,냉온수기-3(LG) 냉수 유량 정상 상태,scale(1),,,,,TRUE,TRUE,TRUE
+/iot_lotte/2/DE-97/BI-105,BI-105,냉온수기-3(LG) 냉각수 유량 정상 상태,scale(1),,,,,TRUE,TRUE,TRUE
+/iot_lotte/2/DE-97/BI-106,BI-106,냉온수기-3(LG) 부저 상태,scale(1),,,,,TRUE,TRUE,TRUE
+/iot_lotte/2/DE-97/BI-107,BI-107,냉온수기-3(LG) 이상 상태,scale(1),,,,,TRUE,TRUE,TRUE
+/iot_lotte/2/DE-97/AO-200,AO-200,냉온수기-3(LG) 냉수 출구 온도 쓰기,scale(0.1),,,,,TRUE,TRUE,TRUE
+/iot_lotte/2/DE-97/AO-201,AO-201,냉온수기-3(LG) 온수 출구 온도 쓰기,scale(0.1),,,,,TRUE,TRUE,TRUE
+/iot_lotte/2/DE-97/AI-300,AI-300,냉온수기-3(LG) 운전 메시지,scale(1),,,,,FALSE,FALSE,FALSE
+/iot_lotte/2/DE-97/AI-301,AI-301,냉온수기-3(LG) 경보 메시지,scale(1),,,,,TRUE,TRUE,TRUE
+/iot_lotte/2/DE-97/AI-302,AI-302,냉온수기-3(LG) 이상 메시지,scale(1),,,,,TRUE,TRUE,TRUE
+/iot_lotte/2/DE-97/AI-303,AI-303,냉온수기-3(LG) 제어밸브 개도,scale(1),,,,,TRUE,TRUE,TRUE
+/iot_lotte/2/DE-97/AI-304,AI-304,냉온수기-3(LG) 냉온수 입구 온도,scale(0.1),,,,,TRUE,TRUE,TRUE
+/iot_lotte/2/DE-97/AI-305,AI-305,냉온수기-3(LG) 냉온수 출구 온도,scale(0.1),,,,,TRUE,TRUE,TRUE
+/iot_lotte/2/DE-97/AI-306,AI-306,냉온수기-3(LG) 냉각수 입구 온도,scale(0.1),,,,,TRUE,TRUE,TRUE
+/iot_lotte/2/DE-97/AI-307,AI-307,냉온수기-3(LG) 냉각수 출구 온도,scale(0.1),,,,,TRUE,TRUE,TRUE
+/iot_lotte/2/DE-97/AI-308,AI-308,냉온수기-3(LG) 응축기 냉매 온도,scale(0.1),,,,,TRUE,TRUE,TRUE
+/iot_lotte/2/DE-97/AI-309,AI-309,냉온수기-3(LG) 고온 재생기 온도,scale(0.1),,,,,TRUE,TRUE,TRUE
+/iot_lotte/2/DE-97/AI-310,AI-310,냉온수기-3(LG) 온수 출구 온도,scale(0.1),,,,,TRUE,TRUE,TRUE
+/iot_lotte/2/DE-97/AI-311,AI-311,냉온수기-3(LG) 온수 입구 온도,scale(0.1),,,,,TRUE,TRUE,TRUE
+/iot_lotte/2/DE-97/AI-312,AI-312,냉온수기-3(LG) 저온 재생기 온도,scale(0.1),,,,,TRUE,TRUE,TRUE
+/iot_lotte/2/DE-97/AI-313,AI-313,냉온수기-3(LG) 증발기 냉매 온도,scale(0.1),,,,,TRUE,TRUE,TRUE
+/iot_lotte/2/DE-97/AI-314,AI-314,냉온수기-3(LG) 흡수기 희액 온도,scale(0.1),,,,,TRUE,TRUE,TRUE
+/iot_lotte/2/DE-97/AI-315,AI-315,냉온수기-3(LG) 배기가스 출구 온도,scale(0.1),,,,,TRUE,TRUE,TRUE
+/iot_lotte/2/DE-97/AI-400,AI-400,냉온수기-1(캐리어) 컨트롤 모드,scale(0.1),,,,,TRUE,TRUE,TRUE
+/iot_lotte/2/DE-97/AI-401,AI-401,냉온수기-1(캐리어) 냉난방 모드,scale(0.1),,,,,TRUE,TRUE,TRUE
+/iot_lotte/2/DE-97/AI-402,AI-402,냉온수기-1(캐리어) 제어 운전 상태,scale(0.1),,,,,TRUE,TRUE,TRUE
+/iot_lotte/2/DE-97/AI-403,AI-403,냉온수기-1(캐리어) 알람,scale(0.1),,,,,TRUE,TRUE,TRUE
+/iot_lotte/2/DE-97/AI-404,AI-404,냉온수기-1(캐리어) 원격접점,scale(0.1),,,,,TRUE,TRUE,TRUE
+/iot_lotte/2/DE-97/AI-405,AI-405,냉온수기-1(캐리어) 운전/정지 상태,scale(0.1),,,,,TRUE,TRUE,TRUE
+/iot_lotte/2/DE-97/AI-406,AI-406,냉온수기-1(캐리어) 냉수 입구온도,scale(0.1),,,,,TRUE,TRUE,TRUE
+/iot_lotte/2/DE-97/AI-407,AI-407,냉온수기-1(캐리어) 냉수 출구온도,scale(0.1),,,,,TRUE,TRUE,TRUE
+/iot_lotte/2/DE-97/AI-408,AI-408,냉온수기-1(캐리어) 냉각수 흡수기 입구온도,scale(0.1),,,,,TRUE,TRUE,TRUE
+/iot_lotte/2/DE-97/AI-409,AI-409,냉온수기-1(캐리어) 냉각수 흡수기 출구온도,scale(0.1),,,,,TRUE,TRUE,TRUE
+/iot_lotte/2/DE-97/AI-410,AI-410,냉온수기-1(캐리어) 냉각수 응축기 출구온도,scale(0.1),,,,,TRUE,TRUE,TRUE
+/iot_lotte/2/DE-97/AI-411,AI-411,냉온수기-1(캐리어) 증발기 냉매 온도,scale(0.1),,,,,TRUE,TRUE,TRUE
+/iot_lotte/2/DE-97/AI-412,AI-412,냉온수기-1(캐리어) 흡수기 출구 희용액 온도,scale(0.1),,,,,TRUE,TRUE,TRUE
+/iot_lotte/2/DE-97/AI-413,AI-413,냉온수기-1(캐리어) 고온열교환기 출구 흡수기입구 진한용액온도,scale(0.1),,,,,TRUE,TRUE,TRUE
+/iot_lotte/2/DE-97/AI-414,AI-414,냉온수기-1(캐리어) 응축기 냉매응축온도,scale(0.1),,,,,FALSE,FALSE,FALSE
+/iot_lotte/2/DE-97/AI-415,AI-415,냉온수기-1(캐리어) 고온재생기 출구중간용액온도,scale(0.1),,,,,TRUE,TRUE,TRUE
+/iot_lotte/2/DE-97/AI-416,AI-416,냉온수기-1(캐리어) 저온재생기 출구농용액온도,scale(0.1),,,,,TRUE,TRUE,TRUE
+/iot_lotte/2/DE-97/AI-417,AI-417,냉온수기-1(캐리어) 저온재생기 냉매응축온도,scale(0.1),,,,,TRUE,TRUE,TRUE
+/iot_lotte/2/DE-97/AI-418,AI-418,냉온수기-1(캐리어) 배기가스 온도,scale(0.1),,,,,TRUE,TRUE,TRUE
+/iot_lotte/2/DE-97/AI-419,AI-419,냉온수기-1(캐리어) 용액점프 운전속도,scale(0.1),,,,,TRUE,TRUE,TRUE
+/iot_lotte/2/DE-97/AI-420,AI-420,냉온수기-1(캐리어) 버너 점화신호,scale(0.1),,,,,TRUE,TRUE,TRUE
+/iot_lotte/2/DE-97/AI-421,AI-421,냉온수기-1(캐리어) 버너 점화피드백신호,scale(0.1),,,,,TRUE,TRUE,TRUE
+/iot_lotte/2/DE-97/AI-422,AI-422,냉온수기-1(캐리어) 용액펌프 운전정지상태,scale(0.1),,,,,TRUE,TRUE,TRUE
+/iot_lotte/2/DE-97/AI-423,AI-423,냉온수기-1(캐리어) 냉매펌프 운전정지상태,scale(0.1),,,,,TRUE,TRUE,TRUE
+/iot_lotte/2/DE-97/AI-500,AI-500,냉온수기-1(캐리어) 용량제어 실제값,scale(0.1),,,,,FALSE,FALSE,FALSE
+/iot_lotte/2/DE-97/AO-600,AO-600,냉온수기-1(캐리어) 냉수출구 설정값,scale(0.1),,,,,TRUE,TRUE,TRUE
+/iot_lotte/2/DE-97/BO-601,BO-601,냉온수기-1(캐리어) 운전/정지,scale(1),,,,,TRUE,TRUE,TRUE

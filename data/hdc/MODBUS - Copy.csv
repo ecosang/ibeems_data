@@ -73,8 +73,8 @@
 /iot_hdc/ae-modbus/DE-53/AI-7,AI-7,9층_LE-9(분전반)_자동제어_유효전력량,단상,,,,,FALSE,FALSE,FALSE
 /iot_hdc/ae-modbus/DE-53/AI-8,AI-8,9층_LE-9(분전반)_방화샷다_유효전력량,삼상,,,,,FALSE,FALSE,FALSE
 /iot_hdc/ae-modbus/DE-54,DE-54,9층_MCP-9(분전반),,,,,,FALSE,FALSE,FALSE
-/iot_hdc/ae-modbus/DE-54/AI-1,AI-1,9층_MCP-9(분전반)_공기조화기-1_유효전력량,삼상,,,,,FALSE,FALSE,FALSE
-/iot_hdc/ae-modbus/DE-54/AI-2,AI-2,9층_MCP-9(분전반)_공기조화기-2_유효전력량,삼상,,,,,FALSE,FALSE,FALSE
+/iot_hdc/ae-modbus/DE-54/AI-1,AI-1,9층_MCP-9(분전반)_공기조화기-1_유효전력량,삼상,ahu9,P_ahu_elec1,cum_mv30_3600/60,float,TRUE,TRUE,TRUE
+/iot_hdc/ae-modbus/DE-54/AI-2,AI-2,9층_MCP-9(분전반)_공기조화기-2_유효전력량,삼상,ahu9,P_ahu_elec2,cum_mv30_3600/60,float,TRUE,TRUE,TRUE
 /iot_hdc/ae-modbus/DE-54/AI-3,AI-3,9층_MCP-9(분전반)_전열_유효전력량,단상,,,,,FALSE,FALSE,FALSE
 /iot_hdc/ae-modbus/DE-54/AI-4,AI-4,9층_MCP-9(분전반)_동파방지히터_유효전력량,삼상,,,,,FALSE,FALSE,FALSE
 /iot_hdc/ae-modbus/DE-55,DE-55,11층_RN-11(분전반),,,,,,FALSE,FALSE,FALSE
@@ -151,8 +151,8 @@
 /iot_hdc/ae-modbus/DE-58/AI-7,AI-7,11층_LE-11(분전반)_자동제어_유효전력량,단상,,,,,FALSE,FALSE,FALSE
 /iot_hdc/ae-modbus/DE-58/AI-8,AI-8,11층_LE-11(분전반)_방화샷다_유효전력량,삼상,,,,,FALSE,FALSE,FALSE
 /iot_hdc/ae-modbus/DE-59,DE-59,11층_MCP-11(분전반),,,,,,FALSE,FALSE,FALSE
-/iot_hdc/ae-modbus/DE-59/AI-1,AI-1,11층_MCP-11(분전반)_공기조화기-1_유효전력량,삼상,,,,,FALSE,FALSE,FALSE
-/iot_hdc/ae-modbus/DE-59/AI-2,AI-2,11층_MCP-11(분전반)_공기조화기-2_유효전력량,삼상,,,,,FALSE,FALSE,FALSE
+/iot_hdc/ae-modbus/DE-59/AI-1,AI-1,11층_MCP-11(분전반)_공기조화기-1_유효전력량,삼상,ahu11,P_ahu_elec1,cum_mv30_3600/60,float,TRUE,TRUE,TRUE
+/iot_hdc/ae-modbus/DE-59/AI-2,AI-2,11층_MCP-11(분전반)_공기조화기-2_유효전력량,삼상,ahu11,P_ahu_elec2,cum_mv30_3600/60,float,TRUE,TRUE,TRUE
 /iot_hdc/ae-modbus/DE-59/AI-3,AI-3,11층_MCP-11(분전반)_전열_유효전력량,삼상,,,,,FALSE,FALSE,FALSE
 /iot_hdc/ae-modbus/DE-59/AI-4,AI-4,11층_MCP-11(분전반)_동파방지히터_유효전력량,삼상,,,,,FALSE,FALSE,FALSE
 /iot_hdc/ae-modbus/DE-60,DE-60,EHP(분전반),,,,,,FALSE,FALSE,FALSE
@@ -167,15 +167,15 @@
 /iot_hdc/ae-modbus/DE-60/AI-9,AI-9,EHP(분전반)_8층실외기_유효전력량,삼상,,,,,FALSE,FALSE,FALSE
 /iot_hdc/ae-modbus/DE-60/AI-10,AI-10,EHP(분전반)_A8층실외기_유효전력량,삼상,,,,,FALSE,FALSE,FALSE
 /iot_hdc/ae-modbus/DE-61,DE-61,MCC-E3(분전반),,,,,,FALSE,FALSE,FALSE
-/iot_hdc/ae-modbus/DE-61/AI-1,AI-1,MCC-E3(분전반)_냉각수순환펌프_유효전력량,삼상,,,,,FALSE,FALSE,FALSE
+/iot_hdc/ae-modbus/DE-61/AI-1,AI-1,MCC-E3(분전반)_냉각수순환펌프_유효전력량,삼상,common,P_pump_cw3,cum_mv30_3600/60,float,FALSE,FALSE,FALSE
 /iot_hdc/ae-modbus/DE-62,DE-62,MCC-1(분전반),,,,,,FALSE,FALSE,FALSE
-/iot_hdc/ae-modbus/DE-62/AI-1,AI-1,MCC-1(분전반)_1.냉온수유니트(CH1)_유효전력량,삼상,common,P_ch1_elec1,kW,float,TRUE,TRUE,TRUE
-/iot_hdc/ae-modbus/DE-62/AI-2,AI-2,MCC-1(분전반)_2.냉온수유니트(CH1)_유효전력량,삼상,common,P_ch1_elec2,kW,float,TRUE,TRUE,TRUE
-/iot_hdc/ae-modbus/DE-62/AI-3,AI-3,MCC-1(분전반)_증기보일러 #2_유효전력량,삼상,,,,,FALSE,FALSE,FALSE
-/iot_hdc/ae-modbus/DE-62/AI-4,AI-4,MCC-1(분전반)_증기보일러 #1_유효전력량,삼상,,,,,FALSE,FALSE,FALSE
-/iot_hdc/ae-modbus/DE-62/AI-5,AI-5,MCC-1(분전반)_냉각수순환펌프 2호_유효전력량,삼상,,,,,FALSE,FALSE,FALSE
+/iot_hdc/ae-modbus/DE-62/AI-1,AI-1,MCC-1(분전반)_1.냉온수유니트(CH1)_유효전력량,삼상,common,P_ch1_elec,cum_mv30_3600/60,float,TRUE,TRUE,TRUE
+/iot_hdc/ae-modbus/DE-62/AI-2,AI-2,MCC-1(분전반)_2.냉온수유니트(CH1)_유효전력량,삼상,common,P_ch2_elec,cum_mv30_3600/60,float,TRUE,TRUE,TRUE
+/iot_hdc/ae-modbus/DE-62/AI-3,AI-3,MCC-1(분전반)_증기보일러 #2_유효전력량,삼상,common,P_boiler2_elec,cum_mv30_3600/60,float,TRUE,TRUE,TRUE
+/iot_hdc/ae-modbus/DE-62/AI-4,AI-4,MCC-1(분전반)_증기보일러 #1_유효전력량,삼상,common,P_boiler1_elec,cum_mv30_3600/60,float,TRUE,TRUE,TRUE
+/iot_hdc/ae-modbus/DE-62/AI-5,AI-5,MCC-1(분전반)_냉각수순환펌프 2호_유효전력량,삼상,common,P_pump_cw2,cum_mv30_3600/60,float,TRUE,TRUE,TRUE
 /iot_hdc/ae-modbus/DE-62/AI-6,AI-6,MCC-1(분전반)_냉각수순환펌프 S/P_유효전력량,삼상,,,,,FALSE,FALSE,FALSE
-/iot_hdc/ae-modbus/DE-62/AI-7,AI-7,MCC-1(분전반)_냉각수 순환펌프 1호_유효전력량,삼상,,,,,FALSE,FALSE,FALSE
+/iot_hdc/ae-modbus/DE-62/AI-7,AI-7,MCC-1(분전반)_냉각수 순환펌프 1호_유효전력량,삼상,common,P_pump_cw1,cum_mv30_3600/60,float,TRUE,TRUE,TRUE
 /iot_hdc/ae-modbus/DE-62/AI-8,AI-8,MCC-1(분전반)_팽창탱크(ET3)_유효전력량,삼상,,,,,FALSE,FALSE,FALSE
 /iot_hdc/ae-modbus/DE-62/AI-9,AI-9,MCC-1(분전반)_팽창탱크(ET2)_유효전력량,삼상,,,,,FALSE,FALSE,FALSE
 /iot_hdc/ae-modbus/DE-62/AI-10,AI-10,MCC-1(분전반)_급탕순환펌프P15)_유효전력량,단상,,,,,FALSE,FALSE,FALSE
@@ -184,20 +184,20 @@
 /iot_hdc/ae-modbus/DE-62/AI-13,AI-13,MCC-1(분전반)_환기유니트(VU-2)관리운영실_유효전력량,단상,,,,,FALSE,FALSE,FALSE
 /iot_hdc/ae-modbus/DE-62/AI-14,AI-14,MCC-1(분전반)_대류펌프(근생)_유효전력량,단상,,,,,FALSE,FALSE,FALSE
 /iot_hdc/ae-modbus/DE-63,DE-63,MCC-2(분전반),,,,,,FALSE,FALSE,FALSE
-/iot_hdc/ae-modbus/DE-63/AI-1,AI-1,MCC-2(분전반)_냉온수유니트(CH2)_유효전력량,단상,common,P_ch2_elec,kW,float,TRUE,TRUE,TRUE
+/iot_hdc/ae-modbus/DE-63/AI-1,AI-1,MCC-2(분전반)_냉온수유니트(CH2)_유효전력량,단상,common,P_ch2_elec2(is 0),cum_mv30_3600/60,float,FALSE,FALSE,FALSE
 /iot_hdc/ae-modbus/DE-63/AI-2,AI-2,MCC-2(분전반)_냉각수순환펌프_유효전력량,단상,,,,,FALSE,FALSE,FALSE
 /iot_hdc/ae-modbus/DE-63/AI-3,AI-3,MCC-2(분전반)_냉각수순환펌프 S/B_유효전력량,단상,,,,,FALSE,FALSE,FALSE
 /iot_hdc/ae-modbus/DE-63/AI-4,AI-4,MCC-2(분전반)_급탕순환펌프-1_유효전력량,단상,,,,,FALSE,FALSE,FALSE
 /iot_hdc/ae-modbus/DE-63/AI-5,AI-5,MCC-2(분전반)_급탕순환펌프-2_유효전력량,단상,,,,,FALSE,FALSE,FALSE
-/iot_hdc/ae-modbus/DE-63/AI-6,AI-6,MCC-2(분전반)_냉온수순환펌프_유효전력량,단상,,,,,FALSE,FALSE,FALSE
+/iot_hdc/ae-modbus/DE-63/AI-6,AI-6,MCC-2(분전반)_냉온수순환펌프_유효전력량,단상,common,P_pump_chw,cum_mv30_3600/60,float,TRUE,TRUE,TRUE
 /iot_hdc/ae-modbus/DE-63/AI-7,AI-7,MCC-2(분전반)_냉온수순환펌프-2_유효전력량,단상,,,,,FALSE,FALSE,FALSE
 /iot_hdc/ae-modbus/DE-63/AI-8,AI-8,MCC-2(분전반)_대류순환펌프_유효전력량,단상,,,,,FALSE,FALSE,FALSE
 /iot_hdc/ae-modbus/DE-64,DE-64,MCC-3(분전반),,,,,,FALSE,FALSE,FALSE
 /iot_hdc/ae-modbus/DE-64/AI-1,AI-1,MCC-3(분전반)_콘넥타 난방펌프(P18) 1호기_유효전력량,삼상,,,,,FALSE,FALSE,FALSE
 /iot_hdc/ae-modbus/DE-64/AI-2,AI-2,MCC-3(분전반)_콘넥타 난방펌프(P18) 2호기_유효전력량,삼상,,,,,FALSE,FALSE,FALSE
-/iot_hdc/ae-modbus/DE-64/AI-3,AI-3,MCC-3(분전반)_냉온수순환펌프 1호기_유효전력량,삼상,,,,,FALSE,FALSE,FALSE
+/iot_hdc/ae-modbus/DE-64/AI-3,AI-3,MCC-3(분전반)_냉온수순환펌프 1호기_유효전력량,삼상,common,P_pump_chw1,cum_mv30_3600/60,float,TRUE,TRUE,TRUE
 /iot_hdc/ae-modbus/DE-64/AI-4,AI-4,MCC-3(분전반)_냉온수순환펌프 S/B_유효전력량,삼상,,,,,FALSE,FALSE,FALSE
-/iot_hdc/ae-modbus/DE-64/AI-5,AI-5,MCC-3(분전반)_냉온수순환펌프 2호기_유효전력량,삼상,,,,,FALSE,FALSE,FALSE
+/iot_hdc/ae-modbus/DE-64/AI-5,AI-5,MCC-3(분전반)_냉온수순환펌프 2호기_유효전력량,삼상,common,P_pump_chw2,cum_mv30_3600/60,float,TRUE,TRUE,TRUE
 /iot_hdc/ae-modbus/DE-65,DE-65,수배전반(LV-1),,,,,,FALSE,FALSE,FALSE
 /iot_hdc/ae-modbus/DE-65/AI-1,AI-1,"수배전반(LV-1)_B4전기실,4F전산실_유효전력량",삼상,,,,,FALSE,FALSE,FALSE
 /iot_hdc/ae-modbus/DE-65/AI-2,AI-2,수배전반(LV-1)_LN-1_유효전력량,삼상,,,,,FALSE,FALSE,FALSE
@@ -290,22 +290,22 @@
 /iot_hdc/ae-modbus/DE-68/AI-26,AI-26,수배전반(LV-8)_PS-4_유효전력량,삼상,,,,,FALSE,FALSE,FALSE
 /iot_hdc/ae-modbus/DE-68/AI-27,AI-27,수배전반(LV-8)_LV-R(정류기반)_유효전력량,삼상,,,,,FALSE,FALSE,FALSE
 /iot_hdc/ae-modbus/DE-69,DE-69,냉각팬,,,,,,FALSE,FALSE,FALSE
-/iot_hdc/ae-modbus/DE-69/AI-1,AI-1,냉각팬#1_유효전력량,삼상,,,,,FALSE,FALSE,FALSE
-/iot_hdc/ae-modbus/DE-69/AI-2,AI-2,냉각팬#2_유효전력량,삼상,,,,,FALSE,FALSE,FALSE
-/iot_hdc/ae-modbus/DE-69/AI-3,AI-3,냉각팬#3_유효전력량,삼상,,,,,FALSE,FALSE,FALSE
-/iot_hdc/ae-modbus/DE-69/AI-4,AI-4,냉각팬#4_유효전력량,삼상,,,,,FALSE,FALSE,FALSE
-/iot_hdc/ae-modbus/DE-69/AI-5,AI-5,냉각팬#5_유효전력량,삼상,,,,,FALSE,FALSE,FALSE
-/iot_hdc/ae-modbus/DE-69/AI-6,AI-6,냉각팬#6_유효전력량,삼상,,,,,FALSE,FALSE,FALSE
-/iot_hdc/ae-modbus/DE-69/AI-7,AI-7,냉각팬#7_유효전력량,삼상,,,,,FALSE,FALSE,FALSE
-/iot_hdc/ae-modbus/DE-69/AI-8,AI-8,냉각팬#8_유효전력량,삼상,,,,,FALSE,FALSE,FALSE
-/iot_hdc/ae-modbus/DE-69/AI-9,AI-9,냉각팬#9_유효전력량,삼상,,,,,FALSE,FALSE,FALSE
-/iot_hdc/ae-modbus/DE-69/AI-10,AI-10,냉각팬#10_유효전력량,삼상,,,,,FALSE,FALSE,FALSE
-/iot_hdc/ae-modbus/DE-69/AI-11,AI-11,냉각팬#11_유효전력량,삼상,,,,,FALSE,FALSE,FALSE
-/iot_hdc/ae-modbus/DE-69/AI-12,AI-12,냉각팬#12_유효전력량,삼상,,,,,FALSE,FALSE,FALSE
+/iot_hdc/ae-modbus/DE-69/AI-1,AI-1,냉각팬#1_유효전력량,삼상,common,P_ct_fan1,cum_mv30_3600/60,float,FALSE,FALSE,FALSE
+/iot_hdc/ae-modbus/DE-69/AI-2,AI-2,냉각팬#2_유효전력량,삼상,common,P_ct_fan2,cum_mv30_3600/60,float,FALSE,FALSE,FALSE
+/iot_hdc/ae-modbus/DE-69/AI-3,AI-3,냉각팬#3_유효전력량,삼상,common,P_ct_fan3,cum_mv30_3600/60,float,FALSE,FALSE,FALSE
+/iot_hdc/ae-modbus/DE-69/AI-4,AI-4,냉각팬#4_유효전력량,삼상,common,P_ct_fan4,cum_mv30_3600/60,float,FALSE,FALSE,FALSE
+/iot_hdc/ae-modbus/DE-69/AI-5,AI-5,냉각팬#5_유효전력량,삼상,common,P_ct_fan5,cum_mv30_3600/60,float,FALSE,FALSE,FALSE
+/iot_hdc/ae-modbus/DE-69/AI-6,AI-6,냉각팬#6_유효전력량,삼상,common,P_ct_fan6,cum_mv30_3600/60,float,FALSE,FALSE,FALSE
+/iot_hdc/ae-modbus/DE-69/AI-7,AI-7,냉각팬#7_유효전력량,삼상,common,P_ct_fan7,cum_mv30_3600/60,float,FALSE,FALSE,FALSE
+/iot_hdc/ae-modbus/DE-69/AI-8,AI-8,냉각팬#8_유효전력량,삼상,common,P_ct_fan8,cum_mv30_3600/60,float,FALSE,FALSE,FALSE
+/iot_hdc/ae-modbus/DE-69/AI-9,AI-9,냉각팬#9_유효전력량,삼상,common,P_ct_fan9,cum_mv30_3600/60,float,FALSE,FALSE,FALSE
+/iot_hdc/ae-modbus/DE-69/AI-10,AI-10,냉각팬#10_유효전력량,삼상,common,P_ct_fan10,cum_mv30_3600/60,float,FALSE,FALSE,FALSE
+/iot_hdc/ae-modbus/DE-69/AI-11,AI-11,냉각팬#11_유효전력량,삼상,common,P_ct_fan11,cum_mv30_3600/60,float,FALSE,FALSE,FALSE
+/iot_hdc/ae-modbus/DE-69/AI-12,AI-12,냉각팬#12_유효전력량,삼상,common,P_ct_fan12,cum_mv30_3600/60,float,FALSE,FALSE,FALSE
 /iot_hdc/ae-modbus/DE-72,DE-72,온압보정기,,,,,,FALSE,FALSE,FALSE
 /iot_hdc/ae-modbus/DE-72/AI-1,AI-1,근린시설_냉온수기_가스사용량,,,,,,FALSE,FALSE,FALSE
-/iot_hdc/ae-modbus/DE-72/AI-2,AI-2,오피스_냉온수기1_가스사용량,,common,P_ch2_gas,NM3,float,TRUE,TRUE,TRUE
-/iot_hdc/ae-modbus/DE-72/AI-3,AI-3,오피스_냉온수기2_가스사용량,,common,P_ch2_gas,NM3,float,TRUE,TRUE,TRUE
+/iot_hdc/ae-modbus/DE-72/AI-2,AI-2,오피스_냉온수기1_가스사용량,,common,P_ch1_gas,cum_mv30_60,float,TRUE,TRUE,TRUE
+/iot_hdc/ae-modbus/DE-72/AI-3,AI-3,오피스_냉온수기2_가스사용량,,common,P_ch2_gas,cum_mv30_60,float,TRUE,TRUE,TRUE
 /iot_hdc/ae-modbus/DE-72/AI-5,AI-5,보일러2_가스사용량,,,,,,FALSE,FALSE,FALSE
 /iot_hdc/ae-modbus/DE-73,DE-73,온압보정기,,,,,,FALSE,FALSE,FALSE
 /iot_hdc/ae-modbus/DE-73/AI-1,AI-1,보일러-1_가스사용량,,,,,,FALSE,FALSE,FALSE
@@ -351,10 +351,10 @@
 /iot_hdc/ae-modbus/DE-110/AO-11,AO-11,냉각탑 3호기 냉각탑 제어프로그램 상태,IMCX1.MC01.CT3_P,,,,,FALSE,FALSE,FALSE
 /iot_hdc/ae-modbus/DE-110/DO-14,DO-14,냉각탑 3호기 냉각탑 (수/자동 모드),IMCX1.MC01.CT3_AM,,,,,FALSE,FALSE,FALSE
 /iot_hdc/ae-modbus/DE-110/DO-15,DO-15,냉각탑 3호기 냉각탑 (소/대 전환 모드),IMCX1.MC01.CT3_DM,,,,,FALSE,FALSE,FALSE
-/iot_hdc/ae-modbus/DE-110/AI-10,AI-10,냉온수기 2호기 냉각수 환수온도,IMCX1.MC02.CT2_STD,common,T_ct2_cwr,C,float,TRUE,TRUE,TRUE
-/iot_hdc/ae-modbus/DE-110/AI-11,AI-11,냉온수기 2호기 냉각수 공급온도,IMCX1.MC02.CT2_RTD,common,T_ct2_cws,C,float,TRUE,TRUE,TRUE
-/iot_hdc/ae-modbus/DE-110/DI-7,DI-7,냉온수기 2호기 냉각탑 휀 1번 기동상태,IMCX1.MC02.CT2_1ST,common,i_ct2_fan1,-,float,TRUE,TRUE,TRUE
-/iot_hdc/ae-modbus/DE-110/DI-8,DI-8,냉온수기 2호기 냉각탑 휀 2번 기동상태,IMCX1.MC02.CT2_2ST,common,i_ct2_fan2,-,float,TRUE,TRUE,TRUE
+/iot_hdc/ae-modbus/DE-110/AI-10,AI-10,냉온수기 2호기 냉각수 환수온도,IMCX1.MC02.CT2_STD,common,T_ct2_cwr(notuse),C,float,TRUE,TRUE,TRUE
+/iot_hdc/ae-modbus/DE-110/AI-11,AI-11,냉온수기 2호기 냉각수 공급온도,IMCX1.MC02.CT2_RTD,common,T_ct2_cws(notuse),C,float,TRUE,TRUE,TRUE
+/iot_hdc/ae-modbus/DE-110/DI-7,DI-7,냉온수기 2호기 냉각탑 휀 1번 기동상태,IMCX1.MC02.CT2_1ST,common,i_ct2_fan1(notuse),-,float,FALSE,FALSE,FALSE
+/iot_hdc/ae-modbus/DE-110/DI-8,DI-8,냉온수기 2호기 냉각탑 휀 2번 기동상태,IMCX1.MC02.CT2_2ST,common,i_ct2_fan2(notuse),-,float,FALSE,FALSE,FALSE
 /iot_hdc/ae-modbus/DE-110/DI-9,DI-9,정화조 배기팬 기동상태,IMCX1.MC02.EF4_ST,,,,,FALSE,FALSE,FALSE
 /iot_hdc/ae-modbus/DE-110/DI-10,DI-10,B1F 근생주방 배기팬 기동상태,IMCX1.MC02.EF9_ST,,,,,FALSE,FALSE,FALSE
 /iot_hdc/ae-modbus/DE-110/DI-11,DI-11,1F 근생주방 배기팬 기동상태,IMCX1.MC02.EF10_ST,,,,,FALSE,FALSE,FALSE
@@ -377,23 +377,23 @@
 /iot_hdc/ae-modbus/DE-110/DO-25,DO-25,B1F 근생주방 배기팬 기동/정지 (수/자동 모드),IMCX1.MC02.EF9_AM,,,,,FALSE,FALSE,FALSE
 /iot_hdc/ae-modbus/DE-110/DO-26,DO-26,각층 화장실 배기팬 기동/정지 (수/자동 모드),IMCX1.MC02.EF10_AM,,,,,FALSE,FALSE,FALSE
 /iot_hdc/ae-modbus/DE-110/DO-27,DO-27,각층 화장실 배기팬 기동/정지 (수/자동 모드),IMCX1.MC02.EF10_AM,,,,,FALSE,FALSE,FALSE
-/iot_hdc/ae-modbus/DE-110/AO-12,AO-12,냉온수기 2호기 냉각탑 1번 휀 제어 (온도설정 값),IMCX1.MC02.CT2_1SP,,,,,FALSE,FALSE,FALSE
-/iot_hdc/ae-modbus/DE-110/AO-13,AO-13,냉온수기 2호기 냉각탑 2번 휀 제어 (온도설정 값),IMCX1.MC02.CT2_2SP,,,,,FALSE,FALSE,FALSE
+/iot_hdc/ae-modbus/DE-110/AO-12,AO-12,냉온수기 2호기 냉각탑 1번 휀 제어 (온도설정 값),IMCX1.MC02.CT2_1SP,common,T_ct22_sp1(not use),C,float,FALSE,FALSE,FALSE
+/iot_hdc/ae-modbus/DE-110/AO-13,AO-13,냉온수기 2호기 냉각탑 2번 휀 제어 (온도설정 값),IMCX1.MC02.CT2_2SP,common,T_ct22_sp2(not use),C,float,FALSE,FALSE,FALSE
 /iot_hdc/ae-modbus/DE-110/AO-14,AO-14,냉각탑 2호기 냉각탑 휀 1번 제어 (온도설정 DB값),IMCX1.MC02.CT2_1DB,,,,,FALSE,FALSE,FALSE
 /iot_hdc/ae-modbus/DE-110/AO-15,AO-15,냉각탑 2호기 냉각탑 휀 2번 제어 (온도설정 DB값),IMCX1.MC02.CT2_2DB,,,,,FALSE,FALSE,FALSE
 /iot_hdc/ae-modbus/DE-110/AO-16,AO-16,냉각탑 2호기 냉각탑 제어프로그램 상태,IMCX1.MC02.CT2_P,,,,,FALSE,FALSE,FALSE
 /iot_hdc/ae-modbus/DE-110/DO-28,DO-28,냉각탑 2호기 냉각탑 (수/자동 모드),IMCX1.MC02.CT2_AM,,,,,FALSE,FALSE,FALSE
 /iot_hdc/ae-modbus/DE-110/DO-29,DO-29,냉각탑 2호기 냉각탑 (소/대 전환 모드),IMCX1.MC02.CT2_DM,,,,,FALSE,FALSE,FALSE
-/iot_hdc/ae-modbus/DE-110/AI-18,AI-18,냉온수기 1-1호기 냉각탑 1-1번 냉각수 환수온도,IMCX1.MC03.CT1_STD,common,T_ct11_cwr,C,float,TRUE,TRUE,TRUE
-/iot_hdc/ae-modbus/DE-110/AI-19,AI-19,냉온수기 1-1호기 냉각탑 1-1번 냉각수 공급온도,IMCX1.MC03.CT1_RTD,common,T_ct11_cws,C,float,TRUE,TRUE,TRUE
-/iot_hdc/ae-modbus/DE-110/DI-13,DI-13,냉온수기 1-1호기 냉각탑 1번 휀 기동상태,IMCX1.MC03.CT1_1_1ST,common,i_ct11_fan1,-,float,TRUE,TRUE,TRUE
-/iot_hdc/ae-modbus/DE-110/DI-14,DI-14,냉온수기 1-1호기 냉각탑 2번 휀 기동상태,IMCX1.MC03.CT1_1_2ST,common,i_ct11_fan2,-,float,TRUE,TRUE,TRUE
-/iot_hdc/ae-modbus/DE-110/DI-15,DI-15,냉온수기 1-1호기 냉각탑 3번 휀 기동상태,IMCX1.MC03.CT1_1_3ST,common,i_ct11_fan3,-,float,TRUE,TRUE,TRUE
-/iot_hdc/ae-modbus/DE-110/DI-16,DI-16,냉온수기 1-1호기 냉각탑 4번 휀 기동상태,IMCX1.MC03.CT1_1_4ST,common,i_ct11_fan4,-,float,TRUE,TRUE,TRUE
-/iot_hdc/ae-modbus/DE-110/DI-17,DI-17,냉온수기 1-2호기 냉각탑 1번 휀 기동상태,IMCX1.MC03.CT1_2_1ST,common,i_ct12_fan1,-,float,TRUE,TRUE,TRUE
-/iot_hdc/ae-modbus/DE-110/DI-18,DI-18,냉온수기 1-2호기 냉각탑 2번 휀 기동상태,IMCX1.MC03.CT1_2_2ST,common,i_ct12_fan2,-,float,TRUE,TRUE,TRUE
-/iot_hdc/ae-modbus/DE-110/DI-19,DI-19,냉온수기 1-2호기 냉각탑 3번 휀 기동상태,IMCX1.MC03.CT1_2_3ST,common,i_ct12_fan3,-,float,TRUE,TRUE,TRUE
-/iot_hdc/ae-modbus/DE-110/DI-20,DI-20,냉온수기 1-2호기 냉각탑 4번 휀 기동상태,IMCX1.MC03.CT1_2_4ST,common,i_ct12_fan4,-,float,TRUE,TRUE,TRUE
+/iot_hdc/ae-modbus/DE-110/AI-18,AI-18,냉온수기 1-1호기 냉각탑 1-1번 냉각수 환수온도,IMCX1.MC03.CT1_STD,common,T_ct_cws,C,float,TRUE,TRUE,TRUE
+/iot_hdc/ae-modbus/DE-110/AI-19,AI-19,냉온수기 1-1호기 냉각탑 1-1번 냉각수 공급온도,IMCX1.MC03.CT1_RTD,common,T_ct_cwr,C,float,TRUE,TRUE,TRUE
+/iot_hdc/ae-modbus/DE-110/DI-13,DI-13,냉온수기 1-1호기 냉각탑 1번 휀 기동상태,IMCX1.MC03.CT1_1_1ST,common,i_ct1_fan1,-,float,TRUE,TRUE,TRUE
+/iot_hdc/ae-modbus/DE-110/DI-14,DI-14,냉온수기 1-1호기 냉각탑 2번 휀 기동상태,IMCX1.MC03.CT1_1_2ST,common,i_ct1_fan2,-,float,TRUE,TRUE,TRUE
+/iot_hdc/ae-modbus/DE-110/DI-15,DI-15,냉온수기 1-1호기 냉각탑 3번 휀 기동상태,IMCX1.MC03.CT1_1_3ST,common,i_ct1_fan3,-,float,TRUE,TRUE,TRUE
+/iot_hdc/ae-modbus/DE-110/DI-16,DI-16,냉온수기 1-1호기 냉각탑 4번 휀 기동상태,IMCX1.MC03.CT1_1_4ST,common,i_ct1_fan4,-,float,TRUE,TRUE,TRUE
+/iot_hdc/ae-modbus/DE-110/DI-17,DI-17,냉온수기 1-2호기 냉각탑 1번 휀 기동상태,IMCX1.MC03.CT1_2_1ST,common,i_ct2_fan1,-,float,TRUE,TRUE,TRUE
+/iot_hdc/ae-modbus/DE-110/DI-18,DI-18,냉온수기 1-2호기 냉각탑 2번 휀 기동상태,IMCX1.MC03.CT1_2_2ST,common,i_ct2_fan2,-,float,TRUE,TRUE,TRUE
+/iot_hdc/ae-modbus/DE-110/DI-19,DI-19,냉온수기 1-2호기 냉각탑 3번 휀 기동상태,IMCX1.MC03.CT1_2_3ST,common,i_ct2_fan3,-,float,TRUE,TRUE,TRUE
+/iot_hdc/ae-modbus/DE-110/DI-20,DI-20,냉온수기 1-2호기 냉각탑 4번 휀 기동상태,IMCX1.MC03.CT1_2_4ST,common,i_ct2_fan4,-,float,TRUE,TRUE,TRUE
 /iot_hdc/ae-modbus/DE-110/AI-20,AI-20,냉온수기 1-1호기 냉각탑 1번 휀 기동시간,IMCX1.MC03.CT1_1_1RH,,,,,FALSE,FALSE,FALSE
 /iot_hdc/ae-modbus/DE-110/AI-21,AI-21,냉온수기 1-1호기 냉각탑 2번 휀 기동시간,IMCX1.MC03.CT1_1_2RH,,,,,FALSE,FALSE,FALSE
 /iot_hdc/ae-modbus/DE-110/AI-22,AI-22,냉온수기 1-1호기 냉각탑 3번 휀 기동시간,IMCX1.MC03.CT1_1_3RH,,,,,FALSE,FALSE,FALSE
@@ -418,14 +418,14 @@
 /iot_hdc/ae-modbus/DE-110/DO-43,DO-43,냉온수기 1-2호기 냉각탑 2번 휀 기동/정지 (수/자동 모드),IMCX1.MC03.CT1_2_2AM,,,,,FALSE,FALSE,FALSE
 /iot_hdc/ae-modbus/DE-110/DO-44,DO-44,냉온수기 1-2호기 냉각탑 3번 휀 기동/정지 (수/자동 모드),IMCX1.MC03.CT1_2_3AM,,,,,FALSE,FALSE,FALSE
 /iot_hdc/ae-modbus/DE-110/DO-45,DO-45,냉온수기 1-2호기 냉각탑 4번 휀 기동/정지 (수/자동 모드),IMCX1.MC03.CT1_2_4AM,,,,,FALSE,FALSE,FALSE
-/iot_hdc/ae-modbus/DE-110/AO-17,AO-17,냉온수기 1-1호기 냉각탑 1번 휀 기동/정지 (온도설정 값),IMCX1.MC03.CT1_1_1SP,,,,,FALSE,FALSE,FALSE
-/iot_hdc/ae-modbus/DE-110/AO-18,AO-18,냉온수기 1-1호기 냉각탑 2번 휀 기동/정지 (온도설정 값),IMCX1.MC03.CT1_1_2SP,,,,,FALSE,FALSE,FALSE
-/iot_hdc/ae-modbus/DE-110/AO-19,AO-19,냉온수기 1-1호기 냉각탑 3번 휀 기동/정지 (온도설정 값),IMCX1.MC03.CT1_1_3SP,,,,,FALSE,FALSE,FALSE
-/iot_hdc/ae-modbus/DE-110/AO-20,AO-20,냉온수기 1-1호기 냉각탑 4번 휀 기동/정지 (온도설정 값),IMCX1.MC03.CT1_1_4SP,,,,,FALSE,FALSE,FALSE
-/iot_hdc/ae-modbus/DE-110/AO-21,AO-21,냉온수기 1-2호기 냉각탑 1번 휀 기동/정지 (온도설정 값),IMCX1.MC03.CT1_2_1SP,,,,,FALSE,FALSE,FALSE
-/iot_hdc/ae-modbus/DE-110/AO-22,AO-22,냉온수기 1-2호기 냉각탑 2번 휀 기동/정지 (온도설정 값),IMCX1.MC03.CT1_2_2SP,,,,,FALSE,FALSE,FALSE
-/iot_hdc/ae-modbus/DE-110/AO-23,AO-23,냉온수기 1-3호기 냉각탑 3번 휀 기동/정지 (온도설정 값),IMCX1.MC03.CT1_2_3SP,,,,,FALSE,FALSE,FALSE
-/iot_hdc/ae-modbus/DE-110/AO-24,AO-24,냉온수기 1-4호기 냉각탑 4번 휀 기동/정지 (온도설정 값),IMCX1.MC03.CT1_2_4SP,,,,,FALSE,FALSE,FALSE
+/iot_hdc/ae-modbus/DE-110/AO-17,AO-17,냉온수기 1-1호기 냉각탑 1번 휀 기동/정지 (온도설정 값),IMCX1.MC03.CT1_1_1SP,common,T_ct1_sp1,C,float,TRUE,TRUE,TRUE
+/iot_hdc/ae-modbus/DE-110/AO-18,AO-18,냉온수기 1-1호기 냉각탑 2번 휀 기동/정지 (온도설정 값),IMCX1.MC03.CT1_1_2SP,common,T_ct1_sp2,C,float,TRUE,TRUE,TRUE
+/iot_hdc/ae-modbus/DE-110/AO-19,AO-19,냉온수기 1-1호기 냉각탑 3번 휀 기동/정지 (온도설정 값),IMCX1.MC03.CT1_1_3SP,common,T_ct1_sp3,C,float,TRUE,TRUE,TRUE
+/iot_hdc/ae-modbus/DE-110/AO-20,AO-20,냉온수기 1-1호기 냉각탑 4번 휀 기동/정지 (온도설정 값),IMCX1.MC03.CT1_1_4SP,common,T_ct1_sp4,C,float,TRUE,TRUE,TRUE
+/iot_hdc/ae-modbus/DE-110/AO-21,AO-21,냉온수기 1-2호기 냉각탑 1번 휀 기동/정지 (온도설정 값),IMCX1.MC03.CT1_2_1SP,common,T_ct2_sp1,C,float,TRUE,TRUE,TRUE
+/iot_hdc/ae-modbus/DE-110/AO-22,AO-22,냉온수기 1-2호기 냉각탑 2번 휀 기동/정지 (온도설정 값),IMCX1.MC03.CT1_2_2SP,common,T_ct2_sp2,C,float,TRUE,TRUE,TRUE
+/iot_hdc/ae-modbus/DE-110/AO-23,AO-23,냉온수기 1-3호기 냉각탑 3번 휀 기동/정지 (온도설정 값),IMCX1.MC03.CT1_2_3SP,common,T_ct2_sp3,C,float,TRUE,TRUE,TRUE
+/iot_hdc/ae-modbus/DE-110/AO-24,AO-24,냉온수기 1-4호기 냉각탑 4번 휀 기동/정지 (온도설정 값),IMCX1.MC03.CT1_2_4SP,common,T_ct2_sp4,C,float,TRUE,TRUE,TRUE
 /iot_hdc/ae-modbus/DE-110/AO-25,AO-25,냉온수기 1-1호기 냉각탑 1번 휀 기동/정지 (온도설정 DB값),IMCX1.MC03.CT1_1_1DB,,,,,FALSE,FALSE,FALSE
 /iot_hdc/ae-modbus/DE-110/AO-26,AO-26,냉온수기 1-1호기 냉각탑 2번 휀 기동/정지 (온도설정 DB값),IMCX1.MC03.CT1_1_2DB,,,,,FALSE,FALSE,FALSE
 /iot_hdc/ae-modbus/DE-110/AO-27,AO-27,냉온수기 1-1호기 냉각탑 3번 휀 기동/정지 (온도설정 DB값),IMCX1.MC03.CT1_1_3DB,,,,,FALSE,FALSE,FALSE
@@ -1768,16 +1768,16 @@
 /iot_hdc/ae-modbus/DE-130,DE-130,설비계측,,,,,,FALSE,FALSE,FALSE
 /iot_hdc/ae-modbus/DE-130/AI-1,AI-1,기계실_오피스 1번냉온수-R_순시 유량,m3/h,common,V_ch1_hcw,cmh,float,TRUE,TRUE,TRUE
 /iot_hdc/ae-modbus/DE-130/AI-2,AI-2,기계실_오피스 1번냉온수-R_순시 유속,m3/h,common,v_ch1_hcw,m3s,float,TRUE,TRUE,TRUE
-/iot_hdc/ae-modbus/DE-130/AI-3,AI-3,기계실_오피스 1번냉온수-R_적산 유량,m3,common,cum_ch1_hcw,cum_30,float,TRUE,TRUE,TRUE
+/iot_hdc/ae-modbus/DE-130/AI-3,AI-3,기계실_오피스 1번냉온수-R_적산 유량,m3,common,cum_ch1_hcw,cum_mv30_60,float,TRUE,TRUE,TRUE
 /iot_hdc/ae-modbus/DE-130/AI-4,AI-4,기계실_오피스 1번 냉각수-S_순시 유량,냉각탑에서 냉온수기로,common,V_ct1_hcw,cmh,float,TRUE,TRUE,TRUE
 /iot_hdc/ae-modbus/DE-130/AI-5,AI-5,기계실_오피스 1번 냉각수-S_순시 유속,,common,v_ct1_hcw,m3s,float,TRUE,TRUE,TRUE
-/iot_hdc/ae-modbus/DE-130/AI-6,AI-6,기계실_오피스 1번 냉각수-S_적산 유량,,common,cum_ct1_hcw,cum_30,float,TRUE,TRUE,TRUE
+/iot_hdc/ae-modbus/DE-130/AI-6,AI-6,기계실_오피스 1번 냉각수-S_적산 유량,,common,cum_ct1_hcw,cum_mv30_60,float,TRUE,TRUE,TRUE
 /iot_hdc/ae-modbus/DE-130/AI-7,AI-7,기계실_오피스 2번냉온수-R_순시 유량,,common,V_ch2_hcw,cmh,float,TRUE,TRUE,TRUE
 /iot_hdc/ae-modbus/DE-130/AI-8,AI-8,기계실_오피스 2번냉온수-R_순시 유속,,common,v_ch2_hcw,m3s,float,TRUE,TRUE,TRUE
-/iot_hdc/ae-modbus/DE-130/AI-9,AI-9,기계실_오피스 2번냉온수-R_적산 유량,,common,cum_ch2_hcw,cum_30,float,TRUE,TRUE,TRUE
+/iot_hdc/ae-modbus/DE-130/AI-9,AI-9,기계실_오피스 2번냉온수-R_적산 유량,,common,cum_ch2_hcw,cum_mv30_60,float,TRUE,TRUE,TRUE
 /iot_hdc/ae-modbus/DE-130/AI-10,AI-10,기계실_오피스 2번냉각수-R_순시 유량,,common,V_ct2_hcw,cmh,float,TRUE,TRUE,TRUE
 /iot_hdc/ae-modbus/DE-130/AI-11,AI-11,기계실_오피스 2번냉각수-R_순시 유속,,common,v_ct2_hcw,m3s,float,TRUE,TRUE,TRUE
-/iot_hdc/ae-modbus/DE-130/AI-12,AI-12,기계실_오피스 2번냉각수-R_적산 유량,,common,cum_ct2_hcw,cum_30,float,TRUE,TRUE,TRUE
+/iot_hdc/ae-modbus/DE-130/AI-12,AI-12,기계실_오피스 2번냉각수-R_적산 유량,,common,cum_ct2_hcw,cum_mv30_60,float,TRUE,TRUE,TRUE
 /iot_hdc/ae-modbus/DE-130/AI-13,AI-13,기계실_근생 냉온수-R_순시 유량,,,,,,FALSE,FALSE,FALSE
 /iot_hdc/ae-modbus/DE-130/AI-14,AI-14,기계실_근생 냉온수-R_순시 유속,,,,,,FALSE,FALSE,FALSE
 /iot_hdc/ae-modbus/DE-130/AI-15,AI-15,기계실_근생 냉온수-R_적산 유량,,,,,,FALSE,FALSE,FALSE
@@ -1786,20 +1786,20 @@
 /iot_hdc/ae-modbus/DE-130/AI-18,AI-18,기계실_근생 냉각수-R_적산 유량,,,,,,FALSE,FALSE,FALSE
 /iot_hdc/ae-modbus/DE-130/AI-19,AI-19,기계실_오피스 메인 냉온수-S_순시 유량,,common,V_ch_hcw,cmh,float,TRUE,TRUE,TRUE
 /iot_hdc/ae-modbus/DE-130/AI-20,AI-20,기계실_오피스 메인 냉온수-S_순시 유속,,common,v_ch_hcw,m3s,float,TRUE,TRUE,TRUE
-/iot_hdc/ae-modbus/DE-130/AI-21,AI-21,기계실_오피스 메인 냉온수-S_적산 유량,,common,cum_ch_hcw,cum_30,float,TRUE,TRUE,TRUE
+/iot_hdc/ae-modbus/DE-130/AI-21,AI-21,기계실_오피스 메인 냉온수-S_적산 유량,,common,cum_ch_hcw,cum_mv30_60,float,TRUE,TRUE,TRUE
 /iot_hdc/ae-modbus/DE-130/AI-22,AI-22,기계실_오피스 메인 냉온수_급수온도,,common,T_ch_hcw,C,float,TRUE,TRUE,TRUE
 /iot_hdc/ae-modbus/DE-131,DE-131,9층공조기_설비계측,,,,,,FALSE,FALSE,FALSE
 /iot_hdc/ae-modbus/DE-131/AI-1,AI-1,9층_냉온수-R_순시 유량,,ahu9,V_ahu_hcw,cmh,float,TRUE,TRUE,TRUE
 /iot_hdc/ae-modbus/DE-131/AI-2,AI-2,9층_냉온수-R_순시 열량,,ahu9,Q_ahu_hcw,,float,TRUE,TRUE,TRUE
 /iot_hdc/ae-modbus/DE-131/AI-3,AI-3,9층_냉온수-R_순시 유속,,ahu9,v_ahu_hcw,m3s,float,TRUE,TRUE,TRUE
-/iot_hdc/ae-modbus/DE-131/AI-4,AI-4,9층_냉온수-R_적산 유량,,ahu9,cum_ahu_hcw,cum_30,float,TRUE,TRUE,TRUE
+/iot_hdc/ae-modbus/DE-131/AI-4,AI-4,9층_냉온수-R_적산 유량,,ahu9,cum_ahu_hcw,cum_mv30_60,float,TRUE,TRUE,TRUE
 /iot_hdc/ae-modbus/DE-131/AI-6,AI-6,9층_냉온수-S_급수 온도,,ahu9,T_ahu_hcws,C,float,TRUE,TRUE,TRUE
 /iot_hdc/ae-modbus/DE-131/AI-7,AI-7,9층_냉온수-R_환수 온도,,ahu9,T_ahu_hcwr,C,float,TRUE,TRUE,TRUE
 /iot_hdc/ae-modbus/DE-132,DE-132,11층공조기_설비계측,,,,,,FALSE,FALSE,FALSE
 /iot_hdc/ae-modbus/DE-132/AI-1,AI-1,11층_냉온수-R_순시 유량,,ahu11,V_ahu_hcw,cmh,float,TRUE,TRUE,TRUE
 /iot_hdc/ae-modbus/DE-132/AI-2,AI-2,11층_냉온수-R_순시 열량,,ahu11,Q_ahu_hcw,,float,TRUE,TRUE,TRUE
 /iot_hdc/ae-modbus/DE-132/AI-3,AI-3,11층_냉온수-R_순시 유속,,ahu11,v_ahu_hcw,m3s,float,TRUE,TRUE,TRUE
-/iot_hdc/ae-modbus/DE-132/AI-4,AI-4,11층_냉온수-R_적산 유량,,ahu11,cum_ahu_hcw,cum_30,float,TRUE,TRUE,TRUE
+/iot_hdc/ae-modbus/DE-132/AI-4,AI-4,11층_냉온수-R_적산 유량,,ahu11,cum_ahu_hcw,cum_mv30_60,float,TRUE,TRUE,TRUE
 /iot_hdc/ae-modbus/DE-132/AI-6,AI-6,11층_냉온수-S_급수 온도,,ahu11,T_ahu_hcws,C,float,TRUE,TRUE,TRUE
 /iot_hdc/ae-modbus/DE-132/AI-7,AI-7,11층_냉온수-R_환수 온도,,ahu11,T_ahu_hcwr,C,float,TRUE,TRUE,TRUE
 /iot_hdc/ae-modbus/DE-98,DE-98,9층-UVGI(세종대학교),,,,,,FALSE,FALSE,FALSE

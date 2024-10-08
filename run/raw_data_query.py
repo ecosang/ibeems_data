@@ -81,11 +81,13 @@ def raw_data_query(project_id, start_time, end_time, save_dir=None,save_data=Fal
 
 if __name__=="__main__":
 
-    project_id='hdc'#'lotte_mart' or 'hdc'
-    start_time='2024-08-29 00:00:00+0900'
-    end_time='2024-09-09 00:00:00+0900'
+    project_id='lotte_mart'#'lotte_mart' or 'hdc'
+    start_time='2024-09-30 00:00:00+0900'
+    end_time='2024-10-06 00:00:00+0900'
     save_dir=None
 
     df_all=raw_data_query(project_id,start_time,end_time,save_dir=None)
     print(df_all)
-    df_all.to_csv("df_hdc_2024_08_29_2024_09_09.csv")
+    df_all.to_csv(f"df_{project_id}_{pd.Timestamp(start_time).strftime('%Y-%m-%d')}_{pd.Timestamp(end_time).strftime('%Y-%m-%d')}.csv")
+
+# %%

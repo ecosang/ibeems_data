@@ -2,7 +2,7 @@ project_id: lotte_mart
 credential_path: credential/credential_lotte_mart.yaml
 tz: "Asia/Seoul"
 zone_id_list : ['ahu4','ahu5','ahu6','ahu7']
-Ts_raw: 30
+Ts_raw: 60
 point_list_path:  
   - file_name: 'BACNet'
     raw_column_map: {"오브젝트 경로":"path","오브젝트ID":"object_id","오브젝트명":"object_name","비고":"comment"}
