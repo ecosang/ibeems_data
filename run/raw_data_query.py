@@ -81,13 +81,27 @@ def raw_data_query(project_id, start_time, end_time, save_dir=None,save_data=Fal
 
 if __name__=="__main__":
 
-    project_id='lotte_mart'#'lotte_mart' or 'hdc'
-    start_time='2024-09-30 00:00:00+0900'
-    end_time='2024-10-06 00:00:00+0900'
-    save_dir=None
+    project_id='hdc'#'lotte_mart' or 'hdc'
+    start_time_list=['2024-01-01 00:00:00+0900',
+                     '2024-02-01 00:00:00+0900',
+                    '2024-03-01 00:00:00+0900',
+                    #  '2024-09-26 00:00:00+0900',
+                    #  '2024-09-27 00:00:00+0900',
+                     ]
+    end_time_list=['2024-02-01 00:00:00+0900',
+                    '2024-03-01 00:00:00+0900',
+                    '2024-04-01 00:00:00+0900',
+                    #  '2024-09-27 00:00:00+0900',
+                    #  '2024-09-28 00:00:00+0900',
+                     ]
+    #start_time='2024-09-03 00:00:00+0900'
+    #end_time='2024-09-04 00:00:00+0900'
+    
+    for start_time,end_time in zip(start_time_list,end_time_list):
+        save_dir=None
 
-    df_all=raw_data_query(project_id,start_time,end_time,save_dir=None)
-    print(df_all)
-    df_all.to_csv(f"df_{project_id}_{pd.Timestamp(start_time).strftime('%Y-%m-%d')}_{pd.Timestamp(end_time).strftime('%Y-%m-%d')}.csv")
+        df_all=raw_data_query(project_id,start_time,end_time,save_dir=None)
+        print(df_all)
+        df_all.to_csv(f"download/{project_id}/df_{project_id}_{pd.Timestamp(start_time).strftime('%Y-%m-%d')}_{pd.Timestamp(end_time).strftime('%Y-%m-%d')}.csv")
 
 # %%

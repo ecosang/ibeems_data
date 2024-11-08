@@ -35,7 +35,7 @@ def get_df_history(start_time_utc,end_time_utc,init_config,variable_map,credenti
         n_thread=init_config['n_thread']
     else:
         n_thread=1
-
+    
     zone_id_list=variable_map['zone_id'].unique()
 
     # weather query
@@ -89,7 +89,7 @@ def get_df_history(start_time_utc,end_time_utc,init_config,variable_map,credenti
             
             data_df_dict[zid]=data_df.drop(columns=['timestamp_utc'])
     
-    df_all=pd.DataFrame(data={'timestamp_local':pd.date_range(start=start_time_utc,end=end_time_utc,freq=f'{Ts_raw}S').tz_convert(tz)})
+    df_all=pd.DataFrame(data={'timestamp_local':pd.date_range(start=start_time_utc,end=end_time_utc,freq=f'{Ts_raw}s').tz_convert(tz)})
 
     for i,k in enumerate(data_df_dict.keys()):
         df_all=pd.merge(df_all,copy.deepcopy(data_df_dict[k]),how='left',on="timestamp_local")

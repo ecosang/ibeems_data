@@ -19,5 +19,5 @@ point_list_path:
     columns: ['path','zone_id','variable_name','object_name','object_id','raw_unit','type','required','available','data_exist','comment']
     format: 'csv'
   
-n_thread: 10
+n_thread: 20
 

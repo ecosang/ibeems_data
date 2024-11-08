@@ -88,7 +88,7 @@ def update_point_list(project_id, update_path=False):
 if __name__=="__main__":
     
     
-    project_id='hdc' # lotte_mart
-    update_path=False
+    project_id='lotte_mart' # lotte_mart
+    update_path=True
     update_point_list(project_id, update_path=update_path)
     

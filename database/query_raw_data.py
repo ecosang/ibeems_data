@@ -107,7 +107,8 @@ def query_endpoint(url,credential,n_try=2,sleep_time=0.2):
             headers = {
                 'serviceToken': credential['serviceToken']#'XX514lgodZ'
             }
-            response = requests.get(url, headers=headers, data=payload)
+            print(f'start {url}')
+            response = requests.get(url, headers=headers, data=payload, timeout=10)
             if response.status_code == 200:
                 textData=response.text
                 if textData is None or textData=="":
