@@ -142,6 +142,7 @@ class Imputation:
                     
             else:
                 prev_val = np.nan
+                len_count=0
 
 
         self.array=self.interpolate(array=array,interpolation_method=interpolation_method,interpolation_limit=interpolation_limit)

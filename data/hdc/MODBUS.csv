@@ -1728,8 +1728,8 @@
 /iot_hdc/ae-modbus/DE-110/DO-473,DO-473,IMCX1.PG.Vir_B1F1_AHU2_AI_Control,IMCX1.PG.Vir_B1F1_AHU2_AI_Control,,,,,FALSE,FALSE,FALSE
 /iot_hdc/ae-modbus/DE-110/DO-474,DO-474,IMCX1.PG.Vir_B1F1_AHU3_AI_Control,IMCX1.PG.Vir_B1F1_AHU3_AI_Control,,,,,FALSE,FALSE,FALSE
 /iot_hdc/ae-modbus/DE-121,DE-121,9층(PLC),"S:급기, R:환기, FMS:풍량",,,,,FALSE,FALSE,FALSE
-/iot_hdc/ae-modbus/DE-121/AI-1,AI-1,9층-S FMS,"range:0~45013,단위:CMH",,,,,FALSE,FALSE,FALSE
-/iot_hdc/ae-modbus/DE-121/AI-2,AI-2,9층-R FMS,"range:0~50733,단위:CMH",,,,,FALSE,FALSE,FALSE
+/iot_hdc/ae-modbus/DE-121/AI-1,AI-1,9층-S FMS,"range:0~45013,단위:CMH",ahu9,V_ahu_sa,CMH,float,TRUE,TRUE,TRUE
+/iot_hdc/ae-modbus/DE-121/AI-2,AI-2,9층-R FMS,"range:0~50733,단위:CMH",ahu9,V_ahu_ra,CMH,float,TRUE,TRUE,TRUE
 /iot_hdc/ae-modbus/DE-121/AI-3,AI-3,9층-S 정압,"range:0~50,단위:mmAQ",,,,,FALSE,FALSE,FALSE
 /iot_hdc/ae-modbus/DE-121/AI-4,AI-4,9층-R 정압,"range:0~50,단위:mmAQ",,,,,FALSE,FALSE,FALSE
 /iot_hdc/ae-modbus/DE-121/AI-5,AI-5,9층-S 차압,"range:0~150,단위:mmAQ",,,,,FALSE,FALSE,FALSE
@@ -1738,8 +1738,8 @@
 /iot_hdc/ae-modbus/DE-121/AI-8,AI-8,11층-외기 습도,range:0~100,ahu11,RH_ahu_oa1,%,float,TRUE,TRUE,TRUE
 /iot_hdc/ae-modbus/DE-121/AI-9,AI-9,9층-외기온도,range:-30~70,ahu9,T_ahu_oa1,C,float,TRUE,TRUE,TRUE
 /iot_hdc/ae-modbus/DE-121/AI-10,AI-10,9층-외기 습도,range:0~100,ahu9,RH_ahu_oa1,%,float,TRUE,TRUE,TRUE
-/iot_hdc/ae-modbus/DE-121/AI-11,AI-11,11층-S FMS,range:0~45013,,,,,FALSE,FALSE,FALSE
-/iot_hdc/ae-modbus/DE-121/AI-12,AI-12,11층-R FMS,range:0~50733,,,,,FALSE,FALSE,FALSE
+/iot_hdc/ae-modbus/DE-121/AI-11,AI-11,11층-S FMS,range:0~45013,ahu11,V_ahu_sa,CMH,float,TRUE,TRUE,TRUE
+/iot_hdc/ae-modbus/DE-121/AI-12,AI-12,11층-R FMS,range:0~50733,ahu11,V_ahu_ra,CMH,float,TRUE,TRUE,TRUE
 /iot_hdc/ae-modbus/DE-121/AI-13,AI-13,11층-S 정압,range:0~50,,,,,FALSE,FALSE,FALSE
 /iot_hdc/ae-modbus/DE-121/AI-14,AI-14,11층-R 정압,range:0~50,,,,,FALSE,FALSE,FALSE
 /iot_hdc/ae-modbus/DE-121/AI-15,AI-15,11층-S 차압,range:0~150,,,,,FALSE,FALSE,FALSE
