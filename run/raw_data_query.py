@@ -80,17 +80,17 @@ def raw_data_query(project_id, start_time, end_time, save_dir=None,save_data=Fal
     
 
 if __name__=="__main__":
-
-    project_id='hdc'#'lotte_mart' or 'hdc'
-    start_time_list=['2024-11-18 00:00:00+0900',
-                    # '2024-01-01 00:00:00+0900',
+    import pathlib
+    project_id='lotte_mart'#'lotte_mart' or 'hdc'
+    start_time_list=['2024-10-01 00:00:00+0900',
+                     '2024-11-01 00:00:00+0900',
                      #'2024-02-01 00:00:00+0900',
                     #'2024-03-01 00:00:00+0900',
                     #  '2024-09-26 00:00:00+0900',
                     #  '2024-09-27 00:00:00+0900',
                      ]
-    end_time_list=['2024-11-19 00:00:00+0900',
-                   #'2024-02-01 00:00:00+0900',
+    end_time_list=['2024-11-01 00:00:00+0900',
+                   '2024-11-22 00:00:00+0900',
                     #'2024-03-01 00:00:00+0900',
                     #'2024-04-01 00:00:00+0900',
                     #  '2024-09-27 00:00:00+0900',
@@ -104,6 +104,13 @@ if __name__=="__main__":
 
         df_all=raw_data_query(project_id,start_time,end_time,save_dir=None)
         print(df_all)
-        df_all.to_csv(f"download/{project_id}/df_{project_id}_{pd.Timestamp(start_time).strftime('%Y-%m-%d')}_{pd.Timestamp(end_time).strftime('%Y-%m-%d')}.csv")
+        download_folder=f"download/{project_id}"
+        if pathlib.Path(download_folder).is_dir():
+            pass
+        else:
+            pathlib.Path(download_folder).mkdir(parents=True, exist_ok=True)
+            print(f'directory {download_folder} is created')
+                  
+        df_all.to_csv(pathlib.Path(download_folder).joinpath(f"df_{project_id}_{pd.Timestamp(start_time).strftime('%Y-%m-%d')}_{pd.Timestamp(end_time).strftime('%Y-%m-%d')}.csv"))
 
 # %%

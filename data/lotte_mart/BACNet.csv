@@ -1,4 +1,4 @@
-﻿path,object_id,object_name,comment,zone_id,variable_name,raw_unit,type,required,available,data_exist
+path,object_id,object_name,comment,zone_id,variable_name,raw_unit,type,required,available,data_exist
 /iot_lotte/8/DE-1/AI-800,AI-800,CT1 냉각수 공급온도,,,,,,FALSE,FALSE,FALSE
 /iot_lotte/8/DE-1/AI-801,AI-801,CT1 냉각수 환수온도,,,,,,FALSE,FALSE,FALSE
 /iot_lotte/8/DE-1/AI-802,AI-802,CT1 냉수 공급온도,,,,,,FALSE,FALSE,FALSE
@@ -18,7 +18,7 @@
 /iot_lotte/8/DE-1/AI-1101,AI-1101,지하저수조 수위,,,,,,FALSE,FALSE,FALSE
 /iot_lotte/8/DE-1/AI-1102,AI-1102,보일러 증기헤어 압력,,,,,,FALSE,FALSE,FALSE
 /iot_lotte/8/DE-1/AI-1103,AI-1103,외기온도,,weather,T_oa,C,float,TRUE,TRUE,TRUE
-/iot_lotte/8/DE-1/AI-1104,AI-1104,외기습도,,weather,RH_oa,%,float,FALSE,FALSE,FALSE
+/iot_lotte/8/DE-1/AI-1104,AI-1104,외기습도,,weather,RH_oa,%,float,TRUE,TRUE,TRUE
 /iot_lotte/8/DE-1/AO-300,AO-300,냉동냉장창고 밸브(X),,,,,,FALSE,FALSE,FALSE
 /iot_lotte/8/DE-1/AO-301,AO-301,급탕밸브(X),,,,,,FALSE,FALSE,FALSE
 /iot_lotte/8/DE-1/AO-302,AO-302,열교환기 밸브(X),,,,,,FALSE,FALSE,FALSE
