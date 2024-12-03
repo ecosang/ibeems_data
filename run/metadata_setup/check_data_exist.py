@@ -114,9 +114,9 @@ if __name__=="__main__":
     This file check and update the currently available data. 
 
     '''
-    project_id='lotte_mart' # lotte_mart, hdc
-    start_time="2024-10-01 00:00:00+0900"
-    end_time="2024-10-01 23:59:00+0900"
+    project_id='lotte_department' # lotte_mart, hdc
+    start_time="2024-12-01 00:00:00+0900"
+    end_time="2024-12-01 23:59:00+0900"
     check_data_exist(project_id,start_time,end_time,update_metadata=False)
 
     # project_id='hdc' # lotte_mart, hdc

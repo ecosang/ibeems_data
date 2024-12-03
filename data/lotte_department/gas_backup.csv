@@ -1,0 +1,4 @@
+﻿path,object_id,object_name,comment,zone_id,variable_name,raw_unit,type,required,available,data_exist
+/lotte_ds/1/DE-119,,,,,,,,,,
+/lotte_ds/1/DE-119/AI-1,AI-1,냉온수기 #1 가스계량기_보정부피,,,,,,,,
+/lotte_ds/1/DE-119/AI-2,AI-2,냉온수기 #2 가스계량기_보정부피,,,,,,,,

@@ -54,6 +54,11 @@ def raw_data_query(project_id, start_time, end_time, save_dir=None,save_data=Fal
     credential = get_config(config_path=init_config['credential_path'], config_format="yaml")
 
     df_point_list = get_point_list(init_config=init_config, df_type="point_list")
+    #df_point_list['available']=df_point_list['available'].astype('str')
+    #df_point_list['required']=df_point_list['required'].astype('str')
+    df_point_list['available']=df_point_list['available']=='True'
+    df_point_list['required']=df_point_list['required']=='True'
+
     df_point_list = df_point_list[(df_point_list['required']) & (df_point_list['available'])].reset_index(drop=True)
 
     df_all = get_df_history(start_time_utc=start_time_utc,
@@ -81,21 +86,21 @@ def raw_data_query(project_id, start_time, end_time, save_dir=None,save_data=Fal
 
 if __name__=="__main__":
     import pathlib
-    project_id='lotte_mart'#'lotte_mart' or 'hdc'
-    start_time_list=['2024-10-01 00:00:00+0900',
-                     '2024-11-01 00:00:00+0900',
+    project_id='lotte_mart'#'lotte_mart' or 'hdc' 'lotte_department'
+    start_time_list=['2024-12-01 00:00:00+0900',]
+                     #'2024-11-01 00:00:00+0900',
                      #'2024-02-01 00:00:00+0900',
                     #'2024-03-01 00:00:00+0900',
                     #  '2024-09-26 00:00:00+0900',
                     #  '2024-09-27 00:00:00+0900',
-                     ]
-    end_time_list=['2024-11-01 00:00:00+0900',
-                   '2024-11-22 00:00:00+0900',
+                     #]
+    end_time_list=['2024-12-02 00:00:00+0900',]
+                   #'2024-11-22 00:00:00+0900',
                     #'2024-03-01 00:00:00+0900',
                     #'2024-04-01 00:00:00+0900',
                     #  '2024-09-27 00:00:00+0900',
                     #  '2024-09-28 00:00:00+0900',
-                     ]
+                     #]
     #start_time='2024-09-03 00:00:00+0900'
     #end_time='2024-09-04 00:00:00+0900'
     

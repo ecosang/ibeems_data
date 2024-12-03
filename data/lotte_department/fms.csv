@@ -1,0 +1,151 @@
+﻿path,object_id,object_name,comment,zone_id,variable_name,raw_unit,type,required,available,data_exist
+/lotte_ds/1/DE-50,DE-50,PLC 7층-동편,,,,,,,False,False
+/lotte_ds/1/DE-50/AI-1,AI-1,AHU-17 급기 FMS(풍량),AHU-17,,,,,,True,True
+/lotte_ds/1/DE-50/AI-2,AI-2,AHU-17 환기 FMS(풍량),,,,,,,True,True
+/lotte_ds/1/DE-50/AI-3,AI-3,AHU-17 급기 정압,,,,,,,True,True
+/lotte_ds/1/DE-50/AI-4,AI-4,AHU-17 환기 정압,,,,,,,True,True
+/lotte_ds/1/DE-50/AI-5,AI-5,AHU-18 급기 FMS(풍량),AHU-18,,,,,,True,True
+/lotte_ds/1/DE-50/AI-6,AI-6,AHU-18 환기 FMS(풍량),,,,,,,True,True
+/lotte_ds/1/DE-50/AI-7,AI-7,AHU-18 급기 정압,,,,,,,True,True
+/lotte_ds/1/DE-50/AI-8,AI-8,AHU-18 환기 정압,,,,,,,True,True
+/lotte_ds/1/DE-50/AI-9,AI-9,AHU-14 급기 FMS(풍량),AHU-14,,,,,,True,True
+/lotte_ds/1/DE-50/AI-10,AI-10,AHU-14 환기 FMS(풍량),,,,,,,True,True
+/lotte_ds/1/DE-50/AI-11,AI-11,AHU-14 급기 정압,,,,,,,True,True
+/lotte_ds/1/DE-50/AI-12,AI-12,AHU-14 환기 정압,,,,,,,True,True
+/lotte_ds/1/DE-50/AI-13,AI-13,AHU-15 급기 FMS(풍량),AHU-15,,,,,,True,True
+/lotte_ds/1/DE-50/AI-14,AI-14,AHU-15 환기 FMS(풍량),,,,,,,True,True
+/lotte_ds/1/DE-50/AI-15,AI-15,AHU-15 급기 정압,,,,,,,True,True
+/lotte_ds/1/DE-50/AI-16,AI-16,AHU-15 환기 정압,,,,,,,True,True
+/lotte_ds/1/DE-51,DE-51,PLC 7층-서편,,,,,,,False,False
+/lotte_ds/1/DE-51/AI-1,AI-1,AHU-16 급기 FMS(풍량),AHU-16,ahu16,V_ahu_sa,CMH,float,True,True,True
+/lotte_ds/1/DE-51/AI-2,AI-2,AHU-16 환기 FMS(풍량),,ahu16,V_ahu_ra,CMH,float,True,True,True
+/lotte_ds/1/DE-51/AI-3,AI-3,AHU-16 급기 정압,,,,,,,True,True
+/lotte_ds/1/DE-51/AI-4,AI-4,AHU-16 환기 정압,,,,,,,True,True
+/lotte_ds/1/DE-51/AI-5,AI-5,AHU-19 급기 FMS(풍량),AHU-19,,,,,,True,True
+/lotte_ds/1/DE-51/AI-6,AI-6,AHU-19 환기 FMS(풍량),,,,,,,True,True
+/lotte_ds/1/DE-51/AI-7,AI-7,AHU-19 급기 정압,,,,,,,True,True
+/lotte_ds/1/DE-51/AI-8,AI-8,AHU-19 환기 정압,,,,,,,True,True
+/lotte_ds/1/DE-71,DE-71,신관 8층 메인 판넬 터보냉동기-1,,,,,,,False,False
+/lotte_ds/1/DE-71,DE-71,신관 8층 메인 판넬 터보냉동기-1,,,,,,,False,False
+/lotte_ds/1/DE-71/AI-1,AI-1,8층_터보냉동기-1 냉각수-S_순시 유량,터보냉동기-1,,,,,,True,True
+/lotte_ds/1/DE-71/AI-2,AI-2,8층_터보냉동기-1 냉각수-S_순시 열량(GJh),,,,,,,True,True
+/lotte_ds/1/DE-71/AI-3,AI-3,8층_터보냉동기-1 냉각수-S_순시 유속(ms),,,,,,,True,True
+/lotte_ds/1/DE-71/AI-4,AI-4,8층_터보냉동기-1 냉각수-S_적산 유량,,,,,,,True,True
+/lotte_ds/1/DE-71/AI-5,AI-5,8층_터보냉동기-1 냉각수-S_적산 열량,,,,,,,True,True
+/lotte_ds/1/DE-71/AI-6,AI-6,8층_터보냉동기-1 냉각수-S_급수 온도,,,,,,,True,True
+/lotte_ds/1/DE-71/AI-7,AI-7,8층_터보냉동기-1 냉각수-R_환수 온도,,,,,,,True,True
+/lotte_ds/1/DE-71,DE-71,신관 8층 메인 판넬 터보냉동기-1,,,,,,,False,False
+/lotte_ds/1/DE-71,DE-71,신관 8층 메인 판넬 터보냉동기-1,,,,,,,False,False
+/lotte_ds/1/DE-71/AI-8,AI-8,8층_터보냉동기-1 냉수-R_순시 유량,,,,,,,True,True
+/lotte_ds/1/DE-71/AI-9,AI-9,8층_터보냉동기-1 냉수-R_순시 열량,,,,,,,True,True
+/lotte_ds/1/DE-71/AI-10,AI-10,8층_터보냉동기-1 냉수-R_순시 유속,,,,,,,True,True
+/lotte_ds/1/DE-71/AI-11,AI-11,8층_터보냉동기-1 냉수-R_적산 유량,,,,,,,True,True
+/lotte_ds/1/DE-71/AI-12,AI-12,8층_터보냉동기-1 냉각수-S_적산 열량,,,,,,,True,True
+/lotte_ds/1/DE-71/AI-13,AI-13,8층_터보냉동기-1 냉수-S_급수 온도,,,,,,,True,True
+/lotte_ds/1/DE-71/AI-14,AI-14,8층_터보냉동기-1 냉수-R_환수 온도,,,,,,,True,True
+/lotte_ds/1/DE-71,DE-71,신관 8층 메인 판넬 터보냉동기-2,,,,,,,False,False
+/lotte_ds/1/DE-71,DE-71,신관 8층 메인 판넬 터보냉동기-2,,,,,,,False,False
+/lotte_ds/1/DE-71/AI-15,AI-15,8층_터보냉동기-2 냉각수-S_순시 유량,터보냉동기-2,,,,,,True,True
+/lotte_ds/1/DE-71/AI-16,AI-16,8층_터보냉동기-2 냉각수-S_순시 열량,,,,,,,True,True
+/lotte_ds/1/DE-71/AI-17,AI-17,8층_터보냉동기-2 냉각수-S_순시 유속,,,,,,,True,True
+/lotte_ds/1/DE-71/AI-18,AI-18,8층_터보냉동기-2 냉각수-S_적산 유량,,,,,,,True,True
+/lotte_ds/1/DE-71/AI-19,AI-19,8층_터보냉동기-2 냉각수-S_적산 열량,,,,,,,True,True
+/lotte_ds/1/DE-71/AI-20,AI-20,8층_터보냉동기-2 냉각수-S_급수 온도,,,,,,,True,True
+/lotte_ds/1/DE-71/AI-21,AI-21,8층_터보냉동기-2 냉각수-R_환수 온도,,,,,,,True,True
+/lotte_ds/1/DE-71,DE-71,신관 8층 메인 판넬 터보냉동기-2,,,,,,,False,False
+/lotte_ds/1/DE-71,DE-71,신관 8층 메인 판넬 터보냉동기-2,,,,,,,False,False
+/lotte_ds/1/DE-71/AI-22,AI-22,8층_터보냉동기-2 냉수-R_순시 유량,,,,,,,True,True
+/lotte_ds/1/DE-71/AI-23,AI-23,8층_터보냉동기-2 냉수-R_순시 열량,,,,,,,True,True
+/lotte_ds/1/DE-71/AI-24,AI-24,8층_터보냉동기-2 냉수-R_순시 유속,,,,,,,True,True
+/lotte_ds/1/DE-71/AI-25,AI-25,8층_터보냉동기-2 냉수-R_적산 유량,,,,,,,True,True
+/lotte_ds/1/DE-71/AI-26,AI-26,8층_터보냉동기-2 냉수-R_적산 열량,,,,,,,True,True
+/lotte_ds/1/DE-71/AI-27,AI-27,8층_터보냉동기-2 냉수-S_급수 온도,,,,,,,True,True
+/lotte_ds/1/DE-71/AI-28,AI-28,8층_터보냉동기-2 냉수-R_환수 온도,,,,,,,True,True
+/lotte_ds/1/DE-72,DE-72,신관 8층 메인 판넬 냉온수기-1,,,,,,,False,False
+/lotte_ds/1/DE-72,DE-72,신관 8층 메인 판넬 냉온수기-1,,,,,,,False,False
+/lotte_ds/1/DE-72/AI-1,AI-1,8층_냉온수기-1 냉각수-S_순시 유량,냉온수기-1,,,,,,True,True
+/lotte_ds/1/DE-72/AI-2,AI-2,8층_냉온수기-1 냉각수-S_순시 열량,,,,,,,True,True
+/lotte_ds/1/DE-72/AI-3,AI-3,8층_냉온수기-1 냉각수-S_순시 유속,,,,,,,True,True
+/lotte_ds/1/DE-72/AI-4,AI-4,8층_냉온수기-1 냉각수-S_적산 유량,,,,,,,True,True
+/lotte_ds/1/DE-72/AI-5,AI-5,8층_냉온수기-1 냉각수-S_적산 열량,,,,,,,True,True
+/lotte_ds/1/DE-72/AI-6,AI-6,8층_냉온수기-1 냉각수-S_급수 온도,,,,,,,True,True
+/lotte_ds/1/DE-72/AI-7,AI-7,8층_냉온수기-1 냉각수-R_환수 온도,,,,,,,True,True
+/lotte_ds/1/DE-72,DE-72,신관 8층 메인 판넬 냉온수기-1,,,,,,,False,False
+/lotte_ds/1/DE-72,DE-72,신관 8층 메인 판넬 냉온수기-1,,,,,,,False,False
+/lotte_ds/1/DE-72/AI-8,AI-8,8층_냉온수기-1 냉수-R_순시 유량,,,,,,,True,True
+/lotte_ds/1/DE-72/AI-9,AI-9,8층_냉온수기-1 냉수-R_순시 열량,,,,,,,True,True
+/lotte_ds/1/DE-72/AI-10,AI-10,8층_냉온수기-1 냉수-R_순시 유속,,,,,,,True,True
+/lotte_ds/1/DE-72/AI-11,AI-11,8층_냉온수기-1 냉수-R_적산 유량,,,,,,,True,True
+/lotte_ds/1/DE-72/AI-12,AI-12,8층_냉온수기-1 냉수-R_적산 열량,,,,,,,True,True
+/lotte_ds/1/DE-72/AI-13,AI-13,8층_냉온수기-1 냉수-S_급수 온도,,,,,,,True,True
+/lotte_ds/1/DE-72/AI-14,AI-14,8층_냉온수기-1 냉수-R_환수 온도,,,,,,,True,True
+/lotte_ds/1/DE-72,DE-72,신관 8층 메인 판넬 냉온수기-2,,,,,,,False,False
+/lotte_ds/1/DE-72,DE-72,신관 8층 메인 판넬 냉온수기-2,,,,,,,False,False
+/lotte_ds/1/DE-72/AI-15,AI-15,8층_냉온수기-2 냉각수-S_순시 유량,냉온수기-2,,,,,,True,True
+/lotte_ds/1/DE-72/AI-16,AI-16,8층_냉온수기-2 냉각수-S_순시 열량,,,,,,,True,True
+/lotte_ds/1/DE-72/AI-17,AI-17,8층_냉온수기-2 냉각수-S_순시 유속,,,,,,,True,True
+/lotte_ds/1/DE-72/AI-18,AI-18,8층_냉온수기-2 냉각수-S_적산 유량,,,,,,,True,True
+/lotte_ds/1/DE-72/AI-19,AI-19,8층_냉온수기-2 냉각수-S_적산 열량,,,,,,,True,True
+/lotte_ds/1/DE-72/AI-20,AI-20,8층_냉온수기-2 냉각수-S_급수 온도,,,,,,,True,True
+/lotte_ds/1/DE-72/AI-21,AI-21,8층_냉온수기-2 냉각수-R_환수 온도,,,,,,,True,True
+/lotte_ds/1/DE-72,DE-72,신관 8층 메인 판넬 냉온수기-2,,,,,,,False,False
+/lotte_ds/1/DE-72,DE-72,신관 8층 메인 판넬 냉온수기-2,,,,,,,False,False
+/lotte_ds/1/DE-72/AI-22,AI-22,8층_냉온수기-2 냉수-R_순시 유량,,,,,,,True,True
+/lotte_ds/1/DE-72/AI-23,AI-23,8층_냉온수기-2 냉수-R_순시 열량,,,,,,,True,True
+/lotte_ds/1/DE-72/AI-24,AI-24,8층_냉온수기-2 냉수-R_순시 유속,,,,,,,True,True
+/lotte_ds/1/DE-72/AI-25,AI-25,8층_냉온수기-2 냉수-R_적산 유량,,,,,,,True,True
+/lotte_ds/1/DE-72/AI-26,AI-26,8층_냉온수기-2 냉수-R_적산 열량,,,,,,,True,True
+/lotte_ds/1/DE-72/AI-27,AI-27,8층_냉온수기-2 냉수-S_급수 온도,,,,,,,True,True
+/lotte_ds/1/DE-72/AI-28,AI-28,8층_냉온수기-2 냉수-R_환수 온도,,,,,,,True,True
+/lotte_ds/1/DE-73,DE-73,초음파유량계 7층-동편,,,,,,,False,False
+/lotte_ds/1/DE-73,DE-73,초음파유량계 7층-동편,,,,,,,False,False
+/lotte_ds/1/DE-73/AI-1,AI-1,초음파유량계 AHU-17 냉온수-S_순시 유량,AHU-17,,,,,,True,True
+/lotte_ds/1/DE-73/AI-2,AI-2,초음파유량계 AHU-17 냉온수-S_순시 열량,,,,,,,True,True
+/lotte_ds/1/DE-73/AI-3,AI-3,초음파유량계 AHU-17 냉온수-S_순시 유속,,,,,,,True,True
+/lotte_ds/1/DE-73/AI-4,AI-4,초음파유량계 AHU-17 냉온수-S_적산 유량,,,,,,,True,True
+/lotte_ds/1/DE-73/AI-5,AI-5,초음파유량계 AHU-17 냉온수-S_적산 열량,,,,,,,True,True
+/lotte_ds/1/DE-73/AI-6,AI-6,초음파유량계 AHU-17 냉온수-S_급수 온도,,,,,,,True,True
+/lotte_ds/1/DE-73/AI-7,AI-7,초음파유량계 AHU-17 냉온수-R_환수 온도,,,,,,,True,True
+/lotte_ds/1/DE-73,DE-73,초음파유량계 7층-동편,,,,,,,False,False
+/lotte_ds/1/DE-73,DE-73,초음파유량계 7층-동편,,,,,,,False,False
+/lotte_ds/1/DE-73/AI-8,AI-8,초음파유량계 AHU-18 냉온수-S_순시 유량,AHU-18,,,,,,True,True
+/lotte_ds/1/DE-73/AI-9,AI-9,초음파유량계 AHU-18 냉온수-S_순시 열량,,,,,,,True,True
+/lotte_ds/1/DE-73/AI-10,AI-10,초음파유량계 AHU-18 냉온수-S_순시 유속,,,,,,,True,True
+/lotte_ds/1/DE-73/AI-11,AI-11,초음파유량계 AHU-18 냉온수-S_적산 유량,,,,,,,True,True
+/lotte_ds/1/DE-73/AI-12,AI-12,초음파유량계 AHU-18 냉온수-S_적산 열량,,,,,,,True,True
+/lotte_ds/1/DE-73/AI-13,AI-13,초음파유량계 AHU-18 냉온수-S_급수 온도,,,,,,,True,True
+/lotte_ds/1/DE-73/AI-14,AI-14,초음파유량계 AHU-18 냉온수-R_환수 온도,,,,,,,True,True
+/lotte_ds/1/DE-75,DE-75,초음파유량계 7층-서편,,,,,,,False,False
+/lotte_ds/1/DE-75/AI-1,AI-1,초음파유량계 AHU-19 냉온수-S_순시 유량,AHU-19,,,,,,True,True
+/lotte_ds/1/DE-75/AI-2,AI-2,초음파유량계 AHU-19 냉온수-S_순시 열량,,,,,,,True,True
+/lotte_ds/1/DE-75/AI-3,AI-3,초음파유량계 AHU-19 냉온수-S_순시 유속,,,,,,,True,True
+/lotte_ds/1/DE-75/AI-4,AI-4,초음파유량계 AHU-19 냉온수-S_적산 유량,,,,,,,True,True
+/lotte_ds/1/DE-75/AI-5,AI-5,초음파유량계 AHU-19 냉온수-S_적산 열량,,,,,,,True,True
+/lotte_ds/1/DE-75/AI-6,AI-6,초음파유량계 AHU-19 냉온수-S_급수 온도,,,,,,,True,True
+/lotte_ds/1/DE-75/AI-7,AI-7,초음파유량계 AHU-19 냉온수-R_환수 온도,,,,,,,True,True
+/lotte_ds/1/DE-77,DE-77,초음파유량계 6층-동편,,,,,,,False,False
+/lotte_ds/1/DE-77,DE-77,초음파유량계 6층-동편,,,,,,,False,False
+/lotte_ds/1/DE-77/AI-1,AI-1,초음파유량계 AHU-14 냉온수-S_순시 유량,AHU-14,,,,,,True,True
+/lotte_ds/1/DE-77/AI-2,AI-2,초음파유량계 AHU-14 냉온수-S_순시 열량,,,,,,,True,True
+/lotte_ds/1/DE-77/AI-3,AI-3,초음파유량계 AHU-14 냉온수-S_순시 유속,,,,,,,True,True
+/lotte_ds/1/DE-77/AI-4,AI-4,초음파유량계 AHU-14 냉온수-S_적산 유량,,,,,,,True,True
+/lotte_ds/1/DE-77/AI-5,AI-5,초음파유량계 AHU-14 냉온수-S_적산 열량,,,,,,,True,True
+/lotte_ds/1/DE-77/AI-6,AI-6,초음파유량계 AHU-14 냉온수-S_급수 온도,,,,,,,True,True
+/lotte_ds/1/DE-77/AI-7,AI-7,초음파유량계 AHU-14 냉온수-R_환수 온도,,,,,,,True,True
+/lotte_ds/1/DE-77,DE-77,초음파유량계 6층-동편,,,,,,,False,False
+/lotte_ds/1/DE-77,DE-77,초음파유량계 6층-동편,,,,,,,False,False
+/lotte_ds/1/DE-77/AI-8,AI-8,초음파유량계 AHU-15 냉온수-S_순시 유량,AHU-15,,,,,,True,True
+/lotte_ds/1/DE-77/AI-9,AI-9,초음파유량계 AHU-15 냉온수-S_순시 열량,,,,,,,True,True
+/lotte_ds/1/DE-77/AI-10,AI-10,초음파유량계 AHU-15 냉온수-S_순시 유속,,,,,,,True,True
+/lotte_ds/1/DE-77/AI-11,AI-11,초음파유량계 AHU-15 냉온수-S_적산 유량,,,,,,,True,True
+/lotte_ds/1/DE-77/AI-12,AI-12,초음파유량계 AHU-15 냉온수-S_적산 열량,,,,,,,True,True
+/lotte_ds/1/DE-77/AI-13,AI-13,초음파유량계 AHU-15 냉온수-S_급수 온도,,,,,,,True,True
+/lotte_ds/1/DE-77/AI-14,AI-14,초음파유량계 AHU-15 냉온수-R_환수 온도,,,,,,,True,True
+/lotte_ds/1/DE-79,DE-79,초음파유량계 6층-서편,,,,,,,False,False
+/lotte_ds/1/DE-77/AI-1,AI-1,초음파유량계 AHU-16 냉온수-S_순시 유량,AHU-16,ahu16,V_ahu_hcw,CMH,float,True,True,True
+/lotte_ds/1/DE-77/AI-2,AI-2,초음파유량계 AHU-16 냉온수-S_순시 열량,,,,,,,True,True
+/lotte_ds/1/DE-77/AI-3,AI-3,초음파유량계 AHU-16 냉온수-S_순시 유속,,,,,,,True,True
+/lotte_ds/1/DE-77/AI-4,AI-4,초음파유량계 AHU-16 냉온수-S_적산 유량,,ahu16,cum_ahu_hcw,cum_mv30_60,float,True,True,True
+/lotte_ds/1/DE-77/AI-5,AI-5,초음파유량계 AHU-16 냉온수-S_적산 열량,,,,,,,True,True
+/lotte_ds/1/DE-77/AI-6,AI-6,초음파유량계 AHU-16 냉온수-S_급수 온도,,ahu16,T_ahu_hcws,CMH,float,True,True,True
+/lotte_ds/1/DE-77/AI-7,AI-7,초음파유량계 AHU-16 냉온수-R_환수 온도,,ahu16,T_ahu_hcwr,CMH,float,True,True,True

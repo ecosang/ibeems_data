@@ -27,6 +27,7 @@ def get_point_list(init_config,df_type="point_list"):
             try:
                 df=pd.read_csv(output_path,index_col=False)
                 df=df[file_info['columns']]
+                df=df.astype('str')
                 df_list.append(df)
             except Exception as e:
                 print(f'file not found '+str(output_path))

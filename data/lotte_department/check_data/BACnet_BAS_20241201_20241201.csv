@@ -1,0 +1,1077 @@
+﻿,path,object_id,object_name,comment,zone_id,variable_name,raw_unit,type,required,available,data_exist
+0,/lotte_ds/5/DE-72/AV-1901,AV-1901,환수 헷다 온도,나라BAS,,,,,,,True
+1,/lotte_ds/5/DE-71/BI-108,BI-108,화재경보 [AHU19],,,,,,,,True
+2,/lotte_ds/5/DE-69/BI-108,BI-108,화재경보 [AHU16],,,,,,,,True
+3,/lotte_ds/5/DE-67/BI-108,BI-108,화재경보 [AHU13],,,,,,,,True
+4,/lotte_ds/5/DE-65/BI-108,BI-108,화재경보 [AHU10],,,,,,,,True
+5,/lotte_ds/5/DE-64/BI-308,BI-308,"화재 경보 [AHU8,9]",,,,,,,,True
+6,/lotte_ds/5/DE-62/BI-308,BI-308,"화재 경보 [AHU4,5]",,,,,,,,True
+7,/lotte_ds/5/DE-63/BI-308,BI-308,"화재 경보 [AHU3,6]",,,,,,,,True
+8,/lotte_ds/5/DE-74/BI-308,BI-308,"화재 경보 [AHU22,23]",,,,,,,,True
+9,/lotte_ds/5/DE-73/BI-308,BI-308,"화재 경보 [AHU20,21]",,,,,,,,True
+10,/lotte_ds/5/DE-70/BI-308,BI-308,"화재 경보 [AHU17,18]",,,,,,,,True
+11,/lotte_ds/5/DE-68/BI-308,BI-308,"화재 경보 [AHU14,15]",,,,,,,,True
+12,/lotte_ds/5/DE-66/BI-308,BI-308,"화재 경보 [AHU11,12]",,,,,,,,True
+13,/lotte_ds/5/DE-61/BI-408,BI-408,"화재 경보 [AHU1,1-1,2]",,,,,,,,True
+14,/lotte_ds/5/DE-72/AV-2003,AV-2003,터보냉동기기-2 일일 가동시간,,,,,,,,True
+15,/lotte_ds/5/DE-72/AV-2007,AV-2007,터보냉동기기-2 가동시간,,,,,,,,True
+16,/lotte_ds/5/DE-72/AV-2002,AV-2002,터보냉동기기-1 일일 가동시간,,,,,,,,True
+17,/lotte_ds/5/DE-72/AV-2006,AV-2006,터보냉동기기-1 가동시간,,,,,,,,True
+18,/lotte_ds/5/DE-72/AV-1807,AV-1807,터보 냉동기-2 냉수 환수온도,,,,,,,,True
+19,/lotte_ds/5/DE-72/AV-1806,AV-1806,터보 냉동기-2 냉수 공급온도,,,,,,,,True
+20,/lotte_ds/5/DE-72/BI-1006,BI-1006,터보 냉동기-2 냉수 STATUS,,,,,,,,True
+21,/lotte_ds/5/DE-72/BI-1007,BI-1007,터보 냉동기-2 냉수 LOCREM,,,,,,,,True
+22,/lotte_ds/5/DE-72/AV-2211,AV-2211,터보 냉동기-2 냉각탑 정지설정,,,,,,,,True
+23,/lotte_ds/5/DE-72/AV-2103,AV-2103,터보 냉동기-2 냉각탑 자동수동,,,,,,,,True
+24,/lotte_ds/5/DE-72/AV-2210,AV-2210,터보 냉동기-2 냉각탑 기동설정,,,,,,,,True
+25,/lotte_ds/5/DE-72/AV-1805,AV-1805,터보 냉동기-2 냉각수 환수온도,,,,,,,,True
+26,/lotte_ds/5/DE-72/AV-1804,AV-1804,터보 냉동기-2 냉각수 공급온도,,,,,,,,True
+27,/lotte_ds/5/DE-72/BI-1000,BI-1000,터보 냉동기-2 냉각수 STATUS,,,,,,,,True
+28,/lotte_ds/5/DE-72/BI-1001,BI-1001,터보 냉동기-2 냉각수 LOCREM,,,,,,,,True
+29,/lotte_ds/5/DE-72/BO-2,BO-2,터보 냉동기-2 기동정지,,,,,,,,True
+30,/lotte_ds/5/DE-72/BI-703,BI-703,터보 냉동기-2 STATUS,,,,,,,,True
+31,/lotte_ds/5/DE-72/BI-704,BI-704,터보 냉동기-2 LOCREM,,,,,,,,True
+32,/lotte_ds/5/DE-72/BI-705,BI-705,터보 냉동기-2 ALARM,,,,,,,,True
+33,/lotte_ds/5/DE-72/AV-1803,AV-1803,터보 냉동기-1 냉수 환수온도,,,,,,,,True
+34,/lotte_ds/5/DE-72/AV-1802,AV-1802,터보 냉동기-1 냉수 공급온도,,,,,,,,True
+35,/lotte_ds/5/DE-72/BI-1010,BI-1010,터보 냉동기-1 냉수 STATUS,,,,,,,,True
+36,/lotte_ds/5/DE-72/BI-1011,BI-1011,터보 냉동기-1 냉수 LOCREM,,,,,,,,True
+37,/lotte_ds/5/DE-72/AV-2209,AV-2209,터보 냉동기-1 냉각탑 정지설정,,,,,,,,True
+38,/lotte_ds/5/DE-72/AV-2102,AV-2102,터보 냉동기-1 냉각탑 자동수동,,,,,,,,True
+39,/lotte_ds/5/DE-72/AV-2208,AV-2208,터보 냉동기-1 냉각탑 기동설정,,,,,,,,True
+40,/lotte_ds/5/DE-72/AV-1801,AV-1801,터보 냉동기-1 냉각수 환수온도,,,,,,,,True
+41,/lotte_ds/5/DE-72/AV-1800,AV-1800,터보 냉동기-1 냉각수 공급온도,,,,,,,,True
+42,/lotte_ds/5/DE-72/BI-1004,BI-1004,터보 냉동기-1 냉각수 STATUS,,,,,,,,True
+43,/lotte_ds/5/DE-72/BI-1005,BI-1005,터보 냉동기-1 냉각수 LOCREM,,,,,,,,True
+44,/lotte_ds/5/DE-72/BO-1,BO-1,터보 냉동기-1 기동정지,,,,,,,,True
+45,/lotte_ds/5/DE-72/BI-700,BI-700,터보 냉동기-1 STATUS,,,,,,,,True
+46,/lotte_ds/5/DE-72/BI-701,BI-701,터보 냉동기-1 LOCREM,,,,,,,,True
+47,/lotte_ds/5/DE-72/BI-702,BI-702,터보 냉동기-1 ALARM,,,,,,,,True
+48,/lotte_ds/5/DE-72/BI-1008,BI-1008,터보 냉동기 냉수예비 STATUS,,,,,,,,True
+49,/lotte_ds/5/DE-72/BI-1009,BI-1009,터보 냉동기 냉수예비 LOCREM,,,,,,,,True
+50,/lotte_ds/5/DE-72/BI-1002,BI-1002,터보 냉동기 냉각수예비 STATUS,,,,,,,,True
+51,/lotte_ds/5/DE-72/BI-1003,BI-1003,터보 냉동기 냉각수예비 LOCREM,,,,,,,,True
+52,/lotte_ds/5/DE-72/BI-810,BI-810,터보 냉각탑-2 STATUS,,,,,,,,True
+53,/lotte_ds/5/DE-72/BO-101,BO-101,터보 냉각탑-2 STARTSTOP,,,,,,,,True
+54,/lotte_ds/5/DE-72/BI-811,BI-811,터보 냉각탑-2 LOCREM,,,,,,,,True
+55,/lotte_ds/5/DE-72/BI-808,BI-808,터보 냉각탑-1 STATUS,,,,,,,,True
+56,/lotte_ds/5/DE-72/BO-100,BO-100,터보 냉각탑-1 STARTSTOP,,,,,,,,True
+57,/lotte_ds/5/DE-72/BI-809,BI-809,터보 냉각탑-1 LOCREM,,,,,,,,True
+58,/lotte_ds/5/DE-61/BI-1409,BI-1409,지하2층정문 HT-3 상태,,,,,,,,True
+59,/lotte_ds/5/DE-61/BO-1505,BO-1505,지하2층정문 HT-3 STARTSTOP,,,,,,,,True
+60,/lotte_ds/5/DE-61/BI-1407,BI-1407,지하2층정문 HT-2 상태,,,,,,,,True
+61,/lotte_ds/5/DE-61/BO-1503,BO-1503,지하2층정문 HT-2 STARTSTOP,,,,,,,,True
+62,/lotte_ds/5/DE-61/BI-1405,BI-1405,지하2층정문 HT-1 상태,,,,,,,,True
+63,/lotte_ds/5/DE-61/BO-1501,BO-1501,지하2층정문 HT-1 STARTSTOP,,,,,,,,True
+64,/lotte_ds/5/DE-61/BI-1408,BI-1408,지하2층정문 AC-3 상태,,,,,,,,True
+65,/lotte_ds/5/DE-61/BO-1504,BO-1504,지하2층정문 AC-3 STARTSTOP,,,,,,,,True
+66,/lotte_ds/5/DE-61/BI-1406,BI-1406,지하2층정문 AC-2 상태,,,,,,,,True
+67,/lotte_ds/5/DE-61/BO-1502,BO-1502,지하2층정문 AC-2 STARTSTOP,,,,,,,,True
+68,/lotte_ds/5/DE-61/BI-1404,BI-1404,지하2층정문 AC-1 상태,,,,,,,,True
+69,/lotte_ds/5/DE-61/BO-1500,BO-1500,지하2층정문 AC-1 STARTSTOP,,,,,,,,True
+70,/lotte_ds/5/DE-62/BI-1203,BI-1203,지하1층정문 HT-2 상태,,,,,,,,True
+71,/lotte_ds/5/DE-62/BO-1103,BO-1103,지하1층정문 HT-2 STARTSTOP,,,,,,,,True
+72,/lotte_ds/5/DE-62/BI-1201,BI-1201,지하1층정문 HT-1 상태,,,,,,,,True
+73,/lotte_ds/5/DE-62/BO-1101,BO-1101,지하1층정문 HT-1 STARTSTOP,,,,,,,,True
+74,/lotte_ds/5/DE-62/BI-1202,BI-1202,지하1층정문 AC-2 상태,,,,,,,,True
+75,/lotte_ds/5/DE-62/BO-1102,BO-1102,지하1층정문 AC-2 STARTSTOP,,,,,,,,True
+76,/lotte_ds/5/DE-62/BI-1200,BI-1200,지하1층정문 AC-1 상태,,,,,,,,True
+77,/lotte_ds/5/DE-62/BO-1100,BO-1100,지하1층정문 AC-1 STARTSTOP,,,,,,,,True
+78,/lotte_ds/5/DE-75/BI-305,BI-305,중수조 물탱크 저수위 ALARM,,,,,,,,True
+79,/lotte_ds/5/DE-75/AI-401,AI-401,중수조 물탱크 수위,,,,,,,,True
+80,/lotte_ds/5/DE-75/BI-304,BI-304,중수조 물탱크 고수위 ALARM,,,,,,,,True
+81,/lotte_ds/5/DE-74/BI-310,BI-310,좌측 화장실 배기휀 자동수동,,,,,,,,True
+82,/lotte_ds/5/DE-74/BI-309,BI-309,좌측 화장실 배기휀 STATUS,,,,,,,,True
+83,/lotte_ds/5/DE-74/BO-102,BO-102,좌측 화장실 배기휀 STARTSTOP,,,,,,,,True
+84,/lotte_ds/5/DE-72/BI-1302,BI-1302,전기실 배기휀 STATUS,,,,,,,,True
+85,/lotte_ds/5/DE-72/BO-602,BO-602,전기실 배기휀 STARTSTOP,,,,,,,,True
+86,/lotte_ds/5/DE-72/BI-1303,BI-1303,전기실 배기휀 LOCREM,,,,,,,,True
+87,/lotte_ds/5/DE-72/BI-1300,BI-1300,전기실 급기휀 STATUS,,,,,,,,True
+88,/lotte_ds/5/DE-72/BO-601,BO-601,전기실 급기휀 STARTSTOP,,,,,,,,True
+89,/lotte_ds/5/DE-72/BI-1301,BI-1301,전기실 급기휀 LOCREM,,,,,,,,True
+90,/lotte_ds/5/DE-72/BI-1304,BI-1304,우측화장실 상태,,,,,,,,True
+91,/lotte_ds/5/DE-72/BO-603,BO-603,우측화장실 기동정지,,,,,,,,True
+92,/lotte_ds/5/DE-72/BI-1305,BI-1305,우측화장실 locrem,,,,,,,,True
+93,/lotte_ds/5/DE-61/AI-1206,AI-1206,외기온도,,,,,,,,True
+94,/lotte_ds/5/DE-61/AI-1207,AI-1207,외기습도,,,,,,,,True
+95,/lotte_ds/5/DE-75/BI-303,BI-303,시수 물탱크 저수위 ALARM,,,,,,,,True
+96,/lotte_ds/5/DE-75/AI-400,AI-400,시수 물탱크 수위,,,,,,,,True
+97,/lotte_ds/5/DE-75/BI-302,BI-302,시수 물탱크 고수위 ALARM,,,,,,,,True
+98,/lotte_ds/5/DE-72/BI-1210,BI-1210,소화가스실 배기휀-2 STATUS,,,,,,,,True
+99,/lotte_ds/5/DE-72/BO-600,BO-600,소화가스실 배기휀-2 STARTSTOP,,,,,,,,True
+100,/lotte_ds/5/DE-72/BI-1211,BI-1211,소화가스실 배기휀-2 LOCREM,,,,,,,,True
+101,/lotte_ds/5/DE-72/BI-1208,BI-1208,소화가스실 배기휀-1 STATUS,,,,,,,,True
+102,/lotte_ds/5/DE-72/BO-505,BO-505,소화가스실 배기휀-1 STARTSTOP,,,,,,,,True
+103,/lotte_ds/5/DE-72/BI-1209,BI-1209,소화가스실 배기휀-1 LOCREM,,,,,,,,True
+104,/lotte_ds/5/DE-72/BI-1206,BI-1206,소화가스실 급기휀-2 STATUS,,,,,,,,True
+105,/lotte_ds/5/DE-72/BO-504,BO-504,소화가스실 급기휀-2 STARTSTOP,,,,,,,,True
+106,/lotte_ds/5/DE-72/BI-1207,BI-1207,소화가스실 급기휀-2 LOCREM,,,,,,,,True
+107,/lotte_ds/5/DE-72/BI-1204,BI-1204,소화가스실 급기휀-1 STATUS,,,,,,,,True
+108,/lotte_ds/5/DE-72/BO-503,BO-503,소화가스실 급기휀-1 STARTSTOP,,,,,,,,True
+109,/lotte_ds/5/DE-72/BI-1205,BI-1205,소화가스실 급기휀-1 LOCREM,,,,,,,,True
+110,/lotte_ds/5/DE-72/BO-402,BO-402,보일러 기동정지,,,,,,,,True
+111,/lotte_ds/5/DE-72/BI-1100,BI-1100,보일러 STATUS,,,,,,,,True
+112,/lotte_ds/5/DE-72/BI-1101,BI-1101,보일러 ALARM,,,,,,,,True
+113,/lotte_ds/5/DE-72/AV-2001,AV-2001,냉온수기-2 일일 가동시간,,,,,,,,True
+114,/lotte_ds/5/DE-72/AV-1707,AV-1707,냉온수기-2 냉수 환수온도,,,,,,,,True
+115,/lotte_ds/5/DE-72/AV-1706,AV-1706,냉온수기-2 냉수 공급온도,,,,,,,,True
+116,/lotte_ds/5/DE-72/AO-1503,AO-1503,냉온수기-2 냉수 INV 출력,,,,,,,,True
+117,/lotte_ds/5/DE-72/BI-909,BI-909,냉온수기-2 냉수 INV STATUS,,,,,,,,True
+118,/lotte_ds/5/DE-72/BI-911,BI-911,냉온수기-2 냉수 INV LOCREM,,,,,,,,True
+119,/lotte_ds/5/DE-72/BI-910,BI-910,냉온수기-2 냉수 INV ALARM,,,,,,,,True
+120,/lotte_ds/5/DE-72/AV-2207,AV-2207,냉온수기-2 냉각탑-2 정지설정,,,,,,,,True
+121,/lotte_ds/5/DE-72/AV-2206,AV-2206,냉온수기-2 냉각탑-2 기동설정,,,,,,,,True
+122,/lotte_ds/5/DE-72/AV-2205,AV-2205,냉온수기-2 냉각탑-1 정지설정,,,,,,,,True
+123,/lotte_ds/5/DE-72/AV-2204,AV-2204,냉온수기-2 냉각탑-1 기동설정,,,,,,,,True
+124,/lotte_ds/5/DE-72/AV-2101,AV-2101,냉온수기-2 냉각탑 자동수동,,,,,,,,True
+125,/lotte_ds/5/DE-72/AV-1705,AV-1705,냉온수기-2 냉각수 환수온도,,,,,,,,True
+126,/lotte_ds/5/DE-72/AV-1704,AV-1704,냉온수기-2 냉각수 공급온도,,,,,,,,True
+127,/lotte_ds/5/DE-72/AO-1501,AO-1501,냉온수기-2 냉각수 INV 출력,,,,,,,,True
+128,/lotte_ds/5/DE-72/BI-903,BI-903,냉온수기-2 냉각수 INV STATUS,,,,,,,,True
+129,/lotte_ds/5/DE-72/BI-905,BI-905,냉온수기-2 냉각수 INV LOCREM,,,,,,,,True
+130,/lotte_ds/5/DE-72/BI-904,BI-904,냉온수기-2 냉각수 INV ALARM,,,,,,,,True
+131,/lotte_ds/5/DE-72/BO-4,BO-4,냉온수기-2 기동정지,,,,,,,,True
+132,/lotte_ds/5/DE-72/AV-2005,AV-2005,냉온수기-2 가동시간,,,,,,,,True
+133,/lotte_ds/5/DE-72/BI-709,BI-709,냉온수기-2 STATUS,,,,,,,,True
+134,/lotte_ds/5/DE-72/BI-710,BI-710,냉온수기-2 LOCREM,,,,,,,,True
+135,/lotte_ds/5/DE-72/BI-711,BI-711,냉온수기-2 ALARM,,,,,,,,True
+136,/lotte_ds/5/DE-72/BI-804,BI-804,냉온수기-2  냉각탑-2 STATUS,,,,,,,,True
+137,/lotte_ds/5/DE-72/BO-104,BO-104,냉온수기-2  냉각탑-2 STARTSTOP,,,,,,,,True
+138,/lotte_ds/5/DE-72/BI-805,BI-805,냉온수기-2  냉각탑-2 LOCREM,,,,,,,,True
+139,/lotte_ds/5/DE-72/BI-802,BI-802,냉온수기-2  냉각탑-1 STATUS,,,,,,,,True
+140,/lotte_ds/5/DE-72/BO-103,BO-103,냉온수기-2  냉각탑-1 STARTSTOP,,,,,,,,True
+141,/lotte_ds/5/DE-72/BI-803,BI-803,냉온수기-2  냉각탑-1 LOCREM,,,,,,,,True
+142,/lotte_ds/5/DE-72/AV-2000,AV-2000,냉온수기-1 일일 가동시간,,,,,,,,True
+143,/lotte_ds/5/DE-72/AV-1703,AV-1703,냉온수기-1 냉수 환수온도,,,,,,,,True
+144,/lotte_ds/5/DE-72/AV-1702,AV-1702,냉온수기-1 냉수 공급온도,,,,,,,,True
+145,/lotte_ds/5/DE-72/AO-1502,AO-1502,냉온수기-1 냉수 INV 출력,,,,,,,,True
+146,/lotte_ds/5/DE-72/BI-906,BI-906,냉온수기-1 냉수 INV STATUS,,,,,,,,True
+147,/lotte_ds/5/DE-72/BI-908,BI-908,냉온수기-1 냉수 INV LOCREM,,,,,,,,True
+148,/lotte_ds/5/DE-72/BI-907,BI-907,냉온수기-1 냉수 INV ALARM,,,,,,,,True
+149,/lotte_ds/5/DE-72/AV-2203,AV-2203,냉온수기-1 냉각탑-2 정지설정,,,,,,,,True
+150,/lotte_ds/5/DE-72/AV-2202,AV-2202,냉온수기-1 냉각탑-2 기동설정,,,,,,,,True
+151,/lotte_ds/5/DE-72/AV-2201,AV-2201,냉온수기-1 냉각탑-1 정지설정,,,,,,,,True
+152,/lotte_ds/5/DE-72/AV-2200,AV-2200,냉온수기-1 냉각탑-1 기동설정,,,,,,,,True
+153,/lotte_ds/5/DE-72/AV-2100,AV-2100,냉온수기-1 냉각탑 자동수동,,,,,,,,True
+154,/lotte_ds/5/DE-72/AV-1701,AV-1701,냉온수기-1 냉각수 환수온도,,,,,,,,True
+155,/lotte_ds/5/DE-72/AV-1700,AV-1700,냉온수기-1 냉각수 공급온도,,,,,,,,True
+156,/lotte_ds/5/DE-72/AO-1500,AO-1500,냉온수기-1 냉각수 INV 출력,,,,,,,,True
+157,/lotte_ds/5/DE-72/BI-900,BI-900,냉온수기-1 냉각수 INV STATUS,,,,,,,,True
+158,/lotte_ds/5/DE-72/BI-902,BI-902,냉온수기-1 냉각수 INV LOCREM,,,,,,,,True
+159,/lotte_ds/5/DE-72/BI-901,BI-901,냉온수기-1 냉각수 INV ALARM,,,,,,,,True
+160,/lotte_ds/5/DE-72/BO-3,BO-3,냉온수기-1 기동정지,,,,,,,,True
+161,/lotte_ds/5/DE-72/AV-2004,AV-2004,냉온수기-1 가동시간,,,,,,,,True
+162,/lotte_ds/5/DE-72/BI-706,BI-706,냉온수기-1 STATUS,,,,,,,,True
+163,/lotte_ds/5/DE-72/BI-707,BI-707,냉온수기-1 LOCREM,,,,,,,,True
+164,/lotte_ds/5/DE-72/BI-708,BI-708,냉온수기-1 ALARM,,,,,,,,True
+165,/lotte_ds/5/DE-72/BI-806,BI-806,냉온수기-1  냉각탑-2 STATUS,,,,,,,,True
+166,/lotte_ds/5/DE-72/BO-105,BO-105,냉온수기-1  냉각탑-2 STARTSTOP,,,,,,,,True
+167,/lotte_ds/5/DE-72/BI-807,BI-807,냉온수기-1  냉각탑-2 LOCREM,,,,,,,,True
+168,/lotte_ds/5/DE-72/BI-800,BI-800,냉온수기-1  냉각탑-1 STATUS,,,,,,,,True
+169,/lotte_ds/5/DE-72/BO-102,BO-102,냉온수기-1  냉각탑-1 STARTSTOP,,,,,,,,True
+170,/lotte_ds/5/DE-72/BI-801,BI-801,냉온수기-1  냉각탑-1 LOCREM,,,,,,,,True
+171,/lotte_ds/5/DE-72/BI-1202,BI-1202,기계실 배기휀 STATUS,,,,,,,,True
+172,/lotte_ds/5/DE-72/BO-502,BO-502,기계실 배기휀 STARTSTOP,,,,,,,,True
+173,/lotte_ds/5/DE-72/BI-1203,BI-1203,기계실 배기휀 LOCREM,,,,,,,,True
+174,/lotte_ds/5/DE-72/BI-1200,BI-1200,기계실 급기휀 STATUS,,,,,,,,True
+175,/lotte_ds/5/DE-72/BO-501,BO-501,기계실 급기휀 STARTSTOP,,,,,,,,True
+176,/lotte_ds/5/DE-72/BI-1201,BI-1201,기계실 급기휀 LOCREM,,,,,,,,True
+177,/lotte_ds/5/DE-72/AV-1903,AV-1903,급탕 환수온도,,,,,,,,True
+178,/lotte_ds/5/DE-72/BO-404,BO-404,급탕 순환펌프-2 기동정지,,,,,,,,True
+179,/lotte_ds/5/DE-72/BI-1104,BI-1104,급탕 순환펌프-2 STATUS,,,,,,,,True
+180,/lotte_ds/5/DE-72/BI-1105,BI-1105,급탕 순환펌프-2 LOCREM,,,,,,,,True
+181,/lotte_ds/5/DE-72/BO-403,BO-403,급탕 순환펌프-1 기동정지,,,,,,,,True
+182,/lotte_ds/5/DE-72/BI-1102,BI-1102,급탕 순환펌프-1 STATUS,,,,,,,,True
+183,/lotte_ds/5/DE-72/BI-1103,BI-1103,급탕 순환펌프-1 LOCREM,,,,,,,,True
+184,/lotte_ds/5/DE-72/BO-500,BO-500,급탕 대류펌프-2 기동정지,,,,,,,,True
+185,/lotte_ds/5/DE-72/BI-1108,BI-1108,급탕 대류펌프-2 STATUS,,,,,,,,True
+186,/lotte_ds/5/DE-72/BI-1109,BI-1109,급탕 대류펌프-2 LOCREM,,,,,,,,True
+187,/lotte_ds/5/DE-72/BO-405,BO-405,급탕 대류펌프-1 기동정지,,,,,,,,True
+188,/lotte_ds/5/DE-72/BI-1106,BI-1106,급탕 대류펌프-1 STATUS,,,,,,,,True
+189,/lotte_ds/5/DE-72/BI-1107,BI-1107,급탕 대류펌프-1 LOCREM,,,,,,,,True
+190,/lotte_ds/5/DE-72/AV-2105,AV-2105,급탕 대류 펌프선택,,,,,,,,True
+191,/lotte_ds/5/DE-72/AV-2104,AV-2104,급탕 대류 자동수동,,,,,,,,True
+192,/lotte_ds/5/DE-72/AV-1902,AV-1902,급탕 공급온도,,,,,,,,True
+193,/lotte_ds/5/DE-72/AV-1900,AV-1900,공급 헷다 온도,,,,,,,,True
+194,/lotte_ds/5/DE-75/AI-403,AI-403,고가수조-2,,,,,,,,True
+195,/lotte_ds/5/DE-75/AI-402,AI-402,고가수조-1,,,,,,,,True
+196,/lotte_ds/5/DE-75/BI-301,BI-301,SF-4 13층 저수조실 급기휀-2 자동수동,,,,,,,,True
+197,/lotte_ds/5/DE-75/BI-300,BI-300,SF-4 13층 저수조실 급기휀-2 STATUS,,,,,,,,True
+198,/lotte_ds/5/DE-75/BO-100,BO-100,SF-4 13층 저수조실 급기휀-2 STARTSTOP,,,,,,,,True
+199,/lotte_ds/5/DE-75/BI-211,BI-211,SF-4 13층 저수조실 급기휀-1 자동수동,,,,,,,,True
+200,/lotte_ds/5/DE-75/BI-210,BI-210,SF-4 13층 저수조실 급기휀-1 STATUS,,,,,,,,True
+201,/lotte_ds/5/DE-75/BO-5,BO-5,SF-4 13층 저수조실 급기휀-1 STARTSTOP,,,,,,,,True
+202,/lotte_ds/5/DE-72/AV-2213,AV-2213,HWG 대류 정지설정,,,,,,,,True
+203,/lotte_ds/5/DE-72/AV-2212,AV-2212,HWG 대류 기동설정,,,,,,,,True
+204,/lotte_ds/5/DE-71/BI-109,BI-109,EF-7층 식당(서편)배기 자동수동,,,,,,,,True
+205,/lotte_ds/5/DE-71/BI-110,BI-110,EF-7층 식당(서편)배기 STATUS,,,,,,,,True
+206,/lotte_ds/5/DE-71/BO-2,BO-2,EF-7층 식당(서편)배기 STARTSTOP,,,,,,,,True
+207,/lotte_ds/5/DE-75/BI-209,BI-209,EF-7 13층 ELEV기계실 배기휀 자동수동,,,,,,,,True
+208,/lotte_ds/5/DE-75/BI-208,BI-208,EF-7 13층 ELEV기계실 배기휀 STATUS,,,,,,,,True
+209,/lotte_ds/5/DE-75/BO-4,BO-4,EF-7 13층 ELEV기계실 배기휀 STARTSTOP,,,,,,,,True
+210,/lotte_ds/5/DE-75/BI-207,BI-207,EF-6 13층 저수조실 배기휀-2 자동수동,,,,,,,,True
+211,/lotte_ds/5/DE-75/BI-206,BI-206,EF-6 13층 저수조실 배기휀-2 STATUS,,,,,,,,True
+212,/lotte_ds/5/DE-75/BO-3,BO-3,EF-6 13층 저수조실 배기휀-2 RF STARTSTOP,,,,,,,,True
+213,/lotte_ds/5/DE-75/BI-205,BI-205,EF-6 13층 저수조실 배기휀-1 자동수동,,,,,,,,True
+214,/lotte_ds/5/DE-75/BI-204,BI-204,EF-6 13층 저수조실 배기휀-1 STATUS,,,,,,,,True
+215,/lotte_ds/5/DE-75/BO-2,BO-2,EF-6 13층 저수조실 배기휀-1 STARTSTOP,,,,,,,,True
+216,/lotte_ds/5/DE-75/BI-201,BI-201,EF-5 우측 화장실 배기휀 자동수동,,,,,,,,True
+217,/lotte_ds/5/DE-75/BI-200,BI-200,EF-5 우측 화장실 배기휀 STATUS,,,,,,,,True
+218,/lotte_ds/5/DE-75/BO-0,BO-0,EF-5 우측 화장실 배기휀 STARTSTOP,,,,,,,,True
+219,/lotte_ds/5/DE-75/BI-203,BI-203,EF-2 지하1층 주방 배기휀 자동수동,,,,,,,,True
+220,/lotte_ds/5/DE-75/BI-202,BI-202,EF-2 지하1층 주방 배기휀 STATUS,,,,,,,,True
+221,/lotte_ds/5/DE-75/BO-1,BO-1,EF-2 지하1층 주방 배기휀 STARTSTOP,,,,,,,,True
+222,/lotte_ds/5/DE-64/AV-601,AV-601,AHU-9 혼합온도,,,,,,,,True
+223,/lotte_ds/5/DE-64/AO-503,AO-503,AHU-9 혼합 댐퍼,,,,,,,,True
+224,/lotte_ds/5/DE-64/BI-306,BI-306,AHU-9 필터 ALARM,,,,,,,,True
+225,/lotte_ds/5/DE-64/AV-2107,AV-2107,AHU-9 일일 가동시간,,,,,,,,True
+226,/lotte_ds/5/DE-64/AO-501,AO-501,AHU-9 외기 댐퍼,,,,,,,,True
+227,/lotte_ds/5/DE-64/AV-2019,AV-2019,AHU-9 연동모드,,,,,,,,True
+228,/lotte_ds/5/DE-64/AV-603,AV-603,AHU-9 실내온도,,,,,,,,True
+229,/lotte_ds/5/DE-64/AV-2012,AV-2012,AHU-9 설정온도,,,,,,,,True
+230,/lotte_ds/5/DE-64/AV-2014,AV-2014,AHU-9 밸브모드,,,,,,,,True
+231,/lotte_ds/5/DE-64/AO-502,AO-502,AHU-9 배기 댐퍼,,,,,,,,True
+232,/lotte_ds/5/DE-64/AV-2016,AV-2016,AHU-9 동파설정온도,,,,,,,,True
+233,/lotte_ds/5/DE-64/AV-2010,AV-2010,AHU-9 동파방지 밸브개도,,,,,,,,True
+234,/lotte_ds/5/DE-64/AV-2015,AV-2015,AHU-9 댐퍼설정,,,,,,,,True
+235,/lotte_ds/5/DE-64/AV-2011,AV-2011,AHU-9 댐퍼모드,,,,,,,,True
+236,/lotte_ds/5/DE-64/AO-500,AO-500,AHU-9 냉난방 밸브,,,,,,,,True
+237,/lotte_ds/5/DE-64/AV-2009,AV-2009,AHU-9 계절전환,,,,,,,,True
+238,/lotte_ds/5/DE-64/AV-2017,AV-2017,AHU-9 가상댐퍼,,,,,,,,True
+239,/lotte_ds/5/DE-64/AV-2013,AV-2013,AHU-9 가동시간,,,,,,,,True
+240,/lotte_ds/5/DE-64/BI-304,BI-304,AHU-9 SF 자동수동,,,,,,,,True
+241,/lotte_ds/5/DE-64/AO-504,AO-504,AHU-9 SF 인버터 출력,,,,,,,,True
+242,/lotte_ds/5/DE-64/AI-800,AI-800,AHU-9 SF 온도,,,,,,,,True
+243,/lotte_ds/5/DE-64/AI-801,AI-801,AHU-9 SF 습도,,,,,,,,True
+244,/lotte_ds/5/DE-64/BI-300,BI-300,AHU-9 SF STATUS,,,,,,,,True
+245,/lotte_ds/5/DE-64/BO-100,BO-100,AHU-9 SF STARTSTOP,,,,,,,,True
+246,/lotte_ds/5/DE-64/BI-301,BI-301,AHU-9 SF ALARM,,,,,,,,True
+247,/lotte_ds/5/DE-64/BI-307,BI-307,AHU-9 SD ALARM,,,,,,,,True
+248,/lotte_ds/5/DE-64/BI-305,BI-305,AHU-9 RF 자동수동,,,,,,,,True
+249,/lotte_ds/5/DE-64/AO-505,AO-505,AHU-9 RF 인버터 출력,,,,,,,,True
+250,/lotte_ds/5/DE-64/AI-802,AI-802,AHU-9 RF 온도,,,,,,,,True
+251,/lotte_ds/5/DE-64/AI-803,AI-803,AHU-9 RF 습도,,,,,,,,True
+252,/lotte_ds/5/DE-64/BI-302,BI-302,AHU-9 RF STATUS,,,,,,,,True
+253,/lotte_ds/5/DE-64/BO-101,BO-101,AHU-9 RF STARTSTOP,,,,,,,,True
+254,/lotte_ds/5/DE-64/BI-303,BI-303,AHU-9 RF ALARM,,,,,,,,True
+255,/lotte_ds/5/DE-64/AI-804,AI-804,AHU-9 CO2 농도,,,,,,,,True
+256,/lotte_ds/5/DE-64/AV-600,AV-600,AHU-8 혼합온도,,,,,,,,True
+257,/lotte_ds/5/DE-64/AO-403,AO-403,AHU-8 혼합 댐퍼,,,,,,,,True
+258,/lotte_ds/5/DE-64/BI-206,BI-206,AHU-8 필터 ALARM,,,,,,,,True
+259,/lotte_ds/5/DE-64/AV-2106,AV-2106,AHU-8 일일 가동시간,,,,,,,,True
+260,/lotte_ds/5/DE-64/AO-401,AO-401,AHU-8 외기 댐퍼,,,,,,,,True
+261,/lotte_ds/5/DE-64/AV-2018,AV-2018,AHU-8 연동모드,,,,,,,,True
+262,/lotte_ds/5/DE-64/AV-602,AV-602,AHU-8 실내온도,,,,,,,,True
+263,/lotte_ds/5/DE-64/AV-2003,AV-2003,AHU-8 설정온도,,,,,,,,True
+264,/lotte_ds/5/DE-64/AV-2005,AV-2005,AHU-8 밸브모드,,,,,,,,True
+265,/lotte_ds/5/DE-64/AO-402,AO-402,AHU-8 배기 댐퍼,,,,,,,,True
+266,/lotte_ds/5/DE-64/AV-2007,AV-2007,AHU-8 동파설정온도,,,,,,,,True
+267,/lotte_ds/5/DE-64/AV-2001,AV-2001,AHU-8 동파방지 밸브개도,,,,,,,,True
+268,/lotte_ds/5/DE-64/AV-2006,AV-2006,AHU-8 댐퍼설정,,,,,,,,True
+269,/lotte_ds/5/DE-64/AV-2002,AV-2002,AHU-8 댐퍼모드,,,,,,,,True
+270,/lotte_ds/5/DE-64/AO-400,AO-400,AHU-8 냉난방 밸브,,,,,,,,True
+271,/lotte_ds/5/DE-64/AV-2000,AV-2000,AHU-8 계절전환,,,,,,,,True
+272,/lotte_ds/5/DE-64/AV-2008,AV-2008,AHU-8 가상댐퍼,,,,,,,,True
+273,/lotte_ds/5/DE-64/AV-2004,AV-2004,AHU-8 가동시간,,,,,,,,True
+274,/lotte_ds/5/DE-64/BI-204,BI-204,AHU-8 SF 자동수동,,,,,,,,True
+275,/lotte_ds/5/DE-64/AO-404,AO-404,AHU-8 SF 인버터 출력,,,,,,,,True
+276,/lotte_ds/5/DE-64/AI-700,AI-700,AHU-8 SF 온도,,,,,,,,True
+277,/lotte_ds/5/DE-64/AI-701,AI-701,AHU-8 SF 습도,,,,,,,,True
+278,/lotte_ds/5/DE-64/BI-200,BI-200,AHU-8 SF STATUS,,,,,,,,True
+279,/lotte_ds/5/DE-64/BO-0,BO-0,AHU-8 SF STARTSTOP,,,,,,,,True
+280,/lotte_ds/5/DE-64/BI-201,BI-201,AHU-8 SF ALARM,,,,,,,,True
+281,/lotte_ds/5/DE-64/BI-207,BI-207,AHU-8 SD ALARM,,,,,,,,True
+282,/lotte_ds/5/DE-64/BI-205,BI-205,AHU-8 RF 자동수동,,,,,,,,True
+283,/lotte_ds/5/DE-64/AO-405,AO-405,AHU-8 RF 인버터 출력,,,,,,,,True
+284,/lotte_ds/5/DE-64/AI-702,AI-702,AHU-8 RF 온도,,,,,,,,True
+285,/lotte_ds/5/DE-64/AI-703,AI-703,AHU-8 RF 습도,,,,,,,,True
+286,/lotte_ds/5/DE-64/BI-202,BI-202,AHU-8 RF STATUS,,,,,,,,True
+287,/lotte_ds/5/DE-64/BO-1,BO-1,AHU-8 RF STARTSTOP,,,,,,,,True
+288,/lotte_ds/5/DE-64/BI-203,BI-203,AHU-8 RF ALARM,,,,,,,,True
+289,/lotte_ds/5/DE-64/AI-704,AI-704,AHU-8 CO2 농도,,,,,,,,True
+290,/lotte_ds/5/DE-63/AV-601,AV-601,AHU-6 혼합온도,,,,,,,,True
+291,/lotte_ds/5/DE-63/AO-503,AO-503,AHU-6 혼합 댐퍼,,,,,,,,True
+292,/lotte_ds/5/DE-63/BI-306,BI-306,AHU-6 필터 ALARM,,,,,,,,True
+293,/lotte_ds/5/DE-63/AV-2107,AV-2107,AHU-6 일일 가동시간,,,,,,,,True
+294,/lotte_ds/5/DE-63/AO-501,AO-501,AHU-6 외기 댐퍼,,,,,,,,True
+295,/lotte_ds/5/DE-63/AV-2019,AV-2019,AHU-6 연동모드,,,,,,,,True
+296,/lotte_ds/5/DE-61/AV-806,AV-806,AHU-6 실내온도,,,,,,,,True
+297,/lotte_ds/5/DE-63/AV-603,AV-603,AHU-6 실내온도,,,,,,,,True
+298,/lotte_ds/5/DE-63/AV-2012,AV-2012,AHU-6 설정온도,,,,,,,,True
+299,/lotte_ds/5/DE-63/AV-2014,AV-2014,AHU-6 밸브모드,,,,,,,,True
+300,/lotte_ds/5/DE-63/AO-502,AO-502,AHU-6 배기 댐퍼,,,,,,,,True
+301,/lotte_ds/5/DE-63/AV-2016,AV-2016,AHU-6 동파설정온도,,,,,,,,True
+302,/lotte_ds/5/DE-63/AV-2010,AV-2010,AHU-6 동파방지 밸브개도,,,,,,,,True
+303,/lotte_ds/5/DE-63/AV-2015,AV-2015,AHU-6 댐퍼설정,,,,,,,,True
+304,/lotte_ds/5/DE-63/AV-2011,AV-2011,AHU-6 댐퍼모드,,,,,,,,True
+305,/lotte_ds/5/DE-63/AO-500,AO-500,AHU-6 냉난방 밸브,,,,,,,,True
+306,/lotte_ds/5/DE-63/AV-2009,AV-2009,AHU-6 계절전환,,,,,,,,True
+307,/lotte_ds/5/DE-63/AV-2017,AV-2017,AHU-6 가상댐퍼,,,,,,,,True
+308,/lotte_ds/5/DE-63/AV-2013,AV-2013,AHU-6 가동시간,,,,,,,,True
+309,/lotte_ds/5/DE-63/BI-304,BI-304,AHU-6 SF 자동수동,,,,,,,,True
+310,/lotte_ds/5/DE-63/AO-504,AO-504,AHU-6 SF 인버터 출력,,,,,,,,True
+311,/lotte_ds/5/DE-63/AI-800,AI-800,AHU-6 SF 온도,,,,,,,,True
+312,/lotte_ds/5/DE-63/AI-801,AI-801,AHU-6 SF 습도,,,,,,,,True
+313,/lotte_ds/5/DE-63/BI-300,BI-300,AHU-6 SF STATUS,,,,,,,,True
+314,/lotte_ds/5/DE-63/BO-100,BO-100,AHU-6 SF STARTSTOP,,,,,,,,True
+315,/lotte_ds/5/DE-63/BI-301,BI-301,AHU-6 SF ALARM,,,,,,,,True
+316,/lotte_ds/5/DE-63/BI-307,BI-307,AHU-6 SD ALARM,,,,,,,,True
+317,/lotte_ds/5/DE-63/BI-305,BI-305,AHU-6 RF 자동수동,,,,,,,,True
+318,/lotte_ds/5/DE-63/AO-505,AO-505,AHU-6 RF 인버터 출력,,,,,,,,True
+319,/lotte_ds/5/DE-63/AI-802,AI-802,AHU-6 RF 온도,,,,,,,,True
+320,/lotte_ds/5/DE-63/AI-803,AI-803,AHU-6 RF 습도,,,,,,,,True
+321,/lotte_ds/5/DE-63/BI-302,BI-302,AHU-6 RF STATUS,,,,,,,,True
+322,/lotte_ds/5/DE-63/BO-101,BO-101,AHU-6 RF STARTSTOP,,,,,,,,True
+323,/lotte_ds/5/DE-63/BI-303,BI-303,AHU-6 RF ALARM,,,,,,,,True
+324,/lotte_ds/5/DE-63/AI-804,AI-804,AHU-6 CO2 농도,,,,,,,,True
+325,/lotte_ds/5/DE-62/AV-601,AV-601,AHU-5 혼합온도,,,,,,,,True
+326,/lotte_ds/5/DE-62/AO-503,AO-503,AHU-5 혼합 댐퍼,,,,,,,,True
+327,/lotte_ds/5/DE-62/BI-306,BI-306,AHU-5 필터 ALARM,,,,,,,,True
+328,/lotte_ds/5/DE-62/AV-2107,AV-2107,AHU-5 일일 가동시간,,,,,,,,True
+329,/lotte_ds/5/DE-62/AO-501,AO-501,AHU-5 외기 댐퍼,,,,,,,,True
+330,/lotte_ds/5/DE-62/AV-2019,AV-2019,AHU-5 연동모드,,,,,,,,True
+331,/lotte_ds/5/DE-62/AV-603,AV-603,AHU-5 실내온도,,,,,,,,True
+332,/lotte_ds/5/DE-62/AV-2012,AV-2012,AHU-5 설정온도,,,,,,,,True
+333,/lotte_ds/5/DE-62/AV-2014,AV-2014,AHU-5 밸브모드,,,,,,,,True
+334,/lotte_ds/5/DE-62/AO-502,AO-502,AHU-5 배기 댐퍼,,,,,,,,True
+335,/lotte_ds/5/DE-62/AV-2016,AV-2016,AHU-5 동파설정온도,,,,,,,,True
+336,/lotte_ds/5/DE-62/AV-2010,AV-2010,AHU-5 동파방지 밸브개도,,,,,,,,True
+337,/lotte_ds/5/DE-62/AV-2015,AV-2015,AHU-5 댐퍼설정,,,,,,,,True
+338,/lotte_ds/5/DE-62/AV-2011,AV-2011,AHU-5 댐퍼모드,,,,,,,,True
+339,/lotte_ds/5/DE-62/AO-500,AO-500,AHU-5 냉난방 밸브,,,,,,,,True
+340,/lotte_ds/5/DE-62/AV-2009,AV-2009,AHU-5 계절전환,,,,,,,,True
+341,/lotte_ds/5/DE-62/AV-2017,AV-2017,AHU-5 가상댐퍼,,,,,,,,True
+342,/lotte_ds/5/DE-62/AV-2013,AV-2013,AHU-5 가동시간,,,,,,,,True
+343,/lotte_ds/5/DE-62/BI-304,BI-304,AHU-5 SF 자동수동,,,,,,,,True
+344,/lotte_ds/5/DE-62/AO-504,AO-504,AHU-5 SF 인버터 출력,,,,,,,,True
+345,/lotte_ds/5/DE-62/AI-800,AI-800,AHU-5 SF 온도,,,,,,,,True
+346,/lotte_ds/5/DE-62/AI-801,AI-801,AHU-5 SF 습도,,,,,,,,True
+347,/lotte_ds/5/DE-62/BI-300,BI-300,AHU-5 SF STATUS,,,,,,,,True
+348,/lotte_ds/5/DE-62/BO-100,BO-100,AHU-5 SF STARTSTOP,,,,,,,,True
+349,/lotte_ds/5/DE-62/BI-301,BI-301,AHU-5 SF ALARM,,,,,,,,True
+350,/lotte_ds/5/DE-62/BI-307,BI-307,AHU-5 SD ALARM,,,,,,,,True
+351,/lotte_ds/5/DE-62/BI-305,BI-305,AHU-5 RF 자동수동,,,,,,,,True
+352,/lotte_ds/5/DE-62/AO-505,AO-505,AHU-5 RF 인버터 출력,,,,,,,,True
+353,/lotte_ds/5/DE-62/AI-802,AI-802,AHU-5 RF 온도,,,,,,,,True
+354,/lotte_ds/5/DE-62/AI-803,AI-803,AHU-5 RF 습도,,,,,,,,True
+355,/lotte_ds/5/DE-62/BI-302,BI-302,AHU-5 RF STATUS,,,,,,,,True
+356,/lotte_ds/5/DE-62/BO-101,BO-101,AHU-5 RF STARTSTOP,,,,,,,,True
+357,/lotte_ds/5/DE-62/BI-303,BI-303,AHU-5 RF ALARM,,,,,,,,True
+358,/lotte_ds/5/DE-62/AI-804,AI-804,AHU-5 CO2 농도,,,,,,,,True
+359,/lotte_ds/5/DE-62/AV-600,AV-600,AHU-4 혼합온도,,,,,,,,True
+360,/lotte_ds/5/DE-62/AO-403,AO-403,AHU-4 혼합 댐퍼,,,,,,,,True
+361,/lotte_ds/5/DE-62/BI-206,BI-206,AHU-4 필터 ALARM,,,,,,,,True
+362,/lotte_ds/5/DE-62/AV-2106,AV-2106,AHU-4 일일 가동시간,,,,,,,,True
+363,/lotte_ds/5/DE-62/AO-401,AO-401,AHU-4 외기 댐퍼,,,,,,,,True
+364,/lotte_ds/5/DE-62/AV-2018,AV-2018,AHU-4 연동모드,,,,,,,,True
+365,/lotte_ds/5/DE-62/AV-602,AV-602,AHU-4 실내온도,,,,,,,,True
+366,/lotte_ds/5/DE-62/AV-2003,AV-2003,AHU-4 설정온도,,,,,,,,True
+367,/lotte_ds/5/DE-62/AV-2005,AV-2005,AHU-4 밸브모드,,,,,,,,True
+368,/lotte_ds/5/DE-62/AO-402,AO-402,AHU-4 배기 댐퍼,,,,,,,,True
+369,/lotte_ds/5/DE-62/AV-2007,AV-2007,AHU-4 동파설정온도,,,,,,,,True
+370,/lotte_ds/5/DE-62/AV-2001,AV-2001,AHU-4 동파방지 밸브개도,,,,,,,,True
+371,/lotte_ds/5/DE-62/AV-2006,AV-2006,AHU-4 댐퍼설정,,,,,,,,True
+372,/lotte_ds/5/DE-62/AV-2002,AV-2002,AHU-4 댐퍼모드,,,,,,,,True
+373,/lotte_ds/5/DE-62/AO-400,AO-400,AHU-4 냉난방 밸브,,,,,,,,True
+374,/lotte_ds/5/DE-62/AV-2000,AV-2000,AHU-4 계절전환,,,,,,,,True
+375,/lotte_ds/5/DE-62/AV-2008,AV-2008,AHU-4 가상댐퍼,,,,,,,,True
+376,/lotte_ds/5/DE-62/AV-2004,AV-2004,AHU-4 가동시간,,,,,,,,True
+377,/lotte_ds/5/DE-62/BI-204,BI-204,AHU-4 SF 자동수동,,,,,,,,True
+378,/lotte_ds/5/DE-62/AO-404,AO-404,AHU-4 SF 인버터 출력,,,,,,,,True
+379,/lotte_ds/5/DE-62/AI-700,AI-700,AHU-4 SF 온도,,,,,,,,True
+380,/lotte_ds/5/DE-62/AI-701,AI-701,AHU-4 SF 습도,,,,,,,,True
+381,/lotte_ds/5/DE-62/BI-200,BI-200,AHU-4 SF STATUS,,,,,,,,True
+382,/lotte_ds/5/DE-62/BO-0,BO-0,AHU-4 SF STARTSTOP,,,,,,,,True
+383,/lotte_ds/5/DE-62/BI-201,BI-201,AHU-4 SF ALARM,,,,,,,,True
+384,/lotte_ds/5/DE-62/BI-207,BI-207,AHU-4 SD ALARM,,,,,,,,True
+385,/lotte_ds/5/DE-62/BI-205,BI-205,AHU-4 RF 자동수동,,,,,,,,True
+386,/lotte_ds/5/DE-62/AO-405,AO-405,AHU-4 RF 인버터 출력,,,,,,,,True
+387,/lotte_ds/5/DE-62/AI-702,AI-702,AHU-4 RF 온도,,,,,,,,True
+388,/lotte_ds/5/DE-62/AI-703,AI-703,AHU-4 RF 습도,,,,,,,,True
+389,/lotte_ds/5/DE-62/BI-202,BI-202,AHU-4 RF STATUS,,,,,,,,True
+390,/lotte_ds/5/DE-62/BO-1,BO-1,AHU-4 RF STARTSTOP,,,,,,,,True
+391,/lotte_ds/5/DE-62/BI-203,BI-203,AHU-4 RF ALARM,,,,,,,,True
+392,/lotte_ds/5/DE-62/AI-704,AI-704,AHU-4 CO2 농도,,,,,,,,True
+393,/lotte_ds/5/DE-63/AV-600,AV-600,AHU-3 혼합온도,,,,,,,,True
+394,/lotte_ds/5/DE-63/AO-403,AO-403,AHU-3 혼합 댐퍼,,,,,,,,True
+395,/lotte_ds/5/DE-63/BI-206,BI-206,AHU-3 필터 ALARM,,,,,,,,True
+396,/lotte_ds/5/DE-63/AV-2106,AV-2106,AHU-3 일일 가동시간,,,,,,,,True
+397,/lotte_ds/5/DE-63/AO-401,AO-401,AHU-3 외기 댐퍼,,,,,,,,True
+398,/lotte_ds/5/DE-63/AV-2018,AV-2018,AHU-3 연동모드,,,,,,,,True
+399,/lotte_ds/5/DE-63/AV-602,AV-602,AHU-3 실내온도,,,,,,,,True
+400,/lotte_ds/5/DE-63/AV-2003,AV-2003,AHU-3 설정온도,,,,,,,,True
+401,/lotte_ds/5/DE-63/AV-2005,AV-2005,AHU-3 밸브모드,,,,,,,,True
+402,/lotte_ds/5/DE-63/AO-402,AO-402,AHU-3 배기 댐퍼,,,,,,,,True
+403,/lotte_ds/5/DE-63/AV-2007,AV-2007,AHU-3 동파설정온도,,,,,,,,True
+404,/lotte_ds/5/DE-63/AV-2001,AV-2001,AHU-3 동파방지 밸브개도,,,,,,,,True
+405,/lotte_ds/5/DE-63/AV-2006,AV-2006,AHU-3 댐퍼설정,,,,,,,,True
+406,/lotte_ds/5/DE-63/AV-2002,AV-2002,AHU-3 댐퍼모드,,,,,,,,True
+407,/lotte_ds/5/DE-63/AO-400,AO-400,AHU-3 냉난방 밸브,,,,,,,,True
+408,/lotte_ds/5/DE-63/AV-2000,AV-2000,AHU-3 계절전환,,,,,,,,True
+409,/lotte_ds/5/DE-63/AV-2008,AV-2008,AHU-3 가상댐퍼,,,,,,,,True
+410,/lotte_ds/5/DE-63/AV-2004,AV-2004,AHU-3 가동시간,,,,,,,,True
+411,/lotte_ds/5/DE-63/BI-204,BI-204,AHU-3 SF 자동수동,,,,,,,,True
+412,/lotte_ds/5/DE-63/AO-404,AO-404,AHU-3 SF 인버터 출력,,,,,,,,True
+413,/lotte_ds/5/DE-63/AI-700,AI-700,AHU-3 SF 온도,,,,,,,,True
+414,/lotte_ds/5/DE-63/AI-701,AI-701,AHU-3 SF 습도,,,,,,,,True
+415,/lotte_ds/5/DE-63/BI-200,BI-200,AHU-3 SF STATUS,,,,,,,,True
+416,/lotte_ds/5/DE-63/BO-0,BO-0,AHU-3 SF STARTSTOP,,,,,,,,True
+417,/lotte_ds/5/DE-63/BI-201,BI-201,AHU-3 SF ALARM,,,,,,,,True
+418,/lotte_ds/5/DE-63/BI-207,BI-207,AHU-3 SD ALARM,,,,,,,,True
+419,/lotte_ds/5/DE-63/BI-205,BI-205,AHU-3 RF 자동수동,,,,,,,,True
+420,/lotte_ds/5/DE-63/AO-405,AO-405,AHU-3 RF 인버터 출력,,,,,,,,True
+421,/lotte_ds/5/DE-63/AI-702,AI-702,AHU-3 RF 온도,,,,,,,,True
+422,/lotte_ds/5/DE-63/AI-703,AI-703,AHU-3 RF 습도,,,,,,,,True
+423,/lotte_ds/5/DE-63/BI-202,BI-202,AHU-3 RF STATUS,,,,,,,,True
+424,/lotte_ds/5/DE-63/BO-1,BO-1,AHU-3 RF STARTSTOP,,,,,,,,True
+425,/lotte_ds/5/DE-63/BI-203,BI-203,AHU-3 RF ALARM,,,,,,,,True
+426,/lotte_ds/5/DE-63/AI-704,AI-704,AHU-3 CO2 농도,,,,,,,,True
+427,/lotte_ds/5/DE-74/AV-601,AV-601,AHU-23 혼합온도,,,,,,,,True
+428,/lotte_ds/5/DE-74/AO-503,AO-503,AHU-23 혼합 댐퍼,,,,,,,,True
+429,/lotte_ds/5/DE-74/BI-306,BI-306,AHU-23 필터 ALARM,,,,,,,,True
+430,/lotte_ds/5/DE-74/AV-2107,AV-2107,AHU-23 일일 가동시간,,,,,,,,True
+431,/lotte_ds/5/DE-74/AO-501,AO-501,AHU-23 외기 댐퍼,,,,,,,,True
+432,/lotte_ds/5/DE-74/AV-2019,AV-2019,AHU-23 연동모드,,,,,,,,True
+433,/lotte_ds/5/DE-74/AV-603,AV-603,AHU-23 실내온도,,,,,,,,True
+434,/lotte_ds/5/DE-74/AV-2012,AV-2012,AHU-23 설정온도,,,,,,,,True
+435,/lotte_ds/5/DE-74/AV-2014,AV-2014,AHU-23 밸브모드,,,,,,,,True
+436,/lotte_ds/5/DE-74/AO-502,AO-502,AHU-23 배기 댐퍼,,,,,,,,True
+437,/lotte_ds/5/DE-74/AV-2016,AV-2016,AHU-23 동파설정온도,,,,,,,,True
+438,/lotte_ds/5/DE-74/AV-2010,AV-2010,AHU-23 동파방지 밸브개도,,,,,,,,True
+439,/lotte_ds/5/DE-74/AV-2015,AV-2015,AHU-23 댐퍼설정,,,,,,,,True
+440,/lotte_ds/5/DE-74/AV-2011,AV-2011,AHU-23 댐퍼모드,,,,,,,,True
+441,/lotte_ds/5/DE-74/AO-500,AO-500,AHU-23 냉난방 밸브,,,,,,,,True
+442,/lotte_ds/5/DE-74/AV-2009,AV-2009,AHU-23 계절전환,,,,,,,,True
+443,/lotte_ds/5/DE-74/AV-2017,AV-2017,AHU-23 가상댐퍼,,,,,,,,True
+444,/lotte_ds/5/DE-74/AV-2013,AV-2013,AHU-23 가동시간,,,,,,,,True
+445,/lotte_ds/5/DE-74/BI-204,BI-204,AHU-23 SF 자동수동,,,,,,,,True
+446,/lotte_ds/5/DE-74/AI-800,AI-800,AHU-23 SF 온도,,,,,,,,True
+447,/lotte_ds/5/DE-74/AI-801,AI-801,AHU-23 SF 습도,,,,,,,,True
+448,/lotte_ds/5/DE-74/BI-200,BI-200,AHU-23 SF STATUS,,,,,,,,True
+449,/lotte_ds/5/DE-74/BO-0,BO-0,AHU-23 SF STARTSTOP,,,,,,,,True
+450,/lotte_ds/5/DE-74/BI-201,BI-201,AHU-23 SF ALARM,,,,,,,,True
+451,/lotte_ds/5/DE-74/BI-307,BI-307,AHU-23 SD ALARM,,,,,,,,True
+452,/lotte_ds/5/DE-74/BI-205,BI-205,AHU-23 RF 자동수동,,,,,,,,True
+453,/lotte_ds/5/DE-74/AI-802,AI-802,AHU-23 RF 온도,,,,,,,,True
+454,/lotte_ds/5/DE-74/AI-803,AI-803,AHU-23 RF 습도,,,,,,,,True
+455,/lotte_ds/5/DE-74/BI-202,BI-202,AHU-23 RF STATUS,,,,,,,,True
+456,/lotte_ds/5/DE-74/BO-1,BO-1,AHU-23 RF STARTSTOP,,,,,,,,True
+457,/lotte_ds/5/DE-74/BI-203,BI-203,AHU-23 RF ALARM,,,,,,,,True
+458,/lotte_ds/5/DE-74/AI-804,AI-804,AHU-23 CO2 농도,,,,,,,,True
+459,/lotte_ds/5/DE-74/AO-504,AO-504,AHU-23  SF 인버터 출력,,,,,,,,True
+460,/lotte_ds/5/DE-74/AO-505,AO-505,AHU-23  RF 인버터 출력,,,,,,,,True
+461,/lotte_ds/5/DE-74/AV-600,AV-600,AHU-22 혼합온도,,,,,,,,True
+462,/lotte_ds/5/DE-74/AO-403,AO-403,AHU-22 혼합 댐퍼,,,,,,,,True
+463,/lotte_ds/5/DE-74/BI-206,BI-206,AHU-22 필터 ALARM,,,,,,,,True
+464,/lotte_ds/5/DE-74/AV-2106,AV-2106,AHU-22 일일 가동시간,,,,,,,,True
+465,/lotte_ds/5/DE-74/AO-401,AO-401,AHU-22 외기 댐퍼,,,,,,,,True
+466,/lotte_ds/5/DE-74/AV-2018,AV-2018,AHU-22 연동모드,,,,,,,,True
+467,/lotte_ds/5/DE-74/AV-602,AV-602,AHU-22 실내온도,,,,,,,,True
+468,/lotte_ds/5/DE-74/AV-2003,AV-2003,AHU-22 설정온도,,,,,,,,True
+469,/lotte_ds/5/DE-74/AV-2005,AV-2005,AHU-22 밸브모드,,,,,,,,True
+470,/lotte_ds/5/DE-74/AO-402,AO-402,AHU-22 배기 댐퍼,,,,,,,,True
+471,/lotte_ds/5/DE-74/AV-2007,AV-2007,AHU-22 동파설정온도,,,,,,,,True
+472,/lotte_ds/5/DE-74/AV-2001,AV-2001,AHU-22 동파방지 밸브개도,,,,,,,,True
+473,/lotte_ds/5/DE-74/AV-2006,AV-2006,AHU-22 댐퍼설정,,,,,,,,True
+474,/lotte_ds/5/DE-74/AV-2002,AV-2002,AHU-22 댐퍼모드,,,,,,,,True
+475,/lotte_ds/5/DE-74/AO-400,AO-400,AHU-22 냉난방 밸브,,,,,,,,True
+476,/lotte_ds/5/DE-74/AV-2000,AV-2000,AHU-22 계절전환,,,,,,,,True
+477,/lotte_ds/5/DE-74/AV-2008,AV-2008,AHU-22 가상댐퍼,,,,,,,,True
+478,/lotte_ds/5/DE-74/AV-2004,AV-2004,AHU-22 가동시간,,,,,,,,True
+479,/lotte_ds/5/DE-74/BI-304,BI-304,AHU-22 SF 자동수동,,,,,,,,True
+480,/lotte_ds/5/DE-74/AI-700,AI-700,AHU-22 SF 온도,,,,,,,,True
+481,/lotte_ds/5/DE-74/AI-701,AI-701,AHU-22 SF 습도,,,,,,,,True
+482,/lotte_ds/5/DE-74/BI-300,BI-300,AHU-22 SF STATUS,,,,,,,,True
+483,/lotte_ds/5/DE-74/BO-100,BO-100,AHU-22 SF STARTSTOP,,,,,,,,True
+484,/lotte_ds/5/DE-74/BI-301,BI-301,AHU-22 SF ALARM,,,,,,,,True
+485,/lotte_ds/5/DE-74/BI-207,BI-207,AHU-22 SD ALARM,,,,,,,,True
+486,/lotte_ds/5/DE-74/BI-305,BI-305,AHU-22 RF 자동수동,,,,,,,,True
+487,/lotte_ds/5/DE-74/AI-702,AI-702,AHU-22 RF 온도,,,,,,,,True
+488,/lotte_ds/5/DE-74/AI-703,AI-703,AHU-22 RF 습도,,,,,,,,True
+489,/lotte_ds/5/DE-74/BI-302,BI-302,AHU-22 RF STATUS,,,,,,,,True
+490,/lotte_ds/5/DE-74/BO-101,BO-101,AHU-22 RF STARTSTOP,,,,,,,,True
+491,/lotte_ds/5/DE-74/BI-303,BI-303,AHU-22 RF ALARM,,,,,,,,True
+492,/lotte_ds/5/DE-74/AI-704,AI-704,AHU-22 CO2 농도,,,,,,,,True
+493,/lotte_ds/5/DE-74/AO-404,AO-404,AHU-22  SF 인버터 출력,,,,,,,,True
+494,/lotte_ds/5/DE-74/AO-405,AO-405,AHU-22  RF 인버터 출력,,,,,,,,True
+495,/lotte_ds/5/DE-73/AV-601,AV-601,AHU-21 혼합온도,,,,,,,,True
+496,/lotte_ds/5/DE-73/AO-503,AO-503,AHU-21 혼합 댐퍼,,,,,,,,True
+497,/lotte_ds/5/DE-73/BI-306,BI-306,AHU-21 필터 ALARM,,,,,,,,True
+498,/lotte_ds/5/DE-73/AV-2107,AV-2107,AHU-21 일일 가동시간,,,,,,,,True
+499,/lotte_ds/5/DE-73/AO-501,AO-501,AHU-21 외기 댐퍼,,,,,,,,True
+500,/lotte_ds/5/DE-73/AV-2019,AV-2019,AHU-21 연동모드,,,,,,,,True
+501,/lotte_ds/5/DE-73/AV-603,AV-603,AHU-21 실내온도,,,,,,,,True
+502,/lotte_ds/5/DE-73/AV-2012,AV-2012,AHU-21 설정온도,,,,,,,,True
+503,/lotte_ds/5/DE-73/AV-2014,AV-2014,AHU-21 밸브모드,,,,,,,,True
+504,/lotte_ds/5/DE-73/AO-502,AO-502,AHU-21 배기 댐퍼,,,,,,,,True
+505,/lotte_ds/5/DE-73/AV-2016,AV-2016,AHU-21 동파설정온도,,,,,,,,True
+506,/lotte_ds/5/DE-73/AV-2010,AV-2010,AHU-21 동파방지 밸브개도,,,,,,,,True
+507,/lotte_ds/5/DE-73/AV-2015,AV-2015,AHU-21 댐퍼설정,,,,,,,,True
+508,/lotte_ds/5/DE-73/AV-2011,AV-2011,AHU-21 댐퍼모드,,,,,,,,True
+509,/lotte_ds/5/DE-73/AO-500,AO-500,AHU-21 냉난방 밸브,,,,,,,,True
+510,/lotte_ds/5/DE-73/AV-2009,AV-2009,AHU-21 계절전환,,,,,,,,True
+511,/lotte_ds/5/DE-73/AV-2017,AV-2017,AHU-21 가상댐퍼,,,,,,,,True
+512,/lotte_ds/5/DE-73/AV-2013,AV-2013,AHU-21 가동시간,,,,,,,,True
+513,/lotte_ds/5/DE-73/BI-304,BI-304,AHU-21 SF 자동수동,,,,,,,,True
+514,/lotte_ds/5/DE-73/AO-504,AO-504,AHU-21 SF 인버터 출력,,,,,,,,True
+515,/lotte_ds/5/DE-73/AI-800,AI-800,AHU-21 SF 온도,,,,,,,,True
+516,/lotte_ds/5/DE-73/AI-801,AI-801,AHU-21 SF 습도,,,,,,,,True
+517,/lotte_ds/5/DE-73/BI-300,BI-300,AHU-21 SF STATUS,,,,,,,,True
+518,/lotte_ds/5/DE-73/BO-100,BO-100,AHU-21 SF STARTSTOP,,,,,,,,True
+519,/lotte_ds/5/DE-73/BI-301,BI-301,AHU-21 SF ALARM,,,,,,,,True
+520,/lotte_ds/5/DE-73/BI-307,BI-307,AHU-21 SD ALARM,,,,,,,,True
+521,/lotte_ds/5/DE-73/BI-305,BI-305,AHU-21 RF 자동수동,,,,,,,,True
+522,/lotte_ds/5/DE-73/AO-505,AO-505,AHU-21 RF 인버터 출력,,,,,,,,True
+523,/lotte_ds/5/DE-73/AI-802,AI-802,AHU-21 RF 온도,,,,,,,,True
+524,/lotte_ds/5/DE-73/AI-803,AI-803,AHU-21 RF 습도,,,,,,,,True
+525,/lotte_ds/5/DE-73/BI-302,BI-302,AHU-21 RF STATUS,,,,,,,,True
+526,/lotte_ds/5/DE-73/BO-101,BO-101,AHU-21 RF STARTSTOP,,,,,,,,True
+527,/lotte_ds/5/DE-73/BI-303,BI-303,AHU-21 RF ALARM,,,,,,,,True
+528,/lotte_ds/5/DE-73/AI-804,AI-804,AHU-21 CO2 농도,,,,,,,,True
+529,/lotte_ds/5/DE-73/AV-600,AV-600,AHU-20 혼합온도,,,,,,,,True
+530,/lotte_ds/5/DE-73/AO-403,AO-403,AHU-20 혼합 댐퍼,,,,,,,,True
+531,/lotte_ds/5/DE-73/BI-206,BI-206,AHU-20 필터 ALARM,,,,,,,,True
+532,/lotte_ds/5/DE-73/AV-2106,AV-2106,AHU-20 일일 가동시간,,,,,,,,True
+533,/lotte_ds/5/DE-73/AO-401,AO-401,AHU-20 외기 댐퍼,,,,,,,,True
+534,/lotte_ds/5/DE-73/AV-2018,AV-2018,AHU-20 연동모드,,,,,,,,True
+535,/lotte_ds/5/DE-73/AV-602,AV-602,AHU-20 실내온도,,,,,,,,True
+536,/lotte_ds/5/DE-73/AV-2003,AV-2003,AHU-20 설정온도,,,,,,,,True
+537,/lotte_ds/5/DE-73/AV-2005,AV-2005,AHU-20 밸브모드,,,,,,,,True
+538,/lotte_ds/5/DE-73/AO-402,AO-402,AHU-20 배기 댐퍼,,,,,,,,True
+539,/lotte_ds/5/DE-73/AV-2007,AV-2007,AHU-20 동파설정온도,,,,,,,,True
+540,/lotte_ds/5/DE-73/AV-2001,AV-2001,AHU-20 동파방지 밸브개도,,,,,,,,True
+541,/lotte_ds/5/DE-73/AV-2006,AV-2006,AHU-20 댐퍼설정,,,,,,,,True
+542,/lotte_ds/5/DE-73/AV-2002,AV-2002,AHU-20 댐퍼모드,,,,,,,,True
+543,/lotte_ds/5/DE-73/AO-400,AO-400,AHU-20 냉난방 밸브,,,,,,,,True
+544,/lotte_ds/5/DE-73/AV-2000,AV-2000,AHU-20 계절전환,,,,,,,,True
+545,/lotte_ds/5/DE-73/AV-2008,AV-2008,AHU-20 가상댐퍼,,,,,,,,True
+546,/lotte_ds/5/DE-73/AV-2004,AV-2004,AHU-20 가동시간,,,,,,,,True
+547,/lotte_ds/5/DE-73/BI-204,BI-204,AHU-20 SF 자동수동,,,,,,,,True
+548,/lotte_ds/5/DE-73/AO-404,AO-404,AHU-20 SF 인버터 출력,,,,,,,,True
+549,/lotte_ds/5/DE-73/AI-700,AI-700,AHU-20 SF 온도,,,,,,,,True
+550,/lotte_ds/5/DE-73/AI-701,AI-701,AHU-20 SF 습도,,,,,,,,True
+551,/lotte_ds/5/DE-73/BI-200,BI-200,AHU-20 SF STATUS,,,,,,,,True
+552,/lotte_ds/5/DE-73/BO-0,BO-0,AHU-20 SF STARTSTOP,,,,,,,,True
+553,/lotte_ds/5/DE-73/BI-201,BI-201,AHU-20 SF ALARM,,,,,,,,True
+554,/lotte_ds/5/DE-73/BI-207,BI-207,AHU-20 SD ALARM,,,,,,,,True
+555,/lotte_ds/5/DE-73/BI-205,BI-205,AHU-20 RF 자동수동,,,,,,,,True
+556,/lotte_ds/5/DE-73/AO-405,AO-405,AHU-20 RF 인버터 출력,,,,,,,,True
+557,/lotte_ds/5/DE-73/AI-702,AI-702,AHU-20 RF 온도,,,,,,,,True
+558,/lotte_ds/5/DE-73/AI-703,AI-703,AHU-20 RF 습도,,,,,,,,True
+559,/lotte_ds/5/DE-73/BI-202,BI-202,AHU-20 RF STATUS,,,,,,,,True
+560,/lotte_ds/5/DE-73/BO-1,BO-1,AHU-20 RF STARTSTOP,,,,,,,,True
+561,/lotte_ds/5/DE-73/BI-203,BI-203,AHU-20 RF ALARM,,,,,,,,True
+562,/lotte_ds/5/DE-73/AI-704,AI-704,AHU-20 CO2 농도,,,,,,,,True
+563,/lotte_ds/5/DE-61/AV-802,AV-802,AHU-2 혼합온도,,,,,,,,True
+564,/lotte_ds/5/DE-61/AO-703,AO-703,AHU-2 혼합 댐퍼,,,,,,,,True
+565,/lotte_ds/5/DE-61/BI-406,BI-406,AHU-2 필터 ALARM,,,,,,,,True
+566,/lotte_ds/5/DE-61/AV-2108,AV-2108,AHU-2 일일 가동시간,,,,,,,,True
+567,/lotte_ds/5/DE-61/AO-701,AO-701,AHU-2 외기 댐퍼,,,,,,,,True
+568,/lotte_ds/5/DE-61/AV-2105,AV-2105,AHU-2 연동모드,,,,,,,,True
+569,/lotte_ds/5/DE-61/AV-805,AV-805,AHU-2 실내온도,,,,,,,,True
+570,/lotte_ds/5/DE-61/AV-2021,AV-2021,AHU-2 설정온도,,,,,,,,True
+571,/lotte_ds/5/DE-61/AV-2023,AV-2023,AHU-2 밸브모드,,,,,,,,True
+572,/lotte_ds/5/DE-61/AO-702,AO-702,AHU-2 배기 댐퍼,,,,,,,,True
+573,/lotte_ds/5/DE-61/AV-2101,AV-2101,AHU-2 동파설정온도,,,,,,,,True
+574,/lotte_ds/5/DE-61/AV-2019,AV-2019,AHU-2 동파방지 밸브개도,,,,,,,,True
+575,/lotte_ds/5/DE-61/AV-2100,AV-2100,AHU-2 댐퍼설정,,,,,,,,True
+576,/lotte_ds/5/DE-61/AV-2020,AV-2020,AHU-2 댐퍼모드,,,,,,,,True
+577,/lotte_ds/5/DE-61/AO-700,AO-700,AHU-2 냉난방 밸브,,,,,,,,True
+578,/lotte_ds/5/DE-61/AV-2018,AV-2018,AHU-2 계절전환,,,,,,,,True
+579,/lotte_ds/5/DE-61/AV-2102,AV-2102,AHU-2 가상댐퍼,,,,,,,,True
+580,/lotte_ds/5/DE-61/AV-2022,AV-2022,AHU-2 가동시간,,,,,,,,True
+581,/lotte_ds/5/DE-61/BI-404,BI-404,AHU-2 SF 자동수동,,,,,,,,True
+582,/lotte_ds/5/DE-61/AO-704,AO-704,AHU-2 SF 인버터 출력,,,,,,,,True
+583,/lotte_ds/5/DE-61/AI-1200,AI-1200,AHU-2 SF 온도,,,,,,,,True
+584,/lotte_ds/5/DE-61/AI-1201,AI-1201,AHU-2 SF 습도,,,,,,,,True
+585,/lotte_ds/5/DE-61/BI-400,BI-400,AHU-2 SF STATUS,,,,,,,,True
+586,/lotte_ds/5/DE-61/BO-4,BO-4,AHU-2 SF STARTSTOP,,,,,,,,True
+587,/lotte_ds/5/DE-61/BI-401,BI-401,AHU-2 SF ALARM,,,,,,,,True
+588,/lotte_ds/5/DE-61/BI-407,BI-407,AHU-2 SD ALARM,,,,,,,,True
+589,/lotte_ds/5/DE-61/BI-405,BI-405,AHU-2 RF 자동수동,,,,,,,,True
+590,/lotte_ds/5/DE-61/AO-705,AO-705,AHU-2 RF 인버터 출력,,,,,,,,True
+591,/lotte_ds/5/DE-61/AI-1202,AI-1202,AHU-2 RF 온도,,,,,,,,True
+592,/lotte_ds/5/DE-61/AI-1203,AI-1203,AHU-2 RF 습도,,,,,,,,True
+593,/lotte_ds/5/DE-61/BI-402,BI-402,AHU-2 RF STATUS,,,,,,,,True
+594,/lotte_ds/5/DE-61/BO-5,BO-5,AHU-2 RF STARTSTOP,,,,,,,,True
+595,/lotte_ds/5/DE-61/BI-403,BI-403,AHU-2 RF ALARM,,,,,,,,True
+596,/lotte_ds/5/DE-61/AI-1204,AI-1204,AHU-2 CO2 농도,,,,,,,,True
+597,/lotte_ds/5/DE-71/AV-300,AV-300,AHU-19 혼합온도,,,,,,,,True
+598,/lotte_ds/5/DE-71/AO-203,AO-203,AHU-19 혼합 댐퍼,,,,,,,,True
+599,/lotte_ds/5/DE-71/BI-106,BI-106,AHU-19 필터 ALARM,,,,,,,,True
+600,/lotte_ds/5/DE-71/AV-2106,AV-2106,AHU-19 일일 가동시간,,,,,,,,True
+601,/lotte_ds/5/DE-71/AO-201,AO-201,AHU-19 외기 댐퍼,,,,,,,,True
+602,/lotte_ds/5/DE-71/AV-2009,AV-2009,AHU-19 연동모드,,,,,,,,True
+603,/lotte_ds/5/DE-71/AV-301,AV-301,AHU-19 실내온도,,,,,,,,True
+604,/lotte_ds/5/DE-71/AV-2003,AV-2003,AHU-19 설정온도,,,,,,,,True
+605,/lotte_ds/5/DE-71/AV-2005,AV-2005,AHU-19 밸브모드,,,,,,,,True
+606,/lotte_ds/5/DE-71/AO-202,AO-202,AHU-19 배기 댐퍼,,,,,,,,True
+607,/lotte_ds/5/DE-71/AV-2007,AV-2007,AHU-19 동파설정온도,,,,,,,,True
+608,/lotte_ds/5/DE-71/AV-2001,AV-2001,AHU-19 동파방지 밸브개도,,,,,,,,True
+609,/lotte_ds/5/DE-71/AV-2006,AV-2006,AHU-19 댐퍼설정,,,,,,,,True
+610,/lotte_ds/5/DE-71/AV-2002,AV-2002,AHU-19 댐퍼모드,,,,,,,,True
+611,/lotte_ds/5/DE-71/AO-200,AO-200,AHU-19 냉난방 밸브,,,,,,,,True
+612,/lotte_ds/5/DE-71/AV-2000,AV-2000,AHU-19 계절전환,,,,,,,,True
+613,/lotte_ds/5/DE-71/AV-2008,AV-2008,AHU-19 가상댐퍼,,,,,,,,True
+614,/lotte_ds/5/DE-71/AV-2004,AV-2004,AHU-19 가동시간,,,,,,,,True
+615,/lotte_ds/5/DE-71/BI-104,BI-104,AHU-19 SF 자동수동,,,,,,,,True
+616,/lotte_ds/5/DE-71/AO-204,AO-204,AHU-19 SF 인버터 출력,,,,,,,,True
+617,/lotte_ds/5/DE-71/AI-400,AI-400,AHU-19 SF 온도,,,,,,,,True
+618,/lotte_ds/5/DE-71/AI-401,AI-401,AHU-19 SF 습도,,,,,,,,True
+619,/lotte_ds/5/DE-71/BI-100,BI-100,AHU-19 SF STATUS,,,,,,,,True
+620,/lotte_ds/5/DE-71/BO-0,BO-0,AHU-19 SF STARTSTOP,,,,,,,,True
+621,/lotte_ds/5/DE-71/BI-101,BI-101,AHU-19 SF ALARM,,,,,,,,True
+622,/lotte_ds/5/DE-71/BI-107,BI-107,AHU-19 SD ALARM,,,,,,,,True
+623,/lotte_ds/5/DE-71/BI-105,BI-105,AHU-19 RF 자동수동,,,,,,,,True
+624,/lotte_ds/5/DE-71/AO-205,AO-205,AHU-19 RF 인버터 출력,,,,,,,,True
+625,/lotte_ds/5/DE-71/AI-402,AI-402,AHU-19 RF 온도,,,,,,,,True
+626,/lotte_ds/5/DE-71/AI-403,AI-403,AHU-19 RF 습도,,,,,,,,True
+627,/lotte_ds/5/DE-71/BI-102,BI-102,AHU-19 RF STATUS,,,,,,,,True
+628,/lotte_ds/5/DE-71/BO-1,BO-1,AHU-19 RF STARTSTOP,,,,,,,,True
+629,/lotte_ds/5/DE-71/BI-103,BI-103,AHU-19 RF ALARM,,,,,,,,True
+630,/lotte_ds/5/DE-71/AI-404,AI-404,AHU-19 CO2 농도,,,,,,,,True
+631,/lotte_ds/5/DE-70/AV-600,AV-600,AHU-18 혼합온도 수정,,,,,,,,True
+632,/lotte_ds/5/DE-70/AO-403,AO-403,AHU-18 혼합 댐퍼 수정,,,,,,,,True
+633,/lotte_ds/5/DE-70/BI-206,BI-206,AHU-18 필터 ALARM 수정,,,,,,,,True
+634,/lotte_ds/5/DE-70/AV-2107,AV-2107,AHU-18 일일 가동시간,,,,,,,,True
+635,/lotte_ds/5/DE-70/AO-401,AO-401,AHU-18 외기 댐퍼 수정,,,,,,,,True
+636,/lotte_ds/5/DE-70/AV-2019,AV-2019,AHU-18 연동모드,,,,,,,,True
+637,/lotte_ds/5/DE-70/AV-602,AV-602,AHU-18 실내온도 수정,,,,,,,,True
+638,/lotte_ds/5/DE-70/AV-2012,AV-2012,AHU-18 설정온도,,,,,,,,True
+639,/lotte_ds/5/DE-70/AV-2014,AV-2014,AHU-18 밸브모드,,,,,,,,True
+640,/lotte_ds/5/DE-70/AO-402,AO-402,AHU-18 배기 댐퍼 수정,,,,,,,,True
+641,/lotte_ds/5/DE-70/AV-2016,AV-2016,AHU-18 동파설정온도,,,,,,,,True
+642,/lotte_ds/5/DE-70/AV-2010,AV-2010,AHU-18 동파방지 밸브개도,,,,,,,,True
+643,/lotte_ds/5/DE-70/AV-2015,AV-2015,AHU-18 댐퍼설정,,,,,,,,True
+644,/lotte_ds/5/DE-70/AV-2011,AV-2011,AHU-18 댐퍼모드,,,,,,,,True
+645,/lotte_ds/5/DE-70/AO-400,AO-400,AHU-18 냉난방 밸브 수정,,,,,,,,True
+646,/lotte_ds/5/DE-70/AV-2009,AV-2009,AHU-18 계절전환,,,,,,,,True
+647,/lotte_ds/5/DE-70/AV-2017,AV-2017,AHU-18 가상댐퍼,,,,,,,,True
+648,/lotte_ds/5/DE-70/AV-2013,AV-2013,AHU-18 가동시간,,,,,,,,True
+649,/lotte_ds/5/DE-70/BI-204,BI-204,AHU-18 SF 자동수동,,,,,,,,True
+650,/lotte_ds/5/DE-70/AO-404,AO-404,AHU-18 SF 인버터 출력,,,,,,,,True
+651,/lotte_ds/5/DE-70/AI-700,AI-700,AHU-18 SF 온도 수정,,,,,,,,True
+652,/lotte_ds/5/DE-70/AI-701,AI-701,AHU-18 SF 습도 수정,,,,,,,,True
+653,/lotte_ds/5/DE-70/BI-200,BI-200,AHU-18 SF STATUS,,,,,,,,True
+654,/lotte_ds/5/DE-70/BO-0,BO-0,AHU-18 SF STARTSTOP,,,,,,,,True
+655,/lotte_ds/5/DE-70/BI-201,BI-201,AHU-18 SF ALARM,,,,,,,,True
+656,/lotte_ds/5/DE-70/BI-207,BI-207,AHU-18 SD ALARM 수정,,,,,,,,True
+657,/lotte_ds/5/DE-70/BI-205,BI-205,AHU-18 RF 자동수동,,,,,,,,True
+658,/lotte_ds/5/DE-70/AO-405,AO-405,AHU-18 RF 인버터 출력,,,,,,,,True
+659,/lotte_ds/5/DE-70/AI-702,AI-702,AHU-18 RF 온도 수정,,,,,,,,True
+660,/lotte_ds/5/DE-70/AI-703,AI-703,AHU-18 RF 습도 수정,,,,,,,,True
+661,/lotte_ds/5/DE-70/BI-202,BI-202,AHU-18 RF STATUS,,,,,,,,True
+662,/lotte_ds/5/DE-70/BO-1,BO-1,AHU-18 RF STARTSTOP,,,,,,,,True
+663,/lotte_ds/5/DE-70/BI-203,BI-203,AHU-18 RF ALARM,,,,,,,,True
+664,/lotte_ds/5/DE-70/AI-704,AI-704,AHU-18 CO2 농도 수정,,,,,,,,True
+665,/lotte_ds/5/DE-70/AV-601,AV-601,AHU-17 혼합온도 수정,,,,,,,,True
+666,/lotte_ds/5/DE-70/AO-503,AO-503,AHU-17 혼합 댐퍼 수정,,,,,,,,True
+667,/lotte_ds/5/DE-70/BI-306,BI-306,AHU-17 필터 ALARM 수정,,,,,,,,True
+668,/lotte_ds/5/DE-70/AV-2106,AV-2106,AHU-17 일일 가동시간,,,,,,,,True
+669,/lotte_ds/5/DE-70/AO-501,AO-501,AHU-17 외기 댐퍼 수정,,,,,,,,True
+670,/lotte_ds/5/DE-70/AV-2018,AV-2018,AHU-17 연동모드,,,,,,,,True
+671,/lotte_ds/5/DE-70/AV-603,AV-603,AHU-17 실내온도 수정,,,,,,,,True
+672,/lotte_ds/5/DE-70/AV-2003,AV-2003,AHU-17 설정온도,,,,,,,,True
+673,/lotte_ds/5/DE-70/AV-2005,AV-2005,AHU-17 밸브모드,,,,,,,,True
+674,/lotte_ds/5/DE-70/AO-502,AO-502,AHU-17 배기 댐퍼 수정,,,,,,,,True
+675,/lotte_ds/5/DE-70/AV-2007,AV-2007,AHU-17 동파설정온도,,,,,,,,True
+676,/lotte_ds/5/DE-70/AV-2001,AV-2001,AHU-17 동파방지 밸브개도,,,,,,,,True
+677,/lotte_ds/5/DE-70/AV-2006,AV-2006,AHU-17 댐퍼설정,,,,,,,,True
+678,/lotte_ds/5/DE-70/AV-2002,AV-2002,AHU-17 댐퍼모드,,,,,,,,True
+679,/lotte_ds/5/DE-70/AO-500,AO-500,AHU-17 냉난방 밸브 수정,,,,,,,,True
+680,/lotte_ds/5/DE-70/AV-2000,AV-2000,AHU-17 계절전환,,,,,,,,True
+681,/lotte_ds/5/DE-70/AV-2008,AV-2008,AHU-17 가상댐퍼,,,,,,,,True
+682,/lotte_ds/5/DE-70/AV-2004,AV-2004,AHU-17 가동시간,,,,,,,,True
+683,/lotte_ds/5/DE-70/BI-304,BI-304,AHU-17 SF 자동수동,,,,,,,,True
+684,/lotte_ds/5/DE-70/AO-504,AO-504,AHU-17 SF 인버터 출력,,,,,,,,True
+685,/lotte_ds/5/DE-70/AI-800,AI-800,AHU-17 SF 온도 수정,,,,,,,,True
+686,/lotte_ds/5/DE-70/AI-801,AI-801,AHU-17 SF 습도 수정,,,,,,,,True
+687,/lotte_ds/5/DE-70/BI-300,BI-300,AHU-17 SF STATUS,,,,,,,,True
+688,/lotte_ds/5/DE-70/BO-100,BO-100,AHU-17 SF STARTSTOP,,,,,,,,True
+689,/lotte_ds/5/DE-70/BI-301,BI-301,AHU-17 SF ALARM,,,,,,,,True
+690,/lotte_ds/5/DE-70/BI-307,BI-307,AHU-17 SD ALARM 수정,,,,,,,,True
+691,/lotte_ds/5/DE-70/BI-305,BI-305,AHU-17 RF 자동수동,,,,,,,,True
+692,/lotte_ds/5/DE-70/AO-505,AO-505,AHU-17 RF 인버터 출력,,,,,,,,True
+693,/lotte_ds/5/DE-70/AI-802,AI-802,AHU-17 RF 온도 수정,,,,,,,,True
+694,/lotte_ds/5/DE-70/AI-803,AI-803,AHU-17 RF 습도 수정,,,,,,,,True
+695,/lotte_ds/5/DE-70/BI-302,BI-302,AHU-17 RF STATUS,,,,,,,,True
+696,/lotte_ds/5/DE-70/BO-101,BO-101,AHU-17 RF STARTSTOP,,,,,,,,True
+697,/lotte_ds/5/DE-70/BI-303,BI-303,AHU-17 RF ALARM,,,,,,,,True
+698,/lotte_ds/5/DE-70/AI-804,AI-804,AHU-17 CO2 농도 수정,,,,,,,,True
+699,/lotte_ds/5/DE-69/AV-300,AV-300,AHU-16 혼합온도,,,,,,,,True
+700,/lotte_ds/5/DE-69/AO-203,AO-203,AHU-16 혼합 댐퍼,,,,,,,,True
+701,/lotte_ds/5/DE-69/BI-106,BI-106,AHU-16 필터 ALARM,,,,,,,,True
+702,/lotte_ds/5/DE-69/AV-2106,AV-2106,AHU-16 일일 가동시간,,,,,,,,True
+703,/lotte_ds/5/DE-69/AO-201,AO-201,AHU-16 외기 댐퍼,,ahu16,O_ahu_oa,-,float,True,,True
+704,/lotte_ds/5/DE-69/AV-2009,AV-2009,AHU-16 연동모드,,,,,,,,True
+705,/lotte_ds/5/DE-69/AV-301,AV-301,AHU-16 실내온도,,ahu16,T_ahu_za,C,float,True,,True
+706,/lotte_ds/5/DE-69/AV-2003,AV-2003,AHU-16 설정온도,,,,,,,,True
+707,/lotte_ds/5/DE-69/AV-2005,AV-2005,AHU-16 밸브모드,,,,,,,,True
+708,/lotte_ds/5/DE-69/AO-202,AO-202,AHU-16 배기 댐퍼,,,,,,,,True
+709,/lotte_ds/5/DE-69/AV-2007,AV-2007,AHU-16 동파설정온도,,,,,,,,True
+710,/lotte_ds/5/DE-69/AV-2001,AV-2001,AHU-16 동파방지 밸브개도,,,,,,,,True
+711,/lotte_ds/5/DE-69/AV-2006,AV-2006,AHU-16 댐퍼설정,,,,,,,,True
+712,/lotte_ds/5/DE-69/AV-2002,AV-2002,AHU-16 댐퍼모드,,,,,,,,True
+713,/lotte_ds/5/DE-69/AO-200,AO-200,AHU-16 냉난방 밸브,,,,,,,,True
+714,/lotte_ds/5/DE-69/AV-2000,AV-2000,AHU-16 계절전환,,,,,,,,True
+715,/lotte_ds/5/DE-69/AV-2008,AV-2008,AHU-16 가상댐퍼,,,,,,,,True
+716,/lotte_ds/5/DE-69/AV-2004,AV-2004,AHU-16 가동시간,,,,,,,,True
+717,/lotte_ds/5/DE-69/BI-104,BI-104,AHU-16 SF 자동수동,,,,,,,,True
+718,/lotte_ds/5/DE-69/AO-204,AO-204,AHU-16 SF 인버터 출력,,,,,,,,True
+719,/lotte_ds/5/DE-69/AI-400,AI-400,AHU-16 SF 온도,,,,,,,,True
+720,/lotte_ds/5/DE-69/AI-401,AI-401,AHU-16 SF 습도,,,,,,,,True
+721,/lotte_ds/5/DE-69/BI-100,BI-100,AHU-16 SF STATUS,,,,,,,,True
+722,/lotte_ds/5/DE-69/BO-0,BO-0,AHU-16 SF STARTSTOP,,,,,,,,True
+723,/lotte_ds/5/DE-69/BI-101,BI-101,AHU-16 SF ALARM,,,,,,,,True
+724,/lotte_ds/5/DE-69/BI-107,BI-107,AHU-16 SD ALARM,,,,,,,,True
+725,/lotte_ds/5/DE-69/BI-105,BI-105,AHU-16 RF 자동수동,,,,,,,,True
+726,/lotte_ds/5/DE-69/AO-205,AO-205,AHU-16 RF 인버터 출력,,,,,,,,True
+727,/lotte_ds/5/DE-69/AI-402,AI-402,AHU-16 RF 온도,,,,,,,,True
+728,/lotte_ds/5/DE-69/AI-403,AI-403,AHU-16 RF 습도,,,,,,,,True
+729,/lotte_ds/5/DE-69/BI-102,BI-102,AHU-16 RF STATUS,,,,,,,,True
+730,/lotte_ds/5/DE-69/BO-1,BO-1,AHU-16 RF STARTSTOP,,,,,,,,True
+731,/lotte_ds/5/DE-69/BI-103,BI-103,AHU-16 RF ALARM,,,,,,,,True
+732,/lotte_ds/5/DE-69/AI-404,AI-404,AHU-16 CO2 농도,,,,,,,,True
+733,/lotte_ds/5/DE-68/AV-601,AV-601,AHU-15 혼합온도,,,,,,,,True
+734,/lotte_ds/5/DE-68/AO-503,AO-503,AHU-15 혼합 댐퍼,,,,,,,,True
+735,/lotte_ds/5/DE-68/BI-306,BI-306,AHU-15 필터 ALARM,,,,,,,,True
+736,/lotte_ds/5/DE-68/AV-2107,AV-2107,AHU-15 일일 가동시간,,,,,,,,True
+737,/lotte_ds/5/DE-68/AO-501,AO-501,AHU-15 외기 댐퍼,,,,,,,,True
+738,/lotte_ds/5/DE-68/AV-2019,AV-2019,AHU-15 연동모드,,,,,,,,True
+739,/lotte_ds/5/DE-68/AV-603,AV-603,AHU-15 실내온도,,,,,,,,True
+740,/lotte_ds/5/DE-68/AV-2012,AV-2012,AHU-15 설정온도,,,,,,,,True
+741,/lotte_ds/5/DE-68/AV-2014,AV-2014,AHU-15 밸브모드,,,,,,,,True
+742,/lotte_ds/5/DE-68/AO-502,AO-502,AHU-15 배기 댐퍼,,,,,,,,True
+743,/lotte_ds/5/DE-68/AV-2016,AV-2016,AHU-15 동파설정온도,,,,,,,,True
+744,/lotte_ds/5/DE-68/AV-2010,AV-2010,AHU-15 동파방지 밸브개도,,,,,,,,True
+745,/lotte_ds/5/DE-68/AV-2015,AV-2015,AHU-15 댐퍼설정,,,,,,,,True
+746,/lotte_ds/5/DE-68/AV-2011,AV-2011,AHU-15 댐퍼모드,,,,,,,,True
+747,/lotte_ds/5/DE-68/AO-500,AO-500,AHU-15 냉난방 밸브,,,,,,,,True
+748,/lotte_ds/5/DE-68/AV-2009,AV-2009,AHU-15 계절전환,,,,,,,,True
+749,/lotte_ds/5/DE-68/AV-2017,AV-2017,AHU-15 가상댐퍼,,,,,,,,True
+750,/lotte_ds/5/DE-68/AV-2013,AV-2013,AHU-15 가동시간,,,,,,,,True
+751,/lotte_ds/5/DE-68/BI-304,BI-304,AHU-15 SF 자동수동,,,,,,,,True
+752,/lotte_ds/5/DE-68/AO-504,AO-504,AHU-15 SF 인버터 출력,,,,,,,,True
+753,/lotte_ds/5/DE-68/AI-800,AI-800,AHU-15 SF 온도,,,,,,,,True
+754,/lotte_ds/5/DE-68/AI-801,AI-801,AHU-15 SF 습도,,,,,,,,True
+755,/lotte_ds/5/DE-68/BI-300,BI-300,AHU-15 SF STATUS,,,,,,,,True
+756,/lotte_ds/5/DE-68/BO-100,BO-100,AHU-15 SF STARTSTOP,,,,,,,,True
+757,/lotte_ds/5/DE-68/BI-301,BI-301,AHU-15 SF ALARM,,,,,,,,True
+758,/lotte_ds/5/DE-68/BI-307,BI-307,AHU-15 SD ALARM,,,,,,,,True
+759,/lotte_ds/5/DE-68/BI-305,BI-305,AHU-15 RF 자동수동,,,,,,,,True
+760,/lotte_ds/5/DE-68/AO-505,AO-505,AHU-15 RF 인버터 출력,,,,,,,,True
+761,/lotte_ds/5/DE-68/AI-802,AI-802,AHU-15 RF 온도,,,,,,,,True
+762,/lotte_ds/5/DE-68/AI-803,AI-803,AHU-15 RF 습도,,,,,,,,True
+763,/lotte_ds/5/DE-68/BI-302,BI-302,AHU-15 RF STATUS,,,,,,,,True
+764,/lotte_ds/5/DE-68/BO-101,BO-101,AHU-15 RF STARTSTOP,,,,,,,,True
+765,/lotte_ds/5/DE-68/BI-303,BI-303,AHU-15 RF ALARM,,,,,,,,True
+766,/lotte_ds/5/DE-68/AI-804,AI-804,AHU-15 CO2 농도,,,,,,,,True
+767,/lotte_ds/5/DE-68/AV-600,AV-600,AHU-14 혼합온도,,,,,,,,True
+768,/lotte_ds/5/DE-68/AO-403,AO-403,AHU-14 혼합 댐퍼,,,,,,,,True
+769,/lotte_ds/5/DE-68/BI-206,BI-206,AHU-14 필터 ALARM,,,,,,,,True
+770,/lotte_ds/5/DE-68/AV-2106,AV-2106,AHU-14 일일 가동시간,,,,,,,,True
+771,/lotte_ds/5/DE-68/AO-401,AO-401,AHU-14 외기 댐퍼,,,,,,,,True
+772,/lotte_ds/5/DE-68/AV-2018,AV-2018,AHU-14 연동모드,,,,,,,,True
+773,/lotte_ds/5/DE-68/AV-602,AV-602,AHU-14 실내온도,,,,,,,,True
+774,/lotte_ds/5/DE-68/AV-2003,AV-2003,AHU-14 설정온도,,,,,,,,True
+775,/lotte_ds/5/DE-68/AV-2005,AV-2005,AHU-14 밸브모드,,,,,,,,True
+776,/lotte_ds/5/DE-68/AO-402,AO-402,AHU-14 배기 댐퍼,,,,,,,,True
+777,/lotte_ds/5/DE-68/AV-2007,AV-2007,AHU-14 동파설정온도,,,,,,,,True
+778,/lotte_ds/5/DE-68/AV-2001,AV-2001,AHU-14 동파방지 밸브개도,,,,,,,,True
+779,/lotte_ds/5/DE-68/AV-2006,AV-2006,AHU-14 댐퍼설정,,,,,,,,True
+780,/lotte_ds/5/DE-68/AV-2002,AV-2002,AHU-14 댐퍼모드,,,,,,,,True
+781,/lotte_ds/5/DE-68/AO-400,AO-400,AHU-14 냉난방 밸브,,,,,,,,True
+782,/lotte_ds/5/DE-68/AV-2000,AV-2000,AHU-14 계절전환,,,,,,,,True
+783,/lotte_ds/5/DE-68/AV-2008,AV-2008,AHU-14 가상댐퍼,,,,,,,,True
+784,/lotte_ds/5/DE-68/AV-2004,AV-2004,AHU-14 가동시간,,,,,,,,True
+785,/lotte_ds/5/DE-68/BI-204,BI-204,AHU-14 SF 자동수동,,,,,,,,True
+786,/lotte_ds/5/DE-68/AO-404,AO-404,AHU-14 SF 인버터 출력,,,,,,,,True
+787,/lotte_ds/5/DE-68/AI-700,AI-700,AHU-14 SF 온도,,,,,,,,True
+788,/lotte_ds/5/DE-68/AI-701,AI-701,AHU-14 SF 습도,,,,,,,,True
+789,/lotte_ds/5/DE-68/BI-200,BI-200,AHU-14 SF STATUS,,,,,,,,True
+790,/lotte_ds/5/DE-68/BO-0,BO-0,AHU-14 SF STARTSTOP,,,,,,,,True
+791,/lotte_ds/5/DE-68/BI-201,BI-201,AHU-14 SF ALARM,,,,,,,,True
+792,/lotte_ds/5/DE-68/BI-207,BI-207,AHU-14 SD ALARM,,,,,,,,True
+793,/lotte_ds/5/DE-68/BI-205,BI-205,AHU-14 RF 자동수동,,,,,,,,True
+794,/lotte_ds/5/DE-68/AO-405,AO-405,AHU-14 RF 인버터 출력,,,,,,,,True
+795,/lotte_ds/5/DE-68/AI-702,AI-702,AHU-14 RF 온도,,,,,,,,True
+796,/lotte_ds/5/DE-68/AI-703,AI-703,AHU-14 RF 습도,,,,,,,,True
+797,/lotte_ds/5/DE-68/BI-202,BI-202,AHU-14 RF STATUS,,,,,,,,True
+798,/lotte_ds/5/DE-68/BO-1,BO-1,AHU-14 RF STARTSTOP,,,,,,,,True
+799,/lotte_ds/5/DE-68/BI-203,BI-203,AHU-14 RF ALARM,,,,,,,,True
+800,/lotte_ds/5/DE-68/AI-704,AI-704,AHU-14 CO2 농도,,,,,,,,True
+801,/lotte_ds/5/DE-67/AV-300,AV-300,AHU-13 혼합온도,,,,,,,,True
+802,/lotte_ds/5/DE-67/AO-203,AO-203,AHU-13 혼합 댐퍼,,,,,,,,True
+803,/lotte_ds/5/DE-67/BI-106,BI-106,AHU-13 필터 ALARM,,,,,,,,True
+804,/lotte_ds/5/DE-67/AV-2106,AV-2106,AHU-13 일일 가동시간,,,,,,,,True
+805,/lotte_ds/5/DE-67/AO-201,AO-201,AHU-13 외기 댐퍼,,,,,,,,True
+806,/lotte_ds/5/DE-67/AV-2009,AV-2009,AHU-13 연동모드,,,,,,,,True
+807,/lotte_ds/5/DE-67/AV-301,AV-301,AHU-13 실내온도,,,,,,,,True
+808,/lotte_ds/5/DE-67/AV-2003,AV-2003,AHU-13 설정온도,,,,,,,,True
+809,/lotte_ds/5/DE-67/AV-2005,AV-2005,AHU-13 밸브모드,,,,,,,,True
+810,/lotte_ds/5/DE-67/AO-202,AO-202,AHU-13 배기 댐퍼,,,,,,,,True
+811,/lotte_ds/5/DE-67/AV-2007,AV-2007,AHU-13 동파설정온도,,,,,,,,True
+812,/lotte_ds/5/DE-67/AV-2001,AV-2001,AHU-13 동파방지 밸브개도,,,,,,,,True
+813,/lotte_ds/5/DE-67/AV-2006,AV-2006,AHU-13 댐퍼설정,,,,,,,,True
+814,/lotte_ds/5/DE-67/AV-2002,AV-2002,AHU-13 댐퍼모드,,,,,,,,True
+815,/lotte_ds/5/DE-67/AO-200,AO-200,AHU-13 냉난방 밸브,,,,,,,,True
+816,/lotte_ds/5/DE-67/AV-2000,AV-2000,AHU-13 계절전환,,,,,,,,True
+817,/lotte_ds/5/DE-67/AV-2008,AV-2008,AHU-13 가상댐퍼,,,,,,,,True
+818,/lotte_ds/5/DE-67/AV-2004,AV-2004,AHU-13 가동시간,,,,,,,,True
+819,/lotte_ds/5/DE-67/BI-104,BI-104,AHU-13 SF 자동수동,,,,,,,,True
+820,/lotte_ds/5/DE-67/AO-204,AO-204,AHU-13 SF 인버터 출력,,,,,,,,True
+821,/lotte_ds/5/DE-67/AI-400,AI-400,AHU-13 SF 온도,,,,,,,,True
+822,/lotte_ds/5/DE-67/AI-401,AI-401,AHU-13 SF 습도,,,,,,,,True
+823,/lotte_ds/5/DE-67/BI-100,BI-100,AHU-13 SF STATUS,,,,,,,,True
+824,/lotte_ds/5/DE-67/BO-0,BO-0,AHU-13 SF STARTSTOP,,,,,,,,True
+825,/lotte_ds/5/DE-67/BI-101,BI-101,AHU-13 SF ALARM,,,,,,,,True
+826,/lotte_ds/5/DE-67/BI-107,BI-107,AHU-13 SD ALARM,,,,,,,,True
+827,/lotte_ds/5/DE-67/BI-105,BI-105,AHU-13 RF 자동수동,,,,,,,,True
+828,/lotte_ds/5/DE-67/AO-205,AO-205,AHU-13 RF 인버터 출력,,,,,,,,True
+829,/lotte_ds/5/DE-67/AI-402,AI-402,AHU-13 RF 온도,,,,,,,,True
+830,/lotte_ds/5/DE-67/AI-403,AI-403,AHU-13 RF 습도,,,,,,,,True
+831,/lotte_ds/5/DE-67/BI-102,BI-102,AHU-13 RF STATUS,,,,,,,,True
+832,/lotte_ds/5/DE-67/BO-1,BO-1,AHU-13 RF STARTSTOP,,,,,,,,True
+833,/lotte_ds/5/DE-67/BI-103,BI-103,AHU-13 RF ALARM,,,,,,,,True
+834,/lotte_ds/5/DE-67/AI-404,AI-404,AHU-13 CO2 농도,,,,,,,,True
+835,/lotte_ds/5/DE-66/AV-601,AV-601,AHU-12 혼합온도,,,,,,,,True
+836,/lotte_ds/5/DE-66/AO-503,AO-503,AHU-12 혼합 댐퍼,,,,,,,,True
+837,/lotte_ds/5/DE-66/BI-306,BI-306,AHU-12 필터 ALARM,,,,,,,,True
+838,/lotte_ds/5/DE-66/AV-2107,AV-2107,AHU-12 일일 가동시간,,,,,,,,True
+839,/lotte_ds/5/DE-66/AO-501,AO-501,AHU-12 외기 댐퍼,,,,,,,,True
+840,/lotte_ds/5/DE-66/AV-2019,AV-2019,AHU-12 연동모드,,,,,,,,True
+841,/lotte_ds/5/DE-66/AV-603,AV-603,AHU-12 실내온도,,,,,,,,True
+842,/lotte_ds/5/DE-66/AV-2012,AV-2012,AHU-12 설정온도,,,,,,,,True
+843,/lotte_ds/5/DE-66/AV-2014,AV-2014,AHU-12 밸브모드,,,,,,,,True
+844,/lotte_ds/5/DE-66/AO-502,AO-502,AHU-12 배기 댐퍼,,,,,,,,True
+845,/lotte_ds/5/DE-66/AV-2016,AV-2016,AHU-12 동파설정온도,,,,,,,,True
+846,/lotte_ds/5/DE-66/AV-2010,AV-2010,AHU-12 동파방지 밸브개도,,,,,,,,True
+847,/lotte_ds/5/DE-66/AV-2015,AV-2015,AHU-12 댐퍼설정,,,,,,,,True
+848,/lotte_ds/5/DE-66/AV-2011,AV-2011,AHU-12 댐퍼모드,,,,,,,,True
+849,/lotte_ds/5/DE-66/AO-500,AO-500,AHU-12 냉난방 밸브,,,,,,,,True
+850,/lotte_ds/5/DE-66/AV-2009,AV-2009,AHU-12 계절전환,,,,,,,,True
+851,/lotte_ds/5/DE-66/AV-2017,AV-2017,AHU-12 가상댐퍼,,,,,,,,True
+852,/lotte_ds/5/DE-66/AV-2013,AV-2013,AHU-12 가동시간,,,,,,,,True
+853,/lotte_ds/5/DE-66/AI-800,AI-800,AHU-12 SF 온도,,,,,,,,True
+854,/lotte_ds/5/DE-66/AI-801,AI-801,AHU-12 SF 습도,,,,,,,,True
+855,/lotte_ds/5/DE-66/BI-307,BI-307,AHU-12 SD ALARM,,,,,,,,True
+856,/lotte_ds/5/DE-66/AI-802,AI-802,AHU-12 RF 온도,,,,,,,,True
+857,/lotte_ds/5/DE-66/AI-803,AI-803,AHU-12 RF 습도,,,,,,,,True
+858,/lotte_ds/5/DE-66/AI-804,AI-804,AHU-12 CO2 농도,,,,,,,,True
+859,/lotte_ds/5/DE-66/BI-304,BI-304,AHU-12  SF 자동수동,,,,,,,,True
+860,/lotte_ds/5/DE-66/AO-504,AO-504,AHU-12  SF 인버터 출력,,,,,,,,True
+861,/lotte_ds/5/DE-66/BI-300,BI-300,AHU-12  SF STATUS,,,,,,,,True
+862,/lotte_ds/5/DE-66/BO-100,BO-100,AHU-12  SF STARTSTOP,,,,,,,,True
+863,/lotte_ds/5/DE-66/BI-301,BI-301,AHU-12  SF ALARM,,,,,,,,True
+864,/lotte_ds/5/DE-66/BI-305,BI-305,AHU-12  RF 자동수동,,,,,,,,True
+865,/lotte_ds/5/DE-66/AO-505,AO-505,AHU-12  RF 인버터 출력,,,,,,,,True
+866,/lotte_ds/5/DE-66/BI-302,BI-302,AHU-12  RF STATUS,,,,,,,,True
+867,/lotte_ds/5/DE-66/BO-101,BO-101,AHU-12  RF STARTSTOP,,,,,,,,True
+868,/lotte_ds/5/DE-66/BI-303,BI-303,AHU-12  RF ALARM,,,,,,,,True
+869,/lotte_ds/5/DE-61/AV-801,AV-801,AHU-1-1 혼합온도,,,,,,,,True
+870,/lotte_ds/5/DE-66/AV-600,AV-600,AHU-11 혼합온도,,,,,,,,True
+871,/lotte_ds/5/DE-61/AO-603,AO-603,AHU-1-1 혼합 댐퍼,,,,,,,,True
+872,/lotte_ds/5/DE-66/AO-403,AO-403,AHU-11 혼합 댐퍼,,,,,,,,True
+873,/lotte_ds/5/DE-61/BI-306,BI-306,AHU-1-1 필터 ALARM,,,,,,,,True
+874,/lotte_ds/5/DE-66/BI-206,BI-206,AHU-11 필터 ALARM,,,,,,,,True
+875,/lotte_ds/5/DE-61/AV-2107,AV-2107,AHU-1-1 일일 가동시간,,,,,,,,True
+876,/lotte_ds/5/DE-66/AV-2106,AV-2106,AHU-11 일일 가동시간,,,,,,,,True
+877,/lotte_ds/5/DE-61/AO-601,AO-601,AHU-1-1 외기 댐퍼,,,,,,,,True
+878,/lotte_ds/5/DE-66/AO-401,AO-401,AHU-11 외기 댐퍼,,,,,,,,True
+879,/lotte_ds/5/DE-61/AV-2104,AV-2104,AHU-1-1 연동모드,,,,,,,,True
+880,/lotte_ds/5/DE-66/AV-2018,AV-2018,AHU-11 연동모드,,,,,,,,True
+881,/lotte_ds/5/DE-61/AV-804,AV-804,AHU-1-1 실내온도,,,,,,,,True
+882,/lotte_ds/5/DE-66/AV-602,AV-602,AHU-11 실내온도,,,,,,,,True
+883,/lotte_ds/5/DE-61/AV-2012,AV-2012,AHU-1-1 설정온도,,,,,,,,True
+884,/lotte_ds/5/DE-66/AV-2003,AV-2003,AHU-11 설정온도,,,,,,,,True
+885,/lotte_ds/5/DE-61/AV-2014,AV-2014,AHU-1-1 밸브모드,,,,,,,,True
+886,/lotte_ds/5/DE-66/AV-2005,AV-2005,AHU-11 밸브모드,,,,,,,,True
+887,/lotte_ds/5/DE-61/AO-602,AO-602,AHU-1-1 배기 댐퍼,,,,,,,,True
+888,/lotte_ds/5/DE-66/AO-402,AO-402,AHU-11 배기 댐퍼,,,,,,,,True
+889,/lotte_ds/5/DE-61/AV-2016,AV-2016,AHU-1-1 동파설정온도,,,,,,,,True
+890,/lotte_ds/5/DE-66/AV-2007,AV-2007,AHU-11 동파설정온도,,,,,,,,True
+891,/lotte_ds/5/DE-61/AV-2010,AV-2010,AHU-1-1 동파방지 밸브개도,,,,,,,,True
+892,/lotte_ds/5/DE-66/AV-2001,AV-2001,AHU-11 동파방지 밸브개도,,,,,,,,True
+893,/lotte_ds/5/DE-61/AV-2015,AV-2015,AHU-1-1 댐퍼설정,,,,,,,,True
+894,/lotte_ds/5/DE-66/AV-2006,AV-2006,AHU-11 댐퍼설정,,,,,,,,True
+895,/lotte_ds/5/DE-61/AV-2011,AV-2011,AHU-1-1 댐퍼모드,,,,,,,,True
+896,/lotte_ds/5/DE-66/AV-2002,AV-2002,AHU-11 댐퍼모드,,,,,,,,True
+897,/lotte_ds/5/DE-61/AO-600,AO-600,AHU-1-1 냉난방 밸브,,,,,,,,True
+898,/lotte_ds/5/DE-66/AO-400,AO-400,AHU-11 냉난방 밸브,,,,,,,,True
+899,/lotte_ds/5/DE-61/AV-2009,AV-2009,AHU-1-1 계절전환,,,,,,,,True
+900,/lotte_ds/5/DE-66/AV-2000,AV-2000,AHU-11 계절전환,,,,,,,,True
+901,/lotte_ds/5/DE-61/AV-2017,AV-2017,AHU-1-1 가상댐퍼,,,,,,,,True
+902,/lotte_ds/5/DE-66/AV-2008,AV-2008,AHU-11 가상댐퍼,,,,,,,,True
+903,/lotte_ds/5/DE-61/AV-2013,AV-2013,AHU-1-1 가동시간,,,,,,,,True
+904,/lotte_ds/5/DE-66/AV-2004,AV-2004,AHU-11 가동시간,,,,,,,,True
+905,/lotte_ds/5/DE-61/BI-304,BI-304,AHU-1-1 SF 자동수동,,,,,,,,True
+906,/lotte_ds/5/DE-61/AO-604,AO-604,AHU-1-1 SF 인버터 출력,,,,,,,,True
+907,/lotte_ds/5/DE-61/AI-1100,AI-1100,AHU-1-1 SF 온도,,,,,,,,True
+908,/lotte_ds/5/DE-66/AI-700,AI-700,AHU-11 SF 온도,,,,,,,,True
+909,/lotte_ds/5/DE-61/AI-1101,AI-1101,AHU-1-1 SF 습도,,,,,,,,True
+910,/lotte_ds/5/DE-66/AI-701,AI-701,AHU-11 SF 습도,,,,,,,,True
+911,/lotte_ds/5/DE-61/BI-300,BI-300,AHU-1-1 SF STATUS,,,,,,,,True
+912,/lotte_ds/5/DE-61/BO-2,BO-2,AHU-1-1 SF STARTSTOP,,,,,,,,True
+913,/lotte_ds/5/DE-61/BI-301,BI-301,AHU-1-1 SF ALARM,,,,,,,,True
+914,/lotte_ds/5/DE-61/BI-307,BI-307,AHU-1-1 SD ALARM,,,,,,,,True
+915,/lotte_ds/5/DE-66/BI-207,BI-207,AHU-11 SD ALARM,,,,,,,,True
+916,/lotte_ds/5/DE-61/BI-305,BI-305,AHU-1-1 RF 자동수동,,,,,,,,True
+917,/lotte_ds/5/DE-61/AO-605,AO-605,AHU-1-1 RF 인버터 출력,,,,,,,,True
+918,/lotte_ds/5/DE-61/AI-1102,AI-1102,AHU-1-1 RF 온도,,,,,,,,True
+919,/lotte_ds/5/DE-66/AI-702,AI-702,AHU-11 RF 온도,,,,,,,,True
+920,/lotte_ds/5/DE-61/AI-1103,AI-1103,AHU-1-1 RF 습도,,,,,,,,True
+921,/lotte_ds/5/DE-66/AI-703,AI-703,AHU-11 RF 습도,,,,,,,,True
+922,/lotte_ds/5/DE-61/BI-302,BI-302,AHU-1-1 RF STATUS,,,,,,,,True
+923,/lotte_ds/5/DE-61/BO-3,BO-3,AHU-1-1 RF STARTSTOP,,,,,,,,True
+924,/lotte_ds/5/DE-61/BI-303,BI-303,AHU-1-1 RF ALARM,,,,,,,,True
+925,/lotte_ds/5/DE-61/AI-1104,AI-1104,AHU-1-1 CO2 농도,,,,,,,,True
+926,/lotte_ds/5/DE-66/AI-704,AI-704,AHU-11 CO2 농도,,,,,,,,True
+927,/lotte_ds/5/DE-66/BI-204,BI-204,AHU-11  SF 자동수동,,,,,,,,True
+928,/lotte_ds/5/DE-66/AO-404,AO-404,AHU-11  SF 인버터 출력,,,,,,,,True
+929,/lotte_ds/5/DE-66/BI-200,BI-200,AHU-11  SF STATUS,,,,,,,,True
+930,/lotte_ds/5/DE-66/BO-0,BO-0,AHU-11  SF STARTSTOP,,,,,,,,True
+931,/lotte_ds/5/DE-66/BI-201,BI-201,AHU-11  SF ALARM,,,,,,,,True
+932,/lotte_ds/5/DE-66/BI-205,BI-205,AHU-11  RF 자동수동,,,,,,,,True
+933,/lotte_ds/5/DE-66/AO-405,AO-405,AHU-11  RF 인버터 출력,,,,,,,,True
+934,/lotte_ds/5/DE-66/BI-202,BI-202,AHU-11  RF STATUS,,,,,,,,True
+935,/lotte_ds/5/DE-66/BO-1,BO-1,AHU-11  RF STARTSTOP,,,,,,,,True
+936,/lotte_ds/5/DE-66/BI-203,BI-203,AHU-11  RF ALARM,,,,,,,,True
+937,/lotte_ds/5/DE-65/AV-300,AV-300,AHU-10 혼합온도,,,,,,,,True
+938,/lotte_ds/5/DE-65/AO-203,AO-203,AHU-10 혼합 댐퍼,,,,,,,,True
+939,/lotte_ds/5/DE-65/BI-106,BI-106,AHU-10 필터 ALARM,,,,,,,,True
+940,/lotte_ds/5/DE-65/AV-2106,AV-2106,AHU-10 일일 가동시간,,,,,,,,True
+941,/lotte_ds/5/DE-65/AO-201,AO-201,AHU-10 외기 댐퍼,,,,,,,,True
+942,/lotte_ds/5/DE-65/AV-2009,AV-2009,AHU-10 연동모드,,,,,,,,True
+943,/lotte_ds/5/DE-65/AV-301,AV-301,AHU-10 실내온도,,,,,,,,True
+944,/lotte_ds/5/DE-65/AV-2003,AV-2003,AHU-10 설정온도,,,,,,,,True
+945,/lotte_ds/5/DE-65/AV-2005,AV-2005,AHU-10 밸브모드,,,,,,,,True
+946,/lotte_ds/5/DE-65/AO-202,AO-202,AHU-10 배기 댐퍼,,,,,,,,True
+947,/lotte_ds/5/DE-65/AV-2007,AV-2007,AHU-10 동파설정온도,,,,,,,,True
+948,/lotte_ds/5/DE-65/AV-2001,AV-2001,AHU-10 동파방지 밸브개도,,,,,,,,True
+949,/lotte_ds/5/DE-65/AV-2006,AV-2006,AHU-10 댐퍼설정,,,,,,,,True
+950,/lotte_ds/5/DE-65/AV-2002,AV-2002,AHU-10 댐퍼모드,,,,,,,,True
+951,/lotte_ds/5/DE-65/AO-200,AO-200,AHU-10 냉난방 밸브,,,,,,,,True
+952,/lotte_ds/5/DE-65/AV-2000,AV-2000,AHU-10 계절전환,,,,,,,,True
+953,/lotte_ds/5/DE-65/AV-2008,AV-2008,AHU-10 가상댐퍼,,,,,,,,True
+954,/lotte_ds/5/DE-65/AV-2004,AV-2004,AHU-10 가동시간,,,,,,,,True
+955,/lotte_ds/5/DE-65/BI-104,BI-104,AHU-10 SF 자동수동,,,,,,,,True
+956,/lotte_ds/5/DE-65/AO-204,AO-204,AHU-10 SF 인버터 출력,,,,,,,,True
+957,/lotte_ds/5/DE-65/AI-400,AI-400,AHU-10 SF 온도,,,,,,,,True
+958,/lotte_ds/5/DE-65/AI-401,AI-401,AHU-10 SF 습도,,,,,,,,True
+959,/lotte_ds/5/DE-65/BI-100,BI-100,AHU-10 SF STATUS,,,,,,,,True
+960,/lotte_ds/5/DE-65/BO-0,BO-0,AHU-10 SF STARTSTOP,,,,,,,,True
+961,/lotte_ds/5/DE-65/BI-101,BI-101,AHU-10 SF ALARM,,,,,,,,True
+962,/lotte_ds/5/DE-65/BI-107,BI-107,AHU-10 SD ALARM,,,,,,,,True
+963,/lotte_ds/5/DE-65/BI-105,BI-105,AHU-10 RF 자동수동,,,,,,,,True
+964,/lotte_ds/5/DE-65/AO-205,AO-205,AHU-10 RF 인버터 출력,,,,,,,,True
+965,/lotte_ds/5/DE-65/AI-402,AI-402,AHU-10 RF 온도,,,,,,,,True
+966,/lotte_ds/5/DE-65/AI-403,AI-403,AHU-10 RF 습도,,,,,,,,True
+967,/lotte_ds/5/DE-65/BI-102,BI-102,AHU-10 RF STATUS,,,,,,,,True
+968,/lotte_ds/5/DE-65/BO-1,BO-1,AHU-10 RF STARTSTOP,,,,,,,,True
+969,/lotte_ds/5/DE-65/BI-103,BI-103,AHU-10 RF ALARM,,,,,,,,True
+970,/lotte_ds/5/DE-65/AI-404,AI-404,AHU-10 CO2 농도,,,,,,,,True
+971,/lotte_ds/5/DE-61/AV-800,AV-800,AHU-1 혼합온도,,,,,,,,True
+972,/lotte_ds/5/DE-61/AO-503,AO-503,AHU-1 혼합 댐퍼,,,,,,,,True
+973,/lotte_ds/5/DE-61/BI-206,BI-206,AHU-1 필터 ALARM,,,,,,,,True
+974,/lotte_ds/5/DE-61/AV-2106,AV-2106,AHU-1 일일 가동시간,,,,,,,,True
+975,/lotte_ds/5/DE-61/AO-501,AO-501,AHU-1 외기 댐퍼,,,,,,,,True
+976,/lotte_ds/5/DE-61/AV-2103,AV-2103,AHU-1 연동모드,,,,,,,,True
+977,/lotte_ds/5/DE-61/AV-803,AV-803,AHU-1 실내온도,,,,,,,,True
+978,/lotte_ds/5/DE-61/AV-2003,AV-2003,AHU-1 설정온도,,,,,,,,True
+979,/lotte_ds/5/DE-61/AV-2005,AV-2005,AHU-1 밸브모드,,,,,,,,True
+980,/lotte_ds/5/DE-61/AO-502,AO-502,AHU-1 배기 댐퍼,,,,,,,,True
+981,/lotte_ds/5/DE-61/AV-2007,AV-2007,AHU-1 동파설정온도,,,,,,,,True
+982,/lotte_ds/5/DE-61/AV-2001,AV-2001,AHU-1 동파방지 밸브개도,,,,,,,,True
+983,/lotte_ds/5/DE-61/AV-2006,AV-2006,AHU-1 댐퍼설정,,,,,,,,True
+984,/lotte_ds/5/DE-61/AV-2002,AV-2002,AHU-1 댐퍼모드,,,,,,,,True
+985,/lotte_ds/5/DE-61/AO-500,AO-500,AHU-1 냉난방 밸브,,,,,,,,True
+986,/lotte_ds/5/DE-61/AV-2000,AV-2000,AHU-1 계절전환,,,,,,,,True
+987,/lotte_ds/5/DE-61/AV-2008,AV-2008,AHU-1 가상댐퍼,,,,,,,,True
+988,/lotte_ds/5/DE-61/AV-2004,AV-2004,AHU-1 가동시간,,,,,,,,True
+989,/lotte_ds/5/DE-61/BI-204,BI-204,AHU-1 SF 자동수동,,,,,,,,True
+990,/lotte_ds/5/DE-61/AO-504,AO-504,AHU-1 SF 인버터 출력,,,,,,,,True
+991,/lotte_ds/5/DE-61/AI-1000,AI-1000,AHU-1 SF 온도,,,,,,,,True
+992,/lotte_ds/5/DE-61/AI-1001,AI-1001,AHU-1 SF 습도,,,,,,,,True
+993,/lotte_ds/5/DE-61/BI-200,BI-200,AHU-1 SF STATUS,,,,,,,,True
+994,/lotte_ds/5/DE-61/BO-0,BO-0,AHU-1 SF STARTSTOP,,,,,,,,True
+995,/lotte_ds/5/DE-61/BI-201,BI-201,AHU-1 SF ALARM,,,,,,,,True
+996,/lotte_ds/5/DE-61/BI-207,BI-207,AHU-1 SD ALARM,,,,,,,,True
+997,/lotte_ds/5/DE-61/BI-205,BI-205,AHU-1 RF 자동수동,,,,,,,,True
+998,/lotte_ds/5/DE-61/AO-505,AO-505,AHU-1 RF 인버터 출력,,,,,,,,True
+999,/lotte_ds/5/DE-61/AI-1002,AI-1002,AHU-1 RF 온도,,,,,,,,True
+1000,/lotte_ds/5/DE-61/AI-1003,AI-1003,AHU-1 RF 습도,,,,,,,,True
+1001,/lotte_ds/5/DE-61/BI-202,BI-202,AHU-1 RF STATUS,,,,,,,,True
+1002,/lotte_ds/5/DE-61/BO-1,BO-1,AHU-1 RF STARTSTOP,,,,,,,,True
+1003,/lotte_ds/5/DE-61/BI-203,BI-203,AHU-1 RF ALARM,,,,,,,,True
+1004,/lotte_ds/5/DE-61/AI-1004,AI-1004,AHU-1 CO2 농도,,,,,,,,True
+1005,/lotte_ds/5/DE-62/BI-1009,BI-1009,3층옥상 HT 상태,,,,,,,,True
+1006,/lotte_ds/5/DE-62/BO-905,BO-905,3층옥상 HT STARTSTOP,,,,,,,,True
+1007,/lotte_ds/5/DE-62/BI-1008,BI-1008,3층옥상 AC 상태,,,,,,,,True
+1008,/lotte_ds/5/DE-62/BO-904,BO-904,3층옥상 AC STARTSTOP,,,,,,,,True
+1009,/lotte_ds/5/DE-63/BI-209,BI-209,2층 에비뉴엘 HT 상태,,,,,,,,True
+1010,/lotte_ds/5/DE-63/BO-3,BO-3,2층 에비뉴엘 HT  STARTSTOP ,,,,,,,,True
+1011,/lotte_ds/5/DE-63/BI-208,BI-208,2층 에비뉴엘 AC 상태,,,,,,,,True
+1012,/lotte_ds/5/DE-63/BO-2,BO-2,2층 에비뉴엘 AC  STARTSTOP ,,,,,,,,True
+1013,/lotte_ds/5/DE-61/AV-1901,AV-1901,1층후문 HT전체기동,,,,,,,,True
+1014,/lotte_ds/5/DE-61/BO-1305,BO-1305,1층후문 HT-6 STARTSTOP,,,,,,,,True
+1015,/lotte_ds/5/DE-61/BI-1403,BI-1403,1층후문 HT-6  상태,,,,,,,,True
+1016,/lotte_ds/5/DE-61/BI-410,BI-410,1층후문 HT-5 상태,,,,,,,,True
+1017,/lotte_ds/5/DE-61/BO-1303,BO-1303,1층후문 HT-5 STARTSTOP,,,,,,,,True
+1018,/lotte_ds/5/DE-61/BI-1401,BI-1401,1층후문 HT-5  상태,,,,,,,,True
+1019,/lotte_ds/5/DE-61/BI-311,BI-311,1층후문 HT-4 상태,,,,,,,,True
+1020,/lotte_ds/5/DE-61/BO-1301,BO-1301,1층후문 HT-4 STARTSTOP,,,,,,,,True
+1021,/lotte_ds/5/DE-61/BI-309,BI-309,1층후문 HT-3 상태,,,,,,,,True
+1022,/lotte_ds/5/DE-61/BO-105,BO-105,1층후문 HT-3 STARTSTOP,,,,,,,,True
+1023,/lotte_ds/5/DE-61/BI-211,BI-211,1층후문 HT-2 상태,,,,,,,,True
+1024,/lotte_ds/5/DE-61/BO-103,BO-103,1층후문 HT-2 STARTSTOP,,,,,,,,True
+1025,/lotte_ds/5/DE-61/BI-209,BI-209,1층후문 HT-1 상태,,,,,,,,True
+1026,/lotte_ds/5/DE-61/BO-101,BO-101,1층후문 HT-1 STARTSTOP,,,,,,,,True
+1027,/lotte_ds/5/DE-61/AV-1900,AV-1900,1층후문 AC전체기동,,,,,,,,True
+1028,/lotte_ds/5/DE-61/BI-411,BI-411,1층후문 AC-6 상태,,,,,,,,True
+1029,/lotte_ds/5/DE-61/BO-1304,BO-1304,1층후문 AC-6 STARTSTOP,,,,,,,,True
+1030,/lotte_ds/5/DE-61/BI-1402,BI-1402,1층후문 AC-6  상태,,,,,,,,True
+1031,/lotte_ds/5/DE-61/BI-409,BI-409,1층후문 AC-5 상태,,,,,,,,True
+1032,/lotte_ds/5/DE-61/BO-1302,BO-1302,1층후문 AC-5 STARTSTOP,,,,,,,,True
+1033,/lotte_ds/5/DE-61/BI-1400,BI-1400,1층후문 AC-5  상태,,,,,,,,True
+1034,/lotte_ds/5/DE-61/BI-310,BI-310,1층후문 AC-4 상태,,,,,,,,True
+1035,/lotte_ds/5/DE-61/BO-1300,BO-1300,1층후문 AC-4 STARTSTOP,,,,,,,,True
+1036,/lotte_ds/5/DE-61/BI-308,BI-308,1층후문 AC-3 상태,,,,,,,,True
+1037,/lotte_ds/5/DE-61/BO-104,BO-104,1층후문 AC-3 STARTSTOP,,,,,,,,True
+1038,/lotte_ds/5/DE-61/BI-210,BI-210,1층후문 AC-2 상태,,,,,,,,True
+1039,/lotte_ds/5/DE-61/BO-102,BO-102,1층후문 AC-2 STARTSTOP,,,,,,,,True
+1040,/lotte_ds/5/DE-61/BI-208,BI-208,1층후문 AC-1 상태,,,,,,,,True
+1041,/lotte_ds/5/DE-61/BO-100,BO-100,1층후문 AC-1 STARTSTOP,,,,,,,,True
+1042,/lotte_ds/5/DE-62/AV-1901,AV-1901,1층정문 HT전체기동,,,,,,,,True
+1043,/lotte_ds/5/DE-62/BI-1007,BI-1007,1층정문 HT-6 상태,,,,,,,,True
+1044,/lotte_ds/5/DE-62/BO-903,BO-903,1층정문 HT-6 STARTSTOP,,,,,,,,True
+1045,/lotte_ds/5/DE-62/BI-1005,BI-1005,1층정문 HT-5 상태,,,,,,,,True
+1046,/lotte_ds/5/DE-62/BO-901,BO-901,1층정문 HT-5 STARTSTOP,,,,,,,,True
+1047,/lotte_ds/5/DE-62/BI-1003,BI-1003,1층정문 HT-4 상태,,,,,,,,True
+1048,/lotte_ds/5/DE-62/BO-105,BO-105,1층정문 HT-4 STARTSTOP,,,,,,,,True
+1049,/lotte_ds/5/DE-62/BI-1001,BI-1001,1층정문 HT-3 상태,,,,,,,,True
+1050,/lotte_ds/5/DE-62/BO-103,BO-103,1층정문 HT-3 STARTSTOP,,,,,,,,True
+1051,/lotte_ds/5/DE-62/BI-211,BI-211,1층정문 HT-2 상태,,,,,,,,True
+1052,/lotte_ds/5/DE-62/BO-5,BO-5,1층정문 HT-2 STARTSTOP,,,,,,,,True
+1053,/lotte_ds/5/DE-62/BI-209,BI-209,1층정문 HT-1 상태,,,,,,,,True
+1054,/lotte_ds/5/DE-62/BO-3,BO-3,1층정문 HT-1 STARTSTOP,,,,,,,,True
+1055,/lotte_ds/5/DE-62/AV-1900,AV-1900,1층정문 AC전체기동,,,,,,,,True
+1056,/lotte_ds/5/DE-62/BI-1006,BI-1006,1층정문 AC-6 상태,,,,,,,,True
+1057,/lotte_ds/5/DE-62/BO-902,BO-902,1층정문 AC-6 STARTSTOP,,,,,,,,True
+1058,/lotte_ds/5/DE-62/BI-1004,BI-1004,1층정문 AC-5 상태,,,,,,,,True
+1059,/lotte_ds/5/DE-62/BO-900,BO-900,1층정문 AC-5 STARTSTOP,,,,,,,,True
+1060,/lotte_ds/5/DE-62/BI-1002,BI-1002,1층정문 AC-4 상태,,,,,,,,True
+1061,/lotte_ds/5/DE-62/BO-104,BO-104,1층정문 AC-4 STARTSTOP,,,,,,,,True
+1062,/lotte_ds/5/DE-62/BI-1000,BI-1000,1층정문 AC-3 상태,,,,,,,,True
+1063,/lotte_ds/5/DE-62/BO-102,BO-102,1층정문 AC-3 STARTSTOP,,,,,,,,True
+1064,/lotte_ds/5/DE-62/BI-210,BI-210,1층정문 AC-2 상태,,,,,,,,True
+1065,/lotte_ds/5/DE-62/BO-4,BO-4,1층정문 AC-2 STARTSTOP,,,,,,,,True
+1066,/lotte_ds/5/DE-62/BI-208,BI-208,1층정문 AC-1 상태,,,,,,,,True
+1067,/lotte_ds/5/DE-62/BO-2,BO-2,1층정문 AC-1 STARTSTOP,,,,,,,,True
+1068,/lotte_ds/5/DE-63/BI-310,BI-310,1층 HT(버스정류장)  상태,,,,,,,,True
+1069,/lotte_ds/5/DE-63/BO-105,BO-105,1층 HT(버스정류장)  STARTSTOP,,,,,,,,True
+1070,/lotte_ds/5/DE-63/BI-211,BI-211,1층 HT(발렛라운지)  상태,,,,,,,,True
+1071,/lotte_ds/5/DE-63/BO-103,BO-103,1층 HT(발렛라운지)  STARTSTOP,,,,,,,,True
+1072,/lotte_ds/5/DE-63/BI-309,BI-309,1층 AC(버스정류장)  상태,,,,,,,,True
+1073,/lotte_ds/5/DE-63/BO-104,BO-104,1층 AC(버스정류장)  STARTSTOP,,,,,,,,True
+1074,/lotte_ds/5/DE-63/BI-210,BI-210,1층 AC(발렛라운지)  상태,,,,,,,,True
+1075,/lotte_ds/5/DE-63/BO-102,BO-102,1층 AC(발렛라운지)  STARTSTOP,,,,,,,,True
