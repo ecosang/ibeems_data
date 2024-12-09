@@ -86,7 +86,7 @@ def raw_data_query(project_id, start_time, end_time, save_dir=None,save_data=Fal
 
 if __name__=="__main__":
     import pathlib
-    project_id='lotte_mart'#'lotte_mart' or 'hdc' 'lotte_department'
+    project_id='lotte_department'#'lotte_mart' or 'hdc' 'lotte_department'
     start_time_list=['2024-12-01 00:00:00+0900',]
                      #'2024-11-01 00:00:00+0900',
                      #'2024-02-01 00:00:00+0900',
