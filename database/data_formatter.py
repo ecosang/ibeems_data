@@ -49,7 +49,7 @@ def df_history_parser(data_df,end_time_utc,start_time_utc,init_config,variable_m
         pass
     else:
         check_map=variable_map[((variable_map['variable_name'].str.contains(check_variable))&(variable_map['zone_id']==str(zone_id)))].reset_index(drop=True)
-        if (check_map['path'][0] not in data_df.columns) or check_map.empty:
+        if check_map.empty or (check_map['path'][0] not in data_df.columns):
             pass
         else:
             check_df=data_df[['timestamp_utc',check_map['path'][0]]].dropna().reset_index(drop=True)

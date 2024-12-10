@@ -92,8 +92,8 @@ path,object_id,object_name,comment,zone_id,variable_name,raw_unit,type,required,
 /lotte_ds/5/DE-72/BI-1304,BI-1304,우측화장실 상태,,,,,,,True,True
 /lotte_ds/5/DE-72/BO-603,BO-603,우측화장실 기동정지,,,,,,,True,True
 /lotte_ds/5/DE-72/BI-1305,BI-1305,우측화장실 locrem,,,,,,,True,True
-/lotte_ds/5/DE-61/AI-1206,AI-1206,외기온도,,,,,,,True,True
-/lotte_ds/5/DE-61/AI-1207,AI-1207,외기습도,,,,,,,True,True
+/lotte_ds/5/DE-61/AI-1206,AI-1206,외기온도,,weather,T_oa,C,float,True,True,True
+/lotte_ds/5/DE-61/AI-1207,AI-1207,외기습도,,weather,RH_oa,%,float,True,True,True
 /lotte_ds/5/DE-75/BI-303,BI-303,시수 물탱크 저수위 ALARM,,,,,,,True,True
 /lotte_ds/5/DE-75/AI-400,AI-400,시수 물탱크 수위,,,,,,,True,True
 /lotte_ds/5/DE-75/BI-302,BI-302,시수 물탱크 고수위 ALARM,,,,,,,True,True
@@ -596,16 +596,16 @@ path,object_id,object_name,comment,zone_id,variable_name,raw_unit,type,required,
 /lotte_ds/5/DE-61/BO-5,BO-5,AHU-2 RF STARTSTOP,,,,,,,True,True
 /lotte_ds/5/DE-61/BI-403,BI-403,AHU-2 RF ALARM,,,,,,,True,True
 /lotte_ds/5/DE-61/AI-1204,AI-1204,AHU-2 CO2 농도,,,,,,,True,True
-/lotte_ds/5/DE-71/AV-300,AV-300,AHU-19 혼합온도,,,,,,,True,True
-/lotte_ds/5/DE-71/AO-203,AO-203,AHU-19 혼합 댐퍼,,,,,,,True,True
+/lotte_ds/5/DE-71/AV-300,AV-300,AHU-19 혼합온도,,ahu19,T_ahu_ma,C,float,True,True,True
+/lotte_ds/5/DE-71/AO-203,AO-203,AHU-19 혼합 댐퍼,,ahu19,O_ahu_ma,-,float,True,True,True
 /lotte_ds/5/DE-71/BI-106,BI-106,AHU-19 필터 ALARM,,,,,,,True,True
 /lotte_ds/5/DE-71/AV-2106,AV-2106,AHU-19 일일 가동시간,,,,,,,True,True
-/lotte_ds/5/DE-71/AO-201,AO-201,AHU-19 외기 댐퍼,,,,,,,True,True
+/lotte_ds/5/DE-71/AO-201,AO-201,AHU-19 외기 댐퍼,,ahu19,O_ahu_oa,-,float,True,True,True
 /lotte_ds/5/DE-71/AV-2009,AV-2009,AHU-19 연동모드,,,,,,,True,True
-/lotte_ds/5/DE-71/AV-301,AV-301,AHU-19 실내온도,,,,,,,True,True
-/lotte_ds/5/DE-71/AV-2003,AV-2003,AHU-19 설정온도,,,,,,,True,True
+/lotte_ds/5/DE-71/AV-301,AV-301,AHU-19 실내온도,,ahu19,T_ahu_za,C,float,True,True,True
+/lotte_ds/5/DE-71/AV-2003,AV-2003,AHU-19 설정온도,,ahu19,T_ahu_sp,C,float,True,True,True
 /lotte_ds/5/DE-71/AV-2005,AV-2005,AHU-19 밸브모드,,,,,,,True,True
-/lotte_ds/5/DE-71/AO-202,AO-202,AHU-19 배기 댐퍼,,,,,,,True,True
+/lotte_ds/5/DE-71/AO-202,AO-202,AHU-19 배기 댐퍼,,ahu19,O_ahu_ea,-,float,True,True,True
 /lotte_ds/5/DE-71/AV-2007,AV-2007,AHU-19 동파설정온도,,,,,,,True,True
 /lotte_ds/5/DE-71/AV-2001,AV-2001,AHU-19 동파방지 밸브개도,,,,,,,True,True
 /lotte_ds/5/DE-71/AV-2006,AV-2006,AHU-19 댐퍼설정,,,,,,,True,True
@@ -616,8 +616,8 @@ path,object_id,object_name,comment,zone_id,variable_name,raw_unit,type,required,
 /lotte_ds/5/DE-71/AV-2004,AV-2004,AHU-19 가동시간,,,,,,,True,True
 /lotte_ds/5/DE-71/BI-104,BI-104,AHU-19 SF 자동수동,,,,,,,True,True
 /lotte_ds/5/DE-71/AO-204,AO-204,AHU-19 SF 인버터 출력,,,,,,,True,True
-/lotte_ds/5/DE-71/AI-400,AI-400,AHU-19 SF 온도,,,,,,,True,True
-/lotte_ds/5/DE-71/AI-401,AI-401,AHU-19 SF 습도,,,,,,,True,True
+/lotte_ds/5/DE-71/AI-400,AI-400,AHU-19 SF 온도,,ahu19,T_ahu_sa,C,float,True,True,True
+/lotte_ds/5/DE-71/AI-401,AI-401,AHU-19 SF 습도,,ahu19,RH_ahu_sa,%,float,True,True,True
 /lotte_ds/5/DE-71/BI-100,BI-100,AHU-19 SF STATUS,,,,,,,True,True
 /lotte_ds/5/DE-71/BO-0,BO-0,AHU-19 SF STARTSTOP,,,,,,,True,True
 /lotte_ds/5/DE-71/BI-101,BI-101,AHU-19 SF ALARM,,,,,,,True,True
@@ -630,16 +630,16 @@ path,object_id,object_name,comment,zone_id,variable_name,raw_unit,type,required,
 /lotte_ds/5/DE-71/BO-1,BO-1,AHU-19 RF STARTSTOP,,,,,,,True,True
 /lotte_ds/5/DE-71/BI-103,BI-103,AHU-19 RF ALARM,,,,,,,True,True
 /lotte_ds/5/DE-71/AI-404,AI-404,AHU-19 CO2 농도,,,,,,,True,True
-/lotte_ds/5/DE-70/AV-600,AV-600,AHU-18 혼합온도 수정,,,,,,,True,True
-/lotte_ds/5/DE-70/AO-403,AO-403,AHU-18 혼합 댐퍼 수정,,,,,,,True,True
+/lotte_ds/5/DE-70/AV-600,AV-600,AHU-18 혼합온도 수정,,ahu18,T_ahu_ma,C,float,True,True,True
+/lotte_ds/5/DE-70/AO-403,AO-403,AHU-18 혼합 댐퍼 수정,,ahu18,O_ahu_ma,-,float,True,True,True
 /lotte_ds/5/DE-70/BI-206,BI-206,AHU-18 필터 ALARM 수정,,,,,,,True,True
 /lotte_ds/5/DE-70/AV-2107,AV-2107,AHU-18 일일 가동시간,,,,,,,True,True
-/lotte_ds/5/DE-70/AO-401,AO-401,AHU-18 외기 댐퍼 수정,,,,,,,True,True
+/lotte_ds/5/DE-70/AO-401,AO-401,AHU-18 외기 댐퍼 수정,,ahu18,O_ahu_oa,-,float,True,True,True
 /lotte_ds/5/DE-70/AV-2019,AV-2019,AHU-18 연동모드,,,,,,,True,True
-/lotte_ds/5/DE-70/AV-602,AV-602,AHU-18 실내온도 수정,,,,,,,True,True
-/lotte_ds/5/DE-70/AV-2012,AV-2012,AHU-18 설정온도,,,,,,,True,True
+/lotte_ds/5/DE-70/AV-602,AV-602,AHU-18 실내온도 수정,,ahu18,T_ahu_za,C,float,True,True,True
+/lotte_ds/5/DE-70/AV-2012,AV-2012,AHU-18 설정온도,,ahu18,T_ahu_sp,C,float,True,True,True
 /lotte_ds/5/DE-70/AV-2014,AV-2014,AHU-18 밸브모드,,,,,,,True,True
-/lotte_ds/5/DE-70/AO-402,AO-402,AHU-18 배기 댐퍼 수정,,,,,,,True,True
+/lotte_ds/5/DE-70/AO-402,AO-402,AHU-18 배기 댐퍼 수정,,ahu18,O_ahu_ea,-,float,True,True,True
 /lotte_ds/5/DE-70/AV-2016,AV-2016,AHU-18 동파설정온도,,,,,,,True,True
 /lotte_ds/5/DE-70/AV-2010,AV-2010,AHU-18 동파방지 밸브개도,,,,,,,True,True
 /lotte_ds/5/DE-70/AV-2015,AV-2015,AHU-18 댐퍼설정,,,,,,,True,True
@@ -650,30 +650,30 @@ path,object_id,object_name,comment,zone_id,variable_name,raw_unit,type,required,
 /lotte_ds/5/DE-70/AV-2013,AV-2013,AHU-18 가동시간,,,,,,,True,True
 /lotte_ds/5/DE-70/BI-204,BI-204,AHU-18 SF 자동수동,,,,,,,True,True
 /lotte_ds/5/DE-70/AO-404,AO-404,AHU-18 SF 인버터 출력,,,,,,,True,True
-/lotte_ds/5/DE-70/AI-700,AI-700,AHU-18 SF 온도 수정,,,,,,,True,True
-/lotte_ds/5/DE-70/AI-701,AI-701,AHU-18 SF 습도 수정,,,,,,,True,True
+/lotte_ds/5/DE-70/AI-700,AI-700,AHU-18 SF 온도 수정,,ahu18,T_ahu_sa,C,float,True,True,True
+/lotte_ds/5/DE-70/AI-701,AI-701,AHU-18 SF 습도 수정,,ahu18,RH_ahu_sa,%,float,True,True,True
 /lotte_ds/5/DE-70/BI-200,BI-200,AHU-18 SF STATUS,,,,,,,True,True
 /lotte_ds/5/DE-70/BO-0,BO-0,AHU-18 SF STARTSTOP,,,,,,,True,True
 /lotte_ds/5/DE-70/BI-201,BI-201,AHU-18 SF ALARM,,,,,,,True,True
 /lotte_ds/5/DE-70/BI-207,BI-207,AHU-18 SD ALARM 수정,,,,,,,True,True
 /lotte_ds/5/DE-70/BI-205,BI-205,AHU-18 RF 자동수동,,,,,,,True,True
 /lotte_ds/5/DE-70/AO-405,AO-405,AHU-18 RF 인버터 출력,,,,,,,True,True
-/lotte_ds/5/DE-70/AI-702,AI-702,AHU-18 RF 온도 수정,,,,,,,True,True
-/lotte_ds/5/DE-70/AI-703,AI-703,AHU-18 RF 습도 수정,,,,,,,True,True
+/lotte_ds/5/DE-70/AI-702,AI-702,AHU-18 RF 온도 수정,,ahu17,T_ahu_ra,C,float,True,True,True
+/lotte_ds/5/DE-70/AI-703,AI-703,AHU-18 RF 습도 수정,,ahu17,RH_ahu_ra,%,float,True,True,True
 /lotte_ds/5/DE-70/BI-202,BI-202,AHU-18 RF STATUS,,,,,,,True,True
 /lotte_ds/5/DE-70/BO-1,BO-1,AHU-18 RF STARTSTOP,,,,,,,True,True
 /lotte_ds/5/DE-70/BI-203,BI-203,AHU-18 RF ALARM,,,,,,,True,True
 /lotte_ds/5/DE-70/AI-704,AI-704,AHU-18 CO2 농도 수정,,,,,,,True,True
-/lotte_ds/5/DE-70/AV-601,AV-601,AHU-17 혼합온도 수정,,,,,,,True,True
-/lotte_ds/5/DE-70/AO-503,AO-503,AHU-17 혼합 댐퍼 수정,,,,,,,True,True
+/lotte_ds/5/DE-70/AV-601,AV-601,AHU-17 혼합온도 수정,,ahu17,T_ahu_ma,C,float,True,True,True
+/lotte_ds/5/DE-70/AO-503,AO-503,AHU-17 혼합 댐퍼 수정,,ahu17,O_ahu_ma,-,float,True,True,True
 /lotte_ds/5/DE-70/BI-306,BI-306,AHU-17 필터 ALARM 수정,,,,,,,True,True
 /lotte_ds/5/DE-70/AV-2106,AV-2106,AHU-17 일일 가동시간,,,,,,,True,True
-/lotte_ds/5/DE-70/AO-501,AO-501,AHU-17 외기 댐퍼 수정,,,,,,,True,True
+/lotte_ds/5/DE-70/AO-501,AO-501,AHU-17 외기 댐퍼 수정,,ahu17,O_ahu_oa,-,float,True,True,True
 /lotte_ds/5/DE-70/AV-2018,AV-2018,AHU-17 연동모드,,,,,,,True,True
-/lotte_ds/5/DE-70/AV-603,AV-603,AHU-17 실내온도 수정,,,,,,,True,True
-/lotte_ds/5/DE-70/AV-2003,AV-2003,AHU-17 설정온도,,,,,,,True,True
+/lotte_ds/5/DE-70/AV-603,AV-603,AHU-17 실내온도 수정,,ahu17,T_ahu_za,C,float,True,True,True
+/lotte_ds/5/DE-70/AV-2003,AV-2003,AHU-17 설정온도,,ahu17,T_ahu_sp,C,float,True,True,True
 /lotte_ds/5/DE-70/AV-2005,AV-2005,AHU-17 밸브모드,,,,,,,True,True
-/lotte_ds/5/DE-70/AO-502,AO-502,AHU-17 배기 댐퍼 수정,,,,,,,True,True
+/lotte_ds/5/DE-70/AO-502,AO-502,AHU-17 배기 댐퍼 수정,,ahu17,O_ahu_ea,-,float,True,True,True
 /lotte_ds/5/DE-70/AV-2007,AV-2007,AHU-17 동파설정온도,,,,,,,True,True
 /lotte_ds/5/DE-70/AV-2001,AV-2001,AHU-17 동파방지 밸브개도,,,,,,,True,True
 /lotte_ds/5/DE-70/AV-2006,AV-2006,AHU-17 댐퍼설정,,,,,,,True,True
@@ -684,16 +684,16 @@ path,object_id,object_name,comment,zone_id,variable_name,raw_unit,type,required,
 /lotte_ds/5/DE-70/AV-2004,AV-2004,AHU-17 가동시간,,,,,,,True,True
 /lotte_ds/5/DE-70/BI-304,BI-304,AHU-17 SF 자동수동,,,,,,,True,True
 /lotte_ds/5/DE-70/AO-504,AO-504,AHU-17 SF 인버터 출력,,,,,,,True,True
-/lotte_ds/5/DE-70/AI-800,AI-800,AHU-17 SF 온도 수정,,,,,,,True,True
-/lotte_ds/5/DE-70/AI-801,AI-801,AHU-17 SF 습도 수정,,,,,,,True,True
+/lotte_ds/5/DE-70/AI-800,AI-800,AHU-17 SF 온도 수정,,ahy17,T_ahu_sa,C,float,True,True,True
+/lotte_ds/5/DE-70/AI-801,AI-801,AHU-17 SF 습도 수정,,ahy17,RH_ahu_sa,%,float,True,True,True
 /lotte_ds/5/DE-70/BI-300,BI-300,AHU-17 SF STATUS,,,,,,,True,True
 /lotte_ds/5/DE-70/BO-100,BO-100,AHU-17 SF STARTSTOP,,,,,,,True,True
 /lotte_ds/5/DE-70/BI-301,BI-301,AHU-17 SF ALARM,,,,,,,True,True
 /lotte_ds/5/DE-70/BI-307,BI-307,AHU-17 SD ALARM 수정,,,,,,,True,True
 /lotte_ds/5/DE-70/BI-305,BI-305,AHU-17 RF 자동수동,,,,,,,True,True
 /lotte_ds/5/DE-70/AO-505,AO-505,AHU-17 RF 인버터 출력,,,,,,,True,True
-/lotte_ds/5/DE-70/AI-802,AI-802,AHU-17 RF 온도 수정,,,,,,,True,True
-/lotte_ds/5/DE-70/AI-803,AI-803,AHU-17 RF 습도 수정,,,,,,,True,True
+/lotte_ds/5/DE-70/AI-802,AI-802,AHU-17 RF 온도 수정,,ahu17,T_ahu_ra,C,float,True,True,True
+/lotte_ds/5/DE-70/AI-803,AI-803,AHU-17 RF 습도 수정,,ahu17,RH_ahu_ra,%,float,True,True,True
 /lotte_ds/5/DE-70/BI-302,BI-302,AHU-17 RF STATUS,,,,,,,True,True
 /lotte_ds/5/DE-70/BO-101,BO-101,AHU-17 RF STARTSTOP,,,,,,,True,True
 /lotte_ds/5/DE-70/BI-303,BI-303,AHU-17 RF ALARM,,,,,,,True,True
