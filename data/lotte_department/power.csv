@@ -8,13 +8,13 @@
 /lotte_ds/1/DE-85/AI-6,AI-6,옥상층 P10-OAC(분전반)_(9층실외기)_유효전력량,삼상,,,,,,,
 /lotte_ds/1/DE-85/AI-7,AI-7,옥상층 P10-OAC(분전반)_(9층배기휀)_유효전력량,삼상,,,,,,,
 /lotte_ds/1/DE-86,DE-86,옥상층 MCP-10-CT2,,,,,,,,
-/lotte_ds/1/DE-86/AI-1,AI-1,"옥상층 MCP-10-CT2(,냉각탑)흡수식1-1_유효전력량",삼상,,,,,,,
-/lotte_ds/1/DE-86/AI-2,AI-2,"옥상층 MCP-10-CT2(,냉각탑)흡수식1-2_유효전력량",삼상,,,,,,,
-/lotte_ds/1/DE-86/AI-3,AI-3,"옥상층 MCP-10-CT2(,냉각탑)흡수식2-1_유효전력량",삼상,,,,,,,
-/lotte_ds/1/DE-86/AI-4,AI-4,"옥상층 MCP-10-CT2(,냉각탑)흡수식2-2_유효전력량",삼상,,,,,,,
+/lotte_ds/1/DE-86/AI-1,AI-1,"옥상층 MCP-10-CT2(,냉각탑)흡수식1-1_유효전력량",삼상,common,P_ct11,cum_mv30_3600/60,float,True,True,True
+/lotte_ds/1/DE-86/AI-2,AI-2,"옥상층 MCP-10-CT2(,냉각탑)흡수식1-2_유효전력량",삼상,common,P_ct12,cum_mv30_3600/60,float,True,True,True
+/lotte_ds/1/DE-86/AI-3,AI-3,"옥상층 MCP-10-CT2(,냉각탑)흡수식2-1_유효전력량",삼상,common,P_ct13,cum_mv30_3600/60,float,True,True,True
+/lotte_ds/1/DE-86/AI-4,AI-4,"옥상층 MCP-10-CT2(,냉각탑)흡수식2-2_유효전력량",삼상,common,P_ct14,cum_mv30_3600/60,float,True,True,True
 /lotte_ds/1/DE-87,DE-87,옥상층 MCP-10-CT1,,,,,,,,
-/lotte_ds/1/DE-87/AI-1,AI-1,"옥상층 MCP-10-CT2(,냉각탑)터보1-1_유효전력량",삼상,,,,,,,
-/lotte_ds/1/DE-87/AI-1,AI-2,"옥상층 MCP-10-CT2(,냉각탑)터보1-2_유효전력량",삼상,,,,,,,
+/lotte_ds/1/DE-87/AI-1,AI-1,"옥상층 MCP-10-CT2(,냉각탑)터보1-1_유효전력량",삼상,common,P_ct21,cum_mv30_3600/60,float,True,True,True
+/lotte_ds/1/DE-87/AI-1,AI-2,"옥상층 MCP-10-CT2(,냉각탑)터보1-2_유효전력량",삼상,common,P_ct22,cum_mv30_3600/60,float,True,True,True
 /lotte_ds/1/DE-88,DE-88,전기실 LV-SP,,,,,,,,
 /lotte_ds/1/DE-88/AI-1,AI-1,전기실 LV-SP(저압반)_MAIN_유효전력량,삼상,,,,,,,
 /lotte_ds/1/DE-88/AI-2,AI-2,전기실 LV-SP(저압반)_터보-1_유효전력량 (변류기x2),삼상,,,,,,,
@@ -150,12 +150,12 @@
 /lotte_ds/1/DE-95/AI-6,AI-6,8층기계실 (MCC-N)_기계실급기휀_유효전력량,삼상,,,,,,,
 /lotte_ds/1/DE-95/AI-7,AI-7,8층기계실 (MCC-N)_기계실배기휀_유효전력량,삼상,,,,,,,
 /lotte_ds/1/DE-95/AI-8,AI-8,"8층기계실 (MCC-N)_소화가스실,종합감시실급기_유효전력량",단상,,,,,,,
-/lotte_ds/1/DE-95/AI-9,AI-9,8층기계실 (MCC-N)_터보냉수 1호기_유효전력량,삼상,,,,,,,
-/lotte_ds/1/DE-95/AI-10,AI-10,8층기계실 (MCC-N)_터보냉수 2호기_유효전력량,삼상,,,,,,,
+/lotte_ds/1/DE-95/AI-9,AI-9,8층기계실 (MCC-N)_터보냉수 1호기_유효전력량,삼상,common,P_chws21,cum_mv30_3600/60,float,True,True,True
+/lotte_ds/1/DE-95/AI-10,AI-10,8층기계실 (MCC-N)_터보냉수 2호기_유효전력량,삼상,common,P_chws22,cum_mv30_3600/60,float,True,True,True
 /lotte_ds/1/DE-95/AI-11,AI-11,8층기계실 (MCC-N)_터보냉수예비_유효전력량,삼상,,,,,,,
-/lotte_ds/1/DE-95/AI-12,AI-12,8층기계실 (MCC-N)_터보냉각수 1호기_유효전력량,삼상,,,,,,,
-/lotte_ds/1/DE-95/AI-13,AI-13,8층기계실 (MCC-N)_터보냉각수 2호기_유효전력량,삼상,,,,,,,
-/lotte_ds/1/DE-95/AI-14,AI-14,8층기계실 (MCC-N)_터보냉각수 3호기_유효전력량,삼상,,,,,,,
+/lotte_ds/1/DE-95/AI-12,AI-12,8층기계실 (MCC-N)_터보냉각수 1호기_유효전력량,삼상,common,P_cws21,cum_mv30_3600/60,float,True,True,True
+/lotte_ds/1/DE-95/AI-13,AI-13,8층기계실 (MCC-N)_터보냉각수 2호기_유효전력량,삼상,common,P_cws22,cum_mv30_3600/60,float,True,True,True
+/lotte_ds/1/DE-95/AI-14,AI-14,8층기계실 (MCC-N)_터보냉각수 3호기_유효전력량,삼상,common,P_cws23,cum_mv30_3600/60,float,True,True,True
 /lotte_ds/1/DE-95/AI-15,AI-15,8층기계실 (MCC-N)_소화종합감시실 급기_유효전력량,단상,,,,,,,
 /lotte_ds/1/DE-95/AI-16,AI-16,8층기계실 (MCC-N)_소화종합감시실 급기_유효전력량,단상,,,,,,,
 /lotte_ds/1/DE-95/AI-17,AI-17,8층기계실 (MCC-N)_소화종합감시실 배기_유효전력량,단상,,,,,,,
@@ -163,13 +163,13 @@
 /lotte_ds/1/DE-96/AI-1,AI-1,8층기계실 (MCC-E1)_냉온수1호기조작_유효전력량,삼상,,,,,,,
 /lotte_ds/1/DE-96/AI-2,AI-2,8층기계실 (MCC-E1)_냉온수2호기조작_유효전력량,삼상,,,,,,,
 /lotte_ds/1/DE-96/AI-3,AI-3,"8층기계실 (MCC-E1)_전기실, 발전기실 급기_유효전력량",삼상,,,,,,,
-/lotte_ds/1/DE-96/AI-4,AI-4,8층기계실 (MCC-E1)_냉온수기 냉수 2호기_유효전력량,삼상,,,,,,,
-/lotte_ds/1/DE-96/AI-5,AI-5,8층기계실 (MCC-E1)_냉온수기 냉수 1호기_유효전력량,삼상,,,,,,,
+/lotte_ds/1/DE-96/AI-4,AI-4,8층기계실 (MCC-E1)_냉온수기 냉수 2호기_유효전력량,삼상,common,P_chws12,cum_mv30_3600/60,float,True,True,True
+/lotte_ds/1/DE-96/AI-5,AI-5,8층기계실 (MCC-E1)_냉온수기 냉수 1호기_유효전력량,삼상,common,P_chws11,cum_mv30_3600/60,float,True,True,True
 /lotte_ds/1/DE-96/AI-6,AI-6,8층기계실 (MCC-E1)_냉온수기 냉수 예비_유효전력량,삼상,,,,,,,
 /lotte_ds/1/DE-96/AI-7,AI-7,"8층기계실 (MCC-E1)_전기실,발전기실 배기_유효전력량",삼상,,,,,,,
 /lotte_ds/1/DE-97,DE-97,8층기계실 MCC-E2,,,,,,,,
-/lotte_ds/1/DE-97/AI-1,AI-1,8층기계실 (MCC-E2)_냉온수기 냉각수1호기_유효전력량,삼상,,,,,,,
-/lotte_ds/1/DE-97/AI-2,AI-2,8층기계실 (MCC-E2)_냉온수기 냉각수2호기_유효전력량,삼상,,,,,,,
+/lotte_ds/1/DE-97/AI-1,AI-1,8층기계실 (MCC-E2)_냉온수기 냉각수1호기_유효전력량,삼상,common,P_cws11,cum_mv30_3600/60,float,True,True,True
+/lotte_ds/1/DE-97/AI-2,AI-2,8층기계실 (MCC-E2)_냉온수기 냉각수2호기_유효전력량,삼상,common,P_cws12,cum_mv30_3600/60,float,True,True,True
 /lotte_ds/1/DE-97/AI-3,AI-3,8층기계실 (MCC-E2)_냉온수기 냉각수 예비_유효전력량,삼상,,,,,,,
 /lotte_ds/1/DE-98,DE-98,8층 사무실 L8-OF,,,,,,,,
 /lotte_ds/1/DE-98/AI-1,AI-1,8층사무실L8-OF(분전반)_전등_유효전력량,단상,,,,,,,
@@ -357,21 +357,21 @@
 /lotte_ds/1/DE-108/AI-15,AI-15,7층 L7-A(분전반)_화장실전열_유효전력량,단상,,,,,,,
 /lotte_ds/1/DE-108/AI-16,AI-16,7층 L7-A(분전반)_릴레이전원_유효전력량,단상,,,,,,,
 /lotte_ds/1/DE-109,DE-109,6층 공조실 MCP-6A-F1,,,,,,,,
-/lotte_ds/1/DE-109/AI-1,AI-1,6층 공조실 MCP-6A-F1_AHU-15_6층중앙매장공조기_유효전력량,삼상,,,,,,,
-/lotte_ds/1/DE-109/AI-2,AI-2,6층 공조실 MCP-6A-F1_AHU-14_6층좌측매장공조기_유효전력량,삼상,,,,,,,
+/lotte_ds/1/DE-109/AI-1,AI-1,6층 공조실 MCP-6A-F1_AHU-15_6층중앙매장공조기_유효전력량,삼상,ahu15,P_ahu,cum_mv30_3600/60,float,True,True,True
+/lotte_ds/1/DE-109/AI-2,AI-2,6층 공조실 MCP-6A-F1_AHU-14_6층좌측매장공조기_유효전력량,삼상,ahu14,P_ahu,cum_mv30_3600/60,float,True,True,True
 /lotte_ds/1/DE-109/AI-3,AI-3,6층 공조실 MCP-6A-F1_AHU-15동파방지코일_유효전력량,삼상,,,,,,,
 /lotte_ds/1/DE-109/AI-4,AI-4,6층 공조실 MCP-6A-F1_AHU-14동파방지코일_유효전력량,삼상,,,,,,,
 /lotte_ds/1/DE-110,DE-110,6층 공조실 MCP-6B-F1,,,,,,,,
-/lotte_ds/1/DE-110/AI-1,AI-1,6층 공조실 MCP-6B-F1_AHU-16_6층우측매장공조기_유효전력량,삼상,,,,,,,
+/lotte_ds/1/DE-110/AI-1,AI-1,6층 공조실 MCP-6B-F1_AHU-16_6층우측매장공조기_유효전력량,삼상,ahu16,P_ahu,cum_mv30_3600/60,float,True,True,True
 /lotte_ds/1/DE-110/AI-2,AI-2,6층 공조실 MCP-6B-F1_AHU-16_동파방지코일_유효전력량,삼상,,,,,,,
 /lotte_ds/1/DE-111,DE-111,7층 공조실 MCP-7A-F1,,,,,,,,
-/lotte_ds/1/DE-111/AI-1,AI-1,7층 공조실 MCP-7A-F1_7층좌측매장공조기(AHU-17)_유효전력량,삼상,,,,,,,
-/lotte_ds/1/DE-111/AI-2,AI-2,7층 공조실 MCP-7A-F1_7층중앙매장공조기(AHU-18)_유효전력량,삼상,,,,,,,
+/lotte_ds/1/DE-111/AI-1,AI-1,7층 공조실 MCP-7A-F1_7층좌측매장공조기(AHU-17)_유효전력량,삼상,ahu17,P_ahu,cum_mv30_3600/60,float,True,True,True
+/lotte_ds/1/DE-111/AI-2,AI-2,7층 공조실 MCP-7A-F1_7층중앙매장공조기(AHU-18)_유효전력량,삼상,ahu18,P_ahu,cum_mv30_3600/60,float,True,True,True
 /lotte_ds/1/DE-111/AI-3,AI-3,7층 공조실 MCP-7A-F1_AHU-17_동파방지코일_유효전력량,삼상,,,,,,,
 /lotte_ds/1/DE-111/AI-4,AI-4,7층 공조실 MCP-7A-F1_AHU-18_동파방지코일_유효전력량,삼상,,,,,,,
 /lotte_ds/1/DE-111/AI-5,AI-5,7층 공조실 MCP-7A-F1_지상2~6층_후방시설제연급기휀(SSF-D4)_유효전력량,삼상,,,,,,,
 /lotte_ds/1/DE-111/AI-6,AI-6,7층 공조실 MCP-7A-F1_지상2~6층_후방시설제연배기휀(SEF-D4)_유효전력량,삼상,,,,,,,
 /lotte_ds/1/DE-112,DE-112,7층 공조실 MCP-7B-F1,,,,,,,,
-/lotte_ds/1/DE-112/AI-1,AI-1,7층 공조실 MCP-7B-F1_7층우측매장공조기_유효전력량,삼상,,,,,,,
+/lotte_ds/1/DE-112/AI-1,AI-1,7층 공조실 MCP-7B-F1_7층우측매장공조기_유효전력량,삼상,ahu19,P_ahu,cum_mv30_3600/60,float,True,True,True
 /lotte_ds/1/DE-112/AI-2,AI-2,7층 공조실 MCP-7B-F1_DEF-7_유효전력량,삼상,,,,,,,
 /lotte_ds/1/DE-112/AI-3,AI-3,7층 공조실 MCP-7B-F1_AHU-19동파방지코일_유효전력량,삼상,,,,,,,
