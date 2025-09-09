@@ -597,7 +597,7 @@ path,object_id,object_name,comment,zone_id,variable_name,raw_unit,type,required,
 /lotte_ds/5/DE-61/BI-403,BI-403,AHU-2 RF ALARM,,,,,,,True,True
 /lotte_ds/5/DE-61/AI-1204,AI-1204,AHU-2 CO2 농도,,,,,,,True,True
 /lotte_ds/5/DE-71/AV-300,AV-300,AHU-19 혼합온도,,ahu19,T_ahu_ma,C,float,True,True,True
-/lotte_ds/5/DE-71/AO-203,AO-203,AHU-19 혼합 댐퍼,,ahu19,O_ahu_ma,-,float,True,True,True
+/lotte_ds/5/DE-71/AO-203,AO-203,AHU-19 혼합 댐퍼,,,,,,,True,True
 /lotte_ds/5/DE-71/BI-106,BI-106,AHU-19 필터 ALARM,,,,,,,True,True
 /lotte_ds/5/DE-71/AV-2106,AV-2106,AHU-19 일일 가동시간,,,,,,,True,True
 /lotte_ds/5/DE-71/AO-201,AO-201,AHU-19 외기 댐퍼,,ahu19,O_ahu_oa,-,float,True,True,True
@@ -612,7 +612,7 @@ path,object_id,object_name,comment,zone_id,variable_name,raw_unit,type,required,
 /lotte_ds/5/DE-71/AV-2002,AV-2002,AHU-19 댐퍼모드,,,,,,,True,True
 /lotte_ds/5/DE-71/AO-200,AO-200,AHU-19 냉난방 밸브,,,,,,,True,True
 /lotte_ds/5/DE-71/AV-2000,AV-2000,AHU-19 계절전환,,,,,,,True,True
-/lotte_ds/5/DE-71/AV-2008,AV-2008,AHU-19 가상댐퍼,,,,,,,True,True
+/lotte_ds/5/DE-71/AV-2008,AV-2008,AHU-19 가상댐퍼,,ahu19,O_ahu_ma,-,float,True,True,True
 /lotte_ds/5/DE-71/AV-2004,AV-2004,AHU-19 가동시간,,,,,,,True,True
 /lotte_ds/5/DE-71/BI-104,BI-104,AHU-19 SF 자동수동,,,,,,,True,True
 /lotte_ds/5/DE-71/AO-204,AO-204,AHU-19 SF 인버터 출력,,,,,,,True,True
@@ -631,7 +631,7 @@ path,object_id,object_name,comment,zone_id,variable_name,raw_unit,type,required,
 /lotte_ds/5/DE-71/BI-103,BI-103,AHU-19 RF ALARM,,,,,,,True,True
 /lotte_ds/5/DE-71/AI-404,AI-404,AHU-19 CO2 농도,,,,,,,True,True
 /lotte_ds/5/DE-70/AV-600,AV-600,AHU-18 혼합온도 수정,,ahu18,T_ahu_ma,C,float,True,True,True
-/lotte_ds/5/DE-70/AO-403,AO-403,AHU-18 혼합 댐퍼 수정,,ahu18,O_ahu_ma,-,float,True,True,True
+/lotte_ds/5/DE-70/AO-403,AO-403,AHU-18 혼합 댐퍼 수정,,,,,,,True,True
 /lotte_ds/5/DE-70/BI-206,BI-206,AHU-18 필터 ALARM 수정,,,,,,,True,True
 /lotte_ds/5/DE-70/AV-2107,AV-2107,AHU-18 일일 가동시간,,,,,,,True,True
 /lotte_ds/5/DE-70/AO-401,AO-401,AHU-18 외기 댐퍼 수정,,ahu18,O_ahu_oa,-,float,True,True,True
@@ -646,7 +646,7 @@ path,object_id,object_name,comment,zone_id,variable_name,raw_unit,type,required,
 /lotte_ds/5/DE-70/AV-2011,AV-2011,AHU-18 댐퍼모드,,,,,,,True,True
 /lotte_ds/5/DE-70/AO-400,AO-400,AHU-18 냉난방 밸브 수정,,,,,,,True,True
 /lotte_ds/5/DE-70/AV-2009,AV-2009,AHU-18 계절전환,,,,,,,True,True
-/lotte_ds/5/DE-70/AV-2017,AV-2017,AHU-18 가상댐퍼,,,,,,,True,True
+/lotte_ds/5/DE-70/AV-2017,AV-2017,AHU-18 가상댐퍼,,ahu18,O_ahu_ma,-,float,True,True,True
 /lotte_ds/5/DE-70/AV-2013,AV-2013,AHU-18 가동시간,,,,,,,True,True
 /lotte_ds/5/DE-70/BI-204,BI-204,AHU-18 SF 자동수동,,,,,,,True,True
 /lotte_ds/5/DE-70/AO-404,AO-404,AHU-18 SF 인버터 출력,,,,,,,True,True
@@ -665,7 +665,7 @@ path,object_id,object_name,comment,zone_id,variable_name,raw_unit,type,required,
 /lotte_ds/5/DE-70/BI-203,BI-203,AHU-18 RF ALARM,,,,,,,True,True
 /lotte_ds/5/DE-70/AI-704,AI-704,AHU-18 CO2 농도 수정,,,,,,,True,True
 /lotte_ds/5/DE-70/AV-601,AV-601,AHU-17 혼합온도 수정,,ahu17,T_ahu_ma,C,float,True,True,True
-/lotte_ds/5/DE-70/AO-503,AO-503,AHU-17 혼합 댐퍼 수정,,ahu17,O_ahu_ma,-,float,True,True,True
+/lotte_ds/5/DE-70/AO-503,AO-503,AHU-17 혼합 댐퍼 수정,,,,,,,True,True
 /lotte_ds/5/DE-70/BI-306,BI-306,AHU-17 필터 ALARM 수정,,,,,,,True,True
 /lotte_ds/5/DE-70/AV-2106,AV-2106,AHU-17 일일 가동시간,,,,,,,True,True
 /lotte_ds/5/DE-70/AO-501,AO-501,AHU-17 외기 댐퍼 수정,,ahu17,O_ahu_oa,-,float,True,True,True
@@ -680,7 +680,7 @@ path,object_id,object_name,comment,zone_id,variable_name,raw_unit,type,required,
 /lotte_ds/5/DE-70/AV-2002,AV-2002,AHU-17 댐퍼모드,,,,,,,True,True
 /lotte_ds/5/DE-70/AO-500,AO-500,AHU-17 냉난방 밸브 수정,,,,,,,True,True
 /lotte_ds/5/DE-70/AV-2000,AV-2000,AHU-17 계절전환,,,,,,,True,True
-/lotte_ds/5/DE-70/AV-2008,AV-2008,AHU-17 가상댐퍼,,,,,,,True,True
+/lotte_ds/5/DE-70/AV-2008,AV-2008,AHU-17 가상댐퍼,,ahu17,O_ahu_ma,-,float,True,True,True
 /lotte_ds/5/DE-70/AV-2004,AV-2004,AHU-17 가동시간,,,,,,,True,True
 /lotte_ds/5/DE-70/BI-304,BI-304,AHU-17 SF 자동수동,,,,,,,True,True
 /lotte_ds/5/DE-70/AO-504,AO-504,AHU-17 SF 인버터 출력,,,,,,,True,True
@@ -699,7 +699,7 @@ path,object_id,object_name,comment,zone_id,variable_name,raw_unit,type,required,
 /lotte_ds/5/DE-70/BI-303,BI-303,AHU-17 RF ALARM,,,,,,,True,True
 /lotte_ds/5/DE-70/AI-804,AI-804,AHU-17 CO2 농도 수정,,,,,,,True,True
 /lotte_ds/5/DE-69/AV-300,AV-300,AHU-16 혼합온도,,ahu16,T_ahu_ma,C,float,True,True,True
-/lotte_ds/5/DE-69/AO-203,AO-203,AHU-16 혼합 댐퍼,,ahu16,O_ahu_ma,-,float,True,True,True
+/lotte_ds/5/DE-69/AO-203,AO-203,AHU-16 혼합 댐퍼,,,,,,,True,True
 /lotte_ds/5/DE-69/BI-106,BI-106,AHU-16 필터 ALARM,,,,,,,True,True
 /lotte_ds/5/DE-69/AV-2106,AV-2106,AHU-16 일일 가동시간,,,,,,,True,True
 /lotte_ds/5/DE-69/AO-201,AO-201,AHU-16 외기 댐퍼,,ahu16,O_ahu_oa,-,float,True,True,True
@@ -714,7 +714,7 @@ path,object_id,object_name,comment,zone_id,variable_name,raw_unit,type,required,
 /lotte_ds/5/DE-69/AV-2002,AV-2002,AHU-16 댐퍼모드,,,,,,,True,True
 /lotte_ds/5/DE-69/AO-200,AO-200,AHU-16 냉난방 밸브,,,,,,,True,True
 /lotte_ds/5/DE-69/AV-2000,AV-2000,AHU-16 계절전환,,,,,,,True,True
-/lotte_ds/5/DE-69/AV-2008,AV-2008,AHU-16 가상댐퍼,,,,,,,True,True
+/lotte_ds/5/DE-69/AV-2008,AV-2008,AHU-16 가상댐퍼,,ahu16,O_ahu_ma,-,float,True,True,True
 /lotte_ds/5/DE-69/AV-2004,AV-2004,AHU-16 가동시간,,,,,,,True,True
 /lotte_ds/5/DE-69/BI-104,BI-104,AHU-16 SF 자동수동,,,,,,,True,True
 /lotte_ds/5/DE-69/AO-204,AO-204,AHU-16 SF 인버터 출력,,,,,,,True,True
@@ -733,7 +733,7 @@ path,object_id,object_name,comment,zone_id,variable_name,raw_unit,type,required,
 /lotte_ds/5/DE-69/BI-103,BI-103,AHU-16 RF ALARM,,,,,,,True,True
 /lotte_ds/5/DE-69/AI-404,AI-404,AHU-16 CO2 농도,,,,,,,True,True
 /lotte_ds/5/DE-68/AV-601,AV-601,AHU-15 혼합온도,,ahu15,T_ahu_ma,C,float,True,True,True
-/lotte_ds/5/DE-68/AO-503,AO-503,AHU-15 혼합 댐퍼,,ahu15,O_ahu_ma,-,float,True,True,True
+/lotte_ds/5/DE-68/AO-503,AO-503,AHU-15 혼합 댐퍼,,,,,,,True,True
 /lotte_ds/5/DE-68/BI-306,BI-306,AHU-15 필터 ALARM,,,,,,,True,True
 /lotte_ds/5/DE-68/AV-2107,AV-2107,AHU-15 일일 가동시간,,,,,,,True,True
 /lotte_ds/5/DE-68/AO-501,AO-501,AHU-15 외기 댐퍼,,ahu15,O_ahu_oa,-,float,True,True,True
@@ -748,7 +748,7 @@ path,object_id,object_name,comment,zone_id,variable_name,raw_unit,type,required,
 /lotte_ds/5/DE-68/AV-2011,AV-2011,AHU-15 댐퍼모드,,,,,,,True,True
 /lotte_ds/5/DE-68/AO-500,AO-500,AHU-15 냉난방 밸브,,,,,,,True,True
 /lotte_ds/5/DE-68/AV-2009,AV-2009,AHU-15 계절전환,,,,,,,True,True
-/lotte_ds/5/DE-68/AV-2017,AV-2017,AHU-15 가상댐퍼,,,,,,,True,True
+/lotte_ds/5/DE-68/AV-2017,AV-2017,AHU-15 가상댐퍼,,ahu15,O_ahu_ma,-,float,True,True,True
 /lotte_ds/5/DE-68/AV-2013,AV-2013,AHU-15 가동시간,,,,,,,True,True
 /lotte_ds/5/DE-68/BI-304,BI-304,AHU-15 SF 자동수동,,,,,,,True,True
 /lotte_ds/5/DE-68/AO-504,AO-504,AHU-15 SF 인버터 출력,,,,,,,True,True
@@ -766,7 +766,7 @@ path,object_id,object_name,comment,zone_id,variable_name,raw_unit,type,required,
 /lotte_ds/5/DE-68/BO-101,BO-101,AHU-15 RF STARTSTOP,,,,,,,True,True
 /lotte_ds/5/DE-68/BI-303,BI-303,AHU-15 RF ALARM,,,,,,,True,True
 /lotte_ds/5/DE-68/AI-804,AI-804,AHU-15 CO2 농도,,,,,,,True,True
-/lotte_ds/5/DE-68/AV-600,AV-600,AHU-14 혼합온도,,ahu14,T_ahu_ma,C,float,True,True,True
+/lotte_ds/5/DE-68/AV-600,AV-600,AHU-14 혼합온도,,,,,,,True,True
 /lotte_ds/5/DE-68/AO-403,AO-403,AHU-14 혼합 댐퍼,,ahu14,O_ahu_ma,-,float,True,True,True
 /lotte_ds/5/DE-68/BI-206,BI-206,AHU-14 필터 ALARM,,,,,,,True,True
 /lotte_ds/5/DE-68/AV-2106,AV-2106,AHU-14 일일 가동시간,,,,,,,True,True
@@ -782,7 +782,7 @@ path,object_id,object_name,comment,zone_id,variable_name,raw_unit,type,required,
 /lotte_ds/5/DE-68/AV-2002,AV-2002,AHU-14 댐퍼모드,,,,,,,True,True
 /lotte_ds/5/DE-68/AO-400,AO-400,AHU-14 냉난방 밸브,,,,,,,True,True
 /lotte_ds/5/DE-68/AV-2000,AV-2000,AHU-14 계절전환,,,,,,,True,True
-/lotte_ds/5/DE-68/AV-2008,AV-2008,AHU-14 가상댐퍼,,,,,,,True,True
+/lotte_ds/5/DE-68/AV-2008,AV-2008,AHU-14 가상댐퍼,,ahu14,T_ahu_ma,C,float,True,True,True
 /lotte_ds/5/DE-68/AV-2004,AV-2004,AHU-14 가동시간,,,,,,,True,True
 /lotte_ds/5/DE-68/BI-204,BI-204,AHU-14 SF 자동수동,,,,,,,True,True
 /lotte_ds/5/DE-68/AO-404,AO-404,AHU-14 SF 인버터 출력,,,,,,,True,True
