@@ -1,0 +1,19 @@
+project_id: "iparkmall"
+credential_path: "credential/credential_iparkmall.yaml"
+tz: "Asia/Seoul"
+zone_id_list : ['ahu1','ahu2','ahu3','ahu4','ahu5','ahu6','ahu7','ahu8','ahu9','ahu10','ahu11']
+Ts_raw: 60
+
+point_list_path:  
+  - file_name: 'MODBUS'
+    raw_column_map: {"오브젝트 경로":"path","오브젝트ID":"object_id","오브젝트명":"object_name","비고":"comment"}
+    columns: ['path','zone_id','variable_name','object_name','object_id','raw_unit','type','required','available','data_exist','comment']
+    format: 'csv' # csv, url_csv, xlsx
+
+  - file_name: 'RESTAPI'
+    raw_column_map: {"오브젝트 경로":"path","오브젝트ID":"object_id","오브젝트명":"object_name","비고":"comment"}
+    columns: ['path','zone_id','variable_name','object_name','object_id','raw_unit','type','required','available','data_exist','comment']
+    format: 'csv'
+  
+n_thread: 20
+
